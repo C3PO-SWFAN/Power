@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                         07:48 PM Sunday, April 05, 2015
+Job Name: D:\lib dx\Work\CellEditorFiles\CONNECTOR _D_SUB\D_SUB_15_FEMALE_MIN.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                         07:49 PM Sunday, April 05, 2015
+Job Name: D:\lib dx\Work\CellEditorFiles\CONNECTOR _D_SUB\D_SUB_15_FEMALE_MIN.pcb
+

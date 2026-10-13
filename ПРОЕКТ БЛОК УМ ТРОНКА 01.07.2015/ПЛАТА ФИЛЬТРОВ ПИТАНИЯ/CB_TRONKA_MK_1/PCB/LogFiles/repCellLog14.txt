@@ -1,0 +1,73 @@
+=======================================================================
+Expedition PCB - Pinnacle - Version 2013.0.540.971
+=======================================================================
+
+RELOAD CELLS
+
+Job Directory:  F:\TEXT  TEM\CB_TRONKA_MK_1\PCB\
+
+
+Design Units:(mm)
+
+Replace Cell Log:   repCellLog14.txt
+
+Sat Jun 06 21:08:33 2015
+
+Reference Designator            Cell Name                         New Cell Name
+===============================================================================
+
+
+---------------  RELOAD CELLS  Sat Jun 06 21:08:33 2015  ---------------
+
+
+
+
+---------------  RELOAD CELLS TMP  Sat Jun 06 21:08:33 2015  ---------------
+
+
+R34                             0603-STANDART-1608                0603-STANDART-1608              
+R27                             0603-STANDART-1608                0603-STANDART-1608              
+R30                             0603-STANDART-1608                0603-STANDART-1608              
+R31                             0603-STANDART-1608                0603-STANDART-1608              
+R16                             0603-STANDART-1608                0603-STANDART-1608              
+R13                             0603-STANDART-1608                0603-STANDART-1608              
+R12                             0603-STANDART-1608                0603-STANDART-1608              
+R10                             0603-STANDART-1608                0603-STANDART-1608              
+R23                             0603-STANDART-1608                0603-STANDART-1608              
+R2                              0603-STANDART-1608                0603-STANDART-1608              
+R5                              0603-STANDART-1608                0603-STANDART-1608              
+R4                              0603-STANDART-1608                0603-STANDART-1608              
+R1                              0603-STANDART-1608                0603-STANDART-1608              
+R8                              0603-STANDART-1608                0603-STANDART-1608              
+R11                             0603-STANDART-1608                0603-STANDART-1608              
+R33                             0603-STANDART-1608                0603-STANDART-1608              
+R22                             0603-STANDART-1608                0603-STANDART-1608              
+R21                             0603-STANDART-1608                0603-STANDART-1608              
+R9                              0603-STANDART-1608                0603-STANDART-1608              
+R7                              0603-STANDART-1608                0603-STANDART-1608              
+R6                              0603-STANDART-1608                0603-STANDART-1608              
+R14                             0603-STANDART-1608                0603-STANDART-1608              
+R15                             0603-STANDART-1608                0603-STANDART-1608              
+R17                             0603-STANDART-1608                0603-STANDART-1608              
+R3                              0603-STANDART-1608                0603-STANDART-1608              
+R19                             0603-STANDART-1608                0603-STANDART-1608              
+R18                             0603-STANDART-1608                0603-STANDART-1608              
+R20                             0603-STANDART-1608                0603-STANDART-1608              
+R29                             0603-STANDART-1608                0603-STANDART-1608              
+R25                             0603-STANDART-1608                0603-STANDART-1608              
+R24                             0603-STANDART-1608                0603-STANDART-1608              
+R32                             0603-STANDART-1608                0603-STANDART-1608              
+R28                             0603-STANDART-1608                0603-STANDART-1608              
+C15                             0603-STANDART-1608                0603-STANDART-1608              
+C14                             0603-STANDART-1608                0603-STANDART-1608              
+R26                             0603-STANDART-1608                0603-STANDART-1608              
+
+
+---------------    Sat Jun 06 21:08:33 2015  ---------------
+
+
+
+
+---------------    Sat Jun 06 21:08:33 2015  ---------------
+
+

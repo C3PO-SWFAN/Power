@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                         06:56 PM Sunday, July 13, 2014
+      Job Name: D:\lib dx\Work\CellEditorFiles\SC-70\SC-70-5-LITTELFUSE.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                         07:06 PM Sunday, July 13, 2014
+      Job Name: D:\lib dx\Work\CellEditorFiles\SC-70\SC-70-5-LITTELFUSE.pcb
+

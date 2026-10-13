@@ -1,0 +1,7 @@
+.HoleName  "Rnd 0,48 +Tol 0 -Tol -0,08" 
+  ..AssignmentMethod  kUseDrlsymFromList 
+  ..DrillSymbolType  kCirclePlusDrlsym 
+  ..SymbolSize  1000000 
+  ..SymbolName  "" 
+
+

@@ -1,0 +1,14 @@
+
+                          Update Properties log file.
+
+                          ----------------------------
+
+                       05:11 PM Tuesday, February 26, 2013
+                         Job Name: D:\lib dx\lib dx.lmc
+
+The origional .prp file D:\lib dx\CentLib.prp has been backed up in D:\lib dx\CentLib.bak
+
+Updates coming from file C:\MentorGraphics\7.9.4EE\SDD_HOME\standard\config\pcb\DxCentLib.prp.
+
+The "system" property "Pkg Group" delivered with the latest software release is not found in the attached "D:\lib dx\CentLib.prp".
+

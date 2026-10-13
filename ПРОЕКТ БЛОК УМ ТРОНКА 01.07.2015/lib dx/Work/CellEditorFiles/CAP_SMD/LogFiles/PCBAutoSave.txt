@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                        11:40 AM Monday, October 01, 2012
+ Job Name: D:\lib dx\Work\CellEditorFiles\CAP_SMD\CAP_SMD_0402_.0394X.0197B.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                        11:42 AM Monday, October 01, 2012
+ Job Name: D:\lib dx\Work\CellEditorFiles\CAP_SMD\CAP_SMD_0402_.0394X.0197B.pcb
+

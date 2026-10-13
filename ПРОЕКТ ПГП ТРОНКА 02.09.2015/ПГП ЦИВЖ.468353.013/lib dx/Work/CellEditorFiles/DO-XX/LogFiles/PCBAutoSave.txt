@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                        11:15 AM Friday, October 31, 2014
+    Job Name: D:\lib dx\Work\CellEditorFiles\DO-XX\DO-201AD-d1,8-9,5x5,3.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                        11:16 AM Friday, October 31, 2014
+    Job Name: D:\lib dx\Work\CellEditorFiles\DO-XX\DO-201AD-d1,8-9,5x5,3.pcb
+

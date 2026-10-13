@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                        11:00 AM Tuesday, August 26, 2014
+         Job Name: D:\lib dx\Work\CellEditorFiles\VARISTORS\V20E460P.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                        11:22 AM Tuesday, August 26, 2014
+         Job Name: D:\lib dx\Work\CellEditorFiles\VARISTORS\V20E460P.pcb
+

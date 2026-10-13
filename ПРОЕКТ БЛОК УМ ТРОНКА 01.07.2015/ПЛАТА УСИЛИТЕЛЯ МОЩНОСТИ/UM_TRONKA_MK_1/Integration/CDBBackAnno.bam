@@ -1,0 +1,1905 @@
+
+/* Sym: 60326248  Path 1: Schematic1  Page 1: Schematic1(2) */
+CHANGE 'Schematic1(2)' 	INSTANCE
+  SELECT COMP $2I9                 /* Reference Desig is R2 */
+    PARAM 'Part Name' = 'RES 2.2 OHM 1/4W 5% 1206 SMD' 
+    PARAM 'Part Label' = '2,2R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I8                 /* Reference Desig is D1 */
+    PARAM 'Part Name' = 'IC DRIVER HALF-BRIDGE 24-SSOP' 
+    PARAM 'Part Label' = '600V' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I7                 /* Reference Desig is R11 */
+    PARAM 'Part Name' = 'RES 330 OHM 1/4W 5% 1206 SMD' 
+    PARAM 'Part Label' = '330R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I6                 /* Reference Desig is R7 */
+    PARAM 'Part Name' = 'RES 33 OHM 1/4W 5% 1206 SMD' 
+    PARAM 'Part Label' = '33R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I5                 /* Reference Desig is R1 */
+    PARAM 'Part Name' = 'RES 2.2 OHM 1/4W 5% 1206 SMD' 
+    PARAM 'Part Label' = '2,2R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I3404                 /* Reference Desig is C6 */
+    PARAM 'Part Name' = 'CAP CER 47UF 25V 20% X5R 1206' 
+    PARAM 'Part Label' = '47uF' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I22                 /* Reference Desig is R3 */
+    PARAM 'Part Name' = 'RES 2.2 OHM 1/4W 5% 1206 SMD' 
+    PARAM 'Part Label' = '2,2R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I21                 /* Reference Desig is C3 */
+    PARAM 'Part Name' = 'CAP CER 0.1UF 450V 20% X7T 1206' 
+    PARAM 'Part Label' = '0,1uF/450V' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I20                 /* Reference Desig is C1 */
+    PARAM 'Part Name' = 'CAP CER 2.2UF 450V 10% X6S 2220' 
+    PARAM 'Part Label' = '2,2uF/450V' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I19                 /* Reference Desig is V17 */
+    PARAM 'Part Name' = 'DIODE ZENER 20V 1W PMDU' 
+    PARAM 'Part Label' = '20V' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I18                 /* Reference Desig is V4 */
+    PARAM 'Part Name' = 'DIODE SUPER FAST 600V 1A SMB' 
+    PARAM 'Part Label' = '600V/1A' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I17                 /* Reference Desig is V16 */
+    PARAM 'Part Name' = 'DIODE ZENER 20V 1W PMDU' 
+    PARAM 'Part Label' = '20V' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I16                 /* Reference Desig is V14 */
+    PARAM 'Part Name' = 'DIODE ZENER 10.0V 1W PMDU' 
+    PARAM 'Part Label' = '10V' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I15                 /* Reference Desig is V11 */
+    PARAM 'Part Name' = 'TVS DIODE 342VWM 548VC SMD' 
+    PARAM 'Part Label' = '342V' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I14                 /* Reference Desig is V3 */
+    PARAM 'Part Name' = 'DIODE SUPER FAST 600V 1A SMB' 
+    PARAM 'Part Label' = '600V/1A' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I13                 /* Reference Desig is V2 */
+    PARAM 'Part Name' = 'DIODE SUPER FAST 600V 1A SMB' 
+    PARAM 'Part Label' = '600V/1A' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I12                 /* Reference Desig is V1 */
+    PARAM 'Part Name' = 'DIODE SUPER FAST 600V 1A SMB' 
+    PARAM 'Part Label' = '600V/1A' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I11                 /* Reference Desig is R12 */
+    PARAM 'Part Name' = 'RES 330 OHM 1/4W 5% 1206 SMD' 
+    PARAM 'Part Label' = '330R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I10                 /* Reference Desig is R8 */
+    PARAM 'Part Name' = 'RES 33 OHM 1/4W 5% 1206 SMD' 
+    PARAM 'Part Label' = '33R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I34                 /* Reference Desig is V5 */
+    PARAM 'Part Name' = 'DIODE SUPER FAST 600V 1A SMB' 
+    PARAM 'Part Label' = '600V/1A' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I33                 /* Reference Desig is R14 */
+    PARAM 'Part Name' = 'RES 330 OHM 1/4W 5% 1206 SMD' 
+    PARAM 'Part Label' = '330R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I32                 /* Reference Desig is R10 */
+    PARAM 'Part Name' = 'RES 33 OHM 1/4W 5% 1206 SMD' 
+    PARAM 'Part Label' = '33R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I31                 /* Reference Desig is R5 */
+    PARAM 'Part Name' = 'RES 2.2 OHM 1/4W 5% 1206 SMD' 
+    PARAM 'Part Label' = '2,2R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I30                 /* Reference Desig is D2 */
+    PARAM 'Part Name' = 'IC DRIVER HALF-BRIDGE 24-SSOP' 
+    PARAM 'Part Label' = '600V' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I29                 /* Reference Desig is R13 */
+    PARAM 'Part Name' = 'RES 330 OHM 1/4W 5% 1206 SMD' 
+    PARAM 'Part Label' = '330R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I28                 /* Reference Desig is R9 */
+    PARAM 'Part Name' = 'RES 33 OHM 1/4W 5% 1206 SMD' 
+    PARAM 'Part Label' = '33R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I27                 /* Reference Desig is R4 */
+    PARAM 'Part Name' = 'RES 2.2 OHM 1/4W 5% 1206 SMD' 
+    PARAM 'Part Label' = '2,2R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I26                 /* Reference Desig is TP1 */
+    PARAM 'Part Name' = 'TEST POINT PC COMPACT .063"D RED' 
+    PARAM 'Part Label' = ' ' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I24                 /* Reference Desig is C15 */
+    PARAM 'Part Name' = 'CAP CER 10UF 25V 20% X5R 1206' 
+    PARAM 'Part Label' = '10uF' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I49                 /* Reference Desig is V13 */
+    PARAM 'Part Name' = 'TVS DIODE 342VWM 548VC SMD' 
+    PARAM 'Part Label' = '342V' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I48                 /* Reference Desig is TP2 */
+    PARAM 'Part Name' = 'TEST POINT PC COMPACT .063"D RED' 
+    PARAM 'Part Label' = ' ' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I46                 /* Reference Desig is C16 */
+    PARAM 'Part Name' = 'CAP CER 10UF 25V 20% X5R 1206' 
+    PARAM 'Part Label' = '10uF' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I3411                 /* Reference Desig is C23 */
+    PARAM 'Part Name' = 'CAP FILM 0.047UF 1.6KVDC RADIAL' 
+    PARAM 'Part Label' = '0,047uF/1,6kV' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I44                 /* Reference Desig is R6 */
+    PARAM 'Part Name' = 'RES 2.2 OHM 1/4W 5% 1206 SMD' 
+    PARAM 'Part Label' = '2,2R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I43                 /* Reference Desig is C4 */
+    PARAM 'Part Name' = 'CAP CER 0.1UF 450V 20% X7T 1206' 
+    PARAM 'Part Label' = '0,1uF/450V' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I42                 /* Reference Desig is C2 */
+    PARAM 'Part Name' = 'CAP CER 2.2UF 450V 10% X6S 2220' 
+    PARAM 'Part Label' = '2,2uF/450V' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I41                 /* Reference Desig is V19 */
+    PARAM 'Part Name' = 'DIODE ZENER 20V 1W PMDU' 
+    PARAM 'Part Label' = '20V' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I40                 /* Reference Desig is V8 */
+    PARAM 'Part Name' = 'DIODE SUPER FAST 600V 1A SMB' 
+    PARAM 'Part Label' = '600V/1A' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I39                 /* Reference Desig is V18 */
+    PARAM 'Part Name' = 'DIODE ZENER 20V 1W PMDU' 
+    PARAM 'Part Label' = '20V' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I38                 /* Reference Desig is V15 */
+    PARAM 'Part Name' = 'DIODE ZENER 10.0V 1W PMDU' 
+    PARAM 'Part Label' = '10V' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I37                 /* Reference Desig is V12 */
+    PARAM 'Part Name' = 'TVS DIODE 342VWM 548VC SMD' 
+    PARAM 'Part Label' = '342V' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I36                 /* Reference Desig is V7 */
+    PARAM 'Part Name' = 'DIODE SUPER FAST 600V 1A SMB' 
+    PARAM 'Part Label' = '600V/1A' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I35                 /* Reference Desig is V6 */
+    PARAM 'Part Name' = 'DIODE SUPER FAST 600V 1A SMB' 
+    PARAM 'Part Label' = '600V/1A' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I3447                 /* Reference Desig is V21 */
+    PARAM 'Part Name' = 'IGBT 1200V 60A 300W TO247AD' 
+    PARAM 'Part Label' = ' ' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I60                 /* Reference Desig is C30 */
+    PARAM 'Part Name' = 'CAP CER 0.1UF 630V 10% X7T 1210' 
+    PARAM 'Part Label' = '100nF/630V' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I59                 /* Reference Desig is C29 */
+    PARAM 'Part Name' = 'CAP CER 0.1UF 630V 10% X7T 1210' 
+    PARAM 'Part Label' = '100nF/630V' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I2433                 /* Reference Desig is R36 */
+    PARAM 'Part Name' = 'RES 4.7K OHM 1/10W 5% 0603 SMD' 
+    PARAM 'Part Label' = '4,7K' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I2426                 /* Reference Desig is R35 */
+    PARAM 'Part Name' = 'RES 4.7K OHM 1/10W 5% 0603 SMD' 
+    PARAM 'Part Label' = '4,7K' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I2419                 /* Reference Desig is R34 */
+    PARAM 'Part Name' = 'RES 4.7K OHM 1/10W 5% 0603 SMD' 
+    PARAM 'Part Label' = '4,7K' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I52                 /* Reference Desig is R16 */
+    PARAM 'Part Name' = 'RES 1.80K OHM 3W 5% SMD' 
+    PARAM 'Part Label' = '1.8K/3W' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I51                 /* Reference Desig is R15 */
+    PARAM 'Part Name' = 'RES 1.80K OHM 3W 5% SMD' 
+    PARAM 'Part Label' = '1.8K/3W' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I50                 /* Reference Desig is C27 */
+    PARAM 'Part Name' = 'CAP CER 1000PF 2.5KV 5% NP0 2220' 
+    PARAM 'Part Label' = '1nF/2.5kV' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I77                 /* Reference Desig is D4 */
+    PARAM 'Part Name' = 'IC COMPLEMENT BUFF QD 14SOICN' 
+    PARAM 'Part Label' = ' ' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I76                 /* Reference Desig is C47 */
+    PARAM 'Part Name' = 'CAP CER 0.1UF 50V 10% X7R 0603' 
+    PARAM 'Part Label' = '100nF' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I74                 /* Reference Desig is R69 */
+    PARAM 'Part Name' = 'RES 300 OHM 1/8W 5% 0805 SMD' 
+    PARAM 'Part Label' = '300R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I73                 /* Reference Desig is R68 */
+    PARAM 'Part Name' = 'RES 300 OHM 1/8W 5% 0805 SMD' 
+    PARAM 'Part Label' = '300R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I72                 /* Reference Desig is C46 */
+    PARAM 'Part Name' = 'CAP CER 0.1UF 50V 10% X7R 0603' 
+    PARAM 'Part Label' = '100nF' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I3009                 /* Reference Desig is C54 */
+    PARAM 'Part Name' = 'CAP CER 0.1UF 50V 10% X7R 0603' 
+    PARAM 'Part Label' = '100nF' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I68                 /* Reference Desig is D3 */
+    PARAM 'Part Name' = 'ISOLATOR 5V 2.5KVRMS 2CH TOTEM SO8' 
+    PARAM 'Part Label' = '2K/5V' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I3471                 /* Reference Desig is T1 */
+    PARAM 'Part Name' = 'D45D10H22' 
+    PARAM 'Part Label' = 'TSM' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I3463                 /* Reference Desig is V23 */
+    PARAM 'Part Name' = 'IGBT 1200V 60A 300W TO247AD' 
+    PARAM 'Part Label' = ' ' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I3455                 /* Reference Desig is V22 */
+    PARAM 'Part Name' = 'IGBT 1200V 60A 300W TO247AD' 
+    PARAM 'Part Label' = ' ' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I2461                 /* Reference Desig is R40 */
+    PARAM 'Part Name' = 'RES 4.7K OHM 1/10W 5% 0603 SMD' 
+    PARAM 'Part Label' = '4,7K' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I2454                 /* Reference Desig is R39 */
+    PARAM 'Part Name' = 'RES 4.7K OHM 1/10W 5% 0603 SMD' 
+    PARAM 'Part Label' = '4,7K' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I2447                 /* Reference Desig is R38 */
+    PARAM 'Part Name' = 'RES 4.7K OHM 1/10W 5% 0603 SMD' 
+    PARAM 'Part Label' = '4,7K' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I2440                 /* Reference Desig is R37 */
+    PARAM 'Part Name' = 'RES 4.7K OHM 1/10W 5% 0603 SMD' 
+    PARAM 'Part Label' = '4,7K' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I2405                 /* Reference Desig is R33 */
+    PARAM 'Part Name' = 'RES 4.7K OHM 1/10W 5% 0603 SMD' 
+    PARAM 'Part Label' = '4,7K' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I230                 /* Reference Desig is C49 */
+    PARAM 'Part Name' = 'CAP CER 0.1UF 50V 10% X7R 0603' 
+    PARAM 'Part Label' = '100nF' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I229                 /* Reference Desig is C73 */
+    PARAM 'Part Name' = 'CAP CER 10000PF 50V 10% X7R 0805' 
+    PARAM 'Part Label' = '10nF' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I3389                 /* Reference Desig is C18 */
+    PARAM 'Part Name' = 'CAP CER 10UF 25V 20% X5R 1206' 
+    PARAM 'Part Label' = '10uF' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I3381                 /* Reference Desig is C17 */
+    PARAM 'Part Name' = 'CAP CER 10UF 25V 20% X5R 1206' 
+    PARAM 'Part Label' = '10uF' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I218                 /* Reference Desig is C48 */
+    PARAM 'Part Name' = 'CAP CER 0.1UF 50V 10% X7R 0603' 
+    PARAM 'Part Label' = '100nF' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I320                 /* Reference Desig is C51 */
+    PARAM 'Part Name' = 'CAP CER 0.1UF 50V 10% X7R 0603' 
+    PARAM 'Part Label' = '100nF' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I319                 /* Reference Desig is C82 */
+    PARAM 'Part Name' = 'CAP CER 2.2UF 50V 10% X7R 1206' 
+    PARAM 'Part Label' = '2,2uF' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I318                 /* Reference Desig is C50 */
+    PARAM 'Part Name' = 'CAP CER 0.1UF 50V 10% X7R 0603' 
+    PARAM 'Part Label' = '100nF' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I317                 /* Reference Desig is C80 */
+    PARAM 'Part Name' = 'CAP CER 470PF 50V 5% NP0 0603' 
+    PARAM 'Part Label' = '470pF' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I346                 /* Reference Desig is R150 */
+    PARAM 'Part Name' = 'RES 0.0 OHM 1/4W 1206 SMD' 
+    PARAM 'Part Label' = '0R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I345                 /* Reference Desig is R149 */
+    PARAM 'Part Name' = 'RES 0.0 OHM 1/4W 1206 SMD' 
+    PARAM 'Part Label' = '0R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I337                 /* Reference Desig is FB8 */
+    PARAM 'Part Name' = 'FERRITE BEAD 220 OHM 2,2 A 0603' 
+    PARAM 'Part Label' = '220R/2,2A' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I335                 /* Reference Desig is R146 */
+    PARAM 'Part Name' = 'RES 4.7K OHM 1/8W 5% 0805 SMD' 
+    PARAM 'Part Label' = '4,7K' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I334                 /* Reference Desig is V29 */
+    PARAM 'Part Name' = 'TVS DIODE 16VWM 26VC SOD128' 
+    PARAM 'Part Label' = '16V' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I333                 /* Reference Desig is C84 */
+    PARAM 'Part Name' = 'CAP CER 22UF 25V 10% X7R 1210' 
+    PARAM 'Part Label' = '22uF' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I330                 /* Reference Desig is FB7 */
+    PARAM 'Part Name' = 'FERRITE BEAD 220 OHM 2,2 A 0603' 
+    PARAM 'Part Label' = '220R/2,2A' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I328                 /* Reference Desig is R66 */
+    PARAM 'Part Name' = 'RES 1.8K OHM 1/4W 5% 1206 SMD' 
+    PARAM 'Part Label' = '1,8K' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I3180                 /* Reference Desig is R145 */
+    PARAM 'Part Name' = 'RES 28.7 OHM 1/8W 1% 0805 SMD' 
+    PARAM 'Part Label' = '28,7R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I3187                 /* Reference Desig is R143 */
+    PARAM 'Part Name' = 'RES 2.67K OHM 1/8W 1% 0805 SMD' 
+    PARAM 'Part Label' = '2,67K' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I324                 /* Reference Desig is R97 */
+    PARAM 'Part Name' = 'RES 0.0 OHM 1/8W 0805 SMD' 
+    PARAM 'Part Label' = '0R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I322                 /* Reference Desig is D25 */
+    PARAM 'Part Name' = 'IC REG LDO ADJ 2A HRP5' 
+    PARAM 'Part Label' = 'ADJ/23V/2A' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I321                 /* Reference Desig is V9 */
+    PARAM 'Part Name' = 'DIODE SUPER FAST 600V 1A SMB' 
+    PARAM 'Part Label' = '600V/1A' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I385                 /* Reference Desig is FB1 */
+    PARAM 'Part Name' = 'FERRITE BEAD 1800 OHM 0,2 A 0603' 
+    PARAM 'Part Label' = '1,8K/0,2A' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I357                 /* Reference Desig is TP4 */
+    PARAM 'Part Name' = 'TEST POINT PC COMPACT .063"D BLK' 
+    PARAM 'Part Label' = ' ' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I356                 /* Reference Desig is TP6 */
+    PARAM 'Part Name' = 'TEST POINT PC COMPACT .063"D ORN' 
+    PARAM 'Part Label' = ' ' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I355                 /* Reference Desig is TP5 */
+    PARAM 'Part Name' = 'TEST POINT PC COMPACT .063"D ORN' 
+    PARAM 'Part Label' = ' ' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I354                 /* Reference Desig is TP3 */
+    PARAM 'Part Name' = 'TEST POINT PC COMPACT .063"D BLK' 
+    PARAM 'Part Label' = ' ' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I349                 /* Reference Desig is R98 */
+    PARAM 'Part Name' = 'RES 0.0 OHM 1/8W 0805 SMD' 
+    PARAM 'Part Label' = '0R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I348                 /* Reference Desig is R152 */
+    PARAM 'Part Name' = 'RES 0.0 OHM 1/4W 1206 SMD' 
+    PARAM 'Part Label' = '0R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I347                 /* Reference Desig is R151 */
+    PARAM 'Part Name' = 'RES 0.0 OHM 1/4W 1206 SMD' 
+    PARAM 'Part Label' = '0R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I386                 /* Reference Desig is R158 */
+    PARAM 'Part Name' = 'RES 4.7 OHM 1/4W 5% 1206 SMD' 
+    PARAM 'Part Label' = '4,7R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I412                 /* Reference Desig is TP7 */
+    PARAM 'Part Name' = 'TEST POINT PC COMPACT .063"D ORN' 
+    PARAM 'Part Label' = ' ' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I411                 /* Reference Desig is TP23 */
+    PARAM 'Part Name' = 'TEST POINT PC MULTI PURPOSE GRN' 
+    PARAM 'Part Label' = ' ' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I410                 /* Reference Desig is TP20 */
+    PARAM 'Part Name' = 'TEST POINT PC MULTI PURPOSE RED' 
+    PARAM 'Part Label' = ' ' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I407                 /* Reference Desig is TP13 */
+    PARAM 'Part Name' = 'TEST POINT PC MULTI PURPOSE BLK' 
+    PARAM 'Part Label' = ' ' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I445                 /* Reference Desig is C90 */
+    PARAM 'Part Name' = 'CAP CER 0.33UF 50V 20% X7R 1206' 
+    PARAM 'Part Label' = '0,33uF' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I444                 /* Reference Desig is C89 */
+    PARAM 'Part Name' = 'CAP CER 0.33UF 50V 20% X7R 1206' 
+    PARAM 'Part Label' = '0,33uF' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I441                 /* Reference Desig is R169 */
+    PARAM 'Part Name' = 'RES 0.0 OHM 1/4W JUMP 1210 SMD' 
+    PARAM 'Part Label' = '0R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I439                 /* Reference Desig is TP14 */
+    PARAM 'Part Name' = 'TEST POINT PC MULTI PURPOSE BLK' 
+    PARAM 'Part Label' = ' ' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I438                 /* Reference Desig is R168 */
+    PARAM 'Part Name' = 'RES 510K OHM 1/2W 5% 1210 SMD' 
+    PARAM 'Part Label' = '510K' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I437                 /* Reference Desig is R167 */
+    PARAM 'Part Name' = 'RES 510K OHM 1/2W 5% 1210 SMD' 
+    PARAM 'Part Label' = '510K' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I436                 /* Reference Desig is R166 */
+    PARAM 'Part Name' = 'RES 510K OHM 1/2W 5% 1210 SMD' 
+    PARAM 'Part Label' = '510K' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I435                 /* Reference Desig is R165 */
+    PARAM 'Part Name' = 'RES 510K OHM 1/2W 5% 1210 SMD' 
+    PARAM 'Part Label' = '510K' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I3482                 /* Reference Desig is TP21 */
+    PARAM 'Part Name' = 'TEST POINT PC MULTI PURPOSE RED' 
+    PARAM 'Part Label' = ' ' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I2237                 /* Reference Desig is L2 */
+    PARAM 'Part Name' = 'IND45D10H22' 
+    PARAM 'Part Label' = 'INDM' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I2179                 /* Reference Desig is R173 */
+    PARAM 'Part Name' = 'RES 160K OHM 1W 5% 2512 SMD' 
+    PARAM 'Part Label' = '160K' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I2178                 /* Reference Desig is R172 */
+    PARAM 'Part Name' = 'RES 160K OHM 1W 5% 2512 SMD' 
+    PARAM 'Part Label' = '160K' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I3250                 /* Reference Desig is R170 */
+    PARAM 'Part Name' = 'RES 47.0K OHM 3W 5% SMD' 
+    PARAM 'Part Label' = '47K/3W' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I3432                 /* Reference Desig is C26 */
+    PARAM 'Part Name' = 'CAP FILM 0.047UF 1.6KVDC RADIAL' 
+    PARAM 'Part Label' = '0,047uF/1,6kV' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I3425                 /* Reference Desig is C25 */
+    PARAM 'Part Name' = 'CAP FILM 0.047UF 1.6KVDC RADIAL' 
+    PARAM 'Part Label' = '0,047uF/1,6kV' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I3418                 /* Reference Desig is C24 */
+    PARAM 'Part Name' = 'CAP FILM 0.047UF 1.6KVDC RADIAL' 
+    PARAM 'Part Label' = '0,047uF/1,6kV' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I3489                 /* Reference Desig is TP22 */
+    PARAM 'Part Name' = 'TEST POINT PC MULTI PURPOSE RED' 
+    PARAM 'Part Label' = ' ' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I2337                 /* Reference Desig is V33 */
+    PARAM 'Part Name' = 'IC RECT BRIDGE 0.5A 200V 4SOIC' 
+    PARAM 'Part Label' = '200V/0,5A' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I2327                 /* Reference Desig is V32 */
+    PARAM 'Part Name' = 'IC RECT BRIDGE 0.5A 200V 4SOIC' 
+    PARAM 'Part Label' = '200V/0,5A' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I2317                 /* Reference Desig is V31 */
+    PARAM 'Part Name' = 'IC RECT BRIDGE 0.5A 200V 4SOIC' 
+    PARAM 'Part Label' = '200V/0,5A' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I2299                 /* Reference Desig is R176 */
+    PARAM 'Part Name' = 'RES 287 OHM 1/2W 1% 1210 SMD' 
+    PARAM 'Part Label' = '287R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I3215                 /* Reference Desig is R175 */
+    PARAM 'Part Name' = 'RES 1.69K OHM 1/2W 1% 1210 SMD' 
+    PARAM 'Part Label' = '1.69K' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I3208                 /* Reference Desig is R174 */
+    PARAM 'Part Name' = 'RES 665 OHM 1/2W 1% 1210 SMD' 
+    PARAM 'Part Label' = '665R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I2266                 /* Reference Desig is T3 */
+    PARAM 'Part Name' = 'TI' 
+    PARAM 'Part Label' = 'TIM' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I2256                 /* Reference Desig is T2 */
+    PARAM 'Part Name' = 'TI' 
+    PARAM 'Part Label' = 'TIM' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I2726                 /* Reference Desig is C52 */
+    PARAM 'Part Name' = 'CAP CER 0.1UF 50V 10% X7R 0603' 
+    PARAM 'Part Label' = '100nF' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I2725                 /* Reference Desig is C81 */
+    PARAM 'Part Name' = 'CAP CER 470PF 50V 5% NP0 0603' 
+    PARAM 'Part Label' = '470pF' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I2727                 /* Reference Desig is C83 */
+    PARAM 'Part Name' = 'CAP CER 2.2UF 50V 10% X7R 1206' 
+    PARAM 'Part Label' = '2,2uF' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I3593                 /* Reference Desig is C56 */
+    PARAM 'Part Name' = 'CAP CER 0.1UF 50V 10% X7R 0603' 
+    PARAM 'Part Label' = '100nF' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I2710                 /* Reference Desig is R205 */
+    PARAM 'Part Name' = 'RES 200 OHM 1/8W 1% 0805 SMD' 
+    PARAM 'Part Label' = '200R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I3581                 /* Reference Desig is C28 */
+    PARAM 'Part Name' = 'CAP CER 1000PF 2.5KV 5% NP0 2220' 
+    PARAM 'Part Label' = '1nF/2.5kV' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I2717                 /* Reference Desig is R206 */
+    PARAM 'Part Name' = 'RES 200 OHM 1/8W 1% 0805 SMD' 
+    PARAM 'Part Label' = '200R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I2665                 /* Reference Desig is X3 */
+    PARAM 'Part Name' = 'CONN HEADER 4POS 4.2MM VERT TIN' 
+    PARAM 'Part Label' = '4K' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I2740                 /* Reference Desig is FB10 */
+    PARAM 'Part Name' = 'FERRITE BEAD 220 OHM 2,2 A 0603' 
+    PARAM 'Part Label' = '220R/2,2A' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I2739                 /* Reference Desig is R147 */
+    PARAM 'Part Name' = 'RES 4.7K OHM 1/8W 5% 0805 SMD' 
+    PARAM 'Part Label' = '4,7K' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I2738                 /* Reference Desig is V30 */
+    PARAM 'Part Name' = 'TVS DIODE 16VWM 26VC SOD128' 
+    PARAM 'Part Label' = '16V' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I2737                 /* Reference Desig is C85 */
+    PARAM 'Part Name' = 'CAP CER 22UF 25V 10% X7R 1210' 
+    PARAM 'Part Label' = '22uF' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I2736                 /* Reference Desig is FB9 */
+    PARAM 'Part Name' = 'FERRITE BEAD 220 OHM 2,2 A 0603' 
+    PARAM 'Part Label' = '220R/2,2A' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I2734                 /* Reference Desig is R67 */
+    PARAM 'Part Name' = 'RES 1.8K OHM 1/4W 5% 1206 SMD' 
+    PARAM 'Part Label' = '1,8K' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I3201                 /* Reference Desig is R210 */
+    PARAM 'Part Name' = 'RES 7.87K OHM 1/8W 1% 0805 SMD' 
+    PARAM 'Part Label' = '7,87K' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I3194                 /* Reference Desig is R144 */
+    PARAM 'Part Name' = 'RES 2.67K OHM 1/8W 1% 0805 SMD' 
+    PARAM 'Part Label' = '2,67K' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I2731                 /* Reference Desig is R99 */
+    PARAM 'Part Name' = 'RES 0.0 OHM 1/8W 0805 SMD' 
+    PARAM 'Part Label' = '0R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I2730                 /* Reference Desig is D26 */
+    PARAM 'Part Name' = 'IC REG LDO ADJ 2A HRP5' 
+    PARAM 'Part Label' = 'ADJ/23V/2A' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I2729                 /* Reference Desig is V10 */
+    PARAM 'Part Name' = 'DIODE SUPER FAST 600V 1A SMB' 
+    PARAM 'Part Label' = '600V/1A' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I2728                 /* Reference Desig is C53 */
+    PARAM 'Part Name' = 'CAP CER 0.1UF 50V 10% X7R 0603' 
+    PARAM 'Part Label' = '100nF' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I2861                 /* Reference Desig is D37 */
+    PARAM 'Part Name' = 'IC GATE AND 2CH 4-INP 14-SOIC' 
+    PARAM 'Part Label' = ' ' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I2981                 /* Reference Desig is R42 */
+    PARAM 'Part Name' = 'RES 4.7K OHM 1/10W 5% 0603 SMD' 
+    PARAM 'Part Label' = '4,7K' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I2971                 /* Reference Desig is R41 */
+    PARAM 'Part Name' = 'RES 4.7K OHM 1/10W 5% 0603 SMD' 
+    PARAM 'Part Label' = '4,7K' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I2944                 /* Reference Desig is D38 */
+    PARAM 'Part Name' = 'IC GATE NAND 1CH 2-INP SOT-23-5' 
+    PARAM 'Part Label' = '5V/32mA' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I2934                 /* Reference Desig is D16 */
+    PARAM 'Part Name' = 'IC GATE AND 1CH 2-INP SOT-23-5' 
+    PARAM 'Part Label' = '5V/32mA' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I3017                 /* Reference Desig is C55 */
+    PARAM 'Part Name' = 'CAP CER 0.1UF 50V 10% X7R 0603' 
+    PARAM 'Part Label' = '100nF' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I3311                 /* Reference Desig is KW2 */
+    PARAM 'Part Name' = 'MGSHV-0_2-D1_6xd0.62' 
+    PARAM 'Part Label' = ' ' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I3295                 /* Reference Desig is R153 */
+    PARAM 'Part Name' = 'RES 0.0 OHM 1/4W 1206 SMD' 
+    PARAM 'Part Label' = '0R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I3283                 /* Reference Desig is X6 */
+    PARAM 'Part Name' = 'CONN BARRIER STRIP 3CIRC VERT' 
+    PARAM 'Part Label' = '3K/300V/10A/6,35mm' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I3274                 /* Reference Desig is X5 */
+    PARAM 'Part Name' = 'CONN BARRIER STRIP 2CIRC VERT' 
+    PARAM 'Part Label' = '2K/300V/10A/6,35mm' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I3257                 /* Reference Desig is R171 */
+    PARAM 'Part Name' = 'RES 47.0K OHM 3W 5% SMD' 
+    PARAM 'Part Label' = '47K/3W' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I3439                 /* Reference Desig is V20 */
+    PARAM 'Part Name' = 'IGBT 1200V 60A 300W TO247AD' 
+    PARAM 'Part Label' = ' ' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I3620                 /* Reference Desig is R224 */
+    PARAM 'Part Name' = 'RES 20 OHM 1/2W 5% 1210 SMD' 
+    PARAM 'Part Label' = '20R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I3397                 /* Reference Desig is C5 */
+    PARAM 'Part Name' = 'CAP CER 47UF 25V 20% X5R 1206' 
+    PARAM 'Part Label' = '47uF' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I3361                 /* Reference Desig is KW4 */
+    PARAM 'Part Name' = 'MGSHV-0_2-D1_6xd0.62' 
+    PARAM 'Part Label' = ' ' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I3360                 /* Reference Desig is R155 */
+    PARAM 'Part Name' = 'RES 0.0 OHM 1/4W 1206 SMD' 
+    PARAM 'Part Label' = '0R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I3318                 /* Reference Desig is KW3 */
+    PARAM 'Part Name' = 'MGSHV-0_2-D1_6xd0.62' 
+    PARAM 'Part Label' = ' ' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I3317                 /* Reference Desig is R154 */
+    PARAM 'Part Name' = 'RES 0.0 OHM 1/4W 1206 SMD' 
+    PARAM 'Part Label' = '0R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $2I3633                 /* Reference Desig is KW5 */
+    PARAM 'Part Name' = 'MGSHV-0_2-D1_6xd0.62' 
+    PARAM 'Part Label' = ' ' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+
+/* Sym: 60089432  Path 1: Schematic1  Page 2: Schematic1(1) */
+CHANGE 'Schematic1(1)' 	INSTANCE
+  SELECT COMP $1I43                 /* Reference Desig is X1 */
+    PARAM 'Part Name' = 'DIN-POWER F048MS-3,0C1-2-CLIP' 
+    PARAM 'Part Label' = 'MALE-L22-R2,54mm-ANGLE' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I2822                 /* Reference Desig is R64 */
+    PARAM 'Part Name' = 'RES 1.8K OHM 1/4W 5% 1206 SMD' 
+    PARAM 'Part Label' = '1,8K' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I1360                 /* Reference Desig is R79 */
+    PARAM 'Part Name' = 'RES 470 OHM 1/8W 5% 0805 SMD' 
+    PARAM 'Part Label' = '470R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I2577                 /* Reference Desig is R85 */
+    PARAM 'Part Name' = 'RES 470 OHM 1/8W 5% 0805 SMD' 
+    PARAM 'Part Label' = '470R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I1373                 /* Reference Desig is R80 */
+    PARAM 'Part Name' = 'RES 470 OHM 1/8W 5% 0805 SMD' 
+    PARAM 'Part Label' = '470R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I1319                 /* Reference Desig is D8 */
+    PARAM 'Part Name' = 'OPTOISO 2.5KV 2CH TRANS 8SOIC' 
+    PARAM 'Part Label' = '2K' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I1297                 /* Reference Desig is R27 */
+    PARAM 'Part Name' = 'RES 4.7K OHM 1/10W 5% 0603 SMD' 
+    PARAM 'Part Label' = '4,7K' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I1290                 /* Reference Desig is R26 */
+    PARAM 'Part Name' = 'RES 4.7K OHM 1/10W 5% 0603 SMD' 
+    PARAM 'Part Label' = '4,7K' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I1466                 /* Reference Desig is D7 */
+    PARAM 'Part Name' = 'OPTOISO 3KV 4CH TRANS 16SOIC' 
+    PARAM 'Part Label' = '4K' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I1452                 /* Reference Desig is D15 */
+    PARAM 'Part Name' = 'IC GATE AND 1CH 2-INP SOT-23-5' 
+    PARAM 'Part Label' = '5V/32mA' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I1070                 /* Reference Desig is R115 */
+    PARAM 'Part Name' = 'RES 160 OHM 1/8W 5% 0805 SMD' 
+    PARAM 'Part Label' = '160R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I1060                 /* Reference Desig is R114 */
+    PARAM 'Part Name' = 'RES 160 OHM 1/8W 5% 0805 SMD' 
+    PARAM 'Part Label' = '160R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I1047                 /* Reference Desig is R113 */
+    PARAM 'Part Name' = 'RES 160 OHM 1/8W 5% 0805 SMD' 
+    PARAM 'Part Label' = '160R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I1090                 /* Reference Desig is R117 */
+    PARAM 'Part Name' = 'RES 160 OHM 1/8W 5% 0805 SMD' 
+    PARAM 'Part Label' = '160R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I1080                 /* Reference Desig is R116 */
+    PARAM 'Part Name' = 'RES 160 OHM 1/8W 5% 0805 SMD' 
+    PARAM 'Part Label' = '160R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I1750                 /* Reference Desig is C87 */
+    PARAM 'Part Name' = 'CAP CER 10UF 50V 20% X7S 1210' 
+    PARAM 'Part Label' = '10uF' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I1749                 /* Reference Desig is C39 */
+    PARAM 'Part Name' = 'CAP CER 0.1UF 50V 10% X7R 0603' 
+    PARAM 'Part Label' = '100nF' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I1748                 /* Reference Desig is C38 */
+    PARAM 'Part Name' = 'CAP CER 0.1UF 50V 10% X7R 0603' 
+    PARAM 'Part Label' = '100nF' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I1110                 /* Reference Desig is R119 */
+    PARAM 'Part Name' = 'RES 160 OHM 1/8W 5% 0805 SMD' 
+    PARAM 'Part Label' = '160R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I1100                 /* Reference Desig is R118 */
+    PARAM 'Part Name' = 'RES 160 OHM 1/8W 5% 0805 SMD' 
+    PARAM 'Part Label' = '160R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I2111                 /* Reference Desig is C40 */
+    PARAM 'Part Name' = 'CAP CER 0.1UF 50V 10% X7R 0603' 
+    PARAM 'Part Label' = '100nF' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I2104                 /* Reference Desig is C88 */
+    PARAM 'Part Name' = 'CAP ALUM 470UF 63V 20% RADIAL' 
+    PARAM 'Part Label' = '470uF/63V-RTI' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I2097                 /* Reference Desig is L1 */
+    PARAM 'Part Name' = 'INDUCTOR POWER 10uH 20% 3.8A 33R SMD' 
+    PARAM 'Part Label' = '10uH/3,8A' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I2123                 /* Reference Desig is C91 */
+    PARAM 'Part Name' = 'CAP TANT 47UF 35V 20% 2917 E' 
+    PARAM 'Part Label' = '47uF/35V' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I1195                 /* Reference Desig is D27 */
+    PARAM 'Part Name' = 'IC QUAD 2-INPUT NAND GATE 14SOIC' 
+    PARAM 'Part Label' = ' ' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I1120                 /* Reference Desig is R120 */
+    PARAM 'Part Name' = 'RES 160 OHM 1/8W 5% 0805 SMD' 
+    PARAM 'Part Label' = '160R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I2132                 /* Reference Desig is C92 */
+    PARAM 'Part Name' = 'CAP CER 1UF 50V 10% X7R 1206' 
+    PARAM 'Part Label' = '1uF' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I1471                 /* Reference Desig is R81 */
+    PARAM 'Part Name' = 'RES 470 OHM 1/8W 5% 0805 SMD' 
+    PARAM 'Part Label' = '470R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I2140                 /* Reference Desig is R28 */
+    PARAM 'Part Name' = 'RES 4.7K OHM 1/10W 5% 0603 SMD' 
+    PARAM 'Part Label' = '4,7K' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I2842                 /* Reference Desig is C43 */
+    PARAM 'Part Name' = 'CAP CER 0.1UF 50V 10% X7R 0603' 
+    PARAM 'Part Label' = '100nF' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I2896                 /* Reference Desig is C7 */
+    PARAM 'Part Name' = 'CAP CER 10UF 25V 20% X5R 1206' 
+    PARAM 'Part Label' = '10uF' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I1624                 /* Reference Desig is C35 */
+    PARAM 'Part Name' = 'CAP CER 0.1UF 50V 10% X7R 0603' 
+    PARAM 'Part Label' = '100nF' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I1655                 /* Reference Desig is C36 */
+    PARAM 'Part Name' = 'CAP CER 0.1UF 50V 10% X7R 0603' 
+    PARAM 'Part Label' = '100nF' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I1499                 /* Reference Desig is R124 */
+    PARAM 'Part Name' = 'RES 160 OHM 1/8W 5% 0805 SMD' 
+    PARAM 'Part Label' = '160R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I1496                 /* Reference Desig is R123 */
+    PARAM 'Part Name' = 'RES 160 OHM 1/8W 5% 0805 SMD' 
+    PARAM 'Part Label' = '160R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I1493                 /* Reference Desig is R122 */
+    PARAM 'Part Name' = 'RES 160 OHM 1/8W 5% 0805 SMD' 
+    PARAM 'Part Label' = '160R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I1490                 /* Reference Desig is R121 */
+    PARAM 'Part Name' = 'RES 160 OHM 1/8W 5% 0805 SMD' 
+    PARAM 'Part Label' = '160R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I1478                 /* Reference Desig is R192 */
+    PARAM 'Part Name' = 'RES 20K OHM 1/8W 5% 0805 SMD' 
+    PARAM 'Part Label' = '20K' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I1477                 /* Reference Desig is R191 */
+    PARAM 'Part Name' = 'RES 20K OHM 1/8W 5% 0805 SMD' 
+    PARAM 'Part Label' = '20K' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I1476                 /* Reference Desig is R190 */
+    PARAM 'Part Name' = 'RES 20K OHM 1/8W 5% 0805 SMD' 
+    PARAM 'Part Label' = '20K' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I1475                 /* Reference Desig is R189 */
+    PARAM 'Part Name' = 'RES 20K OHM 1/8W 5% 0805 SMD' 
+    PARAM 'Part Label' = '20K' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I1474                 /* Reference Desig is R84 */
+    PARAM 'Part Name' = 'RES 470 OHM 1/8W 5% 0805 SMD' 
+    PARAM 'Part Label' = '470R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I1473                 /* Reference Desig is R83 */
+    PARAM 'Part Name' = 'RES 470 OHM 1/8W 5% 0805 SMD' 
+    PARAM 'Part Label' = '470R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I1472                 /* Reference Desig is R82 */
+    PARAM 'Part Name' = 'RES 470 OHM 1/8W 5% 0805 SMD' 
+    PARAM 'Part Label' = '470R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I2904                 /* Reference Desig is C8 */
+    PARAM 'Part Name' = 'CAP CER 10UF 25V 20% X5R 1206' 
+    PARAM 'Part Label' = '10uF' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I1731                 /* Reference Desig is S1 */
+    PARAM 'Part Name' = 'SWITCH TACTILE SPST-NO 0.1A 24V' 
+    PARAM 'Part Label' = ' ' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I3256                 /* Reference Desig is FB13 */
+    PARAM 'Part Name' = 'FERRITE BEAD 1000 OHM 0,4 A 0603' 
+    PARAM 'Part Label' = '1K/0,4A' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I1663                 /* Reference Desig is C37 */
+    PARAM 'Part Name' = 'CAP CER 0.1UF 50V 10% X7R 0603' 
+    PARAM 'Part Label' = '100nF' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I1626                 /* Reference Desig is C74 */
+    PARAM 'Part Name' = 'CAP CER 10PF 50V 5% NP0 0603' 
+    PARAM 'Part Label' = '10pF' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I2830                 /* Reference Desig is R65 */
+    PARAM 'Part Name' = 'RES 1.8K OHM 1/4W 5% 1206 SMD' 
+    PARAM 'Part Label' = '1,8K' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I2190                 /* Reference Desig is R197 */
+    PARAM 'Part Name' = 'RES 19.6K OHM 1/8W 1% 0805 SMD' 
+    PARAM 'Part Label' = '19,6K' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I1780                 /* Reference Desig is H1 */
+    PARAM 'Part Name' = 'LED 2X1.2MM 570NM GN WTR CLR SMD' 
+    PARAM 'Part Label' = 'GREEN/20mA/50mcd' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I1778                 /* Reference Desig is TP17 */
+    PARAM 'Part Name' = 'TEST POINT PC MULTI PURPOSE RED' 
+    PARAM 'Part Label' = ' ' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I1776                 /* Reference Desig is TP16 */
+    PARAM 'Part Name' = 'TEST POINT PC MULTI PURPOSE RED' 
+    PARAM 'Part Label' = ' ' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I1774                 /* Reference Desig is TP10 */
+    PARAM 'Part Name' = 'TEST POINT PC MULTI PURPOSE BLK' 
+    PARAM 'Part Label' = ' ' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I1772                 /* Reference Desig is TP9 */
+    PARAM 'Part Name' = 'TEST POINT PC MULTI PURPOSE BLK' 
+    PARAM 'Part Label' = ' ' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I1771                 /* Reference Desig is R195 */
+    PARAM 'Part Name' = 'RES 6.2K OHM 1/8W 5% 0805 SMD' 
+    PARAM 'Part Label' = '6,2K' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I2086                 /* Reference Desig is D29 */
+    PARAM 'Part Name' = 'DC/DC CONVERTER 15V 15W' 
+    PARAM 'Part Label' = '9_36V_IN/15VOUT/1A/15W' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I1759                 /* Reference Desig is C97 */
+    PARAM 'Part Name' = 'CAP CER 10UF 25V 10% X7R 1210' 
+    PARAM 'Part Label' = '10uF' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I2141                 /* Reference Desig is R96 */
+    PARAM 'Part Name' = 'RES 0.0 OHM 1/8W 0805 SMD' 
+    PARAM 'Part Label' = '0R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I2222                 /* Reference Desig is R209 */
+    PARAM 'Part Name' = 'RES 4.7K OHM 1/4W 5% 1206 SMD' 
+    PARAM 'Part Label' = '4,7K' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I2213                 /* Reference Desig is R208 */
+    PARAM 'Part Name' = 'RES 4.7K OHM 1/4W 5% 1206 SMD' 
+    PARAM 'Part Label' = '4,7K' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I2197                 /* Reference Desig is R207 */
+    PARAM 'Part Name' = 'RES 14.7K OHM 1/8W 1% 0805 SMD' 
+    PARAM 'Part Label' = '14,7K' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I2045                 /* Reference Desig is R198 */
+    PARAM 'Part Name' = 'RES 200 OHM 1/8W 1% 0805 SMD' 
+    PARAM 'Part Label' = '200R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I2010                 /* Reference Desig is X4 */
+    PARAM 'Part Name' = 'CONN HEADER 6POS 4.2MM VERT TIN' 
+    PARAM 'Part Label' = '6K' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I2001                 /* Reference Desig is X2 */
+    PARAM 'Part Name' = 'CONN HEADER 4POS 4.2MM VERT TIN' 
+    PARAM 'Part Label' = '4K' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I206                 /* Reference Desig is D5 */
+    PARAM 'Part Name' = 'OPTOISO 3KV 4CH TRANS 16SOIC' 
+    PARAM 'Part Label' = '4K' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I2335                 /* Reference Desig is FB14 */
+    PARAM 'Part Name' = 'FERRITE BEAD 600 OHM 0,5 A 0603' 
+    PARAM 'Part Label' = '600R/0,5A' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I2273                 /* Reference Desig is C99 */
+    PARAM 'Part Name' = 'CAP CER 10UF 25V 10% X7R 1210' 
+    PARAM 'Part Label' = '10uF' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I2280                 /* Reference Desig is C94 */
+    PARAM 'Part Name' = 'CAP CER 1UF 50V 10% X7R 1206' 
+    PARAM 'Part Label' = '1uF' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I215                 /* Reference Desig is D6 */
+    PARAM 'Part Name' = 'OPTOISO 3KV 4CH TRANS 16SOIC' 
+    PARAM 'Part Label' = '4K' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I2242                 /* Reference Desig is C93 */
+    PARAM 'Part Name' = 'CAP CER 1UF 50V 10% X7R 1206' 
+    PARAM 'Part Label' = '1uF' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I2241                 /* Reference Desig is C98 */
+    PARAM 'Part Name' = 'CAP CER 10UF 25V 10% X7R 1210' 
+    PARAM 'Part Label' = '10uF' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I2240                 /* Reference Desig is C41 */
+    PARAM 'Part Name' = 'CAP CER 0.1UF 50V 10% X7R 0603' 
+    PARAM 'Part Label' = '100nF' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I2231                 /* Reference Desig is D30 */
+    PARAM 'Part Name' = 'DC/DC CONVERTER 1W 9V 4DIP' 
+    PARAM 'Part Label' = '15V_IN/9VOUT/111mA/1W' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I240                 /* Reference Desig is R187 */
+    PARAM 'Part Name' = 'RES 20K OHM 1/8W 5% 0805 SMD' 
+    PARAM 'Part Label' = '20K' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I239                 /* Reference Desig is R186 */
+    PARAM 'Part Name' = 'RES 20K OHM 1/8W 5% 0805 SMD' 
+    PARAM 'Part Label' = '20K' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I238                 /* Reference Desig is R185 */
+    PARAM 'Part Name' = 'RES 20K OHM 1/8W 5% 0805 SMD' 
+    PARAM 'Part Label' = '20K' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I237                 /* Reference Desig is R184 */
+    PARAM 'Part Name' = 'RES 20K OHM 1/8W 5% 0805 SMD' 
+    PARAM 'Part Label' = '20K' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I236                 /* Reference Desig is R183 */
+    PARAM 'Part Name' = 'RES 20K OHM 1/8W 5% 0805 SMD' 
+    PARAM 'Part Label' = '20K' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I235                 /* Reference Desig is R182 */
+    PARAM 'Part Name' = 'RES 20K OHM 1/8W 5% 0805 SMD' 
+    PARAM 'Part Label' = '20K' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I234                 /* Reference Desig is R181 */
+    PARAM 'Part Name' = 'RES 20K OHM 1/8W 5% 0805 SMD' 
+    PARAM 'Part Label' = '20K' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I233                 /* Reference Desig is R78 */
+    PARAM 'Part Name' = 'RES 470 OHM 1/8W 5% 0805 SMD' 
+    PARAM 'Part Label' = '470R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I232                 /* Reference Desig is R77 */
+    PARAM 'Part Name' = 'RES 470 OHM 1/8W 5% 0805 SMD' 
+    PARAM 'Part Label' = '470R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I231                 /* Reference Desig is R76 */
+    PARAM 'Part Name' = 'RES 470 OHM 1/8W 5% 0805 SMD' 
+    PARAM 'Part Label' = '470R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I230                 /* Reference Desig is R75 */
+    PARAM 'Part Name' = 'RES 470 OHM 1/8W 5% 0805 SMD' 
+    PARAM 'Part Label' = '470R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I229                 /* Reference Desig is R74 */
+    PARAM 'Part Name' = 'RES 470 OHM 1/8W 5% 0805 SMD' 
+    PARAM 'Part Label' = '470R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I228                 /* Reference Desig is R73 */
+    PARAM 'Part Name' = 'RES 470 OHM 1/8W 5% 0805 SMD' 
+    PARAM 'Part Label' = '470R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I227                 /* Reference Desig is R72 */
+    PARAM 'Part Name' = 'RES 470 OHM 1/8W 5% 0805 SMD' 
+    PARAM 'Part Label' = '470R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I226                 /* Reference Desig is R71 */
+    PARAM 'Part Name' = 'RES 470 OHM 1/8W 5% 0805 SMD' 
+    PARAM 'Part Label' = '470R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I288                 /* Reference Desig is R24 */
+    PARAM 'Part Name' = 'RES 4.7K OHM 1/10W 5% 0603 SMD' 
+    PARAM 'Part Label' = '4,7K' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I287                 /* Reference Desig is R23 */
+    PARAM 'Part Name' = 'RES 4.7K OHM 1/10W 5% 0603 SMD' 
+    PARAM 'Part Label' = '4,7K' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I286                 /* Reference Desig is R22 */
+    PARAM 'Part Name' = 'RES 4.7K OHM 1/10W 5% 0603 SMD' 
+    PARAM 'Part Label' = '4,7K' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I285                 /* Reference Desig is R21 */
+    PARAM 'Part Name' = 'RES 4.7K OHM 1/10W 5% 0603 SMD' 
+    PARAM 'Part Label' = '4,7K' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I284                 /* Reference Desig is R20 */
+    PARAM 'Part Name' = 'RES 4.7K OHM 1/10W 5% 0603 SMD' 
+    PARAM 'Part Label' = '4,7K' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I283                 /* Reference Desig is R19 */
+    PARAM 'Part Name' = 'RES 4.7K OHM 1/10W 5% 0603 SMD' 
+    PARAM 'Part Label' = '4,7K' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I282                 /* Reference Desig is R18 */
+    PARAM 'Part Name' = 'RES 4.7K OHM 1/10W 5% 0603 SMD' 
+    PARAM 'Part Label' = '4,7K' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I281                 /* Reference Desig is R17 */
+    PARAM 'Part Name' = 'RES 4.7K OHM 1/10W 5% 0603 SMD' 
+    PARAM 'Part Label' = '4,7K' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I272                 /* Reference Desig is R95 */
+    PARAM 'Part Name' = 'RES 0.0 OHM 1/8W 0805 SMD' 
+    PARAM 'Part Label' = '0R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I271                 /* Reference Desig is D31 */
+    PARAM 'Part Name' = 'IC BUS TRANSCEIVER 8BIT 20SO' 
+    PARAM 'Part Label' = 'NON-INV-100mA' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I243                 /* Reference Desig is TP15 */
+    PARAM 'Part Name' = 'TEST POINT PC MULTI PURPOSE RED' 
+    PARAM 'Part Label' = ' ' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I242                 /* Reference Desig is TP8 */
+    PARAM 'Part Name' = 'TEST POINT PC MULTI PURPOSE BLK' 
+    PARAM 'Part Label' = ' ' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I241                 /* Reference Desig is R188 */
+    PARAM 'Part Name' = 'RES 20K OHM 1/8W 5% 0805 SMD' 
+    PARAM 'Part Label' = '20K' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I2343                 /* Reference Desig is D32 */
+    PARAM 'Part Name' = 'IC REG LDO 5V 0.8A SOT223' 
+    PARAM 'Part Label' = 'IN15V/5V/0,8A' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I2295                 /* Reference Desig is L3 */
+    PARAM 'Part Name' = 'INDUCTOR 4,7UH 20% 0,36A 0,13R 1210' 
+    PARAM 'Part Label' = '4,7uH/0,36A' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I289                 /* Reference Desig is R25 */
+    PARAM 'Part Name' = 'RES 4.7K OHM 1/10W 5% 0603 SMD' 
+    PARAM 'Part Label' = '4,7K' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I2419                 /* Reference Desig is C101 */
+    PARAM 'Part Name' = 'CAP CER 10UF 25V 10% X7R 1210' 
+    PARAM 'Part Label' = '10uF' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I2418                 /* Reference Desig is C95 */
+    PARAM 'Part Name' = 'CAP CER 1UF 50V 10% X7R 1206' 
+    PARAM 'Part Label' = '1uF' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I2417                 /* Reference Desig is C100 */
+    PARAM 'Part Name' = 'CAP CER 10UF 25V 10% X7R 1210' 
+    PARAM 'Part Label' = '10uF' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I2416                 /* Reference Desig is C42 */
+    PARAM 'Part Name' = 'CAP CER 0.1UF 50V 10% X7R 0603' 
+    PARAM 'Part Label' = '100nF' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I2399                 /* Reference Desig is V38 */
+    PARAM 'Part Name' = 'DIODE SWITCH 100V 0.15A SOD123' 
+    PARAM 'Part Label' = '100V/0,15A' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I2380                 /* Reference Desig is C103 */
+    PARAM 'Part Name' = 'CAP CER 2.2UF 16V 10% X7R 1206' 
+    PARAM 'Part Label' = '2,2uF' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I2920                 /* Reference Desig is C10 */
+    PARAM 'Part Name' = 'CAP CER 10UF 25V 20% X5R 1206' 
+    PARAM 'Part Label' = '10uF' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I2912                 /* Reference Desig is C9 */
+    PARAM 'Part Name' = 'CAP CER 10UF 25V 20% X5R 1206' 
+    PARAM 'Part Label' = '10uF' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I2352                 /* Reference Desig is C102 */
+    PARAM 'Part Name' = 'CAP CER 2.2UF 16V 10% X7R 1206' 
+    PARAM 'Part Label' = '2,2uF' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I2328                 /* Reference Desig is FB11 */
+    PARAM 'Part Name' = 'FERRITE BEAD 1000 OHM 0,4 A 0603' 
+    PARAM 'Part Label' = '1K/0,4A' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I2536                 /* Reference Desig is D35 */
+    PARAM 'Part Name' = 'DC/DC CONV 5.2KV ISO SIP7 TH 2W' 
+    PARAM 'Part Label' = '15V_IN/9VOUT/222mA/2W' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I2434                 /* Reference Desig is V39 */
+    PARAM 'Part Name' = 'DIODE SWITCH 100V 0.15A SOD123' 
+    PARAM 'Part Label' = '100V/0,15A' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I2431                 /* Reference Desig is C105 */
+    PARAM 'Part Name' = 'CAP CER 2.2UF 16V 10% X7R 1206' 
+    PARAM 'Part Label' = '2,2uF' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I2936                 /* Reference Desig is C12 */
+    PARAM 'Part Name' = 'CAP CER 10UF 25V 20% X5R 1206' 
+    PARAM 'Part Label' = '10uF' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I2928                 /* Reference Desig is C11 */
+    PARAM 'Part Name' = 'CAP CER 10UF 25V 20% X5R 1206' 
+    PARAM 'Part Label' = '10uF' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I2428                 /* Reference Desig is C104 */
+    PARAM 'Part Name' = 'CAP CER 2.2UF 16V 10% X7R 1206' 
+    PARAM 'Part Label' = '2,2uF' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I2427                 /* Reference Desig is D33 */
+    PARAM 'Part Name' = 'IC REG LDO 5V 0.8A SOT223' 
+    PARAM 'Part Label' = 'IN15V/5V/0,8A' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I2425                 /* Reference Desig is FB15 */
+    PARAM 'Part Name' = 'FERRITE BEAD 600 OHM 0,5 A 0603' 
+    PARAM 'Part Label' = '600R/0,5A' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I2424                 /* Reference Desig is FB12 */
+    PARAM 'Part Name' = 'FERRITE BEAD 1000 OHM 0,4 A 0603' 
+    PARAM 'Part Label' = '1K/0,4A' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I2421                 /* Reference Desig is L4 */
+    PARAM 'Part Name' = 'INDUCTOR 4,7UH 20% 0,36A 0,13R 1210' 
+    PARAM 'Part Label' = '4,7uH/0,36A' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I2420                 /* Reference Desig is C96 */
+    PARAM 'Part Name' = 'CAP CER 1UF 50V 10% X7R 1206' 
+    PARAM 'Part Label' = '1uF' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I2815                 /* Reference Desig is V41 */
+    PARAM 'Part Name' = 'DIODE SMC 600 VOLT 5 AMP SMT' 
+    PARAM 'Part Label' = '600V/5A' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I2792                 /* Reference Desig is V40 */
+    PARAM 'Part Name' = 'DIODE SCHOTTKY 80V 5A DO214AB' 
+    PARAM 'Part Label' = '80V/5A' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I2614                 /* Reference Desig is KW1 */
+    PARAM 'Part Name' = 'MGSHV-0_2-D1_6xd0.62' 
+    PARAM 'Part Label' = ' ' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I2585                 /* Reference Desig is R86 */
+    PARAM 'Part Name' = 'RES 470 OHM 1/8W 5% 0805 SMD' 
+    PARAM 'Part Label' = '470R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I2562                 /* Reference Desig is D9 */
+    PARAM 'Part Name' = 'OPTOISO 2.5KV 2CH TRANS 8SOIC' 
+    PARAM 'Part Label' = '2K' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I2885                 /* Reference Desig is TP19 */
+    PARAM 'Part Name' = 'TEST POINT PC MULTI PURPOSE RED' 
+    PARAM 'Part Label' = ' ' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I2878                 /* Reference Desig is TP18 */
+    PARAM 'Part Name' = 'TEST POINT PC MULTI PURPOSE RED' 
+    PARAM 'Part Label' = ' ' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I2871                 /* Reference Desig is TP12 */
+    PARAM 'Part Name' = 'TEST POINT PC MULTI PURPOSE BLK' 
+    PARAM 'Part Label' = ' ' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I2864                 /* Reference Desig is TP11 */
+    PARAM 'Part Name' = 'TEST POINT PC MULTI PURPOSE BLK' 
+    PARAM 'Part Label' = ' ' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I3285                 /* Reference Desig is C44 */
+    PARAM 'Part Name' = 'CAP CER 0.1UF 50V 10% X7R 0603' 
+    PARAM 'Part Label' = '100nF' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I3151                 /* Reference Desig is R30 */
+    PARAM 'Part Name' = 'RES 4.7K OHM 1/10W 5% 0603 SMD' 
+    PARAM 'Part Label' = '4,7K' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I3143                 /* Reference Desig is R29 */
+    PARAM 'Part Name' = 'RES 4.7K OHM 1/10W 5% 0603 SMD' 
+    PARAM 'Part Label' = '4,7K' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I3125                 /* Reference Desig is R148 */
+    PARAM 'Part Name' = 'RES 0.0 OHM 1/4W 1206 SMD' 
+    PARAM 'Part Label' = '0R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I3101                 /* Reference Desig is R204 */
+    PARAM 'Part Name' = 'RES 200 OHM 1/8W 1% 0805 SMD' 
+    PARAM 'Part Label' = '200R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I3084                 /* Reference Desig is R203 */
+    PARAM 'Part Name' = 'RES 200 OHM 1/8W 1% 0805 SMD' 
+    PARAM 'Part Label' = '200R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I3069                 /* Reference Desig is R202 */
+    PARAM 'Part Name' = 'RES 200 OHM 1/8W 1% 0805 SMD' 
+    PARAM 'Part Label' = '200R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I3048                 /* Reference Desig is R201 */
+    PARAM 'Part Name' = 'RES 200 OHM 1/8W 1% 0805 SMD' 
+    PARAM 'Part Label' = '200R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I3039                 /* Reference Desig is R200 */
+    PARAM 'Part Name' = 'RES 200 OHM 1/8W 1% 0805 SMD' 
+    PARAM 'Part Label' = '200R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I3025                 /* Reference Desig is R199 */
+    PARAM 'Part Name' = 'RES 200 OHM 1/8W 1% 0805 SMD' 
+    PARAM 'Part Label' = '200R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I3326                 /* Reference Desig is C14 */
+    PARAM 'Part Name' = 'CAP CER 10UF 25V 20% X5R 1206' 
+    PARAM 'Part Label' = '10uF' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I3325                 /* Reference Desig is C45 */
+    PARAM 'Part Name' = 'CAP CER 0.1UF 50V 10% X7R 0603' 
+    PARAM 'Part Label' = '100nF' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I3293                 /* Reference Desig is C13 */
+    PARAM 'Part Name' = 'CAP CER 10UF 25V 20% X5R 1206' 
+    PARAM 'Part Label' = '10uF' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I3167                 /* Reference Desig is R32 */
+    PARAM 'Part Name' = 'RES 4.7K OHM 1/10W 5% 0603 SMD' 
+    PARAM 'Part Label' = '4,7K' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I3159                 /* Reference Desig is R31 */
+    PARAM 'Part Name' = 'RES 4.7K OHM 1/10W 5% 0603 SMD' 
+    PARAM 'Part Label' = '4,7K' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+
+/* Sym: 60406320  Path 1: Schematic1  Page 3: Schematic1(3) */
+CHANGE 'Schematic1(3)' 	INSTANCE
+  SELECT COMP $3I1002                 /* Reference Desig is R63 */
+    PARAM 'Part Name' = 'RES 300 OHM 1/4W 1% 1206 SMD' 
+    PARAM 'Part Label' = '300R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I3857                 /* Reference Desig is C34 */
+    PARAM 'Part Name' = 'CAP CER 2200PF 50V 5% NP0 0805' 
+    PARAM 'Part Label' = '2,2nF' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I3197                 /* Reference Desig is C64 */
+    PARAM 'Part Name' = 'CAP CER 0.1UF 50V 10% X7R 0603' 
+    PARAM 'Part Label' = '100nF' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I1004                 /* Reference Desig is R70 */
+    PARAM 'Part Name' = 'RES 698 OHM 1/2W 1% 1210 SMD' 
+    PARAM 'Part Label' = '698R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I1003                 /* Reference Desig is V24 */
+    PARAM 'Part Name' = 'DIODE ZENER 5.6V 200MW UMD2' 
+    PARAM 'Part Label' = '5,6V/2%/0,2W' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I3094                 /* Reference Desig is R51 */
+    PARAM 'Part Name' = 'RES 4.7K OHM 1/10W 5% 0603 SMD' 
+    PARAM 'Part Label' = '4,7K' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I4111                 /* Reference Desig is D14 */
+    PARAM 'Part Name' = 'IC SIMPLE SEQUENCER OD SC70-6' 
+    PARAM 'Part Label' = '1K/OPEN' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I4099                 /* Reference Desig is D13 */
+    PARAM 'Part Name' = 'IC SIMPLE SEQUENCER OD SC70-6' 
+    PARAM 'Part Label' = '1K/OPEN' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I3039                 /* Reference Desig is R105 */
+    PARAM 'Part Name' = 'RES 0.0 OHM 1/8W 0805 SMD' 
+    PARAM 'Part Label' = '0R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I1198                 /* Reference Desig is R43 */
+    PARAM 'Part Name' = 'RES 4.7K OHM 1/10W 5% 0603 SMD' 
+    PARAM 'Part Label' = '4,7K' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I3030                 /* Reference Desig is R104 */
+    PARAM 'Part Name' = 'RES 0.0 OHM 1/8W 0805 SMD' 
+    PARAM 'Part Label' = '0R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I3020                 /* Reference Desig is R103 */
+    PARAM 'Part Name' = 'RES 0.0 OHM 1/8W 0805 SMD' 
+    PARAM 'Part Label' = '0R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I3922                 /* Reference Desig is R109 */
+    PARAM 'Part Name' = 'RES 7.68K OHM 1/8W 1% 0805 SMD' 
+    PARAM 'Part Label' = '7,68K' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I3958                 /* Reference Desig is R110 */
+    PARAM 'Part Name' = 'RES 7.68K OHM 1/8W 1% 0805 SMD' 
+    PARAM 'Part Label' = '7,68K' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I3951                 /* Reference Desig is R108 */
+    PARAM 'Part Name' = 'RES 287K OHM 1/8W 1% 0805 SMD' 
+    PARAM 'Part Label' = '287K' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I1291                 /* Reference Desig is D22 */
+    PARAM 'Part Name' = 'IC VOLT MONITOR DUAL 10-MSOP' 
+    PARAM 'Part Label' = 'DIS' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I1280                 /* Reference Desig is D20 */
+    PARAM 'Part Name' = 'IC SWITCH SPDT SOT23-6' 
+    PARAM 'Part Label' = '5V/1K' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I3101                 /* Reference Desig is R52 */
+    PARAM 'Part Name' = 'RES 4.7K OHM 1/10W 5% 0603 SMD' 
+    PARAM 'Part Label' = '4,7K' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I3972                 /* Reference Desig is R127 */
+    PARAM 'Part Name' = 'RES 4.22K OHM 1/8W 1% 0805 SMD' 
+    PARAM 'Part Label' = '4,22K' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I1506                 /* Reference Desig is FB3 */
+    PARAM 'Part Name' = 'FERRITE BEAD 1800 OHM 0,2 A 0603' 
+    PARAM 'Part Label' = '1,8K/0,2A' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I3943                 /* Reference Desig is R107 */
+    PARAM 'Part Name' = 'RES 0.0 OHM 1/8W 0805 SMD' 
+    PARAM 'Part Label' = '0R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I1311                 /* Reference Desig is R44 */
+    PARAM 'Part Name' = 'RES 4.7K OHM 1/10W 5% 0603 SMD' 
+    PARAM 'Part Label' = '4,7K' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I4431                 /* Reference Desig is C71 */
+    PARAM 'Part Name' = 'CAP CER 0.1UF 50V 10% X7R 0603' 
+    PARAM 'Part Label' = '100nF' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I4317                 /* Reference Desig is C21 */
+    PARAM 'Part Name' = 'CAP CER 10UF 25V 20% X5R 1206' 
+    PARAM 'Part Label' = '10uF' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I1297                 /* Reference Desig is C58 */
+    PARAM 'Part Name' = 'CAP CER 0.1UF 50V 10% X7R 0603' 
+    PARAM 'Part Label' = '100nF' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I1296                 /* Reference Desig is C76 */
+    PARAM 'Part Name' = 'CAP CER 10PF 50V 5% NP0 0603' 
+    PARAM 'Part Label' = '10pF' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I3965                 /* Reference Desig is R112 */
+    PARAM 'Part Name' = 'RES 6.65K OHM 1/8W 1% 0805 SMD' 
+    PARAM 'Part Label' = '6,65K' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I3993                 /* Reference Desig is R141 */
+    PARAM 'Part Name' = 'RES 2.10K OHM 1/8W 1% 0805 SMD' 
+    PARAM 'Part Label' = '2,1K' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I1544                 /* Reference Desig is D23 */
+    PARAM 'Part Name' = 'IC VOLT MONITOR DUAL 10-MSOP' 
+    PARAM 'Part Label' = 'DIS' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I1543                 /* Reference Desig is D21 */
+    PARAM 'Part Name' = 'IC SWITCH SPDT SOT23-6' 
+    PARAM 'Part Label' = '5V/1K' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I1525                 /* Reference Desig is R138 */
+    PARAM 'Part Name' = 'RES 4.53K OHM 1/8W 1% 0805 SMD' 
+    PARAM 'Part Label' = '4,53K' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I1331                 /* Reference Desig is R100 */
+    PARAM 'Part Name' = 'RES 0.0 OHM 1/8W 0805 SMD' 
+    PARAM 'Part Label' = '0R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I1330                 /* Reference Desig is R45 */
+    PARAM 'Part Name' = 'RES 4.7K OHM 1/10W 5% 0603 SMD' 
+    PARAM 'Part Label' = '4,7K' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I1323                 /* Reference Desig is V25 */
+    PARAM 'Part Name' = 'DIODE ZENER 5.6V 200MW UMD2' 
+    PARAM 'Part Label' = '5,6V/2%/0,2W' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I1322                 /* Reference Desig is R136 */
+    PARAM 'Part Name' = 'RES 348 OHM 1/4W 1% 1206 SMD' 
+    PARAM 'Part Label' = '348R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I1321                 /* Reference Desig is R134 */
+    PARAM 'Part Name' = 'RES 510 OHM 1/4W 1% 1206 SMD' 
+    PARAM 'Part Label' = '510R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I3915                 /* Reference Desig is C79 */
+    PARAM 'Part Name' = 'CAP CER 2700PF 50V 10% X7R 0603' 
+    PARAM 'Part Label' = '2,7nF' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I1507                 /* Reference Desig is R130 */
+    PARAM 'Part Name' = 'RES 10 OHM 1/4W 5% 1206 SMD' 
+    PARAM 'Part Label' = '10R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I4423                 /* Reference Desig is C70 */
+    PARAM 'Part Name' = 'CAP CER 0.1UF 50V 10% X7R 0603' 
+    PARAM 'Part Label' = '100nF' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I4325                 /* Reference Desig is C22 */
+    PARAM 'Part Name' = 'CAP CER 10UF 25V 20% X5R 1206' 
+    PARAM 'Part Label' = '10uF' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I1550                 /* Reference Desig is C59 */
+    PARAM 'Part Name' = 'CAP CER 0.1UF 50V 10% X7R 0603' 
+    PARAM 'Part Label' = '100nF' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I1549                 /* Reference Desig is C77 */
+    PARAM 'Part Name' = 'CAP CER 10PF 50V 5% NP0 0603' 
+    PARAM 'Part Label' = '10pF' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I4000                 /* Reference Desig is R142 */
+    PARAM 'Part Name' = 'RES 28.7K OHM 1/8W 1% 0805 SMD' 
+    PARAM 'Part Label' = '28,7K' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I3986                 /* Reference Desig is R140 */
+    PARAM 'Part Name' = 'RES 2.10K OHM 1/8W 1% 0805 SMD' 
+    PARAM 'Part Label' = '2,1K' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I3979                 /* Reference Desig is R128 */
+    PARAM 'Part Name' = 'RES 4.22K OHM 1/8W 1% 0805 SMD' 
+    PARAM 'Part Label' = '4,22K' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I1562                 /* Reference Desig is R137 */
+    PARAM 'Part Name' = 'RES 348 OHM 1/4W 1% 1206 SMD' 
+    PARAM 'Part Label' = '348R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I1561                 /* Reference Desig is R135 */
+    PARAM 'Part Name' = 'RES 510 OHM 1/4W 1% 1206 SMD' 
+    PARAM 'Part Label' = '510R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I1560                 /* Reference Desig is C86 */
+    PARAM 'Part Name' = 'CAP CER 0.022UF 50V 10% X7R 0805' 
+    PARAM 'Part Label' = '22nF' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I4064                 /* Reference Desig is R157 */
+    PARAM 'Part Name' = 'RES 43.2K OHM 1/8W 1% 0805 SMD' 
+    PARAM 'Part Label' = '43,2K' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I4007                 /* Reference Desig is R156 */
+    PARAM 'Part Name' = 'RES 43.2K OHM 1/8W 1% 0805 SMD' 
+    PARAM 'Part Label' = '43,2K' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I1556                 /* Reference Desig is R46 */
+    PARAM 'Part Name' = 'RES 4.7K OHM 1/10W 5% 0603 SMD' 
+    PARAM 'Part Label' = '4,7K' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I3120                 /* Reference Desig is C63 */
+    PARAM 'Part Name' = 'CAP CER 0.1UF 50V 10% X7R 0603' 
+    PARAM 'Part Label' = '100nF' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I4078                 /* Reference Desig is R162 */
+    PARAM 'Part Name' = 'RES 97.6K OHM 1/4W 1% 1206 SMD' 
+    PARAM 'Part Label' = '97,6K' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I4050                 /* Reference Desig is R161 */
+    PARAM 'Part Name' = 'RES 453 OHM 1/8W 1% 0805 SMD' 
+    PARAM 'Part Label' = '453R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I4043                 /* Reference Desig is R160 */
+    PARAM 'Part Name' = 'RES 453 OHM 1/8W 1% 0805 SMD' 
+    PARAM 'Part Label' = '453R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I4071                 /* Reference Desig is R159 */
+    PARAM 'Part Name' = 'RES 4.32K OHM 1/8W 1% 0805 SMD' 
+    PARAM 'Part Label' = '4,32K' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I1755                 /* Reference Desig is D24 */
+    PARAM 'Part Name' = 'IC VOLT MONITOR DUAL 10-MSOP' 
+    PARAM 'Part Label' = 'DIS' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I1584                 /* Reference Desig is R139 */
+    PARAM 'Part Name' = 'RES 4.53K OHM 1/8W 1% 0805 SMD' 
+    PARAM 'Part Label' = '4,53K' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I1581                 /* Reference Desig is R131 */
+    PARAM 'Part Name' = 'RES 10 OHM 1/4W 5% 1206 SMD' 
+    PARAM 'Part Label' = '10R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I1580                 /* Reference Desig is FB4 */
+    PARAM 'Part Name' = 'FERRITE BEAD 1800 OHM 0,2 A 0603' 
+    PARAM 'Part Label' = '1,8K/0,2A' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I4309                 /* Reference Desig is C20 */
+    PARAM 'Part Name' = 'CAP CER 10UF 25V 20% X5R 1206' 
+    PARAM 'Part Label' = '10uF' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I1565                 /* Reference Desig is R101 */
+    PARAM 'Part Name' = 'RES 0.0 OHM 1/8W 0805 SMD' 
+    PARAM 'Part Label' = '0R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I1564                 /* Reference Desig is R47 */
+    PARAM 'Part Name' = 'RES 4.7K OHM 1/10W 5% 0603 SMD' 
+    PARAM 'Part Label' = '4,7K' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I1563                 /* Reference Desig is V26 */
+    PARAM 'Part Name' = 'DIODE ZENER 5.6V 200MW UMD2' 
+    PARAM 'Part Label' = '5,6V/2%/0,2W' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I4                 /* Reference Desig is D12 */
+    PARAM 'Part Name' = 'IC SIMPLE SEQUENCER OD SC70-6' 
+    PARAM 'Part Label' = '1K/OPEN' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I4439                 /* Reference Desig is C72 */
+    PARAM 'Part Name' = 'CAP CER 0.1UF 50V 10% X7R 0603' 
+    PARAM 'Part Label' = '100nF' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I4301                 /* Reference Desig is C19 */
+    PARAM 'Part Name' = 'CAP CER 10UF 25V 20% X5R 1206' 
+    PARAM 'Part Label' = '10uF' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I1761                 /* Reference Desig is C60 */
+    PARAM 'Part Name' = 'CAP CER 0.1UF 50V 10% X7R 0603' 
+    PARAM 'Part Label' = '100nF' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I1760                 /* Reference Desig is C78 */
+    PARAM 'Part Name' = 'CAP CER 10PF 50V 5% NP0 0603' 
+    PARAM 'Part Label' = '10pF' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I7                 /* Reference Desig is R87 */
+    PARAM 'Part Name' = 'RES 470 OHM 1/8W 5% 0805 SMD' 
+    PARAM 'Part Label' = '470R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I1776                 /* Reference Desig is R102 */
+    PARAM 'Part Name' = 'RES 0.0 OHM 1/8W 0805 SMD' 
+    PARAM 'Part Label' = '0R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I1775                 /* Reference Desig is R48 */
+    PARAM 'Part Name' = 'RES 4.7K OHM 1/10W 5% 0603 SMD' 
+    PARAM 'Part Label' = '4,7K' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I25                 /* Reference Desig is V34 */
+    PARAM 'Part Name' = 'DIODE ZENER 3.0V 200MW UMD2' 
+    PARAM 'Part Label' = '3,0V/3%/0,2W' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I3218                 /* Reference Desig is D18 */
+    PARAM 'Part Name' = 'IC GATE AND 1CH 2-INP SOT-23-5' 
+    PARAM 'Part Label' = '5V/32mA' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I22                 /* Reference Desig is R180 */
+    PARAM 'Part Name' = 'RES 2.40K OHM 1/8W 1% 0805 SMD' 
+    PARAM 'Part Label' = '2,4K' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I21                 /* Reference Desig is R129 */
+    PARAM 'Part Name' = 'RES 10 OHM 1/4W 5% 1206 SMD' 
+    PARAM 'Part Label' = '10R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I20                 /* Reference Desig is FB2 */
+    PARAM 'Part Name' = 'FERRITE BEAD 1800 OHM 0,2 A 0603' 
+    PARAM 'Part Label' = '1,8K/0,2A' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I18                 /* Reference Desig is R177 */
+    PARAM 'Part Name' = 'RES 604 OHM 1/8W 1% 0805 SMD' 
+    PARAM 'Part Label' = '604R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I17                 /* Reference Desig is C75 */
+    PARAM 'Part Name' = 'CAP CER 10PF 50V 5% NP0 0603' 
+    PARAM 'Part Label' = '10pF' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I14                 /* Reference Desig is C57 */
+    PARAM 'Part Name' = 'CAP CER 0.1UF 50V 10% X7R 0603' 
+    PARAM 'Part Label' = '100nF' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I1792                 /* Reference Desig is R132 */
+    PARAM 'Part Name' = 'RES 10 OHM 1/4W 5% 1206 SMD' 
+    PARAM 'Part Label' = '10R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I1791                 /* Reference Desig is FB5 */
+    PARAM 'Part Name' = 'FERRITE BEAD 1800 OHM 0,2 A 0603' 
+    PARAM 'Part Label' = '1,8K/0,2A' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I4092                 /* Reference Desig is R164 */
+    PARAM 'Part Name' = 'RES 97.6K OHM 1/4W 1% 1206 SMD' 
+    PARAM 'Part Label' = '97,6K' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I4085                 /* Reference Desig is R163 */
+    PARAM 'Part Name' = 'RES 97.6K OHM 1/4W 1% 1206 SMD' 
+    PARAM 'Part Label' = '97,6K' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I3302                 /* Reference Desig is R58 */
+    PARAM 'Part Name' = 'RES 4.7K OHM 1/10W 5% 0603 SMD' 
+    PARAM 'Part Label' = '4,7K' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I3301                 /* Reference Desig is R57 */
+    PARAM 'Part Name' = 'RES 4.7K OHM 1/10W 5% 0603 SMD' 
+    PARAM 'Part Label' = '4,7K' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I3277                 /* Reference Desig is D28 */
+    PARAM 'Part Name' = 'IC GATE AND 2CH 2-INP SM8' 
+    PARAM 'Part Label' = '5V/32mA/SM8' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I3230                 /* Reference Desig is R56 */
+    PARAM 'Part Name' = 'RES 4.7K OHM 1/10W 5% 0603 SMD' 
+    PARAM 'Part Label' = '4,7K' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I3228                 /* Reference Desig is R55 */
+    PARAM 'Part Name' = 'RES 4.7K OHM 1/10W 5% 0603 SMD' 
+    PARAM 'Part Label' = '4,7K' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I2991                 /* Reference Desig is R91 */
+    PARAM 'Part Name' = 'RES 470 OHM 1/8W 5% 0805 SMD' 
+    PARAM 'Part Label' = '470R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I2983                 /* Reference Desig is R90 */
+    PARAM 'Part Name' = 'RES 470 OHM 1/8W 5% 0805 SMD' 
+    PARAM 'Part Label' = '470R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I2675                 /* Reference Desig is V35 */
+    PARAM 'Part Name' = 'DIODE ZENER 3.0V 200MW UMD2' 
+    PARAM 'Part Label' = '3,0V/3%/0,2W' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I3770                 /* Reference Desig is R211 */
+    PARAM 'Part Name' = 'RES 13.0K OHM 1/8W 1% 0805 SMD' 
+    PARAM 'Part Label' = '13,0K' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I2673                 /* Reference Desig is R133 */
+    PARAM 'Part Name' = 'RES 10 OHM 1/4W 5% 1206 SMD' 
+    PARAM 'Part Label' = '10R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I2672                 /* Reference Desig is FB6 */
+    PARAM 'Part Name' = 'FERRITE BEAD 1800 OHM 0,2 A 0603' 
+    PARAM 'Part Label' = '1,8K/0,2A' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I2671                 /* Reference Desig is R178 */
+    PARAM 'Part Name' = 'RES 604 OHM 1/8W 1% 0805 SMD' 
+    PARAM 'Part Label' = '604R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I3812                 /* Reference Desig is C32 */
+    PARAM 'Part Name' = 'CAP CER 2200PF 50V 5% NP0 0805' 
+    PARAM 'Part Label' = '2,2nF' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I2669                 /* Reference Desig is C61 */
+    PARAM 'Part Name' = 'CAP CER 0.1UF 50V 10% X7R 0603' 
+    PARAM 'Part Label' = '100nF' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I2666                 /* Reference Desig is R88 */
+    PARAM 'Part Name' = 'RES 470 OHM 1/8W 5% 0805 SMD' 
+    PARAM 'Part Label' = '470R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I2807                 /* Reference Desig is V36 */
+    PARAM 'Part Name' = 'DIODE ZENER 3.0V 200MW UMD2' 
+    PARAM 'Part Label' = '3,0V/3%/0,2W' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I3777                 /* Reference Desig is R212 */
+    PARAM 'Part Name' = 'RES 2.00K OHM 1/8W 1% 0805 SMD' 
+    PARAM 'Part Label' = '2K' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I3133                 /* Reference Desig is R54 */
+    PARAM 'Part Name' = 'RES 4.7K OHM 1/10W 5% 0603 SMD' 
+    PARAM 'Part Label' = '4,7K' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I2803                 /* Reference Desig is R179 */
+    PARAM 'Part Name' = 'RES 604 OHM 1/8W 1% 0805 SMD' 
+    PARAM 'Part Label' = '604R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I3819                 /* Reference Desig is C33 */
+    PARAM 'Part Name' = 'CAP CER 2200PF 50V 5% NP0 0805' 
+    PARAM 'Part Label' = '2,2nF' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I2801                 /* Reference Desig is C62 */
+    PARAM 'Part Name' = 'CAP CER 0.1UF 50V 10% X7R 0603' 
+    PARAM 'Part Label' = '100nF' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I3132                 /* Reference Desig is R53 */
+    PARAM 'Part Name' = 'RES 4.7K OHM 1/10W 5% 0603 SMD' 
+    PARAM 'Part Label' = '4,7K' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I3131                 /* Reference Desig is D17 */
+    PARAM 'Part Name' = 'IC GATE AND 1CH 2-INP SOT-23-5' 
+    PARAM 'Part Label' = '5V/32mA' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I2798                 /* Reference Desig is R89 */
+    PARAM 'Part Name' = 'RES 470 OHM 1/8W 5% 0805 SMD' 
+    PARAM 'Part Label' = '470R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I3130                 /* Reference Desig is D34 */
+    PARAM 'Part Name' = 'IC SWITCH DUAL SPDT 10MSOP' 
+    PARAM 'Part Label' = '+5V/4OHM' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I2691                 /* Reference Desig is R49 */
+    PARAM 'Part Name' = 'RES 4.7K OHM 1/10W 5% 0603 SMD' 
+    PARAM 'Part Label' = '4,7K' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I2970                 /* Reference Desig is D10 */
+    PARAM 'Part Name' = 'OPTOISO 2.5KV 2CH TRANS 8SOIC' 
+    PARAM 'Part Label' = '2K' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I2823                 /* Reference Desig is R50 */
+    PARAM 'Part Name' = 'RES 4.7K OHM 1/10W 5% 0603 SMD' 
+    PARAM 'Part Label' = '4,7K' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I3364                 /* Reference Desig is R92 */
+    PARAM 'Part Name' = 'RES 470 OHM 1/8W 5% 0805 SMD' 
+    PARAM 'Part Label' = '470R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I3386                 /* Reference Desig is C66 */
+    PARAM 'Part Name' = 'CAP CER 0.1UF 50V 10% X7R 0603' 
+    PARAM 'Part Label' = '100nF' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I3591                 /* Reference Desig is KW6 */
+    PARAM 'Part Name' = 'MGSHV-0_2-D1_6xd0.62' 
+    PARAM 'Part Label' = ' ' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I3380                 /* Reference Desig is R60 */
+    PARAM 'Part Name' = 'RES 4.7K OHM 1/10W 5% 0603 SMD' 
+    PARAM 'Part Label' = '4,7K' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I3379                 /* Reference Desig is D36 */
+    PARAM 'Part Name' = 'IC SIMPLE SEQUENCER P-P SC70-6' 
+    PARAM 'Part Label' = '1K/PP' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I3377                 /* Reference Desig is R106 */
+    PARAM 'Part Name' = 'RES 0.0 OHM 1/8W 0805 SMD' 
+    PARAM 'Part Label' = '0R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I3371                 /* Reference Desig is R59 */
+    PARAM 'Part Name' = 'RES 4.7K OHM 1/10W 5% 0603 SMD' 
+    PARAM 'Part Label' = '4,7K' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I3798                 /* Reference Desig is R215 */
+    PARAM 'Part Name' = 'RES 33.2 OHM 1/2W 1% 1210 SMD' 
+    PARAM 'Part Label' = '33,2R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I3369                 /* Reference Desig is V37 */
+    PARAM 'Part Name' = 'DIODE ZENER 3.0V 200MW UMD2' 
+    PARAM 'Part Label' = '3,0V/3%/0,2W' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I3791                 /* Reference Desig is R214 */
+    PARAM 'Part Name' = 'RES 33.2 OHM 1/2W 1% 1210 SMD' 
+    PARAM 'Part Label' = '33,2R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I3784                 /* Reference Desig is R213 */
+    PARAM 'Part Name' = 'RES 33.2 OHM 1/2W 1% 1210 SMD' 
+    PARAM 'Part Label' = '33,2R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I3826                 /* Reference Desig is C67 */
+    PARAM 'Part Name' = 'CAP CER 0.1UF 50V 10% X7R 0603' 
+    PARAM 'Part Label' = '100nF' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I3365                 /* Reference Desig is C65 */
+    PARAM 'Part Name' = 'CAP CER 0.1UF 50V 10% X7R 0603' 
+    PARAM 'Part Label' = '100nF' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I3633                 /* Reference Desig is R126 */
+    PARAM 'Part Name' = 'RES 160 OHM 1/8W 5% 0805 SMD' 
+    PARAM 'Part Label' = '160R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I3616                 /* Reference Desig is R194 */
+    PARAM 'Part Name' = 'RES 20K OHM 1/8W 5% 0805 SMD' 
+    PARAM 'Part Label' = '20K' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I3601                 /* Reference Desig is R125 */
+    PARAM 'Part Name' = 'RES 160 OHM 1/8W 5% 0805 SMD' 
+    PARAM 'Part Label' = '160R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I3600                 /* Reference Desig is R193 */
+    PARAM 'Part Name' = 'RES 20K OHM 1/8W 5% 0805 SMD' 
+    PARAM 'Part Label' = '20K' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I3547                 /* Reference Desig is R94 */
+    PARAM 'Part Name' = 'RES 470 OHM 1/8W 5% 0805 SMD' 
+    PARAM 'Part Label' = '470R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I3546                 /* Reference Desig is R93 */
+    PARAM 'Part Name' = 'RES 470 OHM 1/8W 5% 0805 SMD' 
+    PARAM 'Part Label' = '470R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I3545                 /* Reference Desig is D11 */
+    PARAM 'Part Name' = 'OPTOISO 2.5KV 2CH TRANS 8SOIC' 
+    PARAM 'Part Label' = '2K' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I3515                 /* Reference Desig is V28 */
+    PARAM 'Part Name' = 'DIODE ZENER 5.6V 200MW UMD2' 
+    PARAM 'Part Label' = '5,6V/2%/0,2W' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I3508                 /* Reference Desig is V27 */
+    PARAM 'Part Name' = 'DIODE ZENER 5.6V 200MW UMD2' 
+    PARAM 'Part Label' = '5,6V/2%/0,2W' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I3805                 /* Reference Desig is C31 */
+    PARAM 'Part Name' = 'CAP CER 2200PF 50V 5% NP0 0805' 
+    PARAM 'Part Label' = '2,2nF' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I3388                 /* Reference Desig is D19 */
+    PARAM 'Part Name' = 'IC GATE AND 1CH 2-INP SOT-23-5' 
+    PARAM 'Part Label' = '5V/32mA' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I3763                 /* Reference Desig is R216 */
+    PARAM 'Part Name' = 'RES 3.90K OHM 1/8W 1% 0805 SMD' 
+    PARAM 'Part Label' = '3,9K' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I3653                 /* Reference Desig is R61 */
+    PARAM 'Part Name' = 'RES 4.7K OHM 1/10W 5% 0603 SMD' 
+    PARAM 'Part Label' = '4,7K' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I4146                 /* Reference Desig is R219 */
+    PARAM 'Part Name' = 'RES 1.5K OHM 1/8W 5% 0805 SMD' 
+    PARAM 'Part Label' = '1,5K' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I4139                 /* Reference Desig is H6 */
+    PARAM 'Part Name' = 'LED 2X1.2MM 640NM RD WTR CLR SMD' 
+    PARAM 'Part Label' = 'RED/20mA/100mcd' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I4125                 /* Reference Desig is H2 */
+    PARAM 'Part Name' = 'LED 2X1.2MM 570NM GN WTR CLR SMD' 
+    PARAM 'Part Label' = 'GREEN/20mA/50mcd' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I4124                 /* Reference Desig is R218 */
+    PARAM 'Part Name' = 'RES 1.5K OHM 1/8W 5% 0805 SMD' 
+    PARAM 'Part Label' = '1,5K' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I4057                 /* Reference Desig is R217 */
+    PARAM 'Part Name' = 'RES 169 OHM 1/8W 1% 0805 SMD' 
+    PARAM 'Part Label' = '169R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I3929                 /* Reference Desig is R111 */
+    PARAM 'Part Name' = 'RES 6.65K OHM 1/8W 1% 0805 SMD' 
+    PARAM 'Part Label' = '6,65K' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I4401                 /* Reference Desig is R62 */
+    PARAM 'Part Name' = 'RES 4.7K OHM 1/10W 5% 0603 SMD' 
+    PARAM 'Part Label' = '4,7K' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I3842                 /* Reference Desig is C69 */
+    PARAM 'Part Name' = 'CAP CER 0.1UF 50V 10% X7R 0603' 
+    PARAM 'Part Label' = '100nF' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I3834                 /* Reference Desig is C68 */
+    PARAM 'Part Name' = 'CAP CER 0.1UF 50V 10% X7R 0603' 
+    PARAM 'Part Label' = '100nF' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I4257                 /* Reference Desig is H5 */
+    PARAM 'Part Name' = 'LED 2X1.2MM 570NM GN WTR CLR SMD' 
+    PARAM 'Part Label' = 'GREEN/20mA/50mcd' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I4255                 /* Reference Desig is R196 */
+    PARAM 'Part Name' = 'RES 6.2K OHM 1/8W 5% 0805 SMD' 
+    PARAM 'Part Label' = '6,2K' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I4471                 /* Reference Desig is H7 */
+    PARAM 'Part Name' = 'LED 2X1.2MM 640NM RD WTR CLR SMD' 
+    PARAM 'Part Label' = 'RED/20mA/100mcd' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I4233                 /* Reference Desig is R221 */
+    PARAM 'Part Name' = 'RES 1.5K OHM 1/8W 5% 0805 SMD' 
+    PARAM 'Part Label' = '1,5K' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I4179                 /* Reference Desig is R223 */
+    PARAM 'Part Name' = 'RES 75.0K OHM 1W 5% 2512 SMD' 
+    PARAM 'Part Label' = '75K' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I4178                 /* Reference Desig is R222 */
+    PARAM 'Part Name' = 'RES 75.0K OHM 1W 5% 2512 SMD' 
+    PARAM 'Part Label' = '75K' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I4163                 /* Reference Desig is H4 */
+    PARAM 'Part Name' = 'LED 2X1.2MM 570NM GN WTR CLR SMD' 
+    PARAM 'Part Label' = 'GREEN/20mA/50mcd' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I4162                 /* Reference Desig is R220 */
+    PARAM 'Part Name' = 'RES 1.5K OHM 1/8W 5% 0805 SMD' 
+    PARAM 'Part Label' = '1,5K' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I4147                 /* Reference Desig is H3 */
+    PARAM 'Part Name' = 'LED 2X1.2MM 570NM GN WTR CLR SMD' 
+    PARAM 'Part Label' = 'GREEN/20mA/50mcd' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $3I4410                 /* Reference Desig is KW7 */
+    PARAM 'Part Name' = 'MGSHV-0_2-D1_6xd0.62' 
+    PARAM 'Part Label' = ' ' 
+    PARAM 23 = DELETE                    /* Component Fix flag */

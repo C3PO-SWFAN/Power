@@ -1,0 +1,1032 @@
+
+;
+; The following is an extraction of the NetlistBackAnno.txt file limited
+; to those changes from the last forward annotation that involved changes
+; of reference designator regardless of pin or gate swap within the same part.
+; The exception being a local Common DataBase job which performs an implicit
+; forward annotation after every back annotation.
+; Changes could result from one or more runs of ECO/Renumber Ref Des
+; and/or one or more runs of Route/Swap/Gates and/or one or more runs of
+; Place/Automatic/Swap by Part Number.  If it is desired to document just
+; the changes from one or more runs of ECO/Renumber Ref Des, run Forward
+; Annotation to bring the schematic/netlist into sync with the board,
+; make the runs of ECO/Renumber Ref Des, and then run Back Annotation.
+; The first column represents the old reference designator.
+; The second represents the new reference designator using a tab as a separator
+; since references designators may have included spaces.  Leading spaces have
+; been added to reference designators in order to improve readability
+; NOTICE:
+;
+; 1. The file format is subject to change per product release.
+; 2. The information is valid until the user makes changes that require
+; back annotation.
+; 3. For more complete information on all changes the user should reference
+; the NetlistBackAnno.txt file.
+; 
+;  <Fwd Anno Ref><tab> <New Ref>
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       02:00 PM Tuesday, November 26, 2013
+            Job Name: F:\TEXT  TEM\BOARD_2LAYER\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       02:37 PM Tuesday, November 26, 2013
+            Job Name: F:\TEXT  TEM\BOARD_2LAYER\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       03:22 PM Tuesday, November 26, 2013
+            Job Name: F:\TEXT  TEM\BOARD_2LAYER\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       03:22 PM Tuesday, November 26, 2013
+            Job Name: F:\TEXT  TEM\BOARD_2LAYER\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       03:30 PM Tuesday, November 26, 2013
+            Job Name: F:\TEXT  TEM\BOARD_2LAYER\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       08:11 PM Sunday, February 16, 2014
+            Job Name: F:\TEXT  TEM\BOARD_2LAYER\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      01:42 PM Thursday, September 04, 2014
+             Job Name: F:\TEXT TEM\BOARD_2LAYER\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      08:42 AM Thursday, February 19, 2015
+             Job Name: F:\TEXT TEM\BOARD_2LAYER\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        12:11 PM Thursday, March 26, 2015
+             Job Name: F:\TEXT TEM\BOARD_2LAYER\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        02:03 PM Thursday, July 16, 2015
+             Job Name: F:\TEXT TEM\BOARD_2LAYER\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                         10:30 AM Friday, July 17, 2015
+             Job Name: F:\TEXT TEM\BOARD_2LAYER\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                         10:45 AM Monday, July 20, 2015
+             Job Name: F:\TEXT TEM\BOARD_2LAYER\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       09:34 AM Saturday, January 30, 2016
+             Job Name: F:\TEXT TEM\BOARD_2LAYER\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       09:34 AM Saturday, January 30, 2016
+             Job Name: F:\TEXT TEM\BOARD_2LAYER\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       09:42 AM Saturday, January 30, 2016
+            Job Name: F:\TEXT TEM\BP_300V_TRONKA\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       03:51 PM Saturday, January 30, 2016
+            Job Name: F:\TEXT TEM\BP_300V_TRONKA\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       03:51 PM Saturday, January 30, 2016
+            Job Name: F:\TEXT TEM\BP_300V_TRONKA\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       03:54 PM Saturday, January 30, 2016
+            Job Name: F:\TEXT TEM\BP_300V_TRONKA\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       04:44 PM Saturday, January 30, 2016
+            Job Name: F:\TEXT TEM\BP_300V_TRONKA\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        11:50 AM Sunday, January 31, 2016
+            Job Name: F:\TEXT TEM\BP_300V_TRONKA\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        01:14 PM Sunday, January 31, 2016
+            Job Name: F:\TEXT TEM\BP_300V_TRONKA\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        02:13 PM Sunday, January 31, 2016
+            Job Name: F:\TEXT TEM\BP_300V_TRONKA\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        04:18 PM Sunday, January 31, 2016
+            Job Name: F:\TEXT TEM\BP_300V_TRONKA\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       11:21 AM Monday, February 01, 2016
+            Job Name: F:\TEXT TEM\BP_300V_TRONKA\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       02:51 PM Monday, February 01, 2016
+            Job Name: F:\TEXT TEM\BP_300V_TRONKA\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       04:21 PM Monday, February 01, 2016
+            Job Name: F:\TEXT TEM\BP_300V_TRONKA\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       04:42 PM Monday, February 01, 2016
+            Job Name: F:\TEXT TEM\BP_300V_TRONKA\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       02:31 PM Tuesday, February 02, 2016
+            Job Name: F:\TEXT TEM\BP_300V_TRONKA\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       03:11 PM Tuesday, February 02, 2016
+            Job Name: F:\TEXT TEM\BP_300V_TRONKA\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       04:22 PM Tuesday, February 02, 2016
+            Job Name: F:\TEXT TEM\BP_300V_TRONKA\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       04:47 PM Tuesday, February 02, 2016
+            Job Name: F:\TEXT TEM\BP_300V_TRONKA\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       07:58 PM Tuesday, February 02, 2016
+           Job Name: F:\TEXT  TEM\BP_300V_TRONKA\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       08:01 PM Tuesday, February 02, 2016
+           Job Name: F:\TEXT  TEM\BP_300V_TRONKA\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       10:30 PM Tuesday, February 02, 2016
+           Job Name: F:\TEXT  TEM\BP_300V_TRONKA\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      10:02 AM Wednesday, February 03, 2016
+            Job Name: F:\TEXT TEM\BP_300V_TRONKA\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      10:15 AM Wednesday, February 03, 2016
+            Job Name: F:\TEXT TEM\BP_300V_TRONKA\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      10:25 AM Wednesday, February 03, 2016
+            Job Name: F:\TEXT TEM\BP_300V_TRONKA\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      10:40 AM Wednesday, February 03, 2016
+            Job Name: F:\TEXT TEM\BP_300V_TRONKA\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      01:02 PM Wednesday, February 03, 2016
+            Job Name: F:\TEXT TEM\BP_300V_TRONKA\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      01:06 PM Wednesday, February 03, 2016
+            Job Name: F:\TEXT TEM\BP_300V_TRONKA\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      02:04 PM Wednesday, February 03, 2016
+            Job Name: F:\TEXT TEM\BP_300V_TRONKA\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      02:05 PM Wednesday, February 03, 2016
+            Job Name: F:\TEXT TEM\BP_300V_TRONKA\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      02:29 PM Wednesday, February 03, 2016
+            Job Name: F:\TEXT TEM\BP_300V_TRONKA\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      02:29 PM Wednesday, February 03, 2016
+            Job Name: F:\TEXT TEM\BP_300V_TRONKA\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      02:29 PM Wednesday, February 03, 2016
+            Job Name: F:\TEXT TEM\BP_300V_TRONKA\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      03:35 PM Wednesday, February 03, 2016
+            Job Name: F:\TEXT TEM\BP_300V_TRONKA\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      04:51 PM Wednesday, February 03, 2016
+            Job Name: F:\TEXT TEM\BP_300V_TRONKA\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      08:51 AM Thursday, February 04, 2016
+            Job Name: F:\TEXT TEM\BP_300V_TRONKA\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      08:52 AM Thursday, February 04, 2016
+            Job Name: F:\TEXT TEM\BP_300V_TRONKA\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      09:08 AM Thursday, February 04, 2016
+            Job Name: F:\TEXT TEM\BP_300V_TRONKA\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      09:09 AM Thursday, February 04, 2016
+            Job Name: F:\TEXT TEM\BP_300V_TRONKA\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      04:40 PM Thursday, February 04, 2016
+            Job Name: F:\TEXT TEM\BP_300V_TRONKA\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      04:40 PM Thursday, February 04, 2016
+            Job Name: F:\TEXT TEM\BP_300V_TRONKA\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      04:59 PM Thursday, February 04, 2016
+            Job Name: F:\TEXT TEM\BP_300V_TRONKA\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      06:23 PM Thursday, February 04, 2016
+            Job Name: F:\TEXT TEM\BP_300V_TRONKA\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      06:30 PM Thursday, February 04, 2016
+            Job Name: F:\TEXT TEM\BP_300V_TRONKA\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      06:56 PM Thursday, February 04, 2016
+            Job Name: F:\TEXT TEM\BP_300V_TRONKA\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      06:57 PM Thursday, February 04, 2016
+            Job Name: F:\TEXT TEM\BP_300V_TRONKA\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       09:08 AM Friday, February 05, 2016
+            Job Name: F:\TEXT TEM\BP_300V_TRONKA\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       09:41 AM Friday, February 05, 2016
+            Job Name: F:\TEXT TEM\BP_300V_TRONKA\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       09:41 AM Friday, February 05, 2016
+            Job Name: F:\TEXT TEM\BP_300V_TRONKA\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       10:26 AM Friday, February 05, 2016
+            Job Name: F:\TEXT TEM\BP_300V_TRONKA\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       10:45 AM Friday, February 05, 2016
+            Job Name: F:\TEXT TEM\BP_300V_TRONKA\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       11:08 AM Friday, February 05, 2016
+            Job Name: F:\TEXT TEM\BP_300V_TRONKA\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       11:31 AM Friday, February 05, 2016
+            Job Name: F:\TEXT TEM\BP_300V_TRONKA\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       12:19 PM Friday, February 05, 2016
+            Job Name: F:\TEXT TEM\BP_300V_TRONKA\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       12:19 PM Friday, February 05, 2016
+            Job Name: F:\TEXT TEM\BP_300V_TRONKA\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       12:19 PM Friday, February 05, 2016
+            Job Name: F:\TEXT TEM\BP_300V_TRONKA\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       01:14 PM Friday, February 05, 2016
+            Job Name: F:\TEXT TEM\BP_300V_TRONKA\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       03:36 PM Friday, February 05, 2016
+            Job Name: F:\TEXT TEM\BP_300V_TRONKA\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       04:51 PM Friday, February 05, 2016
+            Job Name: F:\TEXT TEM\BP_300V_TRONKA\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       05:28 PM Friday, February 05, 2016
+            Job Name: F:\TEXT TEM\BP_300V_TRONKA\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       05:33 PM Friday, February 05, 2016
+            Job Name: F:\TEXT TEM\BP_300V_TRONKA\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       05:45 PM Friday, February 05, 2016
+            Job Name: F:\TEXT TEM\BP_300V_TRONKA\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       06:00 PM Friday, February 05, 2016
+            Job Name: F:\TEXT TEM\BP_300V_TRONKA\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       08:04 PM Friday, February 05, 2016
+           Job Name: F:\TEXT  TEM\BP_300V_TRONKA\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       08:20 PM Friday, February 05, 2016
+           Job Name: F:\TEXT  TEM\BP_300V_TRONKA\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       08:20 PM Friday, February 05, 2016
+           Job Name: F:\TEXT  TEM\BP_300V_TRONKA\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      02:39 PM Saturday, February 06, 2016
+            Job Name: F:\TEXT TEM\BP_300V_TRONKA\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------

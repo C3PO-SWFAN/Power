@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                        09:10 PM Thursday, June 04, 2015
+Job Name: D:\lib dx\Work\CellEditorFiles\STANDART SMD PASSIV\0603-STANDART-1608.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                        09:11 PM Thursday, June 04, 2015
+Job Name: D:\lib dx\Work\CellEditorFiles\STANDART SMD PASSIV\0603-STANDART-1608.pcb
+

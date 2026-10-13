@@ -1,0 +1,1385 @@
+
+;
+; The following is an extraction of the NetlistBackAnno.txt file limited
+; to those changes from the last forward annotation that involved changes
+; of reference designator regardless of pin or gate swap within the same part.
+; The exception being a local Common DataBase job which performs an implicit
+; forward annotation after every back annotation.
+; Changes could result from one or more runs of ECO/Renumber Ref Des
+; and/or one or more runs of Route/Swap/Gates and/or one or more runs of
+; Place/Automatic/Swap by Part Number.  If it is desired to document just
+; the changes from one or more runs of ECO/Renumber Ref Des, run Forward
+; Annotation to bring the schematic/netlist into sync with the board,
+; make the runs of ECO/Renumber Ref Des, and then run Back Annotation.
+; The first column represents the old reference designator.
+; The second represents the new reference designator using a tab as a separator
+; since references designators may have included spaces.  Leading spaces have
+; been added to reference designators in order to improve readability
+; NOTICE:
+;
+; 1. The file format is subject to change per product release.
+; 2. The information is valid until the user makes changes that require
+; back annotation.
+; 3. For more complete information on all changes the user should reference
+; the NetlistBackAnno.txt file.
+; 
+;  <Fwd Anno Ref><tab> <New Ref>
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       02:00 PM Tuesday, November 26, 2013
+            Job Name: F:\TEXT  TEM\BOARD_2LAYER\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       02:37 PM Tuesday, November 26, 2013
+            Job Name: F:\TEXT  TEM\BOARD_2LAYER\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       03:22 PM Tuesday, November 26, 2013
+            Job Name: F:\TEXT  TEM\BOARD_2LAYER\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       03:22 PM Tuesday, November 26, 2013
+            Job Name: F:\TEXT  TEM\BOARD_2LAYER\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       03:30 PM Tuesday, November 26, 2013
+            Job Name: F:\TEXT  TEM\BOARD_2LAYER\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       08:11 PM Sunday, February 16, 2014
+            Job Name: F:\TEXT  TEM\BOARD_2LAYER\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      01:42 PM Thursday, September 04, 2014
+             Job Name: F:\TEXT TEM\BOARD_2LAYER\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      08:42 AM Thursday, February 19, 2015
+             Job Name: F:\TEXT TEM\BOARD_2LAYER\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        12:11 PM Thursday, March 26, 2015
+             Job Name: F:\TEXT TEM\BOARD_2LAYER\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        02:03 PM Thursday, July 16, 2015
+             Job Name: F:\TEXT TEM\BOARD_2LAYER\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                         10:30 AM Friday, July 17, 2015
+             Job Name: F:\TEXT TEM\BOARD_2LAYER\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                         10:45 AM Monday, July 20, 2015
+             Job Name: F:\TEXT TEM\BOARD_2LAYER\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       09:34 AM Saturday, January 30, 2016
+             Job Name: F:\TEXT TEM\BOARD_2LAYER\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       09:34 AM Saturday, January 30, 2016
+             Job Name: F:\TEXT TEM\BOARD_2LAYER\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       12:18 PM Wednesday, March 09, 2016
+             Job Name: F:\TEXT TEM\BOARD_2LAYER\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      02:26 PM Wednesday, December 07, 2016
+            Job Name: F:\TEXT  TEM\BOARD_2LAYER\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        03:32 PM Thursday, April 27, 2017
+            Job Name: F:\TEXT  TEM\BOARD_2LAYER\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      10:18 AM Wednesday, January 17, 2018
+             Job Name: F:\TEXT  TEM\T3_COM_D-1\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      10:19 AM Wednesday, January 17, 2018
+             Job Name: F:\TEXT  TEM\T3_COM_D-1\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      10:20 AM Wednesday, January 17, 2018
+             Job Name: F:\TEXT  TEM\T3_COM_D-1\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      11:06 AM Wednesday, January 17, 2018
+             Job Name: F:\TEXT  TEM\T3_COM_D-1\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      11:08 AM Wednesday, January 17, 2018
+             Job Name: F:\TEXT  TEM\T3_COM_D-1\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      11:09 AM Wednesday, January 17, 2018
+             Job Name: F:\TEXT  TEM\T3_COM_D-1\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      11:19 AM Wednesday, January 17, 2018
+             Job Name: F:\TEXT  TEM\T3_COM_D-1\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        11:57 AM Friday, January 19, 2018
+             Job Name: F:\TEXT  TEM\T3_COM_D-1\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        01:53 PM Friday, January 19, 2018
+             Job Name: F:\TEXT  TEM\T3_COM_D-1\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        03:52 PM Friday, January 19, 2018
+             Job Name: F:\TEXT  TEM\T3_COM_D-1\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       01:15 PM Saturday, January 20, 2018
+             Job Name: F:\TEXT  TEM\T3_COM_D-1\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       02:33 PM Saturday, January 20, 2018
+             Job Name: F:\TEXT  TEM\T3_COM_D-1\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       09:32 PM Saturday, January 20, 2018
+             Job Name: F:\TEXT  TEM\T3_COM_D-1\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        09:27 AM Sunday, January 21, 2018
+             Job Name: F:\TEXT  TEM\T3_COM_D-1\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        01:50 PM Sunday, January 21, 2018
+             Job Name: F:\TEXT  TEM\T3_COM_D-1\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        02:11 PM Sunday, January 21, 2018
+             Job Name: F:\TEXT  TEM\T3_COM_D-1\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        02:16 PM Sunday, January 21, 2018
+             Job Name: F:\TEXT  TEM\T3_COM_D-1\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       09:05 AM Tuesday, January 23, 2018
+             Job Name: F:\TEXT  TEM\T3_COM_D-1\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       10:36 AM Thursday, January 25, 2018
+             Job Name: F:\TEXT  TEM\T3_COM_D-1\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       12:28 PM Thursday, January 25, 2018
+             Job Name: F:\TEXT  TEM\T3_COM_D-1\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       12:41 PM Thursday, January 25, 2018
+             Job Name: F:\TEXT  TEM\T3_COM_D-1\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       01:05 PM Thursday, January 25, 2018
+             Job Name: F:\TEXT  TEM\T3_COM_D-1\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        09:11 AM Friday, January 26, 2018
+             Job Name: F:\TEXT  TEM\T3_COM_D-1\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        09:24 AM Friday, January 26, 2018
+             Job Name: F:\TEXT  TEM\T3_COM_D-1\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      10:01 AM Saturday, February 17, 2018
+             Job Name: F:\TEXT  TEM\T3_COM_D-1\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      10:06 AM Saturday, February 17, 2018
+             Job Name: F:\TEXT  TEM\T3_COM_D-1\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      10:10 AM Saturday, February 17, 2018
+             Job Name: F:\TEXT  TEM\T3_COM_D-1\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      11:06 AM Saturday, February 17, 2018
+             Job Name: F:\TEXT  TEM\T3_COM_D-1\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       08:53 AM Tuesday, February 20, 2018
+             Job Name: F:\TEXT  TEM\T3_COM_D-1\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      09:12 AM Wednesday, February 21, 2018
+             Job Name: F:\TEXT  TEM\T3_COM_D-1\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      10:33 AM Wednesday, February 21, 2018
+             Job Name: F:\TEXT  TEM\T3_COM_D-1\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      11:45 AM Wednesday, February 21, 2018
+             Job Name: F:\TEXT  TEM\T3_COM_D-1\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      12:36 PM Wednesday, February 21, 2018
+             Job Name: F:\TEXT  TEM\T3_COM_D-1\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      01:42 PM Wednesday, February 21, 2018
+             Job Name: F:\TEXT  TEM\T3_COM_D-1\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      02:40 PM Wednesday, February 21, 2018
+             Job Name: F:\TEXT  TEM\T3_COM_D-1\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      02:40 PM Wednesday, February 21, 2018
+             Job Name: F:\TEXT  TEM\T3_COM_D-1\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      02:40 PM Wednesday, February 21, 2018
+             Job Name: F:\TEXT  TEM\T3_COM_D-1\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      03:09 PM Wednesday, February 21, 2018
+             Job Name: F:\TEXT  TEM\T3_COM_D-1\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      03:29 PM Wednesday, February 21, 2018
+             Job Name: F:\TEXT  TEM\T3_COM_D-1\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      04:06 PM Wednesday, February 21, 2018
+             Job Name: F:\TEXT  TEM\T3_COM_D-1\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      12:49 PM Thursday, February 22, 2018
+             Job Name: F:\TEXT  TEM\T3_COM_D-1\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      02:00 PM Thursday, February 22, 2018
+             Job Name: F:\TEXT  TEM\T3_COM_D-1\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      04:18 PM Thursday, February 22, 2018
+             Job Name: F:\TEXT  TEM\T3_COM_D-1\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       09:34 AM Friday, February 23, 2018
+             Job Name: F:\TEXT  TEM\T3_COM_D-1\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       09:34 AM Friday, February 23, 2018
+             Job Name: F:\TEXT  TEM\T3_COM_D-1\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       09:43 AM Friday, February 23, 2018
+             Job Name: F:\TEXT  TEM\T3_COM_D-1\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       10:44 AM Friday, February 23, 2018
+             Job Name: F:\TEXT  TEM\T3_COM_D-1\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       10:44 AM Friday, February 23, 2018
+             Job Name: F:\TEXT  TEM\T3_COM_D-1\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       10:45 AM Friday, February 23, 2018
+             Job Name: F:\TEXT  TEM\T3_COM_D-1\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       11:22 AM Sunday, February 25, 2018
+             Job Name: F:\TEXT  TEM\T3_COM_D-1\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       11:36 AM Sunday, February 25, 2018
+             Job Name: F:\TEXT  TEM\T3_COM_D-1\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       11:46 AM Sunday, February 25, 2018
+             Job Name: F:\TEXT  TEM\T3_COM_D-1\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       12:12 PM Sunday, February 25, 2018
+             Job Name: F:\TEXT  TEM\T3_COM_D-1\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       12:44 PM Sunday, February 25, 2018
+             Job Name: F:\TEXT  TEM\T3_COM_D-1\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       12:56 PM Sunday, February 25, 2018
+             Job Name: F:\TEXT  TEM\T3_COM_D-1\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       01:01 PM Sunday, February 25, 2018
+             Job Name: F:\TEXT  TEM\T3_COM_D-1\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       01:02 PM Sunday, February 25, 2018
+             Job Name: F:\TEXT  TEM\T3_COM_D-1\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       09:01 PM Sunday, February 25, 2018
+             Job Name: F:\TEXT  TEM\T3_COM_D-1\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       09:13 PM Sunday, February 25, 2018
+             Job Name: F:\TEXT  TEM\T3_COM_D-1\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       09:27 PM Sunday, February 25, 2018
+             Job Name: F:\TEXT  TEM\T3_COM_D-1\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       09:37 PM Sunday, February 25, 2018
+             Job Name: F:\TEXT  TEM\T3_COM_D-1\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       09:44 PM Sunday, February 25, 2018
+             Job Name: F:\TEXT  TEM\T3_COM_D-1\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       09:47 PM Sunday, February 25, 2018
+             Job Name: F:\TEXT  TEM\T3_COM_D-1\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       09:49 PM Sunday, February 25, 2018
+             Job Name: F:\TEXT  TEM\T3_COM_D-1\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       09:50 PM Sunday, February 25, 2018
+             Job Name: F:\TEXT  TEM\T3_COM_D-1\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       09:50 PM Sunday, February 25, 2018
+             Job Name: F:\TEXT  TEM\T3_COM_D-1\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       03:26 PM Monday, February 26, 2018
+             Job Name: F:\TEXT  TEM\T3_COM_D-1\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       04:13 PM Monday, February 26, 2018
+             Job Name: F:\TEXT  TEM\T3_COM_D-1\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       04:23 PM Monday, February 26, 2018
+             Job Name: F:\TEXT  TEM\T3_COM_D-1\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       07:56 PM Monday, February 26, 2018
+             Job Name: F:\TEXT  TEM\T3_COM_D-1\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       08:43 PM Monday, February 26, 2018
+             Job Name: F:\TEXT  TEM\T3_COM_D-1\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       09:17 AM Tuesday, February 27, 2018
+             Job Name: F:\TEXT  TEM\T3_COM_D-1\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       09:54 AM Tuesday, February 27, 2018
+             Job Name: F:\TEXT  TEM\T3_COM_D-1\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       10:28 AM Tuesday, February 27, 2018
+             Job Name: F:\TEXT  TEM\T3_COM_D-1\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       11:03 AM Tuesday, February 27, 2018
+             Job Name: F:\TEXT  TEM\T3_COM_D-1\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       12:01 PM Tuesday, February 27, 2018
+             Job Name: F:\TEXT  TEM\T3_COM_D-1\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       12:02 PM Tuesday, February 27, 2018
+             Job Name: F:\TEXT  TEM\T3_COM_D-1\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       08:27 PM Tuesday, February 27, 2018
+             Job Name: F:\TEXT  TEM\T3_COM_D-1\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       08:27 PM Tuesday, February 27, 2018
+             Job Name: F:\TEXT  TEM\T3_COM_D-1\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       08:40 PM Tuesday, February 27, 2018
+             Job Name: F:\TEXT  TEM\T3_COM_D-1\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       08:40 PM Tuesday, February 27, 2018
+             Job Name: F:\TEXT  TEM\T3_COM_D-1\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       08:50 PM Tuesday, February 27, 2018
+             Job Name: F:\TEXT  TEM\T3_COM_D-1\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      09:06 AM Wednesday, February 28, 2018
+             Job Name: F:\TEXT  TEM\T3_COM_D-1\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      10:31 AM Wednesday, February 28, 2018
+             Job Name: F:\TEXT  TEM\T3_COM_D-1\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      11:25 AM Wednesday, February 28, 2018
+             Job Name: F:\TEXT  TEM\T3_COM_D-1\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      11:53 AM Wednesday, February 28, 2018
+             Job Name: F:\TEXT  TEM\T3_COM_D-1\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      12:57 PM Wednesday, February 28, 2018
+             Job Name: F:\TEXT  TEM\T3_COM_D-1\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      01:45 PM Wednesday, February 28, 2018
+             Job Name: F:\TEXT  TEM\T3_COM_D-1\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      01:46 PM Wednesday, February 28, 2018
+             Job Name: F:\TEXT  TEM\T3_COM_D-1\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      01:46 PM Wednesday, February 28, 2018
+             Job Name: F:\TEXT  TEM\T3_COM_D-1\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      02:47 PM Wednesday, February 28, 2018
+             Job Name: F:\TEXT  TEM\T3_COM_D-1\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      02:47 PM Wednesday, February 28, 2018
+             Job Name: F:\TEXT  TEM\T3_COM_D-1\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      02:48 PM Wednesday, February 28, 2018
+             Job Name: F:\TEXT  TEM\T3_COM_D-1\PCB\BOARD_2LAYER.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------

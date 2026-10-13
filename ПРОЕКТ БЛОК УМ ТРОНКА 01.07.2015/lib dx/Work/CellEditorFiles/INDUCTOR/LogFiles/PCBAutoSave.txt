@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                         06:16 PM Saturday, May 09, 2015
+          Job Name: D:\lib dx\Work\CellEditorFiles\INDUCTOR\SR0905.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                         06:16 PM Saturday, May 09, 2015
+          Job Name: D:\lib dx\Work\CellEditorFiles\INDUCTOR\SR0905.pcb
+

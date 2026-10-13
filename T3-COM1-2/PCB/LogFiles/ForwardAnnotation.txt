@@ -1,0 +1,221 @@
+
+                               Forward Annotation
+                               ------------------
+
+                         09:04 AM Tuesday, May 15, 2018
+          Job Name: F:\TT18\GA\TRONCA-3\T3-COM1-2\PCB\BOARD_2LAYER.pcb
+
+
+Version:  01.01.00
+
+     A new Target PDB will be created from the Central Library to satisfy the parts
+      requirements of the iCDB.
+
+     The schematic source is a Common Data Base.
+
+     The AllowAlphaRefDes status indicates that reference
+      designators containing all alpha characters should be deleted
+      and the relevant symbols repackaged.
+
+
+
+     Common Data Base has been read
+
+     Target PDB Name: Work\Layout_Temp\PartsDB.pdb
+
+     Number of Part Numbers: 87
+          Part Numb: ACPL-247-500E -> Vend Part: ACPL-247-500E 
+          Part Numb: ACS724KMATR-65AB-T -> Vend Part: ACS724KMATR-65AB-T 
+          Part Numb: ADG736BRMZ-REEL7 -> Vend Part: ADG736BRMZ-REEL7 
+          Part Numb: ADM1087AKSZ-REEL7 -> Vend Part: ADM1087AKSZ-REEL7 
+          Part Numb: AD1582BRTZ-REEL7 -> Vend Part: AD1582BRTZ-REEL7 
+          Part Numb: APT2012CGCK -> Vend Part: APT2012CGCK 
+          Part Numb: APT2012SRCPRV -> Vend Part: APT2012SRCPRV 
+          Part Numb: CC0805KKX7R7BB105 -> Vend Part: CC0805KKX7R7BB105 
+          Part Numb: CL10B104KB8SFNC -> Vend Part: CL10B104KB8SFNC 
+          Part Numb: CL10C010BB8NNNC -> Vend Part: CL10C010BB8NNNC 
+          Part Numb: CL21B106KOQNNNE -> Vend Part: CL21B106KOQNNNE 
+          Part Numb: CL21B225KOFNNNE -> Vend Part: CL21B225KOFNNNE 
+          Part Numb: CL32B475KCVZW6E -> Vend Part: CL32B475KCVZW6E 
+          Part Numb: CRCW251222K0JNEG -> Vend Part: CRCW251222K0JNEG 
+          Part Numb: CRM2512-FX-R100ELF -> Vend Part: CRM2512-FX-R100ELF 
+          Part Numb: C0805C822K5RACTU -> Vend Part: C0805C822K5RACTU 
+          Part Numb: C1206C104K1RACTU -> Vend Part: C1206C104K1RACTU 
+          Part Numb: C1808X102KHRACTU -> Vend Part: C1808X102KHRACTU 
+          Part Numb: DCP020507U -> Vend Part: DCP020507U 
+          Part Numb: ERJ-3EKF10R0V -> Vend Part: ERJ-3EKF10R0V 
+          Part Numb: ERJ-3EKF10R7V -> Vend Part: ERJ-3EKF10R7V 
+          Part Numb: ERJ-3EKF1022V -> Vend Part: ERJ-3EKF1022V 
+          Part Numb: ERJ-3EKF2000V -> Vend Part: ERJ-3EKF2000V 
+          Part Numb: ERJ-3EKF2052V -> Vend Part: ERJ-3EKF2052V 
+          Part Numb: ERJ-3EKF2100V -> Vend Part: ERJ-3EKF2100V 
+          Part Numb: ERJ-3EKF3401V -> Vend Part: ERJ-3EKF3401V 
+          Part Numb: ERJ-3EKF3403V -> Vend Part: ERJ-3EKF3403V 
+          Part Numb: ERJ-3EKF4701V -> Vend Part: ERJ-3EKF4701V 
+          Part Numb: ERJ-3EKF5362V -> Vend Part: ERJ-3EKF5362V 
+          Part Numb: ERJ-3EKF6190V -> Vend Part: ERJ-3EKF6190V 
+          Part Numb: ERJ-3EKF6200V -> Vend Part: ERJ-3EKF6200V 
+          Part Numb: ERJ-3GEY0R00V -> Vend Part: ERJ-3GEY0R00V 
+          Part Numb: ERJ-6ENF2401V -> Vend Part: ERJ-6ENF2401V 
+          Part Numb: ERJ-6GEYJ471V -> Vend Part: ERJ-6GEYJ471V 
+          Part Numb: ERJ-8GEYJ203V -> Vend Part: ERJ-8GEYJ203V 
+          Part Numb: ERJ-14NF51R1U -> Vend Part: ERJ-14NF51R1U 
+          Part Numb: GRM32DR71E106KA12L -> Vend Part: GRM32DR71E106KA12L 
+          Part Numb: GRM1885C1H100JA01D -> Vend Part: GRM1885C1H100JA01D 
+          Part Numb: GRM1885C1H102JA01D -> Vend Part: GRM1885C1H102JA01D 
+          Part Numb: GRM2165C1H222JA01D -> Vend Part: GRM2165C1H222JA01D 
+          Part Numb: LMH6642MF/NOPB -> Vend Part: LMH6642MF/NOPB 
+          Part Numb: LMH6644MAX/NOPB -> Vend Part: LMH6644MAX/NOPB 
+          Part Numb: LMH6644MAX/NOPB_1 -> Vend Part: LMH6644MAX/NOPB_1 
+          Part Numb: LM2776DBVR -> Vend Part: LM2776DBVR 
+          Part Numb: MCR25JZHJ000 -> Vend Part: MCR25JZHJ000 
+          Part Numb: MGSHV-0_2-D1_6xd0.62_d1_7 -> Vend Part: MGSHV-0_2-D1_6xd0.62_d1_7 
+          Part Numb: MGSHV-0_12-D1_3xd0.45 -> Vend Part: MGSHV-0_12-D1_3xd0.45 
+          Part Numb: MMZ1608A182B -> Vend Part: MMZ1608A182B 
+          Part Numb: MMZ1608S102A -> Vend Part: MMZ1608S102A 
+          Part Numb: MOCD207R2M -> Vend Part: MOCD207R2M 
+          Part Numb: M80-5102642 -> Vend Part: M80-5102642 
+          Part Numb: NCP5501DT50RKG -> Vend Part: NCP5501DT50RKG 
+          Part Numb: NLFV32T-1R0M-EF -> Vend Part: NLFV32T-1R0M-EF 
+          Part Numb: PDQ10-Q48-S5-D -> Vend Part: PDQ10-Q48-S5-D 
+          Part Numb: PTVS3V3P1UP,115 -> Vend Part: PTVS3V3P1UP,115 
+          Part Numb: PTVS45VP1UP,115 -> Vend Part: PTVS45VP1UP,115 
+          Part Numb: QBLP631-IW -> Vend Part: QBLP631-IW 
+          Part Numb: RT314005 -> Vend Part: RT314005 
+          Part Numb: SBH11-PBPC-D08-ST-BK -> Vend Part: SBH11-PBPC-D08-ST-BK 
+          Part Numb: SBH11-PBPC-D10-ST-BK -> Vend Part: SBH11-PBPC-D10-ST-BK 
+          Part Numb: SI8620EC-B-IS -> Vend Part: SI8620EC-B-IS 
+          Part Numb: SN74ABT245BNSR -> Vend Part: SN74ABT245BNSR 
+          Part Numb: SN74ABT640PWR -> Vend Part: SN74ABT640PWR 
+          Part Numb: SN74AHCT1G00DBVR -> Vend Part: SN74AHCT1G00DBVR 
+          Part Numb: SN74AHC574PWR -> Vend Part: SN74AHC574PWR 
+          Part Numb: SN74LVC1G00DBVR -> Vend Part: SN74LVC1G00DBVR 
+          Part Numb: SN74LVC1G08DBVR -> Vend Part: SN74LVC1G08DBVR 
+          Part Numb: SN74LVC1G27DBVR -> Vend Part: SN74LVC1G27DBVR 
+          Part Numb: SPC02SVJN-RC-3POS -> Vend Part: SPC02SVJN-RC-3POS 
+          Part Numb: SRF0905-100Y -> Vend Part: SRF0905-100Y 
+          Part Numb: SRP6540-220M -> Vend Part: SRP6540-220M 
+          Part Numb: STPS3L60U -> Vend Part: STPS3L60U 
+          Part Numb: TLV3701QDBVRG4Q1 -> Vend Part: TLV3701QDBVRG4Q1 
+          Part Numb: UDZSTE-173.0B -> Vend Part: UDZSTE-173.0B 
+          Part Numb: UDZSTE-175.1B -> Vend Part: UDZSTE-175.1B 
+          Part Numb: UHE1H102MHD6_1 -> Vend Part: UHE1H102MHD6_1 
+          Part Numb: ULN2003ADR -> Vend Part: ULN2003ADR 
+          Part Numb: 1N4148W-7-F -> Vend Part: 1N4148W-7-F 
+          Part Numb: 5010 -> Vend Part: 5010 
+          Part Numb: 5011 -> Vend Part: 5011 
+          Part Numb: 5013 -> Vend Part: 5013 
+          Part Numb: 5125 -> Vend Part: 5125 
+          Part Numb: 5126 -> Vend Part: 5126 
+          Part Numb: 7914G-1-000E -> Vend Part: 7914G-1-000E 
+          Part Numb: 0039281043 -> Vend Part: 0039281043 
+          Part Numb: 0039281063 -> Vend Part: 0039281063 
+          Part Numb: 0039301040 -> Vend Part: 0039301040 
+
+     Number of Part Names: 0
+
+     Number of Part Labels: 0
+
+
+     Checking for value differences between symbol properties and PartsDB properties
+
+     Checking the validity of the packaging of prepackaged schematic
+      symbols.  Only the first error in symbols having the same
+      Reference Designator will be reported.
+
+     The packaging of all prepackaged schematic symbols is consistent
+      with the Parts DataBase data for the cross mapping of
+      symbol pin names to Part Number pin numbers.
+      Symbols that were not prepackaged will now be packaged correctly.
+      
+     No errors in Existing Schematic Packaging.
+
+     INFO: Cell (_VB_DRILL_DRAWING_)THRU is not in Central Library - Using local library.
+
+     INFO: Cell (_VB_DRILL_SYMBOLS_)THRU is not in Central Library - Using local library.
+
+     The Common DataBase has been read and will be packaged.
+     Clustering 631 Symbols:
+             631  ******************************
+             600  **************************************************
+             550  **************************************************
+             500  **************************************************
+             450  **************************************************
+             400  **************************************************
+             350  **************************************************
+             300  **************************************************
+             250  **************************************************
+             200  **************************************************
+             150  **************************************************
+             100  **************************************************
+              50  **************************************************
+     Clustering is Complete
+
+     Packager Assignments successfully completed
+
+
+
+     375 nets were found containing 1729 pins
+     625 components were found
+
+     Creating a formatted Schematic Netlist (LogFiles\SchematicNetlist.txt)...
+     A formatted Schematic Netlist has been created.
+
+     The Logic DataBase has been compiled from the Schematic Design.
+      Use Netload to bring the Component Design into sync.
+
+     Logic Data has been successfully Compiled with no errors or warnings.
+      Please proceed with your component Design.
+                                     NetLoad
+                                     -------
+
+                         09:05 AM Tuesday, May 15, 2018
+          Job Name: F:\TT18\GA\TRONCA-3\T3-COM1-2\PCB\BOARD_2LAYER.pcb
+
+
+Version:  02.11.12
+
+	Netloading the Layout.  Unused components will be changed to spares.
+
+	Unconnected pins will be set to net "(Net0)".
+
+	Schematic reference designator changes will be forward annotated.
+
+
+     Netload completed successfully with 0 warning(s).
+     
+     Back Annotating...
+
+  Updating Logic Database...
+
+     Version:  99.00.05
+
+     No changes made to Existing Schematic Packaging.
+
+
+     There is no symbol data to be back annotated to the schematic source.
+
+
+     The Logic DataBase has been updated and the Common DataBase has
+      automatically been brought into sync with the Logic DataBase.
+      Please proceed with your design.
+
+     Finished updating the Logic Database.
+
+     Creating a formatted Schematic Netlist (LogFiles\AfterBakAnnoNetlist.txt)...
+     A formatted Schematic Netlist has been created.
+
+     Creating a new netlist text file (LogFiles\KeyinNetList.txt)
+      from the Logic Database (Work\Layout_Temp\LogicDB.lgc)...
+  A new netlist text file has been generated.
+
+
+
+                 Beginning Netload on the Layout Design.
+           ---------------------------------------------------
+
+Forward-Annotation on the Layout Design has been successfully completed.
+
+There were 0 reassignments of nets.
+There were 0 traces broken back.
+There were 0 nets removed from the Layout Design.

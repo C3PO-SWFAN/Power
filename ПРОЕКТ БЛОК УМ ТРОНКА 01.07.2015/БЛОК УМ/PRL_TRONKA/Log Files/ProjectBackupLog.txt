@@ -1,0 +1,22 @@
+[2015-06-14 09.54.48] -------------------- CREATE --------------------
+[2015-06-14 09.54.48] Creating Project Backup infrastructure for project [F:\TEXT  TEM\PRL_TRONKA\PRL_TRONKA.prj].
+[2015-06-14 09.54.48] Successfully created [AutoSave] backup [2015-06-14 09.54.48 - auto.zip] requested by [VOLODYMYR:V1].
+[2015-06-14 13.54.48] Successfully created [AutoSave] backup [2015-06-14 13.54.48 - auto.zip] requested by [VOLODYMYR:V1].
+[2015-06-14 18.37.28] Successfully created [AutoSave] backup [2015-06-14 18.37.28 - auto.zip] requested by [VOLODYMYR:V1].
+[2015-06-15 08.51.10] Successfully created [Constraints Definition Upgrade] backup [2015-06-15 08.51.10 - consDefUpgr.zip] requested by [NIO13_PC1:User].
+[2015-06-15 08.51.10] Migrated iCDB content backup file [cdbback\2015-06-15 08.51.10-3252.zip] removed.
+[2015-06-15 08.53.45] Successfully created [AutoSave] backup [2015-06-15 08.53.45 - auto.zip] requested by [NIO13_PC1:User].
+[2015-06-15 08.53.45] Removing excessive [AutoSave] backup file [F:\TEXT TEM\PRL_TRONKA\ProjectBackup\backups\2015-06-14 09.54.48 - auto.zip].
+[2015-06-15 08.53.45] [AutoSave] backup file [PRL_TRONKA\ProjectBackup\backups\2015-06-14 09.54.48 - auto.zip] removed.
+[2015-06-15 12.53.45] Successfully created [AutoSave] backup [2015-06-15 12.53.45 - auto.zip] requested by [NIO13_PC1:User].
+[2015-06-15 12.53.45] Removing excessive [AutoSave] backup file [F:\TEXT TEM\PRL_TRONKA\ProjectBackup\backups\2015-06-14 13.54.48 - auto.zip].
+[2015-06-15 12.53.45] [AutoSave] backup file [PRL_TRONKA\ProjectBackup\backups\2015-06-14 13.54.48 - auto.zip] removed.
+[2015-06-16 08.53.59] Successfully created [AutoSave] backup [2015-06-16 08.53.59 - auto.zip] requested by [NIO13_PC1:User].
+[2015-06-16 08.53.59] Removing excessive [AutoSave] backup file [F:\TEXT TEM\PRL_TRONKA\ProjectBackup\backups\2015-06-14 18.37.28 - auto.zip].
+[2015-06-16 08.53.59] [AutoSave] backup file [PRL_TRONKA\ProjectBackup\backups\2015-06-14 18.37.28 - auto.zip] removed.
+[2015-06-16 12.54.00] Successfully created [AutoSave] backup [2015-06-16 12.53.59 - auto.zip] requested by [NIO13_PC1:User].
+[2015-06-16 12.54.00] Removing excessive [AutoSave] backup file [F:\TEXT TEM\PRL_TRONKA\ProjectBackup\backups\2015-06-15 08.53.45 - auto.zip].
+[2015-06-16 12.54.00] [AutoSave] backup file [PRL_TRONKA\ProjectBackup\backups\2015-06-15 08.53.45 - auto.zip] removed.
+[2015-06-17 09.30.31] Successfully created [AutoSave] backup [2015-06-17 09.30.31 - auto.zip] requested by [NIO13_PC1:User].
+[2015-06-17 09.30.31] Removing excessive [AutoSave] backup file [F:\TEXT TEM\PRL_TRONKA\ProjectBackup\backups\2015-06-15 12.53.45 - auto.zip].
+[2015-06-17 09.30.31] [AutoSave] backup file [PRL_TRONKA\ProjectBackup\backups\2015-06-15 12.53.45 - auto.zip] removed.

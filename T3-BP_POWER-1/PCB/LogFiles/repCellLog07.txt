@@ -1,0 +1,38 @@
+=======================================================================
+Expedition PCB - Pinnacle - Version 2013.0.540.971
+=======================================================================
+
+RELOAD CELLS
+
+Job Directory:  F:\TEXT  TEM\T3-BP_POWER-1\PCB\
+
+
+Design Units:(mm)
+
+Replace Cell Log:   repCellLog07.txt
+
+Sun Dec 17 13:52:56 2017
+
+Reference Designator            Cell Name                         New Cell Name
+===============================================================================
+
+
+---------------  RELOAD CELLS  Sun Dec 17 13:52:56 2017  ---------------
+
+
+
+
+---------------  RELOAD CELLS TMP  Sun Dec 17 13:52:56 2017  ---------------
+
+
+L1                              SC-J_SC-JH_WE-SMB_UNIVER          SC-J_SC-JH_WE-SMB_UNIVER        
+
+
+---------------    Sun Dec 17 13:52:56 2017  ---------------
+
+
+
+
+---------------    Sun Dec 17 13:52:56 2017  ---------------
+
+

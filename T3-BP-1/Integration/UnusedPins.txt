@@ -1,0 +1,8 @@
+
+Schematic unused pins from : Packager  18-Dec-2017  08:53
+
+------------------------------------------------------------------------
+            Part/Reference             |          Unused pins
+                                       |  (G) - Gate, (P) - Partial Gate
+------------------------------------------------------------------------
+ Part ERJ-3GEY0R00V                    |

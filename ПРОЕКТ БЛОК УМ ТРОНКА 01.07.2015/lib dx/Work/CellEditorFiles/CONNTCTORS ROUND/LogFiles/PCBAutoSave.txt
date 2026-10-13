@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                         08:08 PM Sunday, June 28, 2015
+Job Name: D:\lib dx\Work\CellEditorFiles\CONNTCTORS ROUND\ROUND_24PINd27_6_INV.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                         08:10 PM Sunday, June 28, 2015
+Job Name: D:\lib dx\Work\CellEditorFiles\CONNTCTORS ROUND\ROUND_24PINd27_6_INV.pcb
+

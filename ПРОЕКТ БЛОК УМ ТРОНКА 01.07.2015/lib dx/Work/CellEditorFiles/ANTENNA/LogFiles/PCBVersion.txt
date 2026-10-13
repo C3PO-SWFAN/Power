@@ -1,0 +1,16 @@
+Cell Editor Version: 2012.0.514.029
+
+
+
+Environment Variables:
+----------------------
+VALOR_ENV_FILE = "C:\MentorGraphics\7.9.4EE\SDD_HOME\Valor_NPI\env"
+HOMEDRIVE = "E:"
+HOMEPATH = "\Documents and Settings\A"
+MGC_HOME = "C:\MentorGraphics\7.9.4EE\MGC_HOME.ixn"
+MGC_TMPDIR = "E:\DOCUME~1\A\LOCALS~1\Temp"
+OS = "Windows_NT"
+PATH = "C:\MentorGraphics\7.9.4EE\SDD_HOME\common\win32\bin;C:\MentorGraphics\7.9.4EE\SDD_HOME\common\win32\lib;E:\cygwin-1.7.9DMS\bin;C:\MentorGraphics\7.9.4EE\MGC_HOME.ixn\bin;C:\MentorGraphics\7.9.4EE\MGC_HOME.ixn\lib;E:\WINDOWS\system32;E:\WINDOWS;E:\WINDOWS\System32\Wbem;"
+SDD_HOME = "C:\MentorGraphics\7.9.4EE\SDD_HOME"
+TEMP = "E:\DOCUME~1\A\LOCALS~1\Temp"
+TMP = "E:\DOCUME~1\A\LOCALS~1\Temp"

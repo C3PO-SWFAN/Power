@@ -1,0 +1,11 @@
+
+                                   IDF Export
+                                   ----------
+
+                        12:48 PM Wednesday, May 16, 2018
+          Job Name: F:\TT18\GA\TRONCA-3\T3-COM1-2F\PCB\BOARD_2LAYER.pcb
+
+    Creating IDF 3.0 file.    
+    ----------------------    
+        
+    Successfully created IDF file with no warnings.

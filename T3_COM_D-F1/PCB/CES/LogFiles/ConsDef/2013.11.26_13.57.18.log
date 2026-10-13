@@ -1,0 +1,19 @@
+Tue Nov 26 13:57:18 2013
+
+Project path: D:\lib dx\Templates\Layout\4 Layer Template\keyin.icdb
+
+Loaded cns info: C:\mentorgraphics\7.9.4EE\SDD_HOME\standard\ce_ee.cns=7.10.24;D:\WDIR\user.cns=13c3-d235-cdd4-ffd2-f127-4704-2274-7050-a5ca-3ad9-497a-d97a
+Before global upgrade from version: 7.10.22 to version: 7.10.24
+
+Constraints definition "DSN_DESIGN_CENTER" added.
+BeforeGlobalUpgrade took 0ms, 0s
+
+Upgrade snapshot PCB
+UpgradeSnapshot took 0ms, 0s
+
+Upgrade snapshot PCB_Layout_Temp
+UpgradeSnapshot took 0ms, 0s
+
+After global upgrade
+AfterGlobalUpgrade took 0ms, 0s
+

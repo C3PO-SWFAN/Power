@@ -1,0 +1,149 @@
+
+Schematic unused pins from : Packager  27-Jun-2015  12:26
+
+------------------------------------------------------------------------
+            Part/Reference             |          Unused pins
+                                       |  (G) - Gate, (P) - Partial Gate
+------------------------------------------------------------------------
+ Part ACPL-247-500E                    |
+ Part ADG719BRTZ-REEL7                 |
+ Part ADG736BRMZ-REEL7                 |
+  D34                                  | (P)  2 7
+ Part ADM1086AKSZ-REEL7                |
+ Part ADM1087AKSZ-REEL7                |
+ Part APT2012CGCK                      |
+ Part APT2012SRCPRV                    |
+ Part BA00DD0WHFP-TR                   |
+ Part CDBC580-G                        |
+ Part CD4041UBM                        |
+  D4                                   | (P)  2 12
+ Part CMR5H-06 TR13                    |
+ Part CRCW251275K0JNEG                 |
+ Part CRCW2512160KJNEG                 |
+ Part C2220C102JZGACTU                 |
+ Part C3216X5R1E106M085AC              |
+ Part C3216X5R1E476M160AC              |
+ Part C3216X7R1H334M160AA              |
+ Part C3216X7T2W104M160AE              |
+ Part C3225X7S1H106M250AB              |
+ Part C3225X7T2J104K160AC              |
+ Part C5750X6S2W225K250KA              |
+ Part D26d8H13                         |
+ Part ERJ-3GEYJ472V                    |
+ Part ERJ-6ENF28R7V                    |
+ Part ERJ-6ENF1302V                    |
+ Part ERJ-6ENF1472V                    |
+ Part ERJ-6ENF1690V                    |
+ Part ERJ-6ENF1962V                    |
+ Part ERJ-6ENF2000V                    |
+ Part ERJ-6ENF2001V                    |
+ Part ERJ-6ENF2101V                    |
+ Part ERJ-6ENF2401V                    |
+ Part ERJ-6ENF2671V                    |
+ Part ERJ-6ENF2872V                    |
+ Part ERJ-6ENF2873V                    |
+ Part ERJ-6ENF3901V                    |
+ Part ERJ-6ENF4221V                    |
+ Part ERJ-6ENF4321V                    |
+ Part ERJ-6ENF4322V                    |
+ Part ERJ-6ENF4530V                    |
+ Part ERJ-6ENF4531V                    |
+ Part ERJ-6ENF6040V                    |
+ Part ERJ-6ENF6651V                    |
+ Part ERJ-6ENF7681V                    |
+ Part ERJ-6ENF7871V                    |
+ Part ERJ-6GEYJ152V                    |
+ Part ERJ-6GEYJ161V                    |
+ Part ERJ-6GEYJ203V                    |
+ Part ERJ-6GEYJ301V                    |
+ Part ERJ-6GEYJ471V                    |
+ Part ERJ-6GEYJ472V                    |
+ Part ERJ-6GEYJ622V                    |
+ Part ERJ-6GEY0R00V                    |
+ Part ERJ-8ENF3000V                    |
+ Part ERJ-8ENF3480V                    |
+ Part ERJ-8ENF5100V                    |
+ Part ERJ-8ENF9762V                    |
+ Part ERJ-8GEYJ2R2V                    |
+ Part ERJ-8GEYJ100V                    |
+ Part ERJ-8GEYJ182V                    |
+ Part ERJ-8GEYJ330V                    |
+ Part ERJ-8GEYJ331V                    |
+ Part ERJ-8GEYJ472V                    |
+ Part ERJ-8GEY0R00V                    |
+ Part ERJ-8RQJ4R7V                     |
+ Part ERJ-14NF33R2U                    |
+ Part ERJ-14NF1691U                    |
+ Part ERJ-14NF2870U                    |
+ Part ERJ-14NF6650U                    |
+ Part ERJ-14NF6980U                    |
+ Part ERJ-14YJ200U                     |
+ Part ERJ-14YJ514U                     |
+ Part GRM31CR71H105KA61L               |
+ Part GRM31CR71H225KA88L               |
+ Part GRM31MR71C225KA35L               |
+ Part GRM32DR71E106KA12L               |
+ Part GRM32ER71E226KE15L               |
+ Part GRM188R71H104KA93D               |
+ Part GRM188R71H272KA01D               |
+ Part GRM216R71H103KA01D               |
+ Part GRM216R71H223KA01D               |
+ Part GRM1885C1H100JA01D               |
+ Part GRM1885C1H471JA01D               |
+ Part GRM2165C1H222JA01D               |
+ Part IRGP30B120KD-EP                  |
+ Part IR2114SSPBF                      |
+  D1                                   | (P)  13 14 15 16 17 22
+  D2                                   | (P)  13 14 15 16 17 22
+ Part KDZTR10B                         |
+ Part KDZTR20B                         |
+ Part LM1117IMP-5.0/NOPB               |
+ Part LTC2913IMS-2#PBF                 |
+ Part MAL214658471E3                   |
+ Part MB2S                             |
+ Part MCR25JZHJ000                     |
+ Part MEE1S1509DC                      |
+ Part MEJ2S1509SC                      |
+ Part MGSHV-0_2-D1_6xd0.62             |
+ Part MMZ1608A182B                     |
+ Part MMZ1608S102A                     |
+ Part MMZ1608Y601B                     |
+ Part MOCD207R2M                       |
+ Part MPZ1608S221A_1                   |
+ Part MURS160-13-F                     |
+ Part NLFV32T-4R7M-EF                  |
+ Part PTVS16VP1UP,115                  |
+ Part P6SMB400CA                       |
+ Part R73TR2470SE00J                   |
+ Part SN74ABT245BNSR                   |
+ Part SN74HC00DR                       |
+ Part SN74HC21DR                       |
+  D37                                  | (P)  3 11
+ Part SN74LVC1G00DBVR                  |
+ Part SN74LVC1G08DBVR                  |
+ Part SN74LVC2G08DCTR                  |
+ Part SPM15-150-Q12P-C                 |
+ Part TLP2160(F)                       |
+ Part TPSE476M035R0200                 |
+ Part TRONKA_L_1                       |
+ Part TRONKA_T_2                       |
+ Part UDZSTE-173.0B                    |
+ Part UDZSTE-175.6B                    |
+ Part VLF10040T-100M3R8                |
+ Part 1-1879022-9                      |
+ Part 1N4148W-7-F                      |
+ Part 3-1437646-3                      |
+ Part 3-1437646-9                      |
+ Part 5-1879022-3                      |
+ Part 5005                             |
+ Part 5006                             |
+ Part 5008                             |
+ Part 5010                             |
+ Part 5011                             |
+ Part 5126                             |
+ Part 7914G-1-000E                     |
+ Part 0039281043                       |
+ Part 0039281063                       |
+  X4                                   | (P)  2 5
+ Part 09063486901                      |
+  X1                                   | (P)  16z

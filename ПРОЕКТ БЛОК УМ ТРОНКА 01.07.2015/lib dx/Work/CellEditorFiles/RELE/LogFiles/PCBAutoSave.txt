@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                         05:23 PM Sunday, June 08, 2014
+       Job Name: D:\lib dx\Work\CellEditorFiles\RELE\RT-2-TE-YNIVERSAL.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                         06:04 PM Sunday, June 08, 2014
+       Job Name: D:\lib dx\Work\CellEditorFiles\RELE\RT-2-TE-YNIVERSAL.pcb
+

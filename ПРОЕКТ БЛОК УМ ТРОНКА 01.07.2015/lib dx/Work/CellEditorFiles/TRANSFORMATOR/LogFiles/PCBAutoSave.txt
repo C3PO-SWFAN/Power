@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                      10:04 PM Thursday, November 13, 2014
+  Job Name: D:\lib dx\Work\CellEditorFiles\TRANSFORMATOR\RM-10-12V-DIAGONAL.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                      10:46 PM Thursday, November 13, 2014
+  Job Name: D:\lib dx\Work\CellEditorFiles\TRANSFORMATOR\RM-10-12V-DIAGONAL.pcb
+

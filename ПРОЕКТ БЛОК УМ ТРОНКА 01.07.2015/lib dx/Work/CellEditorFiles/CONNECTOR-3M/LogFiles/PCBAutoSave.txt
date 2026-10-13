@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                       05:46 PM Tuesday, November 12, 2013
+   Job Name: D:\lib dx\Work\CellEditorFiles\CONNECTOR-3M\SINGLE10_R_A_MALE.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                       06:06 PM Tuesday, November 12, 2013
+   Job Name: D:\lib dx\Work\CellEditorFiles\CONNECTOR-3M\SINGLE10_R_A_MALE.pcb
+

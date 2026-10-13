@@ -1,0 +1,113 @@
+
+                                   DXF Export
+                                   ----------
+
+                     01:22 PM Wednesday, September 02, 2015
+            Job Name: F:\TEXT TEM\ROTARY_12P1N_H\PCB\BOARD_2LAYER.pcb
+
+
+
+    DXF File: F:\TEXT TEM\ROTARY_12P1N_H\PCB\Output\BOARD_2LAYER.dxf
+
+
+    Total - Export Element
+    ----------------------------------------------------------------------
+
+        34 - Assembly Outlines Btm
+
+        13 - Assembly Outlines Top
+
+        25 - Assembly Part Numbers Btm
+
+        13 - Assembly Part Numbers Top
+
+        25 - Assembly Ref Des Btm
+
+        13 - Assembly Ref Des Top
+
+         1 - Board Origin
+
+         1 - Board Outline
+
+       126 - Drill Drawing
+
+         9 - Etched Text Layer 2
+
+       139 - Generated Silkscreen Btm
+
+        66 - Generated Silkscreen Top
+
+         1 - Manufacturing Outlines
+
+        11 - Mounting Hole Pads Layer 1
+
+        11 - Mounting Hole Pads Layer 2
+
+        25 - Mounting Holes Layer 1
+
+        25 - Mounting Holes Layer 2
+
+         1 - NC Drill Origin
+
+        41 - Part Holes Layer 1
+
+        41 - Part Holes Layer 2
+
+        41 - Part Pads Layer 1
+
+        41 - Part Pads Layer 2
+
+        48 - Part Pads SMD Btm
+
+         8 - Part Pads SMD Top
+
+        97 - Pin Numbers Btm
+
+        97 - Pin Numbers Top
+
+        25 - Placement Outlines Btm
+
+        13 - Placement Outlines Top
+
+         4 - Plane Data Layer 1
+
+         7 - Plane Shapes Layer 1
+
+         1 - Route Border
+
+        26 - Silkscreen Outlines Btm
+
+        13 - Silkscreen Outlines Top
+
+        25 - Silkscreen Ref Des Btm
+
+        13 - Silkscreen Ref Des Top
+
+        96 - Soldermask Pads Btm
+
+        56 - Soldermask Pads Top
+
+        48 - Solderpaste Pads Btm
+
+         8 - Solderpaste Pads Top
+
+        23 - Traces Layer 1
+
+        64 - Traces Layer 2
+
+         5 - Unnamed user layer
+
+         7 - Via Holes Layer 1
+
+         7 - Via Holes Layer 2
+
+         7 - Via Pads Layer 1
+
+         7 - Via Pads Layer 2
+
+
+    Successful Completion.
+
+
+
+                        01:22 PM Wednesday, September 02, 2015

@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                         04:10 PM Sunday, July 27, 2014
+  Job Name: D:\lib dx\Work\CellEditorFiles\CONNECTOR MICRO_FIT\2Rx16K_ANGLE.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                         04:11 PM Sunday, July 27, 2014
+  Job Name: D:\lib dx\Work\CellEditorFiles\CONNECTOR MICRO_FIT\2Rx16K_ANGLE.pcb
+

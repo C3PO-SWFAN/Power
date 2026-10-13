@@ -1,0 +1,9 @@
+
+Board Area = (mm) 15 624,92
+
+Layer = 1
+	CopperArea = (mm) 7 405,69
+	Percent Board = 47,4%
+Layer = 2
+	CopperArea = (mm) 9 039,16
+	Percent Board = 57,85%

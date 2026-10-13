@@ -1,0 +1,15 @@
+
+				----------
+				CCZ Export
+				----------
+
+01:47:33 PM Monday, May 20, 2013
+
+Cell name:   10-Lead Plastic MSOP
+Partition:   MSOP
+Output file: D:\lib dx\CCZ\CellDBLibs\MSOP\10-Lead Plastic MSOP.cce
+
+Info:	Begin export
+Error:	IsDoNotFlipPinInComponent com exception
+Error:	IsModified com error
+Error:	Exception encountered while post-processing View Extent settings.

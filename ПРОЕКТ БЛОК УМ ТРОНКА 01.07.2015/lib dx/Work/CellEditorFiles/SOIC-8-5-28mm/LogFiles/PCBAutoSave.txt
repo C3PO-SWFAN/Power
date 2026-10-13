@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                       10:30 PM Tuesday, October 29, 2013
+    Job Name: D:\lib dx\Work\CellEditorFiles\SOIC-8-5-28mm\SOIC-8S2-SOIJ.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                       10:30 PM Tuesday, October 29, 2013
+    Job Name: D:\lib dx\Work\CellEditorFiles\SOIC-8-5-28mm\SOIC-8S2-SOIJ.pcb
+

@@ -1,0 +1,141 @@
+[2015.06.14 18:34:50] [0000m.00s.109ms] [0] WELCOME
+[2015.06.14 18:34:50] [0000m.00s.187ms] [1] iCDB Server ver.1.094, vt40T8RtWJOG2cE2Nlvc5A, build:535943 created 2013-01-08 09:09:26, sources stamp:vt40T8RtWJOG2cE2Nlvc5A
+[2015.06.14 18:34:50] [0000m.00s.187ms] [1] Copyright 2013 Mentor Graphics Corporation. All Rights Reserved.
+[2015.06.14 18:34:50] [0000m.00s.187ms] [1] Base flow version [7.9.4]
+[2015.06.14 18:34:50] [0000m.00s.187ms] [1] GBS Install Id [26418], Flow Id [EE7.9.4], Full Flow Name [Expedition Enterprise Flow], Exact Access Date [Jun 1 2012]
+[2015.06.14 18:34:50] [0000m.00s.187ms] [1] UPDATE Install Info, GBS Install Id [29518], UPDATE Name [Expedition Enterprise Flow - Update 9 for EE7.9.4]
+[2015.06.14 18:34:50] [0000m.00s.187ms] [1] Machine [VOLODYMYR]  User [V1]  PID [8684]
+[2015.06.14 18:34:50] [0000m.00s.187ms] [1] Operating system [Microsoft Windows XP Professional Service Pack 3 (build 2600)]
+[2015.06.14 18:34:50] [0000m.00s.187ms] [1] Current working dir [F:\TEXT  TEM\PRL_TRONKA]
+[2015.06.14 18:34:50] [0000m.00s.187ms] [1] PATH [C:\mentorgraphics\7.9.4EE\SDD_HOME\wv\win32\bin;C:\mentorgraphics\7.9.4EE\SDD_HOME\common\win32\bin;C:\mentorgraphics\7.9.4EE\SDD_HOME\common\win32\lib;C:\mentorgraphics\7.9.4EE\MGC_HOME.ixn\bin;C:\mentorgraphics\7.9.4EE\MGC_HOME.ixn\lib;C:\cygwin-1.7.9DMS\bin;C:\Program Files\Python26\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;]
+[2015.06.14 18:34:50] [0000m.00s.187ms] [1] SDD_HOME [C:\mentorgraphics\7.9.4EE\SDD_HOME] on file system [NTFS]
+[2015.06.14 18:34:50] [0000m.00s.187ms] [1] SDD_PLATFORM [win32]
+[2015.06.14 18:34:50] [0000m.00s.187ms] [1] WDIR [D:\WDIR;C:\mentorgraphics\7.9.4EE\SDD_HOME\standard]
+[2015.06.14 18:34:50] [0000m.00s.187ms] [1] Local iCDB working dir [D:\WDIR\iCDB] on file system [NTFS]
+[2015.06.14 18:34:50] [0000m.00s.187ms] [2] S: Loading config files
+[2015.06.14 18:34:50] [0000m.00s.218ms] [1] Config file [F:\TEXT  TEM\PRL_TRONKA\database\cdbsvr\Server.cfg] not found
+[2015.06.14 18:34:50] [0000m.00s.218ms] [3] S: Config loaded
+[2015.06.14 18:34:50] [0000m.00s.218ms] [0] S: Project path [F:\TEXT  TEM\PRL_TRONKA\database] on file system [NTFS]
+[2015.06.14 18:34:50] [0000m.00s.218ms] [0] S: Project file (.prj) path [F:\TEXT  TEM\PRL_TRONKA\PRL_TRONKA.prj] on file system [NTFS]
+[2015.06.14 18:34:50] [0000m.00s.218ms] [1] S: WARNING: Database auto-repair support DISABLED
+[2015.06.14 18:34:50] [0000m.00s.218ms] [0] S: Single-user mode (auto)
+[2015.06.14 18:34:50] [0000m.00s.218ms] [0] S: Event polling mode autodetection
+[2015.06.14 18:34:51] [0000m.00s.265ms] [0] S: Started up automatically by iCDB Client: VOLODYMYR:V1:7180
+[2015.06.14 18:34:51] [0000m.00s.265ms] [0] S: Auto close mode
+[2015.06.14 18:34:51] [0000m.00s.265ms] [0] S: Database ID [325f-9ed3-cb4f-97dc-8352-d75d-352d-7550-2f0c-3ad9-497a-d97a]
+[2015.06.14 18:34:51] [0000m.00s.265ms] [0] PathTranslator: BEGIN dumping
+[2015.06.14 18:34:51] [0000m.00s.265ms] [0] PathTranslator: Local -> global path prefix list
+[2015.06.14 18:34:51] [0000m.00s.265ms] [0] PathTranslator: Global -> local path prefix list
+[2015.06.14 18:34:51] [0000m.00s.265ms] [0] PathTranslator: END dumping
+[2015.06.14 18:34:51] [0000m.00s.265ms] [0] S: START
+[2015.06.14 18:34:51] [0000m.00s.312ms] [0] S: Server startup lock file created
+[2015.06.14 18:34:51] [0000m.00s.328ms] [0] S: Listening for client connections on port [10001]
+[2015.06.14 18:34:51] [0000m.00s.328ms] [0] S: Server network ID [volodymyr:192.168.1.227,volodymyr:10001]
+[2015.06.14 18:34:51] [0000m.00s.328ms] [0] S: Server GUID [4697-ca69-0ac7-fc27-a1f9-d75f-1f9d-7550-c9b2-80ef-cfdd-5d5d]
+[2015.06.14 18:34:51] [0000m.00s.328ms] [0] S: Project GUID [325f-9ed3-cb4f-97dc-8352-d75d-352d-7550-2f0c-3ad9-497a-d97a]
+[2015.06.14 18:34:51] [0000m.00s.359ms] [0] S: Wrote data to server address file
+[2015.06.14 18:34:51] [0000m.00s.359ms] [0] S: Server startup lock file removed
+[2015.06.14 18:34:51] [0000m.00s.359ms] [1] ProjectBackupManager: Setting project file (.prj) path: [F:\TEXT  TEM\PRL_TRONKA\PRL_TRONKA.prj]
+[2015.06.14 18:34:51] [0000m.01s.218ms] [0] S: Plugins loaded: [PIM] [ENetGen70] 
+[2015.06.14 18:34:52] [0000m.01s.234ms] [0] S: Local disc access time: 102 us
+[2015.06.14 18:34:52] [0000m.01s.234ms] [0] S: File server access time: 85 us
+[2015.06.14 18:34:52] [0000m.01s.640ms] [0] Single file [F:\TEXT  TEM\PRL_TRONKA\database\icdb.dat] size [53040 (51.8 kB)]
+[2015.06.14 18:34:52] [0000m.01s.656ms] [1] Single file [F:\TEXT  TEM\PRL_TRONKA\database\icdb.dat] opened in read-write mode
+[2015.06.14 18:34:52] [0000m.01s.656ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2015.06.14 18:34:52] [0000m.01s.656ms] [0] Database GUARD OK: [53040]
+[2015.06.14 18:34:52] [0000m.01s.703ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2015.06.14 18:34:52] [0000m.01s.703ms] [0] Database GUARD OK: [53040]
+[2015.06.14 18:34:52] [0000m.01s.703ms] [0] SingleFile: [d4bd-a01b-4ae6-f6a7] SFI version check [1009] [1009]
+[2015.06.14 18:34:52] [0000m.01s.703ms] [0] SingleFile: [d4bd-a01b-4ae6-f6a7] Database SFI header has been read in [2ms 55us]
+[2015.06.14 18:34:52] [0000m.01s.796ms] [0] iCDB Server PI: Server & plugin session [7]
+[2015.06.14 18:34:52] [0000m.01s.796ms] [0] iCDB Server PI: Opening database [F:\TEXT  TEM\PRL_TRONKA\database]
+[2015.06.14 18:34:52] [0000m.01s.796ms] [0] iCDB Server PI: Database [F:\TEXT  TEM\PRL_TRONKA\database] opened
+[2015.06.14 18:34:52] [0000m.02s.000ms] [0] iCDB Database: Checking existence of constraint definitions
+[2015.06.14 18:34:52] [0000m.02s.000ms] [0] iCDB Database: Checking constraint definitions version
+[2015.06.14 18:34:52] [0000m.02s.218ms] [1] iCDB Database: Constraint definitions version [ce_ee.cns=7.10.24;user.cns=13c3-d235-cdd4-ffd2-f127-4704-2274-7050-a5ca-3ad9-497a-d97a] up to date
+[2015.06.14 18:34:53] [0000m.02s.250ms] [0] iCDB Server PI: Initializing plugins
+[2015.06.14 18:34:53] [0000m.02s.312ms] [0] iCDB Server PI: Plugins initialized
+[2015.06.14 18:34:53] [0000m.02s.312ms] [0] S: iCDB database loaded
+[2015.06.14 18:34:53] [0000m.02s.343ms] [0] S: Starting threads
+[2015.06.14 18:34:53] [0000m.02s.343ms] [0] BT: Listening for broadcast messages on port [10000]
+[2015.06.14 18:34:53] [0000m.02s.343ms] [1] CMT: There are no clients - waiting [10 seconds]
+[2015.06.14 18:34:53] [0000m.02s.359ms] [0] IT: Session [8] for host [volodymyr] user [V1] with process ID [7180] created
+[2015.06.14 18:34:53] [0000m.02s.359ms] [1] SC[8]: Registered sub-client [DxD] with ID [1] for session ID [8] host [volodymyr] user [V1] process ID [7180]
+[2015.06.14 18:34:53] [0000m.02s.437ms] [1] CMT: There are [1] clients now: 8
+[2015.06.14 18:34:53] [0000m.02s.468ms] [1] SC[8]: Registered sub-client [TransactionRollbackSubClient] with ID [2] for session ID [8] host [volodymyr] user [V1] process ID [7180]
+[2015.06.14 18:34:53] [0000m.02s.484ms] [1] SC[8]: Registered sub-client [xprob] with ID [3] for session ID [8] host [volodymyr] user [V1] process ID [7180]
+[2015.06.14 18:34:54] [0000m.04s.078ms] [1] SC[8]: Registered sub-client [SelectionHolder] with ID [4] for session ID [8] host [volodymyr] user [V1] process ID [7180]
+[2015.06.14 18:34:54] [0000m.04s.109ms] [1] SC[8]: Registered sub-client [SymbolEditor] with ID [5] for session ID [8] host [volodymyr] user [V1] process ID [7180]
+[2015.06.14 18:34:54] [0000m.04s.125ms] [1] SC[8]: Registered sub-client [EEVM_EEVM_184119012] with ID [6] for session ID [8] host [volodymyr] user [V1] process ID [7180]
+[2015.06.14 18:34:54] [0000m.04s.125ms] [1] SC[8]: UnRegistered sub-client [EEVM_EEVM_184119012] with ID [6] for session ID [8] host [volodymyr] user [V1] process ID [7180]
+[2015.06.14 18:34:54] [0000m.04s.171ms] [1] SC[8]: Registered sub-client [EEVM_EEVM_184119012] with ID [7] for session ID [8] host [volodymyr] user [V1] process ID [7180]
+[2015.06.14 18:34:54] [0000m.04s.187ms] [1] SC[8]: UnRegistered sub-client [EEVM_EEVM_184119012] with ID [7] for session ID [8] host [volodymyr] user [V1] process ID [7180]
+[2015.06.14 18:34:54] [0000m.04s.187ms] [1] SC[8]: Registered sub-client [EEVM_EEVM_184119012] with ID [8] for session ID [8] host [volodymyr] user [V1] process ID [7180]
+[2015.06.14 18:34:54] [0000m.04s.187ms] [1] SC[8]: UnRegistered sub-client [EEVM_EEVM_184119012] with ID [8] for session ID [8] host [volodymyr] user [V1] process ID [7180]
+[2015.06.14 18:34:54] [0000m.04s.203ms] [1] SC[8]: Registered sub-client [EEVM_EEVM_184119012] with ID [9] for session ID [8] host [volodymyr] user [V1] process ID [7180]
+[2015.06.14 18:34:54] [0000m.04s.203ms] [1] SC[8]: UnRegistered sub-client [EEVM_EEVM_184119012] with ID [9] for session ID [8] host [volodymyr] user [V1] process ID [7180]
+[2015.06.14 18:34:55] [0000m.05s.218ms] [1] SC[8]: Registered sub-client [HdlProject] with ID [10] for session ID [8] host [volodymyr] user [V1] process ID [7180]
+[2015.06.14 18:34:56] [0000m.05s.265ms] [1] SC[8]: Registered sub-client [Navigator] with ID [11] for session ID [8] host [volodymyr] user [V1] process ID [7180]
+[2015.06.14 18:34:56] [0000m.05s.312ms] [1] SC[8]: Registered sub-client [OutputWindow] with ID [12] for session ID [8] host [volodymyr] user [V1] process ID [7180]
+[2015.06.14 18:34:56] [0000m.05s.328ms] [1] SC[8]: Registered sub-client [PlaceDevice] with ID [13] for session ID [8] host [volodymyr] user [V1] process ID [7180]
+[2015.06.14 18:34:56] [0000m.06s.000ms] [1] SC[8]: Registered sub-client [SAE] with ID [14] for session ID [8] host [volodymyr] user [V1] process ID [7180]
+[2015.06.14 18:34:56] [0000m.06s.015ms] [1] SC[8]: Registered sub-client [CCZAddin] with ID [15] for session ID [8] host [volodymyr] user [V1] process ID [7180]
+[2015.06.14 18:34:56] [0000m.06s.015ms] [1] SC[8]: Registered sub-client [DxThumbnails] with ID [16] for session ID [8] host [volodymyr] user [V1] process ID [7180]
+[2015.06.14 18:34:57] [0000m.06s.250ms] [1] SC[8]: Registered sub-client [SheetConnectorsCacheDxD:1434296097] with ID [17] for session ID [8] host [volodymyr] user [V1] process ID [7180]
+[2015.06.14 18:34:57] [0000m.06s.281ms] [1] SC[8]: Registered sub-client [NetsNamesCollectorDxD:1434296097] with ID [18] for session ID [8] host [volodymyr] user [V1] process ID [7180]
+[2015.06.14 18:34:57] [0000m.06s.546ms] [1] SC[8]: Registered sub-client [ObjectHolder_430505504] with ID [19] for session ID [8] host [volodymyr] user [V1] process ID [7180]
+[2015.06.14 18:34:57] [0000m.06s.578ms] [1] SC[8]: Registered sub-client [BlockCacheDxD:430498064] with ID [20] for session ID [8] host [volodymyr] user [V1] process ID [7180]
+[2015.06.14 18:34:57] [0000m.06s.609ms] [1] SC[8]: Registered sub-client [GlobalNetAliasUpdater_430639536] with ID [21] for session ID [8] host [volodymyr] user [V1] process ID [7180]
+[2015.06.14 18:34:57] [0000m.06s.671ms] [1] SC[8]: Registered sub-client [IcdbNetProcessorSubClientDxD:430497752] with ID [22] for session ID [8] host [volodymyr] user [V1] process ID [7180]
+[2015.06.14 18:34:57] [0000m.07s.171ms] [1] SC[8]: Registered sub-client [DxDbSearch] with ID [23] for session ID [8] host [volodymyr] user [V1] process ID [7180]
+[2015.06.14 18:35:13] [0000m.22s.875ms] [0] DFAMT: File server access time: 88 us
+[2015.06.14 18:37:28] [0002m.37s.468ms] [1] PrjBackupMgr: Successfully created Project Backup [F:\TEXT  TEM\PRL_TRONKA\ProjectBackup\backups\2015-06-14 18.37.28 - auto.zip] with GUID [052a-6c7e-50e2-1eaf-8bf9-d75d-bf9d-7550-ced2-80ef-cfdd-5d5d]
+[2015.06.14 18:37:28] [0002m.37s.468ms] [0] PrjBackupEngine: Successfully created backup:  BackupGUID[052a-6c7e-50e2-1eaf-8bf9-d75d-bf9d-7550-ced2-80ef-cfdd-5d5d] CreationTime[Sunday, June 14, 2015 15:37:28] Type[Autosave] Creator[iCDB Server (2015-06-14 18.34.50-8684)] ApplicationName[iCDB Server (2015-06-14 18.34.50-8684)] UserName[V1] MachineName[VOLODYMYR] Description[Autosave] FullFlowName[Expedition Enterprise Flow; Expedition Enterprise Flow - Update 9 for EE7.9.4] FlowId[EE7.9.4] GBSInstallId[26418; 29518] GBSBuildId[535943] IcdbVersion[2709] ReferenceLogFilePath[] BackupFilePath[F:\TEXT  TEM\PRL_TRONKA\ProjectBackup\backups\2015-06-14 18.37.28 - auto.zip] BackupFileSize[33303] Persistent[FALSE]
+[2015.06.14 18:48:58] [0014m.07s.796ms] [1] SC[8]: UnRegistered sub-client [Navigator] with ID [11] for session ID [8] host [volodymyr] user [V1] process ID [7180]
+[2015.06.14 18:48:58] [0014m.07s.796ms] [1] SC[8]: UnRegistered sub-client [OutputWindow] with ID [12] for session ID [8] host [volodymyr] user [V1] process ID [7180]
+[2015.06.14 18:48:58] [0014m.07s.796ms] [1] SC[8]: UnRegistered sub-client [PlaceDevice] with ID [13] for session ID [8] host [volodymyr] user [V1] process ID [7180]
+[2015.06.14 18:48:58] [0014m.07s.859ms] [1] SC[8]: UnRegistered sub-client [DxDbSearch] with ID [23] for session ID [8] host [volodymyr] user [V1] process ID [7180]
+[2015.06.14 18:48:58] [0014m.07s.859ms] [1] SC[8]: UnRegistered sub-client [SAE] with ID [14] for session ID [8] host [volodymyr] user [V1] process ID [7180]
+[2015.06.14 18:48:58] [0014m.07s.859ms] [1] SC[8]: UnRegistered sub-client [CCZAddin] with ID [15] for session ID [8] host [volodymyr] user [V1] process ID [7180]
+[2015.06.14 18:48:58] [0014m.07s.859ms] [1] SC[8]: UnRegistered sub-client [DxThumbnails] with ID [16] for session ID [8] host [volodymyr] user [V1] process ID [7180]
+[2015.06.14 18:48:58] [0014m.07s.859ms] [1] SC[8]: UnRegistered sub-client [HdlProject] with ID [10] for session ID [8] host [volodymyr] user [V1] process ID [7180]
+[2015.06.14 18:48:58] [0014m.07s.875ms] [1] SC[8]: UnRegistered sub-client [GlobalNetAliasUpdater_430639536] with ID [21] for session ID [8] host [volodymyr] user [V1] process ID [7180]
+[2015.06.14 18:48:58] [0014m.07s.875ms] [1] SC[8]: UnRegistered sub-client [BlockCacheDxD:430498064] with ID [20] for session ID [8] host [volodymyr] user [V1] process ID [7180]
+[2015.06.14 18:48:58] [0014m.07s.875ms] [1] SC[8]: UnRegistered sub-client [ObjectHolder_430505504] with ID [19] for session ID [8] host [volodymyr] user [V1] process ID [7180]
+[2015.06.14 18:48:58] [0014m.07s.875ms] [1] SC[8]: UnRegistered sub-client [IcdbNetProcessorSubClientDxD:430497752] with ID [22] for session ID [8] host [volodymyr] user [V1] process ID [7180]
+[2015.06.14 18:48:58] [0014m.07s.875ms] [1] SC[8]: UnRegistered sub-client [SelectionHolder] with ID [4] for session ID [8] host [volodymyr] user [V1] process ID [7180]
+[2015.06.14 18:48:58] [0014m.07s.875ms] [1] SC[8]: UnRegistered sub-client [SheetConnectorsCacheDxD:1434296097] with ID [17] for session ID [8] host [volodymyr] user [V1] process ID [7180]
+[2015.06.14 18:48:58] [0014m.07s.875ms] [1] SC[8]: UnRegistered sub-client [NetsNamesCollectorDxD:1434296097] with ID [18] for session ID [8] host [volodymyr] user [V1] process ID [7180]
+[2015.06.14 18:48:58] [0014m.07s.968ms] [1] SC[8]: UnRegistered sub-client [TransactionRollbackSubClient] with ID [2] for session ID [8] host [volodymyr] user [V1] process ID [7180]
+[2015.06.14 18:48:58] [0014m.07s.968ms] [1] SC[8]: UnRegistered sub-client [DxD] with ID [1] for session ID [8] host [volodymyr] user [V1] process ID [7180]
+[2015.06.14 18:48:58] [0014m.08s.000ms] [1] SC[8]: UnRegistered sub-client [xprob] with ID [3] for session ID [8] host [volodymyr] user [V1] process ID [7180]
+[2015.06.14 18:48:58] [0014m.08s.000ms] [1] SC[8]: UnRegistered sub-client [SymbolEditor] with ID [5] for session ID [8] host [volodymyr] user [V1] process ID [7180]
+[2015.06.14 18:48:58] [0014m.08s.093ms] [1] CMT: Removed client [8]
+[2015.06.14 18:48:58] [0014m.08s.093ms] [1] CMT: There are no clients left - waiting [1 seconds]
+[2015.06.14 18:49:00] [0014m.09s.312ms] [0] CMT: Starting server auto-close
+[2015.06.14 18:49:00] [0014m.09s.375ms] [0] S: Closing server
+[2015.06.14 18:49:00] [0014m.09s.421ms] [0] iCDB Server PI: Closing plugins
+[2015.06.14 18:49:00] [0014m.09s.421ms] [0] iCDB Server PI: Plugins closed
+[2015.06.14 18:49:00] [0014m.09s.421ms] [0] iCDB Server PI: Unloading database
+[2015.06.14 18:49:00] [0014m.09s.421ms] [0] iCDB Server PI: Saving storage
+[2015.06.14 18:49:00] [0014m.09s.421ms] [0] iCDB Server PI: Closing database
+[2015.06.14 18:49:00] [0014m.09s.421ms] [1] iCDB Server PI: Stats: Database defragmentation: max[1] avg[1] holes[30%] data[87%]
+[2015.06.14 18:49:00] [0014m.09s.421ms] [1] iCDB Server PI: Stats: Database file size [59520 (58.1 kB)]
+[2015.06.14 18:49:00] [0014m.09s.421ms] [1] iCDB Server PI: WARNING: Database needs defragmentation!
+[2015.06.14 18:49:00] [0014m.09s.437ms] [0] iCDB Server PI: Database closed
+[2015.06.14 18:49:00] [0014m.09s.437ms] [0] iCDB Server PI: Defragmenting database
+[2015.06.14 18:49:00] [0014m.09s.437ms] [0] iCDB Server PI: Creating database [F:\TEXT  TEM\PRL_TRONKA\database] backup to file [F:\TEXT  TEM\PRL_TRONKA\database\cdbback\2015-06-14 18.49.00-8684-d.zip]
+[2015.06.14 18:49:00] [0014m.09s.453ms] [0] iCDB Server PI: Database backup: DONE
+[2015.06.14 18:49:00] [0014m.09s.453ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2015.06.14 18:49:00] [0014m.09s.453ms] [0] Database GUARD OK: [59520]
+[2015.06.14 18:49:00] [0014m.09s.453ms] [0] SingleFile: [d4bd-a01b-4ae6-f6a7] SFI version check [1009] [1009]
+[2015.06.14 18:49:00] [0014m.09s.453ms] [0] SingleFile: [d4bd-a01b-4ae6-f6a7] Database SFI header has been read in [974us]
+[2015.06.14 18:49:00] [0014m.09s.468ms] [1] iCDB Server PI: Stats: Database file sizes: before[59520 (58.1 kB)], after[53040 (51.8 kB)], gain[6480 (6.3 kB)]
+[2015.06.14 18:49:00] [0014m.09s.468ms] [0] Single file [F:\TEXT  TEM\PRL_TRONKA\database\icdb.dat] closed with size [53040 (51.8 kB)]
+[2015.06.14 18:49:00] [0014m.09s.468ms] [0] iCDB Server PI: Database defragmentation completed successfully
+[2015.06.14 18:49:00] [0014m.09s.468ms] [1] BackupTransaction: Removing database backup [F:\TEXT  TEM\PRL_TRONKA\database\cdbback\2015-06-14 18.49.00-8684-d.zip]
+[2015.06.14 18:49:00] [0014m.09s.468ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [91425178] ticks
+[2015.06.14 18:49:00] [0014m.09s.468ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [43633] microseconds
+[2015.06.14 18:49:00] [0014m.09s.468ms] [1] iCDB Server PI: Stats: Total iCDB commands count: [13]
+[2015.06.14 18:49:00] [0014m.09s.468ms] [1] iCDB Server PI: Stats: Average iCDB speed:        [297] commands per second
+[2015.06.14 18:49:00] [0014m.09s.578ms] [0] S: STOP

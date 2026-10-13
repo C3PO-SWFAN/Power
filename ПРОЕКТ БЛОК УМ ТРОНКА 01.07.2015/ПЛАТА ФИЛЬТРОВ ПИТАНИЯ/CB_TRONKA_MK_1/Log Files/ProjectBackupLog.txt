@@ -1,0 +1,236 @@
+[2013-11-26 13.44.38] -------------------- CREATE --------------------
+[2013-11-26 13.44.38] Creating Project Backup infrastructure for project [F:\TEXT  TEM\BOARD_2LAYER\BOARD_2LAYER.prj].
+[2013-11-26 13.44.40] Successfully created [AutoSave] backup [2013-11-26 13.44.40 - auto.zip] requested by [VOLODYMYR:V1].
+[2014-02-16 20.12.33] Successfully created [AutoSave] backup [2014-02-16 20.12.33 - auto.zip] requested by [VOLODYMYR:V1].
+[2014-09-04 13.39.32] Successfully created [Constraints Definition Upgrade] backup [2014-09-04 13.39.32 - consDefUpgr.zip] requested by [NIO13_PC1:User].
+[2014-09-04 13.39.32] Migrated iCDB content backup file [cdbback\2014-09-04 13.39.32-3260.zip] removed.
+[2014-09-04 13.40.02] Successfully created [AutoSave] backup [2014-09-04 13.40.02 - auto.zip] requested by [NIO13_PC1:User].
+[2015-02-18 15.13.17] Successfully created [AutoSave] backup [2015-02-18 15.13.17 - auto.zip] requested by [NIO13_PC1:User].
+[2015-02-18 15.13.17] Removing excessive [AutoSave] backup file [F:\TEXT TEM\BOARD_2LAYER\ProjectBackup\backups\2013-11-26 13.44.40 - auto.zip].
+[2015-02-18 15.13.17] [AutoSave] backup file [BOARD_2LAYER\ProjectBackup\backups\2013-11-26 13.44.40 - auto.zip] removed.
+[2015-02-19 08.42.04] Successfully created [AutoSave] backup [2015-02-19 08.42.04 - auto.zip] requested by [NIO13_PC1:User].
+[2015-02-19 08.42.04] Removing excessive [AutoSave] backup file [F:\TEXT TEM\BOARD_2LAYER\ProjectBackup\backups\2014-02-16 20.12.33 - auto.zip].
+[2015-02-19 08.42.04] [AutoSave] backup file [BOARD_2LAYER\ProjectBackup\backups\2014-02-16 20.12.33 - auto.zip] removed.
+[2015-03-26 12.10.04] Successfully created [AutoSave] backup [2015-03-26 12.10.04 - auto.zip] requested by [NIO13_PC1:User].
+[2015-03-26 12.10.04] Removing excessive [AutoSave] backup file [F:\TEXT TEM\BOARD_2LAYER\ProjectBackup\backups\2014-09-04 13.40.02 - auto.zip].
+[2015-03-26 12.10.04] [AutoSave] backup file [BOARD_2LAYER\ProjectBackup\backups\2014-09-04 13.40.02 - auto.zip] removed.
+[2015-03-26 16.10.06] Successfully created [AutoSave] backup [2015-03-26 16.10.04 - auto.zip] requested by [NIO13_PC1:User].
+[2015-03-26 16.10.06] Removing excessive [AutoSave] backup file [F:\TEXT TEM\UM_TRONKA_MK_1\ProjectBackup\backups\2015-02-18 15.13.17 - auto.zip].
+[2015-03-26 16.10.06] [AutoSave] backup file [UM_TRONKA_MK_1\ProjectBackup\backups\2015-02-18 15.13.17 - auto.zip] removed.
+[2015-03-26 19.21.19] Successfully created [Constraints Definition Upgrade] backup [2015-03-26 19.21.19 - consDefUpgr.zip] requested by [VOLODYMYR:V1].
+[2015-03-26 19.21.19] Removing excessive [Constraints Definition Upgrade] backup file [F:\TEXT  TEM\UM_TRONKA_MK_1\ProjectBackup\backups\2014-09-04 13.39.32 - consDefUpgr.zip].
+[2015-03-26 19.21.19] [Constraints Definition Upgrade] backup file [UM_TRONKA_MK_1\ProjectBackup\backups\2014-09-04 13.39.32 - consDefUpgr.zip] removed.
+[2015-03-26 19.21.19] Migrated iCDB content backup file [cdbback\2015-03-26 19.21.18-9180.zip] removed.
+[2015-03-26 21.50.37] Successfully created [AutoSave] backup [2015-03-26 21.50.37 - auto.zip] requested by [VOLODYMYR:V1].
+[2015-03-26 21.50.37] Removing excessive [AutoSave] backup file [F:\TEXT  TEM\UM_TRONKA_MK_1\ProjectBackup\backups\2015-02-19 08.42.04 - auto.zip].
+[2015-03-26 21.50.37] [AutoSave] backup file [UM_TRONKA_MK_1\ProjectBackup\backups\2015-02-19 08.42.04 - auto.zip] removed.
+[2015-03-27 08.26.18] Successfully created [Constraints Definition Upgrade] backup [2015-03-27 08.26.17 - consDefUpgr.zip] requested by [NIO13_PC1:User].
+[2015-03-27 08.26.18] Removing excessive [Constraints Definition Upgrade] backup file [F:\TEXT TEM\UM_TRONKA_MK_1\ProjectBackup\backups\2015-03-26 19.21.19 - consDefUpgr.zip].
+[2015-03-27 08.26.18] [Constraints Definition Upgrade] backup file [UM_TRONKA_MK_1\ProjectBackup\backups\2015-03-26 19.21.19 - consDefUpgr.zip] removed.
+[2015-03-27 08.26.18] Migrated iCDB content backup file [cdbback\2015-03-27 08.26.17-3928.zip] removed.
+[2015-03-27 08.39.18] Successfully created [AutoSave] backup [2015-03-27 08.39.18 - auto.zip] requested by [NIO13_PC1:User].
+[2015-03-27 08.39.18] Removing excessive [AutoSave] backup file [F:\TEXT TEM\UM_TRONKA_MK_1\ProjectBackup\backups\2015-03-26 12.10.04 - auto.zip].
+[2015-03-27 08.39.18] [AutoSave] backup file [UM_TRONKA_MK_1\ProjectBackup\backups\2015-03-26 12.10.04 - auto.zip] removed.
+[2015-03-31 10.36.36] Successfully created [AutoSave] backup [2015-03-31 10.36.36 - auto.zip] requested by [NIO13_PC1:User].
+[2015-03-31 10.36.36] Removing excessive [AutoSave] backup file [F:\TEXT TEM\UM_TRONKA_MK_1\ProjectBackup\backups\2015-03-26 16.10.04 - auto.zip].
+[2015-03-31 10.36.36] [AutoSave] backup file [UM_TRONKA_MK_1\ProjectBackup\backups\2015-03-26 16.10.04 - auto.zip] removed.
+[2015-03-31 19.31.25] Successfully created [Constraints Definition Upgrade] backup [2015-03-31 19.31.24 - consDefUpgr.zip] requested by [VOLODYMYR:V1].
+[2015-03-31 19.31.25] Removing excessive [Constraints Definition Upgrade] backup file [F:\TEXT  TEM\UM_TRONKA_MK_1\ProjectBackup\backups\2015-03-27 08.26.17 - consDefUpgr.zip].
+[2015-03-31 19.31.25] [Constraints Definition Upgrade] backup file [UM_TRONKA_MK_1\ProjectBackup\backups\2015-03-27 08.26.17 - consDefUpgr.zip] removed.
+[2015-03-31 19.31.25] Migrated iCDB content backup file [cdbback\2015-03-31 19.31.24-8804.zip] removed.
+[2015-04-05 20.18.13] Successfully created [AutoSave] backup [2015-04-05 20.18.12 - auto.zip] requested by [VOLODYMYR:V1].
+[2015-04-05 20.18.13] Removing excessive [AutoSave] backup file [F:\TEXT  TEM\UM_TRONKA_MK_1\ProjectBackup\backups\2015-03-26 21.50.37 - auto.zip].
+[2015-04-05 20.18.13] [AutoSave] backup file [UM_TRONKA_MK_1\ProjectBackup\backups\2015-03-26 21.50.37 - auto.zip] removed.
+[2015-04-06 08.39.43] Successfully created [Constraints Definition Upgrade] backup [2015-04-06 08.39.42 - consDefUpgr.zip] requested by [NIO13_PC1:User].
+[2015-04-06 08.39.43] Removing excessive [Constraints Definition Upgrade] backup file [F:\TEXT TEM\UM_TRONKA_MK_1\ProjectBackup\backups\2015-03-31 19.31.24 - consDefUpgr.zip].
+[2015-04-06 08.39.43] [Constraints Definition Upgrade] backup file [UM_TRONKA_MK_1\ProjectBackup\backups\2015-03-31 19.31.24 - consDefUpgr.zip] removed.
+[2015-04-06 08.39.43] Migrated iCDB content backup file [cdbback\2015-04-06 08.39.41-1980.zip] removed.
+[2015-04-16 09.17.37] Successfully created [AutoSave] backup [2015-04-16 09.17.37 - auto.zip] requested by [NIO13_PC1:User].
+[2015-04-16 09.17.37] Removing excessive [AutoSave] backup file [F:\TEXT TEM\UM_TRONKA_MK_1\ProjectBackup\backups\2015-03-27 08.39.18 - auto.zip].
+[2015-04-16 09.17.37] [AutoSave] backup file [UM_TRONKA_MK_1\ProjectBackup\backups\2015-03-27 08.39.18 - auto.zip] removed.
+[2015-04-16 13.17.37] Successfully created [AutoSave] backup [2015-04-16 13.17.37 - auto.zip] requested by [NIO13_PC1:User].
+[2015-04-16 13.17.37] Removing excessive [AutoSave] backup file [F:\TEXT TEM\UM_TRONKA_MK_1\ProjectBackup\backups\2015-03-31 10.36.36 - auto.zip].
+[2015-04-16 13.17.37] [AutoSave] backup file [UM_TRONKA_MK_1\ProjectBackup\backups\2015-03-31 10.36.36 - auto.zip] removed.
+[2015-04-17 09.44.05] Successfully created [AutoSave] backup [2015-04-17 09.44.03 - auto.zip] requested by [NIO13_PC1:User].
+[2015-04-17 09.44.05] Removing excessive [AutoSave] backup file [F:\TEXT TEM\UM_TRONKA_MK_1\ProjectBackup\backups\2015-04-05 20.18.12 - auto.zip].
+[2015-04-17 09.44.05] [AutoSave] backup file [UM_TRONKA_MK_1\ProjectBackup\backups\2015-04-05 20.18.12 - auto.zip] removed.
+[2015-04-17 13.44.04] Successfully created [AutoSave] backup [2015-04-17 13.44.03 - auto.zip] requested by [NIO13_PC1:User].
+[2015-04-17 13.44.04] Removing excessive [AutoSave] backup file [F:\TEXT TEM\UM_TRONKA_MK_1\ProjectBackup\backups\2015-04-16 09.17.37 - auto.zip].
+[2015-04-17 13.44.04] [AutoSave] backup file [UM_TRONKA_MK_1\ProjectBackup\backups\2015-04-16 09.17.37 - auto.zip] removed.
+[2015-04-18 13.44.23] Successfully created [AutoSave] backup [2015-04-18 13.44.21 - auto.zip] requested by [NIO13_PC1:User].
+[2015-04-18 13.44.23] Removing excessive [AutoSave] backup file [F:\TEXT TEM\UM_TRONKA_MK_1\ProjectBackup\backups\2015-04-16 13.17.37 - auto.zip].
+[2015-04-18 13.44.23] [AutoSave] backup file [UM_TRONKA_MK_1\ProjectBackup\backups\2015-04-16 13.17.37 - auto.zip] removed.
+[2015-04-20 08.42.59] Successfully created [AutoSave] backup [2015-04-20 08.42.57 - auto.zip] requested by [NIO13_PC1:User].
+[2015-04-20 08.42.59] Removing excessive [AutoSave] backup file [F:\TEXT TEM\UM_TRONKA_MK_1\ProjectBackup\backups\2015-04-17 09.44.03 - auto.zip].
+[2015-04-20 08.42.59] [AutoSave] backup file [UM_TRONKA_MK_1\ProjectBackup\backups\2015-04-17 09.44.03 - auto.zip] removed.
+[2015-04-20 12.42.58] Successfully created [AutoSave] backup [2015-04-20 12.42.57 - auto.zip] requested by [NIO13_PC1:User].
+[2015-04-20 12.42.58] Removing excessive [AutoSave] backup file [F:\TEXT TEM\UM_TRONKA_MK_1\ProjectBackup\backups\2015-04-17 13.44.03 - auto.zip].
+[2015-04-20 12.42.58] [AutoSave] backup file [UM_TRONKA_MK_1\ProjectBackup\backups\2015-04-17 13.44.03 - auto.zip] removed.
+[2015-04-21 09.31.02] Successfully created [AutoSave] backup [2015-04-21 09.31.01 - auto.zip] requested by [NIO13_PC1:User].
+[2015-04-21 09.31.02] Removing excessive [AutoSave] backup file [F:\TEXT TEM\UM_TRONKA_MK_1\ProjectBackup\backups\2015-04-18 13.44.21 - auto.zip].
+[2015-04-21 09.31.02] [AutoSave] backup file [UM_TRONKA_MK_1\ProjectBackup\backups\2015-04-18 13.44.21 - auto.zip] removed.
+[2015-04-21 13.31.01] Successfully created [AutoSave] backup [2015-04-21 13.31.01 - auto.zip] requested by [NIO13_PC1:User].
+[2015-04-21 13.31.01] Removing excessive [AutoSave] backup file [F:\TEXT TEM\UM_TRONKA_MK_1\ProjectBackup\backups\2015-04-20 08.42.57 - auto.zip].
+[2015-04-21 13.31.01] [AutoSave] backup file [UM_TRONKA_MK_1\ProjectBackup\backups\2015-04-20 08.42.57 - auto.zip] removed.
+[2015-04-22 09.28.49] Successfully created [AutoSave] backup [2015-04-22 09.28.48 - auto.zip] requested by [NIO13_PC1:User].
+[2015-04-22 09.28.49] Removing excessive [AutoSave] backup file [F:\TEXT TEM\UM_TRONKA_MK_1\ProjectBackup\backups\2015-04-20 12.42.57 - auto.zip].
+[2015-04-22 09.28.49] [AutoSave] backup file [UM_TRONKA_MK_1\ProjectBackup\backups\2015-04-20 12.42.57 - auto.zip] removed.
+[2015-04-22 13.28.48] Successfully created [AutoSave] backup [2015-04-22 13.28.48 - auto.zip] requested by [NIO13_PC1:User].
+[2015-04-22 13.28.48] Removing excessive [AutoSave] backup file [F:\TEXT TEM\CB_TRONKA_MK_1\ProjectBackup\backups\2015-04-21 09.31.01 - auto.zip].
+[2015-04-22 13.28.48] [AutoSave] backup file [CB_TRONKA_MK_1\ProjectBackup\backups\2015-04-21 09.31.01 - auto.zip] removed.
+[2015-04-23 08.30.44] Successfully created [AutoSave] backup [2015-04-23 08.30.43 - auto.zip] requested by [NIO13_PC1:User].
+[2015-04-23 08.30.44] Removing excessive [AutoSave] backup file [F:\TEXT TEM\CB_TRONKA_MK_1\ProjectBackup\backups\2015-04-21 13.31.01 - auto.zip].
+[2015-04-23 08.30.44] [AutoSave] backup file [CB_TRONKA_MK_1\ProjectBackup\backups\2015-04-21 13.31.01 - auto.zip] removed.
+[2015-04-23 12.30.43] Successfully created [AutoSave] backup [2015-04-23 12.30.43 - auto.zip] requested by [NIO13_PC1:User].
+[2015-04-23 12.30.43] Removing excessive [AutoSave] backup file [F:\TEXT TEM\CB_TRONKA_MK_1\ProjectBackup\backups\2015-04-22 09.28.48 - auto.zip].
+[2015-04-23 12.30.43] [AutoSave] backup file [CB_TRONKA_MK_1\ProjectBackup\backups\2015-04-22 09.28.48 - auto.zip] removed.
+[2015-04-26 16.03.09] Successfully created [Constraints Definition Upgrade] backup [2015-04-26 16.03.08 - consDefUpgr.zip] requested by [VOLODYMYR:V1].
+[2015-04-26 16.03.09] Removing excessive [Constraints Definition Upgrade] backup file [F:\TEXT  TEM\CB_TRONKA_MK_1\ProjectBackup\backups\2015-04-06 08.39.42 - consDefUpgr.zip].
+[2015-04-26 16.03.09] [Constraints Definition Upgrade] backup file [CB_TRONKA_MK_1\ProjectBackup\backups\2015-04-06 08.39.42 - consDefUpgr.zip] removed.
+[2015-04-26 16.03.09] Migrated iCDB content backup file [cdbback\2015-04-26 16.03.08-14300.zip] removed.
+[2015-04-26 19.08.23] Successfully created [AutoSave] backup [2015-04-26 19.08.23 - auto.zip] requested by [VOLODYMYR:V1].
+[2015-04-26 19.08.23] Removing excessive [AutoSave] backup file [F:\TEXT  TEM\CB_TRONKA_MK_1\ProjectBackup\backups\2015-04-22 13.28.48 - auto.zip].
+[2015-04-26 19.08.23] [AutoSave] backup file [CB_TRONKA_MK_1\ProjectBackup\backups\2015-04-22 13.28.48 - auto.zip] removed.
+[2015-04-27 08.12.56] Successfully created [Constraints Definition Upgrade] backup [2015-04-27 08.12.56 - consDefUpgr.zip] requested by [NIO13_PC1:User].
+[2015-04-27 08.12.56] Removing excessive [Constraints Definition Upgrade] backup file [F:\TEXT TEM\CB_TRONKA_MK_1\ProjectBackup\backups\2015-04-26 16.03.08 - consDefUpgr.zip].
+[2015-04-27 08.12.56] [Constraints Definition Upgrade] backup file [CB_TRONKA_MK_1\ProjectBackup\backups\2015-04-26 16.03.08 - consDefUpgr.zip] removed.
+[2015-04-27 08.12.56] Migrated iCDB content backup file [cdbback\2015-04-27 08.12.56-3188.zip] removed.
+[2015-04-27 20.01.00] Successfully created [Constraints Definition Upgrade] backup [2015-04-27 20.01.00 - consDefUpgr.zip] requested by [VOLODYMYR:V1].
+[2015-04-27 20.01.00] Removing excessive [Constraints Definition Upgrade] backup file [F:\TEXT  TEM\CB_TRONKA_MK_1\ProjectBackup\backups\2015-04-27 08.12.56 - consDefUpgr.zip].
+[2015-04-27 20.01.00] [Constraints Definition Upgrade] backup file [CB_TRONKA_MK_1\ProjectBackup\backups\2015-04-27 08.12.56 - consDefUpgr.zip] removed.
+[2015-04-27 20.01.00] Migrated iCDB content backup file [cdbback\2015-04-27 20.00.59-6904.zip] removed.
+[2015-04-27 20.14.00] Successfully created [AutoSave] backup [2015-04-27 20.14.00 - auto.zip] requested by [VOLODYMYR:V1].
+[2015-04-27 20.14.00] Removing excessive [AutoSave] backup file [F:\TEXT  TEM\CB_TRONKA_MK_1\ProjectBackup\backups\2015-04-23 08.30.43 - auto.zip].
+[2015-04-27 20.14.00] [AutoSave] backup file [CB_TRONKA_MK_1\ProjectBackup\backups\2015-04-23 08.30.43 - auto.zip] removed.
+[2015-04-28 09.23.29] Successfully created [Constraints Definition Upgrade] backup [2015-04-28 09.23.29 - consDefUpgr.zip] requested by [NIO13_PC1:User].
+[2015-04-28 09.23.29] Removing excessive [Constraints Definition Upgrade] backup file [F:\TEXT TEM\CB_TRONKA_MK_1\ProjectBackup\backups\2015-04-27 20.01.00 - consDefUpgr.zip].
+[2015-04-28 09.23.29] [Constraints Definition Upgrade] backup file [CB_TRONKA_MK_1\ProjectBackup\backups\2015-04-27 20.01.00 - consDefUpgr.zip] removed.
+[2015-04-28 09.23.29] Migrated iCDB content backup file [cdbback\2015-04-28 09.23.29-2728.zip] removed.
+[2015-04-28 09.24.00] Successfully created [AutoSave] backup [2015-04-28 09.24.00 - auto.zip] requested by [NIO13_PC1:User].
+[2015-04-28 09.24.00] Removing excessive [AutoSave] backup file [F:\TEXT TEM\CB_TRONKA_MK_1\ProjectBackup\backups\2015-04-23 12.30.43 - auto.zip].
+[2015-04-28 09.24.00] [AutoSave] backup file [CB_TRONKA_MK_1\ProjectBackup\backups\2015-04-23 12.30.43 - auto.zip] removed.
+[2015-04-29 12.50.43] Successfully created [AutoSave] backup [2015-04-29 12.50.42 - auto.zip] requested by [NIO13_PC1:User].
+[2015-04-29 12.50.43] Removing excessive [AutoSave] backup file [F:\TEXT TEM\CB_TRONKA_MK_1\ProjectBackup\backups\2015-04-26 19.08.23 - auto.zip].
+[2015-04-29 12.50.43] [AutoSave] backup file [CB_TRONKA_MK_1\ProjectBackup\backups\2015-04-26 19.08.23 - auto.zip] removed.
+[2015-04-29 21.29.36] Successfully created [Constraints Definition Upgrade] backup [2015-04-29 21.29.36 - consDefUpgr.zip] requested by [VOLODYMYR:V1].
+[2015-04-29 21.29.36] Removing excessive [Constraints Definition Upgrade] backup file [F:\TEXT  TEM\CB_TRONKA_MK_1\ProjectBackup\backups\2015-04-28 09.23.29 - consDefUpgr.zip].
+[2015-04-29 21.29.36] [Constraints Definition Upgrade] backup file [CB_TRONKA_MK_1\ProjectBackup\backups\2015-04-28 09.23.29 - consDefUpgr.zip] removed.
+[2015-04-29 21.29.36] Migrated iCDB content backup file [cdbback\2015-04-29 21.29.36-4172.zip] removed.
+[2015-05-04 08.18.55] Successfully created [Constraints Definition Upgrade] backup [2015-05-04 08.18.54 - consDefUpgr.zip] requested by [NIO13_PC1:User].
+[2015-05-04 08.18.55] Removing excessive [Constraints Definition Upgrade] backup file [F:\TEXT TEM\CB_TRONKA_MK_1\ProjectBackup\backups\2015-04-29 21.29.36 - consDefUpgr.zip].
+[2015-05-04 08.18.55] [Constraints Definition Upgrade] backup file [CB_TRONKA_MK_1\ProjectBackup\backups\2015-04-29 21.29.36 - consDefUpgr.zip] removed.
+[2015-05-04 08.18.55] Migrated iCDB content backup file [cdbback\2015-05-04 08.18.54-548.zip] removed.
+[2015-05-08 12.03.43] ERROR: Cannot create Project Backup file. Requested [AutoSave] backup by [NIO13_PC1:User] will not be created.
+[2015-05-08 12.05.48] Successfully created [AutoSave] backup [2015-05-08 12.05.48 - auto.zip] requested by [NIO13_PC1:User].
+[2015-05-08 12.05.48] Removing excessive [AutoSave] backup file [F:\TEXT TEM\CB_TRONKA_MK_1\ProjectBackup\backups\2015-04-27 20.14.00 - auto.zip].
+[2015-05-08 12.05.48] [AutoSave] backup file [CB_TRONKA_MK_1\ProjectBackup\backups\2015-04-27 20.14.00 - auto.zip] removed.
+[2015-05-09 10.42.24] Successfully created [Constraints Definition Upgrade] backup [2015-05-09 10.42.24 - consDefUpgr.zip] requested by [VOLODYMYR:V1].
+[2015-05-09 10.42.24] Removing excessive [Constraints Definition Upgrade] backup file [F:\TEXT  TEM\CB_TRONKA_MK_1\ProjectBackup\backups\2015-05-04 08.18.54 - consDefUpgr.zip].
+[2015-05-09 10.42.24] [Constraints Definition Upgrade] backup file [CB_TRONKA_MK_1\ProjectBackup\backups\2015-05-04 08.18.54 - consDefUpgr.zip] removed.
+[2015-05-09 10.42.24] Migrated iCDB content backup file [cdbback\2015-05-09 10.42.24-9860.zip] removed.
+[2015-05-09 17.06.01] Successfully created [AutoSave] backup [2015-05-09 17.06.00 - auto.zip] requested by [VOLODYMYR:V1].
+[2015-05-09 17.06.01] Removing excessive [AutoSave] backup file [F:\TEXT  TEM\CB_TRONKA_MK_1\ProjectBackup\backups\2015-04-28 09.24.00 - auto.zip].
+[2015-05-09 17.06.01] [AutoSave] backup file [CB_TRONKA_MK_1\ProjectBackup\backups\2015-04-28 09.24.00 - auto.zip] removed.
+[2015-05-09 21.06.00] Successfully created [AutoSave] backup [2015-05-09 21.06.00 - auto.zip] requested by [VOLODYMYR:V1].
+[2015-05-09 21.06.00] Removing excessive [AutoSave] backup file [F:\TEXT  TEM\CB_TRONKA_MK_1\ProjectBackup\backups\2015-04-29 12.50.42 - auto.zip].
+[2015-05-09 21.06.00] [AutoSave] backup file [CB_TRONKA_MK_1\ProjectBackup\backups\2015-04-29 12.50.42 - auto.zip] removed.
+[2015-05-12 08.26.42] Successfully created [Constraints Definition Upgrade] backup [2015-05-12 08.26.42 - consDefUpgr.zip] requested by [NIO13_PC1:User].
+[2015-05-12 08.26.42] Removing excessive [Constraints Definition Upgrade] backup file [F:\TEXT TEM\CB_TRONKA_MK_1\ProjectBackup\backups\2015-05-09 10.42.24 - consDefUpgr.zip].
+[2015-05-12 08.26.42] [Constraints Definition Upgrade] backup file [CB_TRONKA_MK_1\ProjectBackup\backups\2015-05-09 10.42.24 - consDefUpgr.zip] removed.
+[2015-05-12 08.26.42] Migrated iCDB content backup file [cdbback\2015-05-12 08.26.41-3328.zip] removed.
+[2015-05-12 09.31.47] Successfully created [AutoSave] backup [2015-05-12 09.31.47 - auto.zip] requested by [NIO13_PC1:User].
+[2015-05-12 09.31.47] Removing excessive [AutoSave] backup file [F:\TEXT TEM\CB_TRONKA_MK_1\ProjectBackup\backups\2015-05-08 12.05.48 - auto.zip].
+[2015-05-12 09.31.47] [AutoSave] backup file [CB_TRONKA_MK_1\ProjectBackup\backups\2015-05-08 12.05.48 - auto.zip] removed.
+[2015-06-05 15.54.47] Successfully created [AutoSave] backup [2015-06-05 15.54.46 - auto.zip] requested by [NIO13_PC1:User].
+[2015-06-05 15.54.47] Removing excessive [AutoSave] backup file [F:\TEXT TEM\CB_TRONKA_MK_1\ProjectBackup\backups\2015-05-09 17.06.00 - auto.zip].
+[2015-06-05 15.54.47] [AutoSave] backup file [CB_TRONKA_MK_1\ProjectBackup\backups\2015-05-09 17.06.00 - auto.zip] removed.
+[2015-06-06 09.35.03] Successfully created [AutoSave] backup [2015-06-06 09.35.02 - auto.zip] requested by [NIO13_PC1:User].
+[2015-06-06 09.35.03] Removing excessive [AutoSave] backup file [F:\TEXT TEM\CB_TRONKA_MK_1\ProjectBackup\backups\2015-05-09 21.06.00 - auto.zip].
+[2015-06-06 09.35.03] [AutoSave] backup file [CB_TRONKA_MK_1\ProjectBackup\backups\2015-05-09 21.06.00 - auto.zip] removed.
+[2015-06-06 13.35.02] Successfully created [AutoSave] backup [2015-06-06 13.35.02 - auto.zip] requested by [NIO13_PC1:User].
+[2015-06-06 13.35.02] Removing excessive [AutoSave] backup file [F:\TEXT TEM\CB_TRONKA_MK_1\ProjectBackup\backups\2015-05-12 09.31.47 - auto.zip].
+[2015-06-06 13.35.02] [AutoSave] backup file [CB_TRONKA_MK_1\ProjectBackup\backups\2015-05-12 09.31.47 - auto.zip] removed.
+[2015-06-06 20.51.01] Successfully created [Constraints Definition Upgrade] backup [2015-06-06 20.51.01 - consDefUpgr.zip] requested by [VOLODYMYR:V1].
+[2015-06-06 20.51.01] Removing excessive [Constraints Definition Upgrade] backup file [F:\TEXT  TEM\CB_TRONKA_MK_1\ProjectBackup\backups\2015-05-12 08.26.42 - consDefUpgr.zip].
+[2015-06-06 20.51.01] [Constraints Definition Upgrade] backup file [CB_TRONKA_MK_1\ProjectBackup\backups\2015-05-12 08.26.42 - consDefUpgr.zip] removed.
+[2015-06-06 20.51.01] Migrated iCDB content backup file [cdbback\2015-06-06 20.51.00-5760.zip] removed.
+[2015-06-06 20.51.31] Successfully created [AutoSave] backup [2015-06-06 20.51.31 - auto.zip] requested by [VOLODYMYR:V1].
+[2015-06-06 20.51.31] Removing excessive [AutoSave] backup file [F:\TEXT  TEM\CB_TRONKA_MK_1\ProjectBackup\backups\2015-06-05 15.54.46 - auto.zip].
+[2015-06-06 20.51.31] [AutoSave] backup file [CB_TRONKA_MK_1\ProjectBackup\backups\2015-06-05 15.54.46 - auto.zip] removed.
+[2015-06-07 16.40.17] Successfully created [AutoSave] backup [2015-06-07 16.40.17 - auto.zip] requested by [VOLODYMYR:V1].
+[2015-06-07 16.40.18] Removing excessive [AutoSave] backup file [F:\TEXT  TEM\CB_TRONKA_MK_1\ProjectBackup\backups\2015-06-06 09.35.02 - auto.zip].
+[2015-06-07 16.40.18] [AutoSave] backup file [CB_TRONKA_MK_1\ProjectBackup\backups\2015-06-06 09.35.02 - auto.zip] removed.
+[2015-06-07 22.09.01] Successfully created [AutoSave] backup [2015-06-07 22.09.01 - auto.zip] requested by [VOLODYMYR:V1].
+[2015-06-07 22.09.01] Removing excessive [AutoSave] backup file [F:\TEXT  TEM\CB_TRONKA_MK_1\ProjectBackup\backups\2015-06-06 13.35.02 - auto.zip].
+[2015-06-07 22.09.01] [AutoSave] backup file [CB_TRONKA_MK_1\ProjectBackup\backups\2015-06-06 13.35.02 - auto.zip] removed.
+[2015-06-08 08.27.17] Successfully created [Constraints Definition Upgrade] backup [2015-06-08 08.27.17 - consDefUpgr.zip] requested by [NIO13_PC1:User].
+[2015-06-08 08.27.17] Removing excessive [Constraints Definition Upgrade] backup file [F:\TEXT TEM\CB_TRONKA_MK_1\ProjectBackup\backups\2015-06-06 20.51.01 - consDefUpgr.zip].
+[2015-06-08 08.27.17] [Constraints Definition Upgrade] backup file [CB_TRONKA_MK_1\ProjectBackup\backups\2015-06-06 20.51.01 - consDefUpgr.zip] removed.
+[2015-06-08 08.27.17] Migrated iCDB content backup file [cdbback\2015-06-08 08.27.16-1600.zip] removed.
+[2015-06-08 08.27.47] Successfully created [AutoSave] backup [2015-06-08 08.27.47 - auto.zip] requested by [NIO13_PC1:User].
+[2015-06-08 08.27.47] Removing excessive [AutoSave] backup file [F:\TEXT TEM\CB_TRONKA_MK_1\ProjectBackup\backups\2015-06-06 20.51.31 - auto.zip].
+[2015-06-08 08.27.47] [AutoSave] backup file [CB_TRONKA_MK_1\ProjectBackup\backups\2015-06-06 20.51.31 - auto.zip] removed.
+[2015-06-08 12.27.48] Successfully created [AutoSave] backup [2015-06-08 12.27.47 - auto.zip] requested by [NIO13_PC1:User].
+[2015-06-08 12.27.48] Removing excessive [AutoSave] backup file [F:\TEXT TEM\CB_TRONKA_MK_1\ProjectBackup\backups\2015-06-07 16.40.17 - auto.zip].
+[2015-06-08 12.27.48] [AutoSave] backup file [CB_TRONKA_MK_1\ProjectBackup\backups\2015-06-07 16.40.17 - auto.zip] removed.
+[2015-06-08 19.13.37] Successfully created [Constraints Definition Upgrade] backup [2015-06-08 19.13.37 - consDefUpgr.zip] requested by [VOLODYMYR:V1].
+[2015-06-08 19.13.37] Removing excessive [Constraints Definition Upgrade] backup file [F:\TEXT  TEM\CB_TRONKA_MK_1\ProjectBackup\backups\2015-06-08 08.27.17 - consDefUpgr.zip].
+[2015-06-08 19.13.37] [Constraints Definition Upgrade] backup file [CB_TRONKA_MK_1\ProjectBackup\backups\2015-06-08 08.27.17 - consDefUpgr.zip] removed.
+[2015-06-08 19.13.37] Migrated iCDB content backup file [cdbback\2015-06-08 19.13.36-4304.zip] removed.
+[2015-06-08 20.18.42] Successfully created [AutoSave] backup [2015-06-08 20.18.42 - auto.zip] requested by [VOLODYMYR:V1].
+[2015-06-08 20.18.42] Removing excessive [AutoSave] backup file [F:\TEXT  TEM\CB_TRONKA_MK_1\ProjectBackup\backups\2015-06-07 22.09.01 - auto.zip].
+[2015-06-08 20.18.42] [AutoSave] backup file [CB_TRONKA_MK_1\ProjectBackup\backups\2015-06-07 22.09.01 - auto.zip] removed.
+[2015-06-09 08.28.01] Successfully created [Constraints Definition Upgrade] backup [2015-06-09 08.28.01 - consDefUpgr.zip] requested by [NIO13_PC1:User].
+[2015-06-09 08.28.01] Removing excessive [Constraints Definition Upgrade] backup file [F:\TEXT TEM\CB_TRONKA_MK_1\ProjectBackup\backups\2015-06-08 19.13.37 - consDefUpgr.zip].
+[2015-06-09 08.28.01] [Constraints Definition Upgrade] backup file [CB_TRONKA_MK_1\ProjectBackup\backups\2015-06-08 19.13.37 - consDefUpgr.zip] removed.
+[2015-06-09 08.28.01] Migrated iCDB content backup file [cdbback\2015-06-09 08.28.01-2024.zip] removed.
+[2015-06-09 09.33.06] Successfully created [AutoSave] backup [2015-06-09 09.33.06 - auto.zip] requested by [NIO13_PC1:User].
+[2015-06-09 09.33.06] Removing excessive [AutoSave] backup file [F:\TEXT TEM\CB_TRONKA_MK_1\ProjectBackup\backups\2015-06-08 08.27.47 - auto.zip].
+[2015-06-09 09.33.06] [AutoSave] backup file [CB_TRONKA_MK_1\ProjectBackup\backups\2015-06-08 08.27.47 - auto.zip] removed.
+[2015-06-09 13.33.07] Successfully created [AutoSave] backup [2015-06-09 13.33.06 - auto.zip] requested by [NIO13_PC1:User].
+[2015-06-09 13.33.07] Removing excessive [AutoSave] backup file [F:\TEXT TEM\CB_TRONKA_MK_1\ProjectBackup\backups\2015-06-08 12.27.47 - auto.zip].
+[2015-06-09 13.33.07] [AutoSave] backup file [CB_TRONKA_MK_1\ProjectBackup\backups\2015-06-08 12.27.47 - auto.zip] removed.
+[2015-06-09 20.14.15] Successfully created [Constraints Definition Upgrade] backup [2015-06-09 20.14.15 - consDefUpgr.zip] requested by [VOLODYMYR:V1].
+[2015-06-09 20.14.15] Removing excessive [Constraints Definition Upgrade] backup file [F:\TEXT  TEM\CB_TRONKA_MK_1\ProjectBackup\backups\2015-06-09 08.28.01 - consDefUpgr.zip].
+[2015-06-09 20.14.15] [Constraints Definition Upgrade] backup file [CB_TRONKA_MK_1\ProjectBackup\backups\2015-06-09 08.28.01 - consDefUpgr.zip] removed.
+[2015-06-09 20.14.15] Migrated iCDB content backup file [cdbback\2015-06-09 20.14.14-5784.zip] removed.
+[2015-06-09 20.16.50] Successfully created [AutoSave] backup [2015-06-09 20.16.50 - auto.zip] requested by [VOLODYMYR:V1].
+[2015-06-09 20.16.50] Removing excessive [AutoSave] backup file [F:\TEXT  TEM\CB_TRONKA_MK_1\ProjectBackup\backups\2015-06-08 20.18.42 - auto.zip].
+[2015-06-09 20.16.50] [AutoSave] backup file [CB_TRONKA_MK_1\ProjectBackup\backups\2015-06-08 20.18.42 - auto.zip] removed.
+[2015-06-10 08.08.26] Successfully created [Constraints Definition Upgrade] backup [2015-06-10 08.08.25 - consDefUpgr.zip] requested by [NIO13_PC1:User].
+[2015-06-10 08.08.26] Removing excessive [Constraints Definition Upgrade] backup file [F:\TEXT TEM\CB_TRONKA_MK_1\ProjectBackup\backups\2015-06-09 20.14.15 - consDefUpgr.zip].
+[2015-06-10 08.08.26] [Constraints Definition Upgrade] backup file [CB_TRONKA_MK_1\ProjectBackup\backups\2015-06-09 20.14.15 - consDefUpgr.zip] removed.
+[2015-06-10 08.08.26] Migrated iCDB content backup file [cdbback\2015-06-10 08.08.24-632.zip] removed.
+[2015-06-10 09.13.32] Successfully created [AutoSave] backup [2015-06-10 09.13.31 - auto.zip] requested by [NIO13_PC1:User].
+[2015-06-10 09.13.32] Removing excessive [AutoSave] backup file [F:\TEXT TEM\CB_TRONKA_MK_1\ProjectBackup\backups\2015-06-09 09.33.06 - auto.zip].
+[2015-06-10 09.13.32] [AutoSave] backup file [CB_TRONKA_MK_1\ProjectBackup\backups\2015-06-09 09.33.06 - auto.zip] removed.
+[2015-06-10 13.13.32] Successfully created [AutoSave] backup [2015-06-10 13.13.31 - auto.zip] requested by [NIO13_PC1:User].
+[2015-06-10 13.13.32] Removing excessive [AutoSave] backup file [F:\TEXT TEM\CB_TRONKA_MK_1\ProjectBackup\backups\2015-06-09 13.33.06 - auto.zip].
+[2015-06-10 13.13.32] [AutoSave] backup file [CB_TRONKA_MK_1\ProjectBackup\backups\2015-06-09 13.33.06 - auto.zip] removed.
+[2015-06-11 16.24.03] Successfully created [AutoSave] backup [2015-06-11 16.24.01 - auto.zip] requested by [NIO13_PC1:User].
+[2015-06-11 16.24.03] Removing excessive [AutoSave] backup file [F:\TEXT TEM\CB_TRONKA_MK_1\ProjectBackup\backups\2015-06-09 20.16.50 - auto.zip].
+[2015-06-11 16.24.03] [AutoSave] backup file [CB_TRONKA_MK_1\ProjectBackup\backups\2015-06-09 20.16.50 - auto.zip] removed.
+[2015-06-12 13.10.12] Successfully created [AutoSave] backup [2015-06-12 13.10.10 - auto.zip] requested by [NIO13_PC1:User].
+[2015-06-12 13.10.12] Removing excessive [AutoSave] backup file [F:\TEXT TEM\CB_TRONKA_MK_1\ProjectBackup\backups\2015-06-10 09.13.31 - auto.zip].
+[2015-06-12 13.10.12] [AutoSave] backup file [CB_TRONKA_MK_1\ProjectBackup\backups\2015-06-10 09.13.31 - auto.zip] removed.
+[2015-06-15 12.57.12] Successfully created [AutoSave] backup [2015-06-15 12.57.05 - auto.zip] requested by [NIO13_PC1:User].
+[2015-06-15 12.57.12] Removing excessive [AutoSave] backup file [F:\TEXT TEM\CB_TRONKA_MK_1\ProjectBackup\backups\2015-06-10 13.13.31 - auto.zip].
+[2015-06-15 12.57.12] [AutoSave] backup file [CB_TRONKA_MK_1\ProjectBackup\backups\2015-06-10 13.13.31 - auto.zip] removed.
+[2015-06-17 10.34.32] Successfully created [AutoSave] backup [2015-06-17 10.34.30 - auto.zip] requested by [NIO13_PC1:User].
+[2015-06-17 10.34.32] Removing excessive [AutoSave] backup file [F:\TEXT TEM\CB_TRONKA_MK_1\ProjectBackup\backups\2015-06-11 16.24.01 - auto.zip].
+[2015-06-17 10.34.32] [AutoSave] backup file [CB_TRONKA_MK_1\ProjectBackup\backups\2015-06-11 16.24.01 - auto.zip] removed.
+[2015-06-17 14.34.35] Successfully created [AutoSave] backup [2015-06-17 14.34.30 - auto.zip] requested by [NIO13_PC1:User].
+[2015-06-17 14.34.35] Removing excessive [AutoSave] backup file [F:\TEXT TEM\CB_TRONKA_MK_1\ProjectBackup\backups\2015-06-12 13.10.10 - auto.zip].
+[2015-06-17 14.34.35] [AutoSave] backup file [CB_TRONKA_MK_1\ProjectBackup\backups\2015-06-12 13.10.10 - auto.zip] removed.
+[2015-06-22 14.48.50] Successfully created [AutoSave] backup [2015-06-22 14.48.49 - auto.zip] requested by [NIO13_PC1:User].
+[2015-06-22 14.48.50] Removing excessive [AutoSave] backup file [F:\TEXT TEM\CB_TRONKA_MK_1\ProjectBackup\backups\2015-06-15 12.57.05 - auto.zip].
+[2015-06-22 14.48.50] [AutoSave] backup file [CB_TRONKA_MK_1\ProjectBackup\backups\2015-06-15 12.57.05 - auto.zip] removed.
+[2015-06-23 08.43.16] Successfully created [AutoSave] backup [2015-06-23 08.43.15 - auto.zip] requested by [NIO13_PC1:User].
+[2015-06-23 08.43.16] Removing excessive [AutoSave] backup file [F:\TEXT TEM\CB_TRONKA_MK_1\ProjectBackup\backups\2015-06-17 10.34.30 - auto.zip].
+[2015-06-23 08.43.16] [AutoSave] backup file [CB_TRONKA_MK_1\ProjectBackup\backups\2015-06-17 10.34.30 - auto.zip] removed.
+[2015-06-23 15.38.41] Successfully created [AutoSave] backup [2015-06-23 15.38.40 - auto.zip] requested by [NIO13_PC1:User].
+[2015-06-23 15.38.41] Removing excessive [AutoSave] backup file [F:\TEXT TEM\CB_TRONKA_MK_1\ProjectBackup\backups\2015-06-17 14.34.30 - auto.zip].
+[2015-06-23 15.38.41] [AutoSave] backup file [CB_TRONKA_MK_1\ProjectBackup\backups\2015-06-17 14.34.30 - auto.zip] removed.
+[2015-06-27 11.51.00] Successfully created [AutoSave] backup [2015-06-27 11.50.55 - auto.zip] requested by [NIO13_PC1:User].
+[2015-06-27 11.51.00] Removing excessive [AutoSave] backup file [F:\TEXT TEM\CB_TRONKA_MK_1\ProjectBackup\backups\2015-06-22 14.48.49 - auto.zip].
+[2015-06-27 11.51.00] [AutoSave] backup file [CB_TRONKA_MK_1\ProjectBackup\backups\2015-06-22 14.48.49 - auto.zip] removed.

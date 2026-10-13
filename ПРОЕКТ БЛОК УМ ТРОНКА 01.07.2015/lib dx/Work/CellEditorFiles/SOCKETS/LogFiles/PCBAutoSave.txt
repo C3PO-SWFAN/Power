@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                       01:57 PM Tuesday, October 08, 2013
+         Job Name: D:\lib dx\Work\CellEditorFiles\SOCKETS\M-PLCC-84.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                       01:57 PM Tuesday, October 08, 2013
+         Job Name: D:\lib dx\Work\CellEditorFiles\SOCKETS\M-PLCC-84.pcb
+

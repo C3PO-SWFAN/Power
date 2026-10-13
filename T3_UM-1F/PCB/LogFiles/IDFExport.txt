@@ -1,0 +1,13 @@
+
+                                   IDF Export
+                                   ----------
+
+                      10:59 AM Wednesday, January 16, 2019
+           Job Name: F:\TT18\GA\TRONCA-3\T3_UM-1F\PCB\BOARD_4LAYER.pcb
+
+    Creating IDF 3.0 file.    
+    ----------------------    
+        
+    Warning: Multiple placement outlines found for cell "D26". Generating maximum placement extents.    
+    Warning: Multiple placement outlines found for cell "D25". Generating maximum placement extents.    
+    Successfully created IDF file with 2 warnings.

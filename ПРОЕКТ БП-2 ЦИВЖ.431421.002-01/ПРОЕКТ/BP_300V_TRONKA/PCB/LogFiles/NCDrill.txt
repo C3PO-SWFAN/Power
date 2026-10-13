@@ -1,0 +1,42 @@
+ ----------------------------
+|      Drill Engine Log      |
+|          Started           |
+|  Sat Feb 06 15:47:51 2016  |
+ ----------------------------
+
+Removing Output/NCDrill/ThruHoleNonPlated.ncd
+Removing Output/NCDrill/ThruHolePlated.ncd
+
+Created drill file "F:\TEXT TEM\BP_300V_TRONKA\PCB\Output\NCDrill\ThruHolePlated.ncd" for span from 1 to 2
+Total holes, contours in this file 201, 0
+
+    Tool   Size (MM)    Tolerance (MM)     Plated   Count
+    ----   ---------   -----------------   ------   -----
+     08     0.5000                          YES     104
+     07     1.1000                          YES     3
+     06     1.2000                          YES     14
+     02     1.3000                          YES     12
+     05     1.4000                          YES     8
+     01     1.6000                          YES     15
+     04     1.8000                          YES     30
+     03     2.1000                          YES     6
+     09     2.6000                          YES     2
+     14     4.2000                          YES     2
+     12     4.8000                          YES     5
+
+
+Created drill file "F:\TEXT TEM\BP_300V_TRONKA\PCB\Output\NCDrill\ThruHoleNonPlated.ncd" for span from 1 to 2
+Total holes, contours in this file 43, 0
+
+    Tool   Size (MM)    Tolerance (MM)     Plated   Count
+    ----   ---------   -----------------   ------   -----
+     11     1.5000                          NO      22
+     13     3.1000                          NO      6
+     10     3.6000                          NO      15
+
+
+ ----------------------------
+|      Drill Engine Log      |
+|          Finished          |
+|  Sat Feb 06 15:47:52 2016  |
+ ----------------------------

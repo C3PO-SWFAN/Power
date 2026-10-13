@@ -1,0 +1,115 @@
+
+                                   DXF Export
+                                   ----------
+
+                         10:03 AM Monday, March 12, 2018
+          Job Name: F:\TT18\GA\TRONCA-3\T3_COM_D-1\PCB\BOARD_2LAYER.pcb
+
+
+
+    DXF File: F:\TT18\GA\TRONCA-3\T3_COM_D-1\PCB\Output\T3_COM_D1.dxf
+
+
+    Total - Export Element
+    ----------------------------------------------------------------------
+
+       129 - Assembly Outlines Btm
+
+       237 - Assembly Outlines Top
+
+       127 - Assembly Part Numbers Btm
+
+       147 - Assembly Part Numbers Top
+
+       127 - Assembly Ref Des Btm
+
+       148 - Assembly Ref Des Top
+
+         1 - Board Origin
+
+         1 - Board Outline
+
+       835 - Drill Drawing
+
+        17 - Etched Text Layer 1
+
+       756 - Generated Silkscreen Btm
+
+      1224 - Generated Silkscreen Top
+
+         1 - Manufacturing Outlines
+
+       181 - Mounting Hole Pads Layer 1
+
+       181 - Mounting Hole Pads Layer 2
+
+       229 - Mounting Holes Layer 1
+
+       229 - Mounting Holes Layer 2
+
+         1 - NC Drill Origin
+
+       244 - Part Holes Layer 1
+
+       244 - Part Holes Layer 2
+
+       244 - Part Pads Layer 1
+
+       244 - Part Pads Layer 2
+
+       192 - Part Pads SMD Btm
+
+       128 - Part Pads SMD Top
+
+       564 - Pin Numbers Btm
+
+       564 - Pin Numbers Top
+
+       128 - Placement Outlines Btm
+
+       148 - Placement Outlines Top
+
+      1026 - Plane Data Layer 1
+
+      1141 - Plane Data Layer 2
+
+       113 - Plane Shapes Layer 1
+
+       113 - Plane Shapes Layer 2
+
+         1 - Route Border
+
+       128 - Silkscreen Outlines Btm
+
+       180 - Silkscreen Outlines Top
+
+       128 - Silkscreen Ref Des Btm
+
+       148 - Silkscreen Ref Des Top
+
+       565 - Soldermask Pads Btm
+
+       501 - Soldermask Pads Top
+
+       192 - Solderpaste Pads Btm
+
+       128 - Solderpaste Pads Top
+
+       642 - Traces Layer 1
+
+       690 - Traces Layer 2
+
+       303 - Via Holes Layer 1
+
+       303 - Via Holes Layer 2
+
+       303 - Via Pads Layer 1
+
+       303 - Via Pads Layer 2
+
+
+    Successful Completion.
+
+
+
+                        10:03 AM Monday, March 12, 2018

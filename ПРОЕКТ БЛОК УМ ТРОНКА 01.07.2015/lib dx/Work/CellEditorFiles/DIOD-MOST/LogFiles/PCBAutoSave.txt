@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                        09:38 AM Thursday, March 20, 2014
+       Job Name: D:\lib dx\Work\CellEditorFiles\DIOD-MOST\M5060TB1200.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                        10:32 AM Thursday, March 20, 2014
+       Job Name: D:\lib dx\Work\CellEditorFiles\DIOD-MOST\M5060TB1200.pcb
+

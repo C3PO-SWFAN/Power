@@ -1,0 +1,147 @@
+Importer Log Report
+Project : BOARD_2LAYER.PrjPcb
+
+Section : Import Document - H:\Барабаш\T3-COM1-2F\PCB\BOARD_2LAYER.pcb
+    Section : Pad Stacks
+
+        Section : Padstack MSOP 1,04x0,34-RM-RH-10-AD
+            Pad-independent free object(s) will be placed on Top Soldermask layer due to non-uniform soldermask expansion.
+            Pad-independent free object(s) will be placed on Bottom Soldermask layer due to non-uniform soldermask expansion.
+            Section : Pads Using Padstack
+                Pad At (119.379mm, 211.05mm)
+                Pad At (123.779mm, 211.05mm)
+                Pad At (119.379mm, 211.55mm)
+                Pad At (123.779mm, 211.55mm)
+                Pad At (123.779mm, 210.55mm)
+                Pad At (119.379mm, 210.55mm)
+                Pad At (123.779mm, 210.05mm)
+                Pad At (119.379mm, 210.05mm)
+                Pad At (119.379mm, 212.05mm)
+                Pad At (123.779mm, 212.05mm)
+            EndSection
+        EndSection
+
+        Section : Padstack RR1,6x0,3x0,1
+            Pad-independent free object(s) will be placed on Top Solderpaste layer due to non-uniform soldermask expansion.
+            Pad-independent free object(s) will be placed on Bottom Solderpaste layer due to non-uniform soldermask expansion.
+            Section : Pads Using Padstack
+                Pad At (90.529mm, 219.075mm)
+                Pad At (90.529mm, 219.725mm)
+                Pad At (90.529mm, 220.375mm)
+                Pad At (90.529mm, 221.025mm)
+                Pad At (90.529mm, 221.675mm)
+                Pad At (90.529mm, 222.325mm)
+                Pad At (90.529mm, 222.975mm)
+                Pad At (90.529mm, 223.625mm)
+                Pad At (90.529mm, 224.275mm)
+                Pad At (90.529mm, 224.925mm)
+                Pad At (96.129mm, 224.925mm)
+                Pad At (96.129mm, 224.275mm)
+                Pad At (96.129mm, 223.625mm)
+                Pad At (96.129mm, 222.975mm)
+                Pad At (96.129mm, 222.325mm)
+                Pad At (96.129mm, 221.675mm)
+                Pad At (96.129mm, 221.025mm)
+                Pad At (96.129mm, 220.375mm)
+                Pad At (96.129mm, 219.725mm)
+                Pad At (96.129mm, 219.075mm)
+                Pad At (90.529mm, 191.075mm)
+                Pad At (90.529mm, 191.725mm)
+                Pad At (90.529mm, 192.375mm)
+                Pad At (90.529mm, 193.025mm)
+                Pad At (90.529mm, 193.675mm)
+                Pad At (90.529mm, 194.325mm)
+                Pad At (90.529mm, 194.975mm)
+                Pad At (90.529mm, 195.625mm)
+                Pad At (90.529mm, 196.275mm)
+                Pad At (90.529mm, 196.925mm)
+                Pad At (96.129mm, 196.925mm)
+                Pad At (96.129mm, 196.275mm)
+                Pad At (96.129mm, 195.625mm)
+                Pad At (96.129mm, 194.975mm)
+                Pad At (96.129mm, 194.325mm)
+                Pad At (96.129mm, 193.675mm)
+                Pad At (96.129mm, 193.025mm)
+                Pad At (96.129mm, 192.375mm)
+                Pad At (96.129mm, 191.725mm)
+                Pad At (96.129mm, 191.075mm)
+            EndSection
+        EndSection
+    EndSection
+
+    Section : Processing PCB data
+        Section : Layer : 
+            Dielectric Constant     : 1
+        EndSection
+
+        Section : Layer : Top Layer
+            Resistivity (OhmMeters) : 1,7E-008
+        EndSection
+
+        Section : Layer : 
+            Dielectric Constant     : 4.7
+        EndSection
+
+        Section : Layer : Bottom Layer
+            Resistivity (OhmMeters) : 1,7E-008
+        EndSection
+
+        Section : Layer : 
+            Dielectric Constant     : 1
+        EndSection
+
+        Section : Layer Stackup
+            
+            User Layer "Top Assembly" maps to Mechanical Layer 1
+            User Layer "Bottom Assembly" maps to Mechanical Layer 2
+            User Layer "Placement Outline Top" maps to Mechanical Layer 3
+            User Layer "Placement Outline Bottom" maps to Mechanical Layer 4
+            User Layer "Insertion Outlines Top" maps to Mechanical Layer 5
+            User Layer "Insertion Outlines Bottom" maps to Mechanical Layer 6
+            User Layer "Top Ref Designator" maps to Mechanical Layer 7
+            User Layer "Bottom Ref Designator" maps to Mechanical Layer 8
+            User Layer "Top Part Name" maps to Mechanical Layer 9
+            User Layer "Bottom Part Name" maps to Mechanical Layer 10
+            User Layer "Top 3D Body" maps to Mechanical Layer 11
+            User Layer "Bottom 3D Body" maps to Mechanical Layer 12
+            User Layer "Default User Layer" maps to Mechanical Layer 13
+        EndSection
+
+        Section : General Clearance Rules:
+            Contour & Mounting Hole To Mounting Hole       : 0.254mm
+            Contour & Mounting Hole To Non-Plane Conductor : 0.254mm
+            Contour & Mounting Hole To Plane Conductor     : 0.254mm
+            Placement Outline To Placement Outline         : 0.254mm
+            Placement Outline To Placement Obstruct        : 0.254mm
+            Placement Outline To Board Edge                : 0.254mm
+            Trace To Resistor                              : 0.254mm
+            Pad To Resistor                                : 0.254mm
+            Testpoint Center To Testpoint Center           : 0.254mm
+        EndSection
+
+        Section : Net Rules:
+        EndSection
+
+        Section : Net Class Rule Set: (Default)
+            Section : Rules For Layer 1.
+                Min Width                 : 0.254mm
+                Typical Width             : 0.254mm
+                Expansion Width           : 0.254mm
+                Typical Impedance         : 50
+                Differential Pair Spacing : 0mm
+            EndSection
+
+            Section : Rules For Layer 2.
+                Min Width                 : 0.254mm
+                Typical Width             : 0.254mm
+                Expansion Width           : 0.254mm
+                Typical Impedance         : 50
+                Differential Pair Spacing : 0mm
+            EndSection
+        EndSection
+
+        Section : Constraints import
+            Constraints file not found
+        EndSection
+    EndSection
+EndSection

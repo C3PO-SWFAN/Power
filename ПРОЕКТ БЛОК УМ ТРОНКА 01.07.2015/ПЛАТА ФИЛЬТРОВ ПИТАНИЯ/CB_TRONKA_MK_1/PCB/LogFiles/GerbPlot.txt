@@ -1,0 +1,138 @@
+ ----------------------------
+|    Gerber Plotting Log     |
+|          Started           |
+|  Wed Jul 01 11:17:37 2015  |
+ ----------------------------
+
+
+Processing Silktop.gdo
+    Number of Apertures     = 3
+    Number of Moves         = 107
+    Number of Draws         = 3137
+    Number of Arcs          = 68
+    Number of Flashes       = 0
+    Number of Comments      = 6
+    Number of Drawn Pads    = 0
+    Number of Filled Shapes = 0
+    Number of Dcode Warnings= 0
+    Number of Dcode Errors  = 0
+    Total Draw Length       = 147.148 (IN)
+    Total Move Length       = 72.3563 (IN)
+
+Processing Silkbottom.gdo
+    Number of Apertures     = 5
+    Number of Moves         = 630
+    Number of Draws         = 16354
+    Number of Arcs          = 38
+    Number of Flashes       = 1
+    Number of Comments      = 6
+    Number of Drawn Pads    = 0
+    Number of Filled Shapes = 0
+    Number of Dcode Warnings= 0
+    Number of Dcode Errors  = 0
+    Total Draw Length       = 186.449 (IN)
+    Total Move Length       = 431.58 (IN)
+
+Processing Pastetop.gdo
+    Number of Apertures     = 2
+    Number of Moves         = 7
+    Number of Draws         = 4
+    Number of Arcs          = 4
+    Number of Flashes       = 6
+    Number of Comments      = 6
+    Number of Drawn Pads    = 0
+    Number of Filled Shapes = 0
+    Number of Dcode Warnings= 0
+    Number of Dcode Errors  = 0
+    Total Draw Length       = 29.8199 (IN)
+    Total Move Length       = 9.53783 (IN)
+
+Processing Pastebottom.gdo
+    Number of Apertures     = 16
+    Number of Moves         = 175
+    Number of Draws         = 4
+    Number of Arcs          = 4
+    Number of Flashes       = 174
+    Number of Comments      = 6
+    Number of Drawn Pads    = 0
+    Number of Filled Shapes = 0
+    Number of Dcode Warnings= 0
+    Number of Dcode Errors  = 0
+    Total Draw Length       = 29.8199 (IN)
+    Total Move Length       = 87.2135 (IN)
+
+Processing Masktop .gdo
+    Number of Apertures     = 16
+    Number of Moves         = 181
+    Number of Draws         = 4
+    Number of Arcs          = 4
+    Number of Flashes       = 180
+    Number of Comments      = 6
+    Number of Drawn Pads    = 0
+    Number of Filled Shapes = 0
+    Number of Dcode Warnings= 0
+    Number of Dcode Errors  = 0
+    Total Draw Length       = 29.8199 (IN)
+    Total Move Length       = 122.634 (IN)
+
+Processing Maskbottom .gdo
+    Number of Apertures     = 30
+    Number of Moves         = 349
+    Number of Draws         = 4
+    Number of Arcs          = 4
+    Number of Flashes       = 348
+    Number of Comments      = 6
+    Number of Drawn Pads    = 0
+    Number of Filled Shapes = 0
+    Number of Dcode Warnings= 0
+    Number of Dcode Errors  = 0
+    Total Draw Length       = 29.8199 (IN)
+    Total Move Length       = 204.379 (IN)
+
+Processing Layer 2.gdo
+    Number of Apertures     = 36
+    Number of Moves         = 752
+    Number of Draws         = 1221
+    Number of Arcs          = 334
+    Number of Flashes       = 412
+    Number of Comments      = 6
+    Number of Drawn Pads    = 0
+    Number of Filled Shapes = 5
+    Number of Dcode Warnings= 0
+    Number of Dcode Errors  = 0
+    Total Draw Length       = 359.521 (IN)
+    Total Move Length       = 696.351 (IN)
+
+Processing Layer 1.gdo
+    Number of Apertures     = 22
+    Number of Moves         = 423
+    Number of Draws         = 1764
+    Number of Arcs          = 390
+    Number of Flashes       = 244
+    Number of Comments      = 6
+    Number of Drawn Pads    = 0
+    Number of Filled Shapes = 4
+    Number of Dcode Warnings= 0
+    Number of Dcode Errors  = 0
+    Total Draw Length       = 258.893 (IN)
+    Total Move Length       = 342.989 (IN)
+
+Processing Board Outline.gdo
+    Number of Apertures     = 1
+    Number of Moves         = 1
+    Number of Draws         = 4
+    Number of Arcs          = 4
+    Number of Flashes       = 0
+    Number of Comments      = 6
+    Number of Drawn Pads    = 0
+    Number of Filled Shapes = 0
+    Number of Dcode Warnings= 0
+    Number of Dcode Errors  = 0
+    Total Draw Length       = 29.8199 (IN)
+    Total Move Length       = 0.059055 (IN)
+
+ ---------------------------
+|    Gerber Plotting Log     |
+|          Finished          |
+|  Wed Jul 01 11:17:39 2015  |
+ ----------------------------

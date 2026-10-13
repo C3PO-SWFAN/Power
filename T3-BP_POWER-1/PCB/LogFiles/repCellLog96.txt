@@ -1,0 +1,55 @@
+=======================================================================
+Expedition PCB - Pinnacle - Version 2013.0.540.971
+=======================================================================
+
+RELOAD CELLS
+
+Job Directory:  F:\TT18\GA\TRONCA-3\T3-BP_POWER-1\PCB\
+
+
+Design Units:(mm)
+
+Replace Cell Log:   repCellLog96.txt
+
+Sun Mar 04 12:13:10 2018
+
+Reference Designator            Cell Name                         New Cell Name
+===============================================================================
+
+
+---------------  RELOAD CELLS  Sun Mar 04 12:13:10 2018  ---------------
+
+
+
+
+---------------  RELOAD CELLS TMP  Sun Mar 04 12:13:10 2018  ---------------
+
+
+X1                              2Rx8K_ANGLE                       2Rx8K_ANGLE                     
+D48                             MSOP-RM-10-AD                     MSOP-RM-10-AD                   
+T1                              5W_UNIWER                         5W_UNIWER                       
+L1                              SC-J_SC-JH_WE-SMB_UNIVER          SC-J_SC-JH_WE-SMB_UNIVER        
+L12                             6mmX4mm                           6mmX4mm                         
+
+
+---------------    Sun Mar 04 12:13:12 2018  ---------------
+
+
+
+
+---------------  RELOAD CELLS TMP  Sun Mar 04 12:13:12 2018  ---------------
+
+
+C16                             CAP_PP_L15mm_UNIVER_V1            CAP_PP_L15mm_UNIVER_V1          
+C13                             CAP_PP_L15mm_UNIVER_V1            CAP_PP_L15mm_UNIVER_V1          
+C8                              1812-STANDART-4532                1812-STANDART-4532              
+
+
+---------------    Sun Mar 04 12:13:13 2018  ---------------
+
+
+
+
+---------------    Sun Mar 04 12:13:13 2018  ---------------
+
+

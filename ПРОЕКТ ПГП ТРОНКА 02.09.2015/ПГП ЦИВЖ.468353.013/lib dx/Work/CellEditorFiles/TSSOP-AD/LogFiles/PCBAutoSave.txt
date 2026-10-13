@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                      11:57 PM Thursday, November 07, 2013
+       Job Name: D:\lib dx\Work\CellEditorFiles\TSSOP-AD\TSSOP-RU-8-AD.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                      11:58 PM Thursday, November 07, 2013
+       Job Name: D:\lib dx\Work\CellEditorFiles\TSSOP-AD\TSSOP-RU-8-AD.pcb
+

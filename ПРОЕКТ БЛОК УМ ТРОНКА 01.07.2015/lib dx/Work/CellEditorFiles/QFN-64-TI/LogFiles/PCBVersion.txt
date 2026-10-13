@@ -1,0 +1,16 @@
+Cell Editor Version: 2012.0.487.397
+
+
+
+Environment Variables:
+----------------------
+VALOR_ENV_FILE = "C:\MentorGraphics\7.9.3EE\SDD_HOME\Valor_NPI\env"
+HOMEDRIVE = "C:"
+HOMEPATH = "\Documents and Settings\V1"
+MGC_HOME = "C:\MentorGraphics\7.9.3EE\MGC_HOME.ixn"
+MGC_TMPDIR = "C:\DOCUME~1\V1\LOCALS~1\Temp"
+OS = "Windows_NT"
+PATH = "C:\cygwin-1.7.9DMS\bin;C:\MentorGraphics\7.9.3EE\SDD_HOME\common\win32\bin;C:\MentorGraphics\7.9.3EE\SDD_HOME\common\win32\lib;C:\MentorGraphics\7.9.3EE\MGC_HOME.ixn\bin;C:\MentorGraphics\7.9.3EE\MGC_HOME.ixn\lib;C:\Program Files\Python26\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;"
+SDD_HOME = "C:\MentorGraphics\7.9.3EE\SDD_HOME"
+TEMP = "C:\DOCUME~1\V1\LOCALS~1\Temp"
+TMP = "C:\DOCUME~1\V1\LOCALS~1\Temp"

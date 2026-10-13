@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                        08:50 AM Saturday, June 13, 2015
+Job Name: D:\lib dx\Work\CellEditorFiles\TRANSISTORS-V\TO-247AC-AD-d1_8-GOR_OBMAN.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                        08:59 AM Saturday, June 13, 2015
+Job Name: D:\lib dx\Work\CellEditorFiles\TRANSISTORS-V\TO-247AC-AD-d1_8-GOR_OBMAN.pcb
+

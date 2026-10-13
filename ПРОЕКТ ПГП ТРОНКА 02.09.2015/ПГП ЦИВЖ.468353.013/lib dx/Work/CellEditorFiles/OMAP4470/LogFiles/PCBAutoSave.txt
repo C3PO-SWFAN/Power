@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                         09:40 AM Tuesday, June 25, 2013
+    Job Name: D:\lib dx\Work\CellEditorFiles\OMAP4470\SDIN5D2-16G-L-N153.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                         10:04 AM Tuesday, June 25, 2013
+    Job Name: D:\lib dx\Work\CellEditorFiles\OMAP4470\SDIN5D2-16G-L-N153.pcb
+

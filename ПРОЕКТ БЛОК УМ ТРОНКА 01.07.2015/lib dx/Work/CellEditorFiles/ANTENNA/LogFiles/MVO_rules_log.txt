@@ -1,0 +1,6 @@
+
+Can not open Multiple Via Rules file. File doesn't exist:
+       'D:\lib dx\Work\CellEditorFiles\ANTENNA\Config\MultiViaRules.txt'
+
+Can not open Multiple Via Rules file. File doesn't exist:
+       'D:\lib dx\Work\CellEditorFiles\ANTENNA\Layout\MVO_Rules.txt'

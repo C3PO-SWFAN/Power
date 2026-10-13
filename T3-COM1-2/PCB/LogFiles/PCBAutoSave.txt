@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                       03:12 PM Thursday, August 13, 2026
+     Job Name: C:\Users\Work\Desktop\Барабаш\T3-COM1-2\PCB\BOARD_2LAYER.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                       06:59 PM Thursday, August 13, 2026
+     Job Name: C:\Users\Work\Desktop\Барабаш\T3-COM1-2\PCB\BOARD_2LAYER.pcb
+

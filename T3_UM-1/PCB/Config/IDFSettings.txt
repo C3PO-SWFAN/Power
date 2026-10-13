@@ -1,0 +1,31 @@
+.filetype IDF_EXPORT_SETTINGS
+.units (mm)
+
+.board_file "F:\\TT18\\GA\\TRONCA-3\\T3_UM-1\\PCB\\Output\\T3_UM.emn"
+
+.library_file "F:\\TT18\\GA\\TRONCA-3\\T3_UM-1\\PCB\\Output\\T3_UM.emp"
+
+.board_stackup 1
+
+.idf_version "3.0"
+
+.board_thickness "1.836400"
+
+.comp_height "2.540000"
+
+.export_obstructs 1
+
+.exclude_obstructs 1
+
+.export_holes 1
+
+.export_height 1
+
+.hole_contour 1
+
+.board_cavities 1
+
+.scheme "Default"
+ ..scheme_location Local
+
+ ..scheme_changed 0

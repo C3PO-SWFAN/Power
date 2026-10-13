@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                      08:15 PM Saturday, December 21, 2013
+       Job Name: D:\lib dx\Work\CellEditorFiles\TDFN\MLP-2mmx2mm-FAIR.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                      08:15 PM Saturday, December 21, 2013
+       Job Name: D:\lib dx\Work\CellEditorFiles\TDFN\MLP-2mmx2mm-FAIR.pcb
+

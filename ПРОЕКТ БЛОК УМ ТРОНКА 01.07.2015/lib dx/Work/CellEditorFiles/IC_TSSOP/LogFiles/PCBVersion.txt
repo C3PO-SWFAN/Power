@@ -1,0 +1,19 @@
+Cell Editor Version: 2012.0.487.397
+
+
+
+Environment Variables:
+----------------------
+VALOR_ENV_FILE = "C:\MentorGraphics\7.9.3EE\SDD_HOME\Valor_NPI\env"
+GW2ODB_DIR = "C:\Valor\GW2ODB"
+HOMEDRIVE = "C:"
+HOMEPATH = "\Documents and Settings\Xilinx"
+LM_LICENSE_FILE = "c:\flexlm\license.dat"
+MGC_HOME = "C:\MentorGraphics\7.9.3EE\MGC_HOME.ixn"
+MGC_TMPDIR = "C:\DOCUME~1\Xilinx\LOCALS~1\Temp"
+OS = "Windows_NT"
+PATH = "C:\MentorGraphics\7.9.3EE\SDD_HOME\common\win32\bin;C:\MentorGraphics\7.9.3EE\SDD_HOME\common\win32\lib;C:\MentorGraphics\7.9.3EE\MGC_HOME.ixn\bin;C:\MentorGraphics\7.9.3EE\MGC_HOME.ixn\lib;C:\Xilinx\11.1\SDK\bin\nt;C:\Xilinx\11.1\EDK\bin\nt;C:\Xilinx\11.1\EDK\lib\nt;C:\Xilinx\11.1\ChipScope\bin\nt;C:\Xilinx\11.1\common\bin\nt;C:\Xilinx\11.1\common\lib\nt;C:\Xilinx\11.1\PlanAhead\bin;C:\Xilinx\11.1\ISE\bin\nt;C:\Xilinx\11.1\ISE\lib\nt;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\MentorGraphics\7.9.3EE\MGC_HOME.ixn/bin;C:\MentorGraphics\7.9.3EE\MGC_HOME.ixn/lib;C:\modeltech_6.5b\2007.7EE\MGC_HOME.ixn\bin;C:\modeltech_6.5b\2007.7EE\MGC_HOME.ixn\lib;C:\cygwin-1.7.9DMS\bin;D:\modeltech_6.5b\win32;C:\MentorGraphics\7.9.3EE\SDD_HOME\common\win32\lib"
+SDD_HOME = "C:\MentorGraphics\7.9.3EE\SDD_HOME"
+TEMP = "C:\DOCUME~1\Xilinx\LOCALS~1\Temp"
+TMP = "C:\DOCUME~1\Xilinx\LOCALS~1\Temp"
+XILINX = "C:\Xilinx\11.1\ISE"

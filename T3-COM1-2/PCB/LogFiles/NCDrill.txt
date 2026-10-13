@@ -1,0 +1,47 @@
+ ----------------------------
+|      Drill Engine Log      |
+|          Started           |
+|  Wed May 16 12:45:22 2018  |
+ ----------------------------
+
+Removing Output/NCDrill/ThruHoleNonPlated.ncd
+Removing Output/NCDrill/ThruHolePlated.ncd
+
+Created drill file "F:\TT18\GA\TRONCA-3\T3-COM1-2\PCB\Output\NCDrill\ThruHolePlated.ncd" for span from 1 to 2
+Total holes, contours in this file 848, 0
+
+    Tool   Size (MM)    Tolerance (MM)     Plated   Count
+    ----   ---------   -----------------   ------   -----
+     09     0.3500                          YES     447
+     10     0.5000                          YES     1
+     06     0.8000                          YES     34
+     07     1.0000                          YES     2
+     04     1.1000                          YES     84
+     02     1.3000                          YES     128
+     05     1.4000                          YES     22
+     08     1.5000                          YES     6
+     01     1.6000                          YES     49
+     03     1.8000                          YES     64
+     18     2.3000                          YES     2
+     12     3.6000                          YES     8
+     11     4.8000                          YES     1
+
+
+Created drill file "F:\TT18\GA\TRONCA-3\T3-COM1-2\PCB\Output\NCDrill\ThruHoleNonPlated.ncd" for span from 1 to 2
+Total holes, contours in this file 162, 0
+
+    Tool   Size (MM)    Tolerance (MM)     Plated   Count
+    ----   ---------   -----------------   ------   -----
+     16     0.8000                          NO      8
+     15     1.0000                          NO      88
+     19     1.7000                          NO      2
+     13     3.0000                          NO      34
+     17     3.1000                          NO      16
+     14     3.6000                          NO      14
+
+
+ ----------------------------
+|      Drill Engine Log      |
+|          Finished          |
+|  Wed May 16 12:45:23 2018  |
+ ----------------------------

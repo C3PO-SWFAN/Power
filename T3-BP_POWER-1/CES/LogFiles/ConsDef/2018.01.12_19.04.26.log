@@ -1,0 +1,24 @@
+Fri Jan 12 19:04:26 2018
+
+Project path: F:\TEXT  TEM\T3-BP_POWER-1\database
+
+Loaded cns info: C:\MentorGraphics\7.9.4EE\SDD_HOME\standard\ce_ee.cns=7.10.24;D:\WDIR\user.cns=1ed2-5ac3-44b7-cb35-1c4e-2986-c4e2-9850-47b8-48b5-0817-03e2
+Before global upgrade from version: 7.10.24 to version: 7.10.24
+
+BeforeGlobalUpgrade took 10ms, 0s
+
+Upgrade snapshot DxD
+UpgradeSnapshot took 10ms, 0s
+
+Upgrade snapshot Board1_layout_temp
+UpgradeSnapshot took 20ms, 0s
+
+Upgrade snapshot Board1
+UpgradeSnapshot took 20ms, 0s
+
+Upgrade snapshot RefSync
+UpgradeSnapshot took 20ms, 0s
+
+After global upgrade
+AfterGlobalUpgrade took 0ms, 0s
+

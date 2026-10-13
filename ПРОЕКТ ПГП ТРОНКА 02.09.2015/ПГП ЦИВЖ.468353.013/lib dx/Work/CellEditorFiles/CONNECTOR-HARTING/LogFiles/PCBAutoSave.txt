@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                         08:26 PM Thursday, May 29, 2014
+ Job Name: D:\lib dx\Work\CellEditorFiles\CONNECTOR-HARTING\DIN41612-B-96-V.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                         08:50 PM Thursday, May 29, 2014
+ Job Name: D:\lib dx\Work\CellEditorFiles\CONNECTOR-HARTING\DIN41612-B-96-V.pcb
+

@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                        07:14 PM Wednesday, July 22, 2015
+          Job Name: D:\lib dx\Work\CellEditorFiles\SWITCH\SWD-2-DIP.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                        07:14 PM Wednesday, July 22, 2015
+          Job Name: D:\lib dx\Work\CellEditorFiles\SWITCH\SWD-2-DIP.pcb
+

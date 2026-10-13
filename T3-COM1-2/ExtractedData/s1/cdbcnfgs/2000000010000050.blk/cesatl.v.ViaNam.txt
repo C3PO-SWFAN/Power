@@ -1,0 +1,6 @@
+0001    026VIA
+0002    2,5x3,5VIA-Closed
+0003    ST-VIA-D0,5x0,9-C
+0004    ST-VIA-D0,35x0,7-C
+0005    1,4x2,0VIA-Open-3
+0006    0,9x1,4VIA-Open-3

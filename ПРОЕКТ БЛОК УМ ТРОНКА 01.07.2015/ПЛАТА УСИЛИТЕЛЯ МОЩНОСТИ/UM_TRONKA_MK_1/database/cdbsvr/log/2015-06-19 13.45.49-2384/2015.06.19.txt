@@ -1,0 +1,424 @@
+[2015.06.19 13:45:49] [0000m.00s.031ms] [0] WELCOME
+[2015.06.19 13:45:49] [0000m.00s.171ms] [1] iCDB Server ver.1.094, vt40T8RtWJOG2cE2Nlvc5A, build:535943 created 2013-01-08 09:09:26, sources stamp:vt40T8RtWJOG2cE2Nlvc5A
+[2015.06.19 13:45:49] [0000m.00s.171ms] [1] Copyright 2013 Mentor Graphics Corporation. All Rights Reserved.
+[2015.06.19 13:45:49] [0000m.00s.171ms] [1] Base flow version [7.9.4]
+[2015.06.19 13:45:49] [0000m.00s.171ms] [1] GBS Install Id [26418], Flow Id [EE7.9.4], Full Flow Name [Expedition Enterprise Flow], Exact Access Date [Jun 1 2012]
+[2015.06.19 13:45:49] [0000m.00s.171ms] [1] UPDATE Install Info, GBS Install Id [29518], UPDATE Name [Expedition Enterprise Flow - Update 9 for EE7.9.4]
+[2015.06.19 13:45:49] [0000m.00s.171ms] [1] Machine [NIO13_PC1]  User [User]  PID [2384]
+[2015.06.19 13:45:49] [0000m.00s.171ms] [1] Operating system [Microsoft Windows XP Professional Service Pack 3 (build 2600)]
+[2015.06.19 13:45:49] [0000m.00s.171ms] [1] Current working dir [F:\TEXT TEM\UM_TRONKA_MK_1]
+[2015.06.19 13:45:49] [0000m.00s.171ms] [1] PATH [C:\MentorGraphics\7.9.4EE\MGC_HOME.ixn\bin;C:\MentorGraphics\7.9.4EE\MGC_HOME.ixn\lib;C:\MentorGraphics\7.9.4EE\SDD_HOME\wv\win32\bin;C:\MentorGraphics\7.9.4EE\SDD_HOME\common\win32\bin;C:\MentorGraphics\7.9.4EE\SDD_HOME\common\win32\lib;C:\cygwin-1.7.9DMS\bin;C:\MentorGraphics\7.9.4EE\MGC_HOME.ixn\bin;C:\MentorGraphics\7.9.4EE\MGC_HOME.ixn\lib;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS.XP\system32;C:\WINDOWS.XP;C:\WINDOWS.XP\System32\Wbem;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\PCAD\EXE;;C:\BP\BIN;C:\PROGRA~1\COMMON~1\MUVEET~1\030625;C:\BP\BIN\]
+[2015.06.19 13:45:49] [0000m.00s.171ms] [1] SDD_HOME [C:\MentorGraphics\7.9.4EE\SDD_HOME] on file system [NTFS]
+[2015.06.19 13:45:49] [0000m.00s.171ms] [1] SDD_PLATFORM [win32]
+[2015.06.19 13:45:49] [0000m.00s.171ms] [1] WDIR [D:\WDIR;C:\MentorGraphics\7.9.4EE\SDD_HOME\standard]
+[2015.06.19 13:45:49] [0000m.00s.171ms] [1] Local iCDB working dir [D:\WDIR\iCDB] on file system [NTFS]
+[2015.06.19 13:45:49] [0000m.00s.171ms] [2] S: Loading config files
+[2015.06.19 13:45:49] [0000m.00s.171ms] [1] Config file [F:\TEXT TEM\UM_TRONKA_MK_1\database\cdbsvr\Server.cfg] not found
+[2015.06.19 13:45:49] [0000m.00s.171ms] [3] S: Config loaded
+[2015.06.19 13:45:49] [0000m.00s.328ms] [0] S: Project path [F:\TEXT TEM\UM_TRONKA_MK_1\database] on file system [NTFS]
+[2015.06.19 13:45:49] [0000m.00s.328ms] [0] S: Project file (.prj) path [F:\TEXT TEM\UM_TRONKA_MK_1\UM_TRONKA_MK_1.prj] on file system [NTFS]
+[2015.06.19 13:45:49] [0000m.00s.328ms] [1] S: WARNING: Database auto-repair support DISABLED
+[2015.06.19 13:45:49] [0000m.00s.328ms] [0] S: Single-user mode (auto)
+[2015.06.19 13:45:49] [0000m.00s.328ms] [0] S: Event polling mode autodetection
+[2015.06.19 13:45:49] [0000m.00s.343ms] [0] S: Started up automatically by iCDB Client: NIO13_PC1:User:2584
+[2015.06.19 13:45:49] [0000m.00s.343ms] [0] S: Auto close mode
+[2015.06.19 13:45:49] [0000m.00s.343ms] [0] S: Database ID [12b8-610f-2d86-d1aa-ac81-c55f-c81c-5550-e450-a06c-4c3c-8dfb]
+[2015.06.19 13:45:49] [0000m.00s.343ms] [0] PathTranslator: BEGIN dumping
+[2015.06.19 13:45:49] [0000m.00s.343ms] [0] PathTranslator: Local -> global path prefix list
+[2015.06.19 13:45:49] [0000m.00s.343ms] [0] PathTranslator: Global -> local path prefix list
+[2015.06.19 13:45:49] [0000m.00s.343ms] [0] PathTranslator: END dumping
+[2015.06.19 13:45:49] [0000m.00s.343ms] [0] S: START
+[2015.06.19 13:45:49] [0000m.00s.359ms] [0] S: Server startup lock file created
+[2015.06.19 13:45:49] [0000m.00s.375ms] [0] S: Listening for client connections on port [10000]
+[2015.06.19 13:45:49] [0000m.00s.390ms] [0] S: Server network ID [nio13_pc1:192.168.0.180,nio13_pc1:10000]
+[2015.06.19 13:45:49] [0000m.00s.390ms] [0] S: Server GUID [f535-37da-1dc8-ec2a-dd2f-3852-e2f3-8550-e3f0-a06c-4c3c-8dfb]
+[2015.06.19 13:45:49] [0000m.00s.390ms] [0] S: Project GUID [12b8-610f-2d86-d1aa-ac81-c55f-c81c-5550-e450-a06c-4c3c-8dfb]
+[2015.06.19 13:45:49] [0000m.00s.390ms] [0] S: Wrote data to server address file
+[2015.06.19 13:45:49] [0000m.00s.390ms] [0] S: Server startup lock file removed
+[2015.06.19 13:45:49] [0000m.00s.390ms] [1] ProjectBackupManager: Setting project file (.prj) path: [F:\TEXT TEM\UM_TRONKA_MK_1\UM_TRONKA_MK_1.prj]
+[2015.06.19 13:45:49] [0000m.00s.640ms] [0] S: Plugins loaded: [PIM] [ENetGen70] 
+[2015.06.19 13:45:49] [0000m.00s.640ms] [0] S: Local disc access time: 25 us
+[2015.06.19 13:45:49] [0000m.00s.640ms] [0] S: File server access time: 26 us
+[2015.06.19 13:45:49] [0000m.00s.656ms] [0] Single file [F:\TEXT TEM\UM_TRONKA_MK_1\database\icdb.dat] size [595280 (581.3 kB)]
+[2015.06.19 13:45:49] [0000m.00s.656ms] [1] Single file [F:\TEXT TEM\UM_TRONKA_MK_1\database\icdb.dat] opened in read-write mode
+[2015.06.19 13:45:49] [0000m.00s.656ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2015.06.19 13:45:49] [0000m.00s.656ms] [0] Database GUARD OK: [595280]
+[2015.06.19 13:45:49] [0000m.00s.656ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2015.06.19 13:45:49] [0000m.00s.656ms] [0] Database GUARD OK: [595280]
+[2015.06.19 13:45:49] [0000m.00s.656ms] [0] SingleFile: [939a-c7ba-42ee-b4f6] SFI version check [1009] [1009]
+[2015.06.19 13:45:49] [0000m.00s.671ms] [0] SingleFile: [939a-c7ba-42ee-b4f6] Database SFI header has been read in [5ms 180us]
+[2015.06.19 13:45:49] [0000m.00s.671ms] [0] iCDB Server PI: Server & plugin session [1512]
+[2015.06.19 13:45:49] [0000m.00s.671ms] [0] iCDB Server PI: Opening database [F:\TEXT TEM\UM_TRONKA_MK_1\database]
+[2015.06.19 13:45:49] [0000m.00s.671ms] [0] iCDB Server PI: Database [F:\TEXT TEM\UM_TRONKA_MK_1\database] opened
+[2015.06.19 13:45:49] [0000m.00s.765ms] [0] iCDB Database: Checking existence of constraint definitions
+[2015.06.19 13:45:49] [0000m.00s.765ms] [0] iCDB Database: Checking constraint definitions version
+[2015.06.19 13:45:50] [0000m.00s.875ms] [1] iCDB Database: Constraint definitions version [ce_ee.cns=7.10.24;user.cns=23bc-5dbe-811f-e7e3-e487-7e23-5877-e250-e2f7-9777-77e2-03e2] up to date
+[2015.06.19 13:45:50] [0000m.01s.156ms] [0] iCDB Server PI: Initializing plugins
+[2015.06.19 13:45:50] [0000m.01s.187ms] [0] iCDB Server PI: Plugins initialized
+[2015.06.19 13:45:50] [0000m.01s.187ms] [0] S: iCDB database loaded
+[2015.06.19 13:45:50] [0000m.01s.187ms] [0] S: Starting threads
+[2015.06.19 13:45:50] [0000m.01s.187ms] [0] BT: Listening for broadcast messages on port [10000]
+[2015.06.19 13:45:50] [0000m.01s.187ms] [0] IT: Session [1513] for host [nio13_pc1] user [User] with process ID [2584] created
+[2015.06.19 13:45:50] [0000m.01s.187ms] [1] CMT: There are [1] clients now: 1513
+[2015.06.19 13:45:50] [0000m.01s.187ms] [1] SC[1513]: Registered sub-client [DxD] with ID [1] for session ID [1513] host [nio13_pc1] user [User] process ID [2584]
+[2015.06.19 13:45:50] [0000m.01s.406ms] [1] SC[1513]: Registered sub-client [TransactionRollbackSubClient] with ID [2] for session ID [1513] host [nio13_pc1] user [User] process ID [2584]
+[2015.06.19 13:45:50] [0000m.01s.406ms] [1] SC[1513]: Registered sub-client [xprob] with ID [3] for session ID [1513] host [nio13_pc1] user [User] process ID [2584]
+[2015.06.19 13:45:52] [0000m.03s.031ms] [1] SC[1513]: Registered sub-client [SelectionHolder] with ID [4] for session ID [1513] host [nio13_pc1] user [User] process ID [2584]
+[2015.06.19 13:45:52] [0000m.03s.046ms] [1] SC[1513]: Registered sub-client [SymbolEditor] with ID [5] for session ID [1513] host [nio13_pc1] user [User] process ID [2584]
+[2015.06.19 13:45:52] [0000m.03s.062ms] [1] SC[1513]: Registered sub-client [EEVM_EEVM_198989084] with ID [6] for session ID [1513] host [nio13_pc1] user [User] process ID [2584]
+[2015.06.19 13:45:52] [0000m.03s.062ms] [1] SC[1513]: UnRegistered sub-client [EEVM_EEVM_198989084] with ID [6] for session ID [1513] host [nio13_pc1] user [User] process ID [2584]
+[2015.06.19 13:45:52] [0000m.03s.062ms] [1] SC[1513]: Registered sub-client [EEVM_EEVM_198989084] with ID [7] for session ID [1513] host [nio13_pc1] user [User] process ID [2584]
+[2015.06.19 13:45:52] [0000m.03s.093ms] [1] SC[1513]: UnRegistered sub-client [EEVM_EEVM_198989084] with ID [7] for session ID [1513] host [nio13_pc1] user [User] process ID [2584]
+[2015.06.19 13:45:52] [0000m.03s.109ms] [1] SC[1513]: Registered sub-client [EEVM_EEVM_198989084] with ID [8] for session ID [1513] host [nio13_pc1] user [User] process ID [2584]
+[2015.06.19 13:45:52] [0000m.03s.109ms] [1] SC[1513]: UnRegistered sub-client [EEVM_EEVM_198989084] with ID [8] for session ID [1513] host [nio13_pc1] user [User] process ID [2584]
+[2015.06.19 13:45:52] [0000m.03s.109ms] [1] SC[1513]: Registered sub-client [EEVM_EEVM_198989084] with ID [9] for session ID [1513] host [nio13_pc1] user [User] process ID [2584]
+[2015.06.19 13:45:52] [0000m.03s.296ms] [1] SC[1513]: UnRegistered sub-client [EEVM_EEVM_198989084] with ID [9] for session ID [1513] host [nio13_pc1] user [User] process ID [2584]
+[2015.06.19 13:45:53] [0000m.04s.140ms] [1] SC[1513]: Registered sub-client [HdlProject] with ID [10] for session ID [1513] host [nio13_pc1] user [User] process ID [2584]
+[2015.06.19 13:45:53] [0000m.04s.156ms] [1] SC[1513]: Registered sub-client [Navigator] with ID [11] for session ID [1513] host [nio13_pc1] user [User] process ID [2584]
+[2015.06.19 13:45:53] [0000m.04s.171ms] [1] SC[1513]: Registered sub-client [OutputWindow] with ID [12] for session ID [1513] host [nio13_pc1] user [User] process ID [2584]
+[2015.06.19 13:45:53] [0000m.04s.171ms] [1] SC[1513]: Registered sub-client [PlaceDevice] with ID [13] for session ID [1513] host [nio13_pc1] user [User] process ID [2584]
+[2015.06.19 13:45:53] [0000m.04s.531ms] [1] SC[1513]: Registered sub-client [SAE] with ID [14] for session ID [1513] host [nio13_pc1] user [User] process ID [2584]
+[2015.06.19 13:45:53] [0000m.04s.546ms] [1] SC[1513]: Registered sub-client [CCZAddin] with ID [15] for session ID [1513] host [nio13_pc1] user [User] process ID [2584]
+[2015.06.19 13:45:53] [0000m.04s.546ms] [1] SC[1513]: Registered sub-client [DxThumbnails] with ID [16] for session ID [1513] host [nio13_pc1] user [User] process ID [2584]
+[2015.06.19 13:45:53] [0000m.04s.546ms] [1] SC[1513]: Registered sub-client [DxSim] with ID [17] for session ID [1513] host [nio13_pc1] user [User] process ID [2584]
+[2015.06.19 13:45:54] [0000m.04s.812ms] [1] SC[1513]: Registered sub-client [SheetConnectorsCacheDxD:1434710754] with ID [18] for session ID [1513] host [nio13_pc1] user [User] process ID [2584]
+[2015.06.19 13:45:54] [0000m.04s.859ms] [1] SC[1513]: Registered sub-client [NetsNamesCollectorDxD:1434710754] with ID [19] for session ID [1513] host [nio13_pc1] user [User] process ID [2584]
+[2015.06.19 13:45:54] [0000m.05s.140ms] [1] SC[1513]: Registered sub-client [ObjectHolder_453241816] with ID [20] for session ID [1513] host [nio13_pc1] user [User] process ID [2584]
+[2015.06.19 13:45:54] [0000m.05s.156ms] [1] SC[1513]: Registered sub-client [BlockCacheDxD:453875104] with ID [21] for session ID [1513] host [nio13_pc1] user [User] process ID [2584]
+[2015.06.19 13:45:54] [0000m.05s.156ms] [1] SC[1513]: Registered sub-client [GlobalNetAliasUpdater_453264136] with ID [22] for session ID [1513] host [nio13_pc1] user [User] process ID [2584]
+[2015.06.19 13:45:54] [0000m.05s.156ms] [1] SC[1513]: Registered sub-client [IcdbNetProcessorSubClientDxD:454085336] with ID [23] for session ID [1513] host [nio13_pc1] user [User] process ID [2584]
+[2015.06.19 13:45:55] [0000m.06s.140ms] [1] SC[1513]: Registered sub-client [DxDbSearch] with ID [24] for session ID [1513] host [nio13_pc1] user [User] process ID [2584]
+[2015.06.19 13:46:10] [0000m.21s.640ms] [0] DFAMT: File server access time: 30 us
+[2015.06.19 14:54:51] [0069m.02s.750ms] [0] IT: Session [1514] for host [nio13_pc1] user [User] with process ID [3732] created
+[2015.06.19 14:54:51] [0069m.02s.750ms] [1] SC[1514]: Registered sub-client [Expedition PCB_24115062] with ID [1] for session ID [1514] host [nio13_pc1] user [User] process ID [3732]
+[2015.06.19 14:54:51] [0069m.02s.750ms] [1] CMT: There are [2] clients now: 1513, 1514
+[2015.06.19 14:54:52] [0069m.02s.828ms] [1] SC[1514]: Registered sub-client [EEVM_EEVM_122671900] with ID [2] for session ID [1514] host [nio13_pc1] user [User] process ID [3732]
+[2015.06.19 14:54:52] [0069m.02s.859ms] [1] SC[1514]: UnRegistered sub-client [EEVM_EEVM_122671900] with ID [2] for session ID [1514] host [nio13_pc1] user [User] process ID [3732]
+[2015.06.19 14:54:52] [0069m.02s.859ms] [1] SC[1514]: Registered sub-client [EEVM_EEVM_122671900] with ID [3] for session ID [1514] host [nio13_pc1] user [User] process ID [3732]
+[2015.06.19 14:54:52] [0069m.02s.906ms] [1] SC[1514]: UnRegistered sub-client [EEVM_EEVM_122671900] with ID [3] for session ID [1514] host [nio13_pc1] user [User] process ID [3732]
+[2015.06.19 14:54:56] [0069m.07s.515ms] [1] SC[1514]: Registered sub-client [ExpeditionCrossProber] with ID [4] for session ID [1514] host [nio13_pc1] user [User] process ID [3732]
+[2015.06.19 14:54:57] [0069m.07s.890ms] [1] SC[1514]: Registered sub-client [JobPrefsDBPI_24120609] with ID [5] for session ID [1514] host [nio13_pc1] user [User] process ID [3732]
+[2015.06.19 14:54:57] [0069m.07s.890ms] [1] SC[1514]: UnRegistered sub-client [JobPrefsDBPI_24120609] with ID [5] for session ID [1514] host [nio13_pc1] user [User] process ID [3732]
+[2015.06.19 14:57:24] [0071m.35s.546ms] [0] IT: Session [1515] for host [nio13_pc1] user [User] with process ID [1396] created
+[2015.06.19 14:57:24] [0071m.35s.546ms] [1] SC[1515]: Registered sub-client [CDBPackagerGUI] with ID [1] for session ID [1515] host [nio13_pc1] user [User] process ID [1396]
+[2015.06.19 14:57:24] [0071m.35s.546ms] [1] CMT: There are [3] clients now: 1513, 1514, 1515
+[2015.06.19 14:57:24] [0071m.35s.578ms] [1] SC[1515]: UnRegistered sub-client [CDBPackagerGUI] with ID [1] for session ID [1515] host [nio13_pc1] user [User] process ID [1396]
+[2015.06.19 14:57:24] [0071m.35s.656ms] [1] CMT: Removed client [1515]
+[2015.06.19 14:57:24] [0071m.35s.656ms] [1] CMT: There are [2] clients now: 1513, 1514
+[2015.06.19 14:57:27] [0071m.38s.421ms] [0] IT: Session [1516] for host [nio13_pc1] user [User] with process ID [228] created
+[2015.06.19 14:57:27] [0071m.38s.421ms] [1] SC[1516]: Registered sub-client [Packager_24271078] with ID [1] for session ID [1516] host [nio13_pc1] user [User] process ID [228]
+[2015.06.19 14:57:27] [0071m.38s.468ms] [1] CMT: There are [3] clients now: 1513, 1514, 1516
+[2015.06.19 14:57:31] [0071m.42s.031ms] [1] SC[1516]: UnRegistered sub-client [Packager_24271078] with ID [1] for session ID [1516] host [nio13_pc1] user [User] process ID [228]
+[2015.06.19 14:57:31] [0071m.42s.093ms] [1] CMT: Removed client [1516]
+[2015.06.19 14:57:31] [0071m.42s.093ms] [1] CMT: There are [2] clients now: 1513, 1514
+[2015.06.19 14:57:40] [0071m.51s.390ms] [1] SC[1514]: UnRegistered sub-client [ExpeditionCrossProber] with ID [4] for session ID [1514] host [nio13_pc1] user [User] process ID [3732]
+[2015.06.19 14:57:40] [0071m.51s.390ms] [1] SC[1514]: Registered sub-client [EEVM_EEVM_1242112] with ID [6] for session ID [1514] host [nio13_pc1] user [User] process ID [3732]
+[2015.06.19 14:57:40] [0071m.51s.390ms] [1] SC[1514]: UnRegistered sub-client [EEVM_EEVM_1242112] with ID [6] for session ID [1514] host [nio13_pc1] user [User] process ID [3732]
+[2015.06.19 14:57:40] [0071m.51s.593ms] [1] SC[1514]: Registered sub-client [JobPrefsDBPI_24284296] with ID [7] for session ID [1514] host [nio13_pc1] user [User] process ID [3732]
+[2015.06.19 14:57:40] [0071m.51s.625ms] [1] SC[1514]: UnRegistered sub-client [JobPrefsDBPI_24284296] with ID [7] for session ID [1514] host [nio13_pc1] user [User] process ID [3732]
+[2015.06.19 14:57:42] [0071m.53s.328ms] [1] SC[1514]: Registered sub-client [JobPrefsDBPI_24286046] with ID [8] for session ID [1514] host [nio13_pc1] user [User] process ID [3732]
+[2015.06.19 14:57:42] [0071m.53s.343ms] [1] SC[1514]: UnRegistered sub-client [JobPrefsDBPI_24286046] with ID [8] for session ID [1514] host [nio13_pc1] user [User] process ID [3732]
+[2015.06.19 14:57:42] [0071m.53s.671ms] [0] IT: Session [1517] for host [nio13_pc1] user [User] with process ID [3576] created
+[2015.06.19 14:57:42] [0071m.53s.671ms] [1] SC[1517]: Registered sub-client [Packager_24286359] with ID [1] for session ID [1517] host [nio13_pc1] user [User] process ID [3576]
+[2015.06.19 14:57:42] [0071m.53s.765ms] [1] CMT: There are [3] clients now: 1513, 1514, 1517
+[2015.06.19 14:57:44] [0071m.55s.078ms] [1] SC[1517]: UnRegistered sub-client [Packager_24286359] with ID [1] for session ID [1517] host [nio13_pc1] user [User] process ID [3576]
+[2015.06.19 14:57:44] [0071m.55s.171ms] [1] CMT: Removed client [1517]
+[2015.06.19 14:57:44] [0071m.55s.171ms] [1] CMT: There are [2] clients now: 1513, 1514
+[2015.06.19 14:57:44] [0071m.55s.671ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [F:\TEXT TEM\UM_TRONKA_MK_1\database\s2\cdbcatlg\grpobj] - auto-saving it
+[2015.06.19 14:57:45] [0071m.56s.437ms] [0] IT: Session [1518] for host [nio13_pc1] user [User] with process ID [1488] created
+[2015.06.19 14:57:45] [0071m.56s.437ms] [1] SC[1518]: Registered sub-client [Expedition_24289109] with ID [1] for session ID [1518] host [nio13_pc1] user [User] process ID [1488]
+[2015.06.19 14:57:45] [0071m.56s.484ms] [1] CMT: There are [3] clients now: 1513, 1514, 1518
+[2015.06.19 14:57:45] [0071m.56s.671ms] [1] SC[1518]: UnRegistered sub-client [Expedition_24289109] with ID [1] for session ID [1518] host [nio13_pc1] user [User] process ID [1488]
+[2015.06.19 14:57:45] [0071m.56s.687ms] [1] CMT: Removed client [1518]
+[2015.06.19 14:57:45] [0071m.56s.687ms] [1] CMT: There are [2] clients now: 1513, 1514
+[2015.06.19 14:57:47] [0071m.57s.859ms] [0] IT: Session [1519] for host [nio13_pc1] user [User] with process ID [1488] created
+[2015.06.19 14:57:47] [0071m.57s.859ms] [1] SC[1519]: Registered sub-client [JobPrefsDBPI_24290546] with ID [1] for session ID [1519] host [nio13_pc1] user [User] process ID [1488]
+[2015.06.19 14:57:47] [0071m.57s.890ms] [1] CMT: There are [3] clients now: 1513, 1514, 1519
+[2015.06.19 14:57:47] [0071m.57s.906ms] [1] SC[1519]: UnRegistered sub-client [JobPrefsDBPI_24290546] with ID [1] for session ID [1519] host [nio13_pc1] user [User] process ID [1488]
+[2015.06.19 14:57:47] [0071m.57s.984ms] [1] CMT: Removed client [1519]
+[2015.06.19 14:57:47] [0071m.57s.984ms] [1] CMT: There are [2] clients now: 1513, 1514
+[2015.06.19 14:57:47] [0071m.58s.453ms] [0] IT: Session [1520] for host [nio13_pc1] user [User] with process ID [1488] created
+[2015.06.19 14:57:47] [0071m.58s.453ms] [1] SC[1520]: Registered sub-client [JobPrefsDBPI_24291140] with ID [1] for session ID [1520] host [nio13_pc1] user [User] process ID [1488]
+[2015.06.19 14:57:47] [0071m.58s.500ms] [1] CMT: There are [3] clients now: 1513, 1514, 1520
+[2015.06.19 14:57:50] [0072m.01s.031ms] [1] SC[1520]: UnRegistered sub-client [JobPrefsDBPI_24291140] with ID [1] for session ID [1520] host [nio13_pc1] user [User] process ID [1488]
+[2015.06.19 14:57:50] [0072m.01s.109ms] [1] CMT: Removed client [1520]
+[2015.06.19 14:57:50] [0072m.01s.109ms] [1] CMT: There are [2] clients now: 1513, 1514
+[2015.06.19 14:57:51] [0072m.02s.484ms] [0] IT: Session [1521] for host [nio13_pc1] user [User] with process ID [3480] created
+[2015.06.19 14:57:51] [0072m.02s.484ms] [1] SC[1521]: Registered sub-client [JobPrefsDBPI_24295156] with ID [1] for session ID [1521] host [nio13_pc1] user [User] process ID [3480]
+[2015.06.19 14:57:51] [0072m.02s.515ms] [1] CMT: There are [3] clients now: 1513, 1514, 1521
+[2015.06.19 14:57:51] [0072m.02s.531ms] [1] SC[1521]: Registered sub-client [Expedition_24295234] with ID [2] for session ID [1521] host [nio13_pc1] user [User] process ID [3480]
+[2015.06.19 14:57:51] [0072m.02s.609ms] [1] SC[1521]: UnRegistered sub-client [JobPrefsDBPI_24295156] with ID [1] for session ID [1521] host [nio13_pc1] user [User] process ID [3480]
+[2015.06.19 14:57:51] [0072m.02s.765ms] [1] SC[1521]: UnRegistered sub-client [Expedition_24295234] with ID [2] for session ID [1521] host [nio13_pc1] user [User] process ID [3480]
+[2015.06.19 14:57:52] [0072m.02s.812ms] [1] CMT: Removed client [1521]
+[2015.06.19 14:57:52] [0072m.02s.812ms] [1] CMT: There are [2] clients now: 1513, 1514
+[2015.06.19 14:57:52] [0072m.03s.140ms] [1] SC[1514]: Registered sub-client [EEVM_EEVM_271384268] with ID [9] for session ID [1514] host [nio13_pc1] user [User] process ID [3732]
+[2015.06.19 14:57:52] [0072m.03s.171ms] [1] SC[1514]: UnRegistered sub-client [EEVM_EEVM_271384268] with ID [9] for session ID [1514] host [nio13_pc1] user [User] process ID [3732]
+[2015.06.19 14:57:52] [0072m.03s.171ms] [1] SC[1514]: Registered sub-client [EEVM_EEVM_271384268] with ID [10] for session ID [1514] host [nio13_pc1] user [User] process ID [3732]
+[2015.06.19 14:57:52] [0072m.03s.171ms] [1] SC[1514]: UnRegistered sub-client [EEVM_EEVM_271384268] with ID [10] for session ID [1514] host [nio13_pc1] user [User] process ID [3732]
+[2015.06.19 14:57:52] [0072m.03s.187ms] [1] SC[1514]: Registered sub-client [EEVM_EEVM_271384268] with ID [11] for session ID [1514] host [nio13_pc1] user [User] process ID [3732]
+[2015.06.19 14:57:52] [0072m.03s.218ms] [1] SC[1514]: UnRegistered sub-client [EEVM_EEVM_271384268] with ID [11] for session ID [1514] host [nio13_pc1] user [User] process ID [3732]
+[2015.06.19 14:57:52] [0072m.03s.453ms] [1] SC[1514]: UnRegistered sub-client [Expedition PCB_24115062] with ID [1] for session ID [1514] host [nio13_pc1] user [User] process ID [3732]
+[2015.06.19 14:57:52] [0072m.03s.531ms] [1] CMT: Removed client [1514]
+[2015.06.19 14:57:52] [0072m.03s.531ms] [1] CMT: There are [1] clients now: 1513
+[2015.06.19 14:57:53] [0072m.03s.875ms] [0] IT: Session [1522] for host [nio13_pc1] user [User] with process ID [3732] created
+[2015.06.19 14:57:53] [0072m.03s.875ms] [1] SC[1522]: Registered sub-client [Expedition PCB_24296546] with ID [1] for session ID [1522] host [nio13_pc1] user [User] process ID [3732]
+[2015.06.19 14:57:53] [0072m.03s.937ms] [1] CMT: There are [2] clients now: 1513, 1522
+[2015.06.19 14:57:54] [0072m.05s.171ms] [1] SC[1522]: Registered sub-client [JobPrefsDBPI_24297890] with ID [2] for session ID [1522] host [nio13_pc1] user [User] process ID [3732]
+[2015.06.19 14:57:54] [0072m.05s.187ms] [1] SC[1522]: UnRegistered sub-client [JobPrefsDBPI_24297890] with ID [2] for session ID [1522] host [nio13_pc1] user [User] process ID [3732]
+[2015.06.19 14:57:54] [0072m.05s.250ms] [1] SC[1522]: Registered sub-client [JobPrefsDBPI_24297953] with ID [3] for session ID [1522] host [nio13_pc1] user [User] process ID [3732]
+[2015.06.19 14:57:54] [0072m.05s.250ms] [1] SC[1522]: UnRegistered sub-client [JobPrefsDBPI_24297953] with ID [3] for session ID [1522] host [nio13_pc1] user [User] process ID [3732]
+[2015.06.19 14:57:54] [0072m.05s.250ms] [1] SC[1522]: Registered sub-client [ExpeditionCrossProber] with ID [4] for session ID [1522] host [nio13_pc1] user [User] process ID [3732]
+[2015.06.19 14:59:59] [0074m.09s.968ms] [0] IT: Session [1523] for host [nio13_pc1] user [User] with process ID [4016] created
+[2015.06.19 14:59:59] [0074m.09s.968ms] [1] SC[1523]: Registered sub-client [CDBPackagerGUI] with ID [1] for session ID [1523] host [nio13_pc1] user [User] process ID [4016]
+[2015.06.19 14:59:59] [0074m.10s.000ms] [1] CMT: There are [3] clients now: 1513, 1522, 1523
+[2015.06.19 14:59:59] [0074m.10s.000ms] [1] SC[1523]: UnRegistered sub-client [CDBPackagerGUI] with ID [1] for session ID [1523] host [nio13_pc1] user [User] process ID [4016]
+[2015.06.19 14:59:59] [0074m.10s.093ms] [1] CMT: Removed client [1523]
+[2015.06.19 14:59:59] [0074m.10s.093ms] [1] CMT: There are [2] clients now: 1513, 1522
+[2015.06.19 15:00:01] [0074m.11s.984ms] [0] IT: Session [1524] for host [nio13_pc1] user [User] with process ID [1748] created
+[2015.06.19 15:00:01] [0074m.11s.984ms] [1] SC[1524]: Registered sub-client [Packager_24424656] with ID [1] for session ID [1524] host [nio13_pc1] user [User] process ID [1748]
+[2015.06.19 15:00:01] [0074m.12s.015ms] [1] CMT: There are [3] clients now: 1513, 1522, 1524
+[2015.06.19 15:00:02] [0074m.13s.421ms] [1] SC[1524]: UnRegistered sub-client [Packager_24424656] with ID [1] for session ID [1524] host [nio13_pc1] user [User] process ID [1748]
+[2015.06.19 15:00:02] [0074m.13s.437ms] [1] CMT: Removed client [1524]
+[2015.06.19 15:00:02] [0074m.13s.437ms] [1] CMT: There are [2] clients now: 1513, 1522
+[2015.06.19 15:00:08] [0074m.19s.640ms] [1] SC[1522]: UnRegistered sub-client [ExpeditionCrossProber] with ID [4] for session ID [1522] host [nio13_pc1] user [User] process ID [3732]
+[2015.06.19 15:00:08] [0074m.19s.656ms] [1] SC[1522]: Registered sub-client [EEVM_EEVM_1242112] with ID [5] for session ID [1522] host [nio13_pc1] user [User] process ID [3732]
+[2015.06.19 15:00:08] [0074m.19s.656ms] [1] SC[1522]: UnRegistered sub-client [EEVM_EEVM_1242112] with ID [5] for session ID [1522] host [nio13_pc1] user [User] process ID [3732]
+[2015.06.19 15:00:10] [0074m.21s.171ms] [1] SC[1522]: Registered sub-client [JobPrefsDBPI_24433875] with ID [6] for session ID [1522] host [nio13_pc1] user [User] process ID [3732]
+[2015.06.19 15:00:10] [0074m.21s.187ms] [1] SC[1522]: UnRegistered sub-client [JobPrefsDBPI_24433875] with ID [6] for session ID [1522] host [nio13_pc1] user [User] process ID [3732]
+[2015.06.19 15:00:11] [0074m.22s.640ms] [1] SC[1522]: Registered sub-client [JobPrefsDBPI_24435343] with ID [7] for session ID [1522] host [nio13_pc1] user [User] process ID [3732]
+[2015.06.19 15:00:11] [0074m.22s.656ms] [1] SC[1522]: UnRegistered sub-client [JobPrefsDBPI_24435343] with ID [7] for session ID [1522] host [nio13_pc1] user [User] process ID [3732]
+[2015.06.19 15:00:12] [0074m.22s.968ms] [0] IT: Session [1525] for host [nio13_pc1] user [User] with process ID [640] created
+[2015.06.19 15:00:12] [0074m.22s.968ms] [1] SC[1525]: Registered sub-client [Packager_24435640] with ID [1] for session ID [1525] host [nio13_pc1] user [User] process ID [640]
+[2015.06.19 15:00:12] [0074m.23s.000ms] [1] CMT: There are [3] clients now: 1513, 1522, 1525
+[2015.06.19 15:00:13] [0074m.24s.343ms] [1] SC[1525]: UnRegistered sub-client [Packager_24435640] with ID [1] for session ID [1525] host [nio13_pc1] user [User] process ID [640]
+[2015.06.19 15:00:13] [0074m.24s.406ms] [1] CMT: Removed client [1525]
+[2015.06.19 15:00:13] [0074m.24s.406ms] [1] CMT: There are [2] clients now: 1513, 1522
+[2015.06.19 15:00:14] [0074m.24s.984ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [F:\TEXT TEM\UM_TRONKA_MK_1\database\s2\cdbcatlg\grpobj] - auto-saving it
+[2015.06.19 15:00:15] [0074m.25s.984ms] [0] IT: Session [1526] for host [nio13_pc1] user [User] with process ID [3536] created
+[2015.06.19 15:00:15] [0074m.25s.984ms] [1] SC[1526]: Registered sub-client [Expedition_24438656] with ID [1] for session ID [1526] host [nio13_pc1] user [User] process ID [3536]
+[2015.06.19 15:00:15] [0074m.26s.015ms] [1] CMT: There are [3] clients now: 1513, 1522, 1526
+[2015.06.19 15:00:15] [0074m.26s.171ms] [1] SC[1526]: UnRegistered sub-client [Expedition_24438656] with ID [1] for session ID [1526] host [nio13_pc1] user [User] process ID [3536]
+[2015.06.19 15:00:15] [0074m.26s.218ms] [1] CMT: Removed client [1526]
+[2015.06.19 15:00:15] [0074m.26s.218ms] [1] CMT: There are [2] clients now: 1513, 1522
+[2015.06.19 15:00:16] [0074m.27s.468ms] [0] IT: Session [1527] for host [nio13_pc1] user [User] with process ID [3536] created
+[2015.06.19 15:00:16] [0074m.27s.468ms] [1] SC[1527]: Registered sub-client [JobPrefsDBPI_24440046] with ID [1] for session ID [1527] host [nio13_pc1] user [User] process ID [3536]
+[2015.06.19 15:00:16] [0074m.27s.515ms] [1] SC[1527]: UnRegistered sub-client [JobPrefsDBPI_24440046] with ID [1] for session ID [1527] host [nio13_pc1] user [User] process ID [3536]
+[2015.06.19 15:00:16] [0074m.27s.531ms] [1] CMT: There are [3] clients now: 1513, 1522, 1527
+[2015.06.19 15:00:16] [0074m.27s.531ms] [1] CMT: Removed client [1527]
+[2015.06.19 15:00:16] [0074m.27s.531ms] [1] CMT: There are [2] clients now: 1513, 1522
+[2015.06.19 15:00:17] [0074m.28s.046ms] [0] IT: Session [1528] for host [nio13_pc1] user [User] with process ID [3536] created
+[2015.06.19 15:00:17] [0074m.28s.046ms] [1] SC[1528]: Registered sub-client [JobPrefsDBPI_24440734] with ID [1] for session ID [1528] host [nio13_pc1] user [User] process ID [3536]
+[2015.06.19 15:00:17] [0074m.28s.125ms] [1] CMT: There are [3] clients now: 1513, 1522, 1528
+[2015.06.19 15:00:18] [0074m.29s.171ms] [1] SC[1528]: UnRegistered sub-client [JobPrefsDBPI_24440734] with ID [1] for session ID [1528] host [nio13_pc1] user [User] process ID [3536]
+[2015.06.19 15:00:18] [0074m.29s.234ms] [1] CMT: Removed client [1528]
+[2015.06.19 15:00:18] [0074m.29s.234ms] [1] CMT: There are [2] clients now: 1513, 1522
+[2015.06.19 15:00:19] [0074m.30s.703ms] [0] IT: Session [1529] for host [nio13_pc1] user [User] with process ID [1080] created
+[2015.06.19 15:00:19] [0074m.30s.703ms] [1] SC[1529]: Registered sub-client [JobPrefsDBPI_24443375] with ID [1] for session ID [1529] host [nio13_pc1] user [User] process ID [1080]
+[2015.06.19 15:00:19] [0074m.30s.750ms] [1] SC[1529]: Registered sub-client [Expedition_24443453] with ID [2] for session ID [1529] host [nio13_pc1] user [User] process ID [1080]
+[2015.06.19 15:00:19] [0074m.30s.750ms] [1] CMT: There are [3] clients now: 1513, 1522, 1529
+[2015.06.19 15:00:20] [0074m.30s.828ms] [1] SC[1529]: UnRegistered sub-client [JobPrefsDBPI_24443375] with ID [1] for session ID [1529] host [nio13_pc1] user [User] process ID [1080]
+[2015.06.19 15:00:20] [0074m.30s.921ms] [1] SC[1529]: UnRegistered sub-client [Expedition_24443453] with ID [2] for session ID [1529] host [nio13_pc1] user [User] process ID [1080]
+[2015.06.19 15:00:20] [0074m.30s.953ms] [1] CMT: Removed client [1529]
+[2015.06.19 15:00:20] [0074m.30s.953ms] [1] CMT: There are [2] clients now: 1513, 1522
+[2015.06.19 15:00:20] [0074m.31s.734ms] [1] SC[1522]: Registered sub-client [EEVM_EEVM_270551644] with ID [8] for session ID [1522] host [nio13_pc1] user [User] process ID [3732]
+[2015.06.19 15:00:20] [0074m.31s.765ms] [1] SC[1522]: UnRegistered sub-client [EEVM_EEVM_270551644] with ID [8] for session ID [1522] host [nio13_pc1] user [User] process ID [3732]
+[2015.06.19 15:00:20] [0074m.31s.781ms] [1] SC[1522]: Registered sub-client [EEVM_EEVM_270551644] with ID [9] for session ID [1522] host [nio13_pc1] user [User] process ID [3732]
+[2015.06.19 15:00:20] [0074m.31s.781ms] [1] SC[1522]: UnRegistered sub-client [EEVM_EEVM_270551644] with ID [9] for session ID [1522] host [nio13_pc1] user [User] process ID [3732]
+[2015.06.19 15:00:20] [0074m.31s.781ms] [1] SC[1522]: Registered sub-client [EEVM_EEVM_270551644] with ID [10] for session ID [1522] host [nio13_pc1] user [User] process ID [3732]
+[2015.06.19 15:00:21] [0074m.31s.812ms] [1] SC[1522]: UnRegistered sub-client [EEVM_EEVM_270551644] with ID [10] for session ID [1522] host [nio13_pc1] user [User] process ID [3732]
+[2015.06.19 15:00:21] [0074m.32s.062ms] [1] SC[1522]: UnRegistered sub-client [Expedition PCB_24296546] with ID [1] for session ID [1522] host [nio13_pc1] user [User] process ID [3732]
+[2015.06.19 15:00:21] [0074m.32s.156ms] [1] CMT: Removed client [1522]
+[2015.06.19 15:00:21] [0074m.32s.156ms] [1] CMT: There are [1] clients now: 1513
+[2015.06.19 15:00:21] [0074m.32s.484ms] [0] IT: Session [1530] for host [nio13_pc1] user [User] with process ID [3732] created
+[2015.06.19 15:00:21] [0074m.32s.484ms] [1] SC[1530]: Registered sub-client [Expedition PCB_24445171] with ID [1] for session ID [1530] host [nio13_pc1] user [User] process ID [3732]
+[2015.06.19 15:00:21] [0074m.32s.578ms] [1] CMT: There are [2] clients now: 1513, 1530
+[2015.06.19 15:00:23] [0074m.33s.812ms] [1] SC[1530]: Registered sub-client [JobPrefsDBPI_24446515] with ID [2] for session ID [1530] host [nio13_pc1] user [User] process ID [3732]
+[2015.06.19 15:00:23] [0074m.33s.812ms] [1] SC[1530]: UnRegistered sub-client [JobPrefsDBPI_24446515] with ID [2] for session ID [1530] host [nio13_pc1] user [User] process ID [3732]
+[2015.06.19 15:00:23] [0074m.33s.843ms] [1] SC[1530]: Registered sub-client [JobPrefsDBPI_24446546] with ID [3] for session ID [1530] host [nio13_pc1] user [User] process ID [3732]
+[2015.06.19 15:00:23] [0074m.33s.843ms] [1] SC[1530]: UnRegistered sub-client [JobPrefsDBPI_24446546] with ID [3] for session ID [1530] host [nio13_pc1] user [User] process ID [3732]
+[2015.06.19 15:00:23] [0074m.33s.843ms] [1] SC[1530]: Registered sub-client [ExpeditionCrossProber] with ID [4] for session ID [1530] host [nio13_pc1] user [User] process ID [3732]
+[2015.06.19 15:03:58] [0078m.09s.421ms] [1] SC[1530]: Registered sub-client [JobPrefsDBPI_24662140] with ID [5] for session ID [1530] host [nio13_pc1] user [User] process ID [3732]
+[2015.06.19 15:04:03] [0078m.14s.781ms] [0] IT: Session [1531] for host [nio13_pc1] user [User] with process ID [1396] created
+[2015.06.19 15:04:03] [0078m.14s.781ms] [1] SC[1531]: Registered sub-client [JobPrefsDBPI_24667453] with ID [1] for session ID [1531] host [nio13_pc1] user [User] process ID [1396]
+[2015.06.19 15:04:03] [0078m.14s.796ms] [1] CMT: There are [3] clients now: 1513, 1530, 1531
+[2015.06.19 15:04:04] [0078m.14s.828ms] [1] SC[1531]: Registered sub-client [JobPrefsDBPI_24667546] with ID [2] for session ID [1531] host [nio13_pc1] user [User] process ID [1396]
+[2015.06.19 15:04:04] [0078m.14s.843ms] [1] SC[1531]: UnRegistered sub-client [JobPrefsDBPI_24667453] with ID [1] for session ID [1531] host [nio13_pc1] user [User] process ID [1396]
+[2015.06.19 15:04:10] [0078m.21s.203ms] [1] SC[1531]: UnRegistered sub-client [JobPrefsDBPI_24667546] with ID [2] for session ID [1531] host [nio13_pc1] user [User] process ID [1396]
+[2015.06.19 15:04:10] [0078m.21s.234ms] [1] CMT: Removed client [1531]
+[2015.06.19 15:04:10] [0078m.21s.234ms] [1] CMT: There are [2] clients now: 1513, 1530
+[2015.06.19 15:04:10] [0078m.21s.765ms] [1] SC[1530]: UnRegistered sub-client [JobPrefsDBPI_24662140] with ID [5] for session ID [1530] host [nio13_pc1] user [User] process ID [3732]
+[2015.06.19 15:04:52] [0079m.03s.687ms] [1] SC[1530]: Registered sub-client [JobPrefsDBPI_24716406] with ID [6] for session ID [1530] host [nio13_pc1] user [User] process ID [3732]
+[2015.06.19 15:04:52] [0079m.03s.750ms] [1] SC[1530]: Registered sub-client [JobPrefsDBPI_24716453] with ID [7] for session ID [1530] host [nio13_pc1] user [User] process ID [3732]
+[2015.06.19 15:04:53] [0079m.03s.937ms] [1] SC[1530]: UnRegistered sub-client [JobPrefsDBPI_24716406] with ID [6] for session ID [1530] host [nio13_pc1] user [User] process ID [3732]
+[2015.06.19 15:04:53] [0079m.03s.953ms] [1] SC[1530]: UnRegistered sub-client [JobPrefsDBPI_24716453] with ID [7] for session ID [1530] host [nio13_pc1] user [User] process ID [3732]
+[2015.06.19 15:04:54] [0079m.05s.281ms] [1] SC[1530]: Registered sub-client [JobPrefsDBPI_24717984] with ID [8] for session ID [1530] host [nio13_pc1] user [User] process ID [3732]
+[2015.06.19 15:04:54] [0079m.05s.281ms] [1] SC[1530]: UnRegistered sub-client [JobPrefsDBPI_24717984] with ID [8] for session ID [1530] host [nio13_pc1] user [User] process ID [3732]
+[2015.06.19 15:04:54] [0079m.05s.328ms] [1] SC[1530]: Registered sub-client [JobPrefsDBPI_24718031] with ID [9] for session ID [1530] host [nio13_pc1] user [User] process ID [3732]
+[2015.06.19 15:04:54] [0079m.05s.343ms] [1] SC[1530]: UnRegistered sub-client [JobPrefsDBPI_24718031] with ID [9] for session ID [1530] host [nio13_pc1] user [User] process ID [3732]
+[2015.06.19 15:04:57] [0079m.08s.656ms] [0] IT: Session [1532] for host [nio13_pc1] user [User] with process ID [3616] created
+[2015.06.19 15:04:57] [0079m.08s.656ms] [1] SC[1532]: Registered sub-client [JobPrefsDBPI_24721328] with ID [1] for session ID [1532] host [nio13_pc1] user [User] process ID [3616]
+[2015.06.19 15:04:57] [0079m.08s.703ms] [1] SC[1532]: UnRegistered sub-client [JobPrefsDBPI_24721328] with ID [1] for session ID [1532] host [nio13_pc1] user [User] process ID [3616]
+[2015.06.19 15:04:57] [0079m.08s.718ms] [1] CMT: There are [3] clients now: 1513, 1530, 1532
+[2015.06.19 15:04:57] [0079m.08s.718ms] [1] CMT: Removed client [1532]
+[2015.06.19 15:04:57] [0079m.08s.718ms] [1] CMT: There are [2] clients now: 1513, 1530
+[2015.06.19 15:04:58] [0079m.09s.265ms] [0] IT: Session [1533] for host [nio13_pc1] user [User] with process ID [3616] created
+[2015.06.19 15:04:58] [0079m.09s.265ms] [1] SC[1533]: Registered sub-client [JobPrefsDBPI_24721921] with ID [1] for session ID [1533] host [nio13_pc1] user [User] process ID [3616]
+[2015.06.19 15:04:58] [0079m.09s.312ms] [1] SC[1533]: Registered sub-client [JobPrefsDBPI_24722031] with ID [2] for session ID [1533] host [nio13_pc1] user [User] process ID [3616]
+[2015.06.19 15:04:58] [0079m.09s.312ms] [1] CMT: There are [3] clients now: 1513, 1530, 1533
+[2015.06.19 15:04:58] [0079m.09s.328ms] [1] SC[1533]: UnRegistered sub-client [JobPrefsDBPI_24721921] with ID [1] for session ID [1533] host [nio13_pc1] user [User] process ID [3616]
+[2015.06.19 15:04:58] [0079m.09s.328ms] [1] SC[1533]: UnRegistered sub-client [JobPrefsDBPI_24722031] with ID [2] for session ID [1533] host [nio13_pc1] user [User] process ID [3616]
+[2015.06.19 15:04:58] [0079m.09s.421ms] [1] CMT: Removed client [1533]
+[2015.06.19 15:04:58] [0079m.09s.421ms] [1] CMT: There are [2] clients now: 1513, 1530
+[2015.06.19 15:04:59] [0079m.09s.843ms] [0] IT: Session [1534] for host [nio13_pc1] user [User] with process ID [3616] created
+[2015.06.19 15:04:59] [0079m.09s.843ms] [1] SC[1534]: Registered sub-client [JobPrefsDBPI_24722531] with ID [1] for session ID [1534] host [nio13_pc1] user [User] process ID [3616]
+[2015.06.19 15:04:59] [0079m.09s.921ms] [1] CMT: There are [3] clients now: 1513, 1530, 1534
+[2015.06.19 15:04:59] [0079m.09s.921ms] [1] SC[1534]: Registered sub-client [JobPrefsDBPI_24722640] with ID [2] for session ID [1534] host [nio13_pc1] user [User] process ID [3616]
+[2015.06.19 15:05:00] [0079m.10s.921ms] [1] SC[1534]: UnRegistered sub-client [JobPrefsDBPI_24722640] with ID [2] for session ID [1534] host [nio13_pc1] user [User] process ID [3616]
+[2015.06.19 15:05:00] [0079m.10s.921ms] [1] SC[1534]: UnRegistered sub-client [JobPrefsDBPI_24722531] with ID [1] for session ID [1534] host [nio13_pc1] user [User] process ID [3616]
+[2015.06.19 15:05:00] [0079m.10s.921ms] [1] CMT: Removed client [1534]
+[2015.06.19 15:05:00] [0079m.10s.921ms] [1] CMT: There are [2] clients now: 1513, 1530
+[2015.06.19 15:05:00] [0079m.11s.375ms] [1] SC[1530]: Registered sub-client [JobPrefsDBPI_24724093] with ID [10] for session ID [1530] host [nio13_pc1] user [User] process ID [3732]
+[2015.06.19 15:05:00] [0079m.11s.390ms] [1] SC[1530]: UnRegistered sub-client [JobPrefsDBPI_24724093] with ID [10] for session ID [1530] host [nio13_pc1] user [User] process ID [3732]
+[2015.06.19 15:05:04] [0079m.15s.000ms] [1] SC[1530]: Registered sub-client [JobPrefsDBPI_24727703] with ID [11] for session ID [1530] host [nio13_pc1] user [User] process ID [3732]
+[2015.06.19 15:05:07] [0079m.18s.437ms] [0] IT: Session [1535] for host [nio13_pc1] user [User] with process ID [4072] created
+[2015.06.19 15:05:07] [0079m.18s.437ms] [1] SC[1535]: Registered sub-client [JobPrefsDBPI_24731109] with ID [1] for session ID [1535] host [nio13_pc1] user [User] process ID [4072]
+[2015.06.19 15:05:07] [0079m.18s.468ms] [1] CMT: There are [3] clients now: 1513, 1530, 1535
+[2015.06.19 15:05:07] [0079m.18s.515ms] [1] SC[1535]: UnRegistered sub-client [JobPrefsDBPI_24731109] with ID [1] for session ID [1535] host [nio13_pc1] user [User] process ID [4072]
+[2015.06.19 15:05:07] [0079m.18s.578ms] [1] CMT: Removed client [1535]
+[2015.06.19 15:05:07] [0079m.18s.578ms] [1] CMT: There are [2] clients now: 1513, 1530
+[2015.06.19 15:05:08] [0079m.19s.468ms] [1] SC[1530]: Registered sub-client [JobPrefsDBPI_24732187] with ID [12] for session ID [1530] host [nio13_pc1] user [User] process ID [3732]
+[2015.06.19 15:05:08] [0079m.19s.484ms] [1] SC[1530]: UnRegistered sub-client [JobPrefsDBPI_24732187] with ID [12] for session ID [1530] host [nio13_pc1] user [User] process ID [3732]
+[2015.06.19 15:05:08] [0079m.19s.531ms] [1] SC[1530]: UnRegistered sub-client [JobPrefsDBPI_24727703] with ID [11] for session ID [1530] host [nio13_pc1] user [User] process ID [3732]
+[2015.06.19 15:13:13] [0087m.24s.000ms] [1] SC[1530]: Registered sub-client [JobPrefsDBPI_25216703] with ID [13] for session ID [1530] host [nio13_pc1] user [User] process ID [3732]
+[2015.06.19 15:13:14] [0087m.25s.593ms] [0] IT: Session [1536] for host [nio13_pc1] user [User] with process ID [596] created
+[2015.06.19 15:13:14] [0087m.25s.593ms] [1] SC[1536]: Registered sub-client [JobPrefsDBPI_25218265] with ID [1] for session ID [1536] host [nio13_pc1] user [User] process ID [596]
+[2015.06.19 15:13:14] [0087m.25s.625ms] [1] CMT: There are [3] clients now: 1513, 1530, 1536
+[2015.06.19 15:13:14] [0087m.25s.656ms] [1] SC[1536]: Registered sub-client [JobPrefsDBPI_25218375] with ID [2] for session ID [1536] host [nio13_pc1] user [User] process ID [596]
+[2015.06.19 15:13:14] [0087m.25s.671ms] [1] SC[1536]: UnRegistered sub-client [JobPrefsDBPI_25218265] with ID [1] for session ID [1536] host [nio13_pc1] user [User] process ID [596]
+[2015.06.19 15:13:21] [0087m.31s.921ms] [1] SC[1536]: UnRegistered sub-client [JobPrefsDBPI_25218375] with ID [2] for session ID [1536] host [nio13_pc1] user [User] process ID [596]
+[2015.06.19 15:13:21] [0087m.31s.968ms] [1] CMT: Removed client [1536]
+[2015.06.19 15:13:21] [0087m.31s.968ms] [1] CMT: There are [2] clients now: 1513, 1530
+[2015.06.19 15:13:21] [0087m.32s.609ms] [1] SC[1530]: UnRegistered sub-client [JobPrefsDBPI_25216703] with ID [13] for session ID [1530] host [nio13_pc1] user [User] process ID [3732]
+[2015.06.19 15:27:22] [0101m.33s.593ms] [1] SC[1530]: Registered sub-client [JobPrefsDBPI_26066312] with ID [14] for session ID [1530] host [nio13_pc1] user [User] process ID [3732]
+[2015.06.19 15:27:24] [0101m.35s.687ms] [0] IT: Session [1537] for host [nio13_pc1] user [User] with process ID [1572] created
+[2015.06.19 15:27:24] [0101m.35s.687ms] [1] SC[1537]: Registered sub-client [JobPrefsDBPI_26068359] with ID [1] for session ID [1537] host [nio13_pc1] user [User] process ID [1572]
+[2015.06.19 15:27:24] [0101m.35s.718ms] [1] CMT: There are [3] clients now: 1513, 1530, 1537
+[2015.06.19 15:27:24] [0101m.35s.734ms] [1] SC[1537]: Registered sub-client [JobPrefsDBPI_26068453] with ID [2] for session ID [1537] host [nio13_pc1] user [User] process ID [1572]
+[2015.06.19 15:27:24] [0101m.35s.750ms] [1] SC[1537]: UnRegistered sub-client [JobPrefsDBPI_26068359] with ID [1] for session ID [1537] host [nio13_pc1] user [User] process ID [1572]
+[2015.06.19 15:27:31] [0101m.41s.968ms] [1] SC[1537]: UnRegistered sub-client [JobPrefsDBPI_26068453] with ID [2] for session ID [1537] host [nio13_pc1] user [User] process ID [1572]
+[2015.06.19 15:27:31] [0101m.42s.062ms] [1] CMT: Removed client [1537]
+[2015.06.19 15:27:31] [0101m.42s.062ms] [1] CMT: There are [2] clients now: 1513, 1530
+[2015.06.19 15:27:32] [0101m.42s.843ms] [1] SC[1530]: UnRegistered sub-client [JobPrefsDBPI_26066312] with ID [14] for session ID [1530] host [nio13_pc1] user [User] process ID [3732]
+[2015.06.19 15:27:35] [0101m.46s.515ms] [1] SC[1530]: Registered sub-client [JobPrefsDBPI_26079234] with ID [15] for session ID [1530] host [nio13_pc1] user [User] process ID [3732]
+[2015.06.19 15:27:35] [0101m.46s.562ms] [1] SC[1530]: Registered sub-client [JobPrefsDBPI_26079281] with ID [16] for session ID [1530] host [nio13_pc1] user [User] process ID [3732]
+[2015.06.19 15:27:35] [0101m.46s.640ms] [1] SC[1530]: UnRegistered sub-client [JobPrefsDBPI_26079234] with ID [15] for session ID [1530] host [nio13_pc1] user [User] process ID [3732]
+[2015.06.19 15:27:35] [0101m.46s.656ms] [1] SC[1530]: UnRegistered sub-client [JobPrefsDBPI_26079281] with ID [16] for session ID [1530] host [nio13_pc1] user [User] process ID [3732]
+[2015.06.19 15:27:37] [0101m.47s.921ms] [1] SC[1530]: Registered sub-client [JobPrefsDBPI_26080625] with ID [17] for session ID [1530] host [nio13_pc1] user [User] process ID [3732]
+[2015.06.19 15:27:37] [0101m.47s.921ms] [1] SC[1530]: UnRegistered sub-client [JobPrefsDBPI_26080625] with ID [17] for session ID [1530] host [nio13_pc1] user [User] process ID [3732]
+[2015.06.19 15:27:37] [0101m.47s.953ms] [1] SC[1530]: Registered sub-client [JobPrefsDBPI_26080671] with ID [18] for session ID [1530] host [nio13_pc1] user [User] process ID [3732]
+[2015.06.19 15:27:37] [0101m.47s.968ms] [1] SC[1530]: UnRegistered sub-client [JobPrefsDBPI_26080671] with ID [18] for session ID [1530] host [nio13_pc1] user [User] process ID [3732]
+[2015.06.19 15:27:40] [0101m.50s.812ms] [0] IT: Session [1538] for host [nio13_pc1] user [User] with process ID [2788] created
+[2015.06.19 15:27:40] [0101m.50s.812ms] [1] SC[1538]: Registered sub-client [JobPrefsDBPI_26083484] with ID [1] for session ID [1538] host [nio13_pc1] user [User] process ID [2788]
+[2015.06.19 15:27:40] [0101m.50s.859ms] [1] SC[1538]: UnRegistered sub-client [JobPrefsDBPI_26083484] with ID [1] for session ID [1538] host [nio13_pc1] user [User] process ID [2788]
+[2015.06.19 15:27:40] [0101m.50s.906ms] [1] CMT: There are [3] clients now: 1513, 1530, 1538
+[2015.06.19 15:27:40] [0101m.50s.906ms] [1] CMT: Removed client [1538]
+[2015.06.19 15:27:40] [0101m.50s.906ms] [1] CMT: There are [2] clients now: 1513, 1530
+[2015.06.19 15:27:40] [0101m.51s.390ms] [0] IT: Session [1539] for host [nio13_pc1] user [User] with process ID [2788] created
+[2015.06.19 15:27:40] [0101m.51s.390ms] [1] SC[1539]: Registered sub-client [JobPrefsDBPI_26084078] with ID [1] for session ID [1539] host [nio13_pc1] user [User] process ID [2788]
+[2015.06.19 15:27:40] [0101m.51s.406ms] [1] CMT: There are [3] clients now: 1513, 1530, 1539
+[2015.06.19 15:27:40] [0101m.51s.437ms] [1] SC[1539]: Registered sub-client [JobPrefsDBPI_26084156] with ID [2] for session ID [1539] host [nio13_pc1] user [User] process ID [2788]
+[2015.06.19 15:27:40] [0101m.51s.453ms] [1] SC[1539]: UnRegistered sub-client [JobPrefsDBPI_26084078] with ID [1] for session ID [1539] host [nio13_pc1] user [User] process ID [2788]
+[2015.06.19 15:27:40] [0101m.51s.453ms] [1] SC[1539]: UnRegistered sub-client [JobPrefsDBPI_26084156] with ID [2] for session ID [1539] host [nio13_pc1] user [User] process ID [2788]
+[2015.06.19 15:27:40] [0101m.51s.515ms] [1] CMT: Removed client [1539]
+[2015.06.19 15:27:40] [0101m.51s.515ms] [1] CMT: There are [2] clients now: 1513, 1530
+[2015.06.19 15:27:41] [0101m.52s.000ms] [0] IT: Session [1540] for host [nio13_pc1] user [User] with process ID [2788] created
+[2015.06.19 15:27:41] [0101m.52s.000ms] [1] SC[1540]: Registered sub-client [JobPrefsDBPI_26084640] with ID [1] for session ID [1540] host [nio13_pc1] user [User] process ID [2788]
+[2015.06.19 15:27:41] [0101m.52s.015ms] [1] CMT: There are [3] clients now: 1513, 1530, 1540
+[2015.06.19 15:27:41] [0101m.52s.343ms] [1] SC[1540]: Registered sub-client [JobPrefsDBPI_26085046] with ID [2] for session ID [1540] host [nio13_pc1] user [User] process ID [2788]
+[2015.06.19 15:27:42] [0101m.53s.312ms] [1] SC[1540]: UnRegistered sub-client [JobPrefsDBPI_26085046] with ID [2] for session ID [1540] host [nio13_pc1] user [User] process ID [2788]
+[2015.06.19 15:27:42] [0101m.53s.328ms] [1] SC[1540]: UnRegistered sub-client [JobPrefsDBPI_26084640] with ID [1] for session ID [1540] host [nio13_pc1] user [User] process ID [2788]
+[2015.06.19 15:27:42] [0101m.53s.421ms] [1] CMT: Removed client [1540]
+[2015.06.19 15:27:42] [0101m.53s.421ms] [1] CMT: There are [2] clients now: 1513, 1530
+[2015.06.19 15:27:42] [0101m.53s.531ms] [1] SC[1530]: Registered sub-client [JobPrefsDBPI_26086250] with ID [19] for session ID [1530] host [nio13_pc1] user [User] process ID [3732]
+[2015.06.19 15:27:42] [0101m.53s.531ms] [1] SC[1530]: UnRegistered sub-client [JobPrefsDBPI_26086250] with ID [19] for session ID [1530] host [nio13_pc1] user [User] process ID [3732]
+[2015.06.19 15:27:46] [0101m.57s.140ms] [1] SC[1530]: Registered sub-client [JobPrefsDBPI_26089859] with ID [20] for session ID [1530] host [nio13_pc1] user [User] process ID [3732]
+[2015.06.19 15:27:49] [0102m.00s.437ms] [0] IT: Session [1541] for host [nio13_pc1] user [User] with process ID [1712] created
+[2015.06.19 15:27:49] [0102m.00s.437ms] [1] SC[1541]: Registered sub-client [JobPrefsDBPI_26093109] with ID [1] for session ID [1541] host [nio13_pc1] user [User] process ID [1712]
+[2015.06.19 15:27:49] [0102m.00s.468ms] [1] CMT: There are [3] clients now: 1513, 1530, 1541
+[2015.06.19 15:27:49] [0102m.00s.515ms] [1] SC[1541]: UnRegistered sub-client [JobPrefsDBPI_26093109] with ID [1] for session ID [1541] host [nio13_pc1] user [User] process ID [1712]
+[2015.06.19 15:27:49] [0102m.00s.562ms] [1] CMT: Removed client [1541]
+[2015.06.19 15:27:49] [0102m.00s.562ms] [1] CMT: There are [2] clients now: 1513, 1530
+[2015.06.19 15:27:50] [0102m.01s.390ms] [1] SC[1530]: Registered sub-client [JobPrefsDBPI_26094093] with ID [21] for session ID [1530] host [nio13_pc1] user [User] process ID [3732]
+[2015.06.19 15:27:50] [0102m.01s.406ms] [1] SC[1530]: UnRegistered sub-client [JobPrefsDBPI_26094093] with ID [21] for session ID [1530] host [nio13_pc1] user [User] process ID [3732]
+[2015.06.19 15:27:50] [0102m.01s.437ms] [1] SC[1530]: UnRegistered sub-client [JobPrefsDBPI_26089859] with ID [20] for session ID [1530] host [nio13_pc1] user [User] process ID [3732]
+[2015.06.19 16:00:21] [0134m.32s.203ms] [1] SC[1530]: Registered sub-client [JobPrefsDBPI_28044921] with ID [22] for session ID [1530] host [nio13_pc1] user [User] process ID [3732]
+[2015.06.19 16:00:21] [0134m.32s.234ms] [1] SC[1530]: Registered sub-client [JobPrefsDBPI_28044937] with ID [23] for session ID [1530] host [nio13_pc1] user [User] process ID [3732]
+[2015.06.19 16:00:22] [0134m.33s.640ms] [1] SC[1530]: UnRegistered sub-client [JobPrefsDBPI_28044921] with ID [22] for session ID [1530] host [nio13_pc1] user [User] process ID [3732]
+[2015.06.19 16:06:24] [0140m.35s.484ms] [0] IT: Session [1542] for host [nio13_pc1] user [User] with process ID [2536] created
+[2015.06.19 16:06:24] [0140m.35s.484ms] [1] SC[1542]: Registered sub-client [JobPrefsDBPI_28408156] with ID [1] for session ID [1542] host [nio13_pc1] user [User] process ID [2536]
+[2015.06.19 16:06:24] [0140m.35s.531ms] [1] CMT: There are [3] clients now: 1513, 1530, 1542
+[2015.06.19 16:06:24] [0140m.35s.546ms] [1] SC[1542]: Registered sub-client [JobPrefsDBPI_28408250] with ID [2] for session ID [1542] host [nio13_pc1] user [User] process ID [2536]
+[2015.06.19 16:06:24] [0140m.35s.625ms] [1] SC[1542]: Registered sub-client [JobPrefsDBPI_28408343] with ID [3] for session ID [1542] host [nio13_pc1] user [User] process ID [2536]
+[2015.06.19 16:06:24] [0140m.35s.640ms] [1] SC[1542]: Registered sub-client [JobPrefsDBPI_28408359] with ID [4] for session ID [1542] host [nio13_pc1] user [User] process ID [2536]
+[2015.06.19 16:06:24] [0140m.35s.656ms] [1] SC[1542]: UnRegistered sub-client [JobPrefsDBPI_28408343] with ID [3] for session ID [1542] host [nio13_pc1] user [User] process ID [2536]
+[2015.06.19 16:06:24] [0140m.35s.656ms] [1] SC[1542]: UnRegistered sub-client [JobPrefsDBPI_28408359] with ID [4] for session ID [1542] host [nio13_pc1] user [User] process ID [2536]
+[2015.06.19 16:06:26] [0140m.37s.046ms] [1] SC[1542]: Registered sub-client [JobPrefsDBPI_28409750] with ID [5] for session ID [1542] host [nio13_pc1] user [User] process ID [2536]
+[2015.06.19 16:06:26] [0140m.37s.062ms] [1] SC[1542]: UnRegistered sub-client [JobPrefsDBPI_28409750] with ID [5] for session ID [1542] host [nio13_pc1] user [User] process ID [2536]
+[2015.06.19 16:06:29] [0140m.39s.984ms] [1] SC[1542]: UnRegistered sub-client [JobPrefsDBPI_28408250] with ID [2] for session ID [1542] host [nio13_pc1] user [User] process ID [2536]
+[2015.06.19 16:06:29] [0140m.39s.984ms] [1] SC[1542]: UnRegistered sub-client [JobPrefsDBPI_28408156] with ID [1] for session ID [1542] host [nio13_pc1] user [User] process ID [2536]
+[2015.06.19 16:06:29] [0140m.40s.062ms] [1] CMT: Removed client [1542]
+[2015.06.19 16:06:29] [0140m.40s.062ms] [1] CMT: There are [2] clients now: 1513, 1530
+[2015.06.19 16:06:30] [0140m.41s.062ms] [1] SC[1530]: UnRegistered sub-client [JobPrefsDBPI_28044937] with ID [23] for session ID [1530] host [nio13_pc1] user [User] process ID [3732]
+[2015.06.19 16:39:24] [0173m.35s.531ms] [1] SC[1530]: UnRegistered sub-client [ExpeditionCrossProber] with ID [4] for session ID [1530] host [nio13_pc1] user [User] process ID [3732]
+[2015.06.19 16:39:30] [0173m.40s.906ms] [1] SC[1530]: UnRegistered sub-client [Expedition PCB_24445171] with ID [1] for session ID [1530] host [nio13_pc1] user [User] process ID [3732]
+[2015.06.19 16:39:30] [0173m.40s.984ms] [1] CMT: Removed client [1530]
+[2015.06.19 16:39:30] [0173m.40s.984ms] [1] CMT: There are [1] clients now: 1513
+[2015.06.19 16:40:23] [0174m.34s.656ms] [1] SC[1513]: UnRegistered sub-client [GlobalNetAliasUpdater_453264136] with ID [22] for session ID [1513] host [nio13_pc1] user [User] process ID [2584]
+[2015.06.19 16:40:23] [0174m.34s.656ms] [1] SC[1513]: UnRegistered sub-client [BlockCacheDxD:453875104] with ID [21] for session ID [1513] host [nio13_pc1] user [User] process ID [2584]
+[2015.06.19 16:40:23] [0174m.34s.656ms] [1] SC[1513]: UnRegistered sub-client [ObjectHolder_453241816] with ID [20] for session ID [1513] host [nio13_pc1] user [User] process ID [2584]
+[2015.06.19 16:40:23] [0174m.34s.656ms] [1] SC[1513]: UnRegistered sub-client [IcdbNetProcessorSubClientDxD:454085336] with ID [23] for session ID [1513] host [nio13_pc1] user [User] process ID [2584]
+[2015.06.19 16:40:23] [0174m.34s.656ms] [1] SC[1513]: UnRegistered sub-client [SelectionHolder] with ID [4] for session ID [1513] host [nio13_pc1] user [User] process ID [2584]
+[2015.06.19 16:40:23] [0174m.34s.671ms] [1] SC[1513]: UnRegistered sub-client [SheetConnectorsCacheDxD:1434710754] with ID [18] for session ID [1513] host [nio13_pc1] user [User] process ID [2584]
+[2015.06.19 16:40:23] [0174m.34s.671ms] [1] SC[1513]: UnRegistered sub-client [NetsNamesCollectorDxD:1434710754] with ID [19] for session ID [1513] host [nio13_pc1] user [User] process ID [2584]
+[2015.06.19 16:40:23] [0174m.34s.671ms] [1] SC[1513]: UnRegistered sub-client [TransactionRollbackSubClient] with ID [2] for session ID [1513] host [nio13_pc1] user [User] process ID [2584]
+[2015.06.19 16:40:23] [0174m.34s.671ms] [1] SC[1513]: UnRegistered sub-client [DxD] with ID [1] for session ID [1513] host [nio13_pc1] user [User] process ID [2584]
+[2015.06.19 16:40:24] [0174m.34s.812ms] [1] SC[1513]: UnRegistered sub-client [xprob] with ID [3] for session ID [1513] host [nio13_pc1] user [User] process ID [2584]
+[2015.06.19 16:40:24] [0174m.34s.812ms] [1] SC[1513]: UnRegistered sub-client [SymbolEditor] with ID [5] for session ID [1513] host [nio13_pc1] user [User] process ID [2584]
+[2015.06.19 16:40:24] [0174m.34s.812ms] [1] SC[1513]: UnRegistered sub-client [Navigator] with ID [11] for session ID [1513] host [nio13_pc1] user [User] process ID [2584]
+[2015.06.19 16:40:24] [0174m.34s.812ms] [1] SC[1513]: UnRegistered sub-client [OutputWindow] with ID [12] for session ID [1513] host [nio13_pc1] user [User] process ID [2584]
+[2015.06.19 16:40:24] [0174m.34s.843ms] [1] SC[1513]: UnRegistered sub-client [DxDbSearch] with ID [24] for session ID [1513] host [nio13_pc1] user [User] process ID [2584]
+[2015.06.19 16:40:24] [0174m.34s.843ms] [1] SC[1513]: UnRegistered sub-client [SAE] with ID [14] for session ID [1513] host [nio13_pc1] user [User] process ID [2584]
+[2015.06.19 16:40:24] [0174m.34s.875ms] [1] SC[1513]: UnRegistered sub-client [CCZAddin] with ID [15] for session ID [1513] host [nio13_pc1] user [User] process ID [2584]
+[2015.06.19 16:40:24] [0174m.34s.890ms] [1] SC[1513]: UnRegistered sub-client [DxThumbnails] with ID [16] for session ID [1513] host [nio13_pc1] user [User] process ID [2584]
+[2015.06.19 16:40:24] [0174m.34s.921ms] [1] SC[1513]: UnRegistered sub-client [DxSim] with ID [17] for session ID [1513] host [nio13_pc1] user [User] process ID [2584]
+[2015.06.19 16:40:24] [0174m.35s.171ms] [1] SC[1513]: UnRegistered sub-client [PlaceDevice] with ID [13] for session ID [1513] host [nio13_pc1] user [User] process ID [2584]
+[2015.06.19 16:40:24] [0174m.35s.203ms] [1] SC[1513]: UnRegistered sub-client [HdlProject] with ID [10] for session ID [1513] host [nio13_pc1] user [User] process ID [2584]
+[2015.06.19 16:40:24] [0174m.35s.312ms] [1] CMT: Removed client [1513]
+[2015.06.19 16:40:24] [0174m.35s.312ms] [1] CMT: There are no clients left - waiting [1 seconds]
+[2015.06.19 16:40:26] [0174m.36s.828ms] [0] CMT: Starting server auto-close
+[2015.06.19 16:40:26] [0174m.36s.828ms] [0] S: Closing server
+[2015.06.19 16:40:26] [0174m.36s.937ms] [0] iCDB Server PI: Closing plugins
+[2015.06.19 16:40:26] [0174m.36s.937ms] [0] iCDB Server PI: Plugins closed
+[2015.06.19 16:40:26] [0174m.36s.937ms] [0] iCDB Server PI: Unloading database
+[2015.06.19 16:40:26] [0174m.36s.937ms] [0] iCDB Server PI: Saving storage
+[2015.06.19 16:40:26] [0174m.36s.937ms] [0] iCDB Server PI: Closing database
+[2015.06.19 16:40:26] [0174m.37s.062ms] [1] iCDB Server PI: Stats: Database defragmentation: max[7] avg[1] holes[53%] data[92%]
+[2015.06.19 16:40:26] [0174m.37s.062ms] [1] iCDB Server PI: Stats: Database file size [912440 (891.1 kB)]
+[2015.06.19 16:40:26] [0174m.37s.093ms] [1] iCDB Server PI: WARNING: Database needs defragmentation!
+[2015.06.19 16:40:26] [0174m.37s.109ms] [0] iCDB Server PI: Database closed
+[2015.06.19 16:40:26] [0174m.37s.109ms] [0] iCDB Server PI: Defragmenting database
+[2015.06.19 16:40:26] [0174m.37s.109ms] [0] iCDB Server PI: Creating database [F:\TEXT TEM\UM_TRONKA_MK_1\database] backup to file [F:\TEXT TEM\UM_TRONKA_MK_1\database\cdbback\2015-06-19 16.40.26-2384-d.zip]
+[2015.06.19 16:40:28] [0174m.39s.265ms] [0] iCDB Server PI: Database backup: DONE
+[2015.06.19 16:40:28] [0174m.39s.640ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2015.06.19 16:40:28] [0174m.39s.640ms] [0] Database GUARD OK: [912440]
+[2015.06.19 16:40:28] [0174m.39s.640ms] [0] SingleFile: [939a-c7ba-42ee-b4f6] SFI version check [1009] [1009]
+[2015.06.19 16:40:28] [0174m.39s.640ms] [0] SingleFile: [939a-c7ba-42ee-b4f6] Database SFI header has been read in [5ms 429us]
+[2015.06.19 16:40:29] [0174m.39s.953ms] [1] iCDB Server PI: Stats: Database file sizes: before[912440 (891.1 kB)], after[387632 (378.5 kB)], gain[524808 (512.5 kB)]
+[2015.06.19 16:40:29] [0174m.40s.015ms] [0] Single file [F:\TEXT TEM\UM_TRONKA_MK_1\database\icdb.dat] closed with size [387632 (378.5 kB)]
+[2015.06.19 16:40:29] [0174m.40s.015ms] [0] iCDB Server PI: Database defragmentation completed successfully
+[2015.06.19 16:40:29] [0174m.40s.015ms] [1] BackupTransaction: Removing database backup [F:\TEXT TEM\UM_TRONKA_MK_1\database\cdbback\2015-06-19 16.40.26-2384-d.zip]
+[2015.06.19 16:40:29] [0174m.40s.015ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [1890298] ticks
+[2015.06.19 16:40:29] [0174m.40s.015ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [528083] microseconds
+[2015.06.19 16:40:29] [0174m.40s.015ms] [1] iCDB Server PI: Stats: Total iCDB commands count: [11926]
+[2015.06.19 16:40:29] [0174m.40s.015ms] [1] iCDB Server PI: Stats: Average iCDB speed:        [22583] commands per second
+[2015.06.19 16:40:29] [0174m.40s.218ms] [0] S: STOP

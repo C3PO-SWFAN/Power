@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                         12:11 PM Sunday, July 12, 2015
+ Job Name: D:\lib dx\Work\CellEditorFiles\CONNECTOR-HARWIN\M80-VERT-J-TEK-14.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                         12:12 PM Sunday, July 12, 2015
+ Job Name: D:\lib dx\Work\CellEditorFiles\CONNECTOR-HARWIN\M80-VERT-J-TEK-14.pcb
+

@@ -1,0 +1,133 @@
+[2013-11-26 13.44.38] -------------------- CREATE --------------------
+[2013-11-26 13.44.38] Creating Project Backup infrastructure for project [F:\TEXT  TEM\BOARD_2LAYER\BOARD_2LAYER.prj].
+[2013-11-26 13.44.40] Successfully created [AutoSave] backup [2013-11-26 13.44.40 - auto.zip] requested by [VOLODYMYR:V1].
+[2014-02-16 20.12.33] Successfully created [AutoSave] backup [2014-02-16 20.12.33 - auto.zip] requested by [VOLODYMYR:V1].
+[2014-09-04 13.39.32] Successfully created [Constraints Definition Upgrade] backup [2014-09-04 13.39.32 - consDefUpgr.zip] requested by [NIO13_PC1:User].
+[2014-09-04 13.39.32] Migrated iCDB content backup file [cdbback\2014-09-04 13.39.32-3260.zip] removed.
+[2014-09-04 13.40.02] Successfully created [AutoSave] backup [2014-09-04 13.40.02 - auto.zip] requested by [NIO13_PC1:User].
+[2015-02-18 15.13.17] Successfully created [AutoSave] backup [2015-02-18 15.13.17 - auto.zip] requested by [NIO13_PC1:User].
+[2015-02-18 15.13.17] Removing excessive [AutoSave] backup file [F:\TEXT TEM\BOARD_2LAYER\ProjectBackup\backups\2013-11-26 13.44.40 - auto.zip].
+[2015-02-18 15.13.17] [AutoSave] backup file [BOARD_2LAYER\ProjectBackup\backups\2013-11-26 13.44.40 - auto.zip] removed.
+[2015-02-19 08.42.04] Successfully created [AutoSave] backup [2015-02-19 08.42.04 - auto.zip] requested by [NIO13_PC1:User].
+[2015-02-19 08.42.04] Removing excessive [AutoSave] backup file [F:\TEXT TEM\BOARD_2LAYER\ProjectBackup\backups\2014-02-16 20.12.33 - auto.zip].
+[2015-02-19 08.42.04] [AutoSave] backup file [BOARD_2LAYER\ProjectBackup\backups\2014-02-16 20.12.33 - auto.zip] removed.
+[2015-03-26 12.10.04] Successfully created [AutoSave] backup [2015-03-26 12.10.04 - auto.zip] requested by [NIO13_PC1:User].
+[2015-03-26 12.10.04] Removing excessive [AutoSave] backup file [F:\TEXT TEM\BOARD_2LAYER\ProjectBackup\backups\2014-09-04 13.40.02 - auto.zip].
+[2015-03-26 12.10.04] [AutoSave] backup file [BOARD_2LAYER\ProjectBackup\backups\2014-09-04 13.40.02 - auto.zip] removed.
+[2015-07-16 13.34.58] Successfully created [AutoSave] backup [2015-07-16 13.34.55 - auto.zip] requested by [NIO13_PC1:User].
+[2015-07-16 13.34.58] Removing excessive [AutoSave] backup file [F:\TEXT TEM\BOARD_2LAYER\ProjectBackup\backups\2015-02-18 15.13.17 - auto.zip].
+[2015-07-16 13.34.58] [AutoSave] backup file [BOARD_2LAYER\ProjectBackup\backups\2015-02-18 15.13.17 - auto.zip] removed.
+[2015-07-17 10.29.09] Successfully created [AutoSave] backup [2015-07-17 10.29.06 - auto.zip] requested by [NIO13_PC1:User].
+[2015-07-17 10.29.09] Removing excessive [AutoSave] backup file [F:\TEXT TEM\BOARD_2LAYER\ProjectBackup\backups\2015-02-19 08.42.04 - auto.zip].
+[2015-07-17 10.29.09] [AutoSave] backup file [BOARD_2LAYER\ProjectBackup\backups\2015-02-19 08.42.04 - auto.zip] removed.
+[2016-01-30 09.33.29] Successfully created [AutoSave] backup [2016-01-30 09.33.29 - auto.zip] requested by [NIO13_PC1:User].
+[2016-01-30 09.33.29] Removing excessive [AutoSave] backup file [F:\TEXT TEM\BOARD_2LAYER\ProjectBackup\backups\2015-03-26 12.10.04 - auto.zip].
+[2016-01-30 09.33.29] [AutoSave] backup file [BOARD_2LAYER\ProjectBackup\backups\2015-03-26 12.10.04 - auto.zip] removed.
+[2016-03-09 12.19.42] Successfully created [AutoSave] backup [2016-03-09 12.19.42 - auto.zip] requested by [NIO13_PC1:User].
+[2016-03-09 12.19.42] Removing excessive [AutoSave] backup file [F:\TEXT TEM\BOARD_2LAYER\ProjectBackup\backups\2015-07-16 13.34.55 - auto.zip].
+[2016-03-09 12.19.42] [AutoSave] backup file [BOARD_2LAYER\ProjectBackup\backups\2015-07-16 13.34.55 - auto.zip] removed.
+[2016-04-15 13.18.04] Successfully created [AutoSave] backup [2016-04-15 13.18.01 - auto.zip] requested by [NIO13_PC1:User].
+[2016-04-15 13.18.04] Removing excessive [AutoSave] backup file [F:\TEXT TEM\BOARD_2LAYER\ProjectBackup\backups\2015-07-17 10.29.06 - auto.zip].
+[2016-04-15 13.18.04] [AutoSave] backup file [BOARD_2LAYER\ProjectBackup\backups\2015-07-17 10.29.06 - auto.zip] removed.
+[2016-10-17 09.52.43] Successfully created [AutoSave] backup [2016-10-17 09.52.42 - auto.zip] requested by [NIO13_PC1:User].
+[2016-10-17 09.52.43] Removing excessive [AutoSave] backup file [F:\TEXT  TEM\BOARD_2LAYER\ProjectBackup\backups\2016-01-30 09.33.29 - auto.zip].
+[2016-10-17 09.52.43] [AutoSave] backup file [BOARD_2LAYER\ProjectBackup\backups\2016-01-30 09.33.29 - auto.zip] removed.
+[2016-12-07 14.26.04] Successfully created [AutoSave] backup [2016-12-07 14.26.03 - auto.zip] requested by [NIO13_PC1:User].
+[2016-12-07 14.26.04] Removing excessive [AutoSave] backup file [F:\TEXT  TEM\BOARD_2LAYER\ProjectBackup\backups\2016-03-09 12.19.42 - auto.zip].
+[2016-12-07 14.26.04] [AutoSave] backup file [BOARD_2LAYER\ProjectBackup\backups\2016-03-09 12.19.42 - auto.zip] removed.
+[2017-03-20 11.36.47] Successfully created [AutoSave] backup [2017-03-20 11.36.45 - auto.zip] requested by [NIO13_PC1:User].
+[2017-03-20 11.36.47] Removing excessive [AutoSave] backup file [F:\TEXT  TEM\BOARD_2LAYER\ProjectBackup\backups\2016-04-15 13.18.01 - auto.zip].
+[2017-03-20 11.36.47] [AutoSave] backup file [BOARD_2LAYER\ProjectBackup\backups\2016-04-15 13.18.01 - auto.zip] removed.
+[2017-04-27 15.33.59] Successfully created [AutoSave] backup [2017-04-27 15.33.59 - auto.zip] requested by [NIO13_PC1:User].
+[2017-04-27 15.33.59] Removing excessive [AutoSave] backup file [F:\TEXT  TEM\BOARD_2LAYER\ProjectBackup\backups\2016-10-17 09.52.42 - auto.zip].
+[2017-04-27 15.33.59] [AutoSave] backup file [BOARD_2LAYER\ProjectBackup\backups\2016-10-17 09.52.42 - auto.zip] removed.
+[2017-09-27 15.40.18] Successfully created [AutoSave] backup [2017-09-27 15.40.18 - auto.zip] requested by [NIO13_PC1:User].
+[2017-09-27 15.40.18] Removing excessive [AutoSave] backup file [F:\TEXT  TEM\BP_3_1_K\ProjectBackup\backups\2016-12-07 14.26.03 - auto.zip].
+[2017-09-27 15.40.18] [AutoSave] backup file [BP_3_1_K\ProjectBackup\backups\2016-12-07 14.26.03 - auto.zip] removed.
+[2017-10-02 13.59.29] Successfully created [AutoSave] backup [2017-10-02 13.59.29 - auto.zip] requested by [NIO13_PC1:User].
+[2017-10-02 13.59.29] Removing excessive [AutoSave] backup file [F:\TEXT  TEM\BP_3_1_K\ProjectBackup\backups\2017-03-20 11.36.45 - auto.zip].
+[2017-10-02 13.59.29] [AutoSave] backup file [BP_3_1_K\ProjectBackup\backups\2017-03-20 11.36.45 - auto.zip] removed.
+[2017-10-03 15.52.17] Successfully created [AutoSave] backup [2017-10-03 15.52.15 - auto.zip] requested by [NIO13_PC1:User].
+[2017-10-03 15.52.17] Removing excessive [AutoSave] backup file [F:\TEXT  TEM\BP_3_1_K\ProjectBackup\backups\2017-04-27 15.33.59 - auto.zip].
+[2017-10-03 15.52.17] [AutoSave] backup file [BP_3_1_K\ProjectBackup\backups\2017-04-27 15.33.59 - auto.zip] removed.
+[2017-10-04 09.08.48] Successfully created [AutoSave] backup [2017-10-04 09.08.47 - auto.zip] requested by [NIO13_PC1:User].
+[2017-10-04 09.08.48] Removing excessive [AutoSave] backup file [F:\TEXT  TEM\BP_3_1_K\ProjectBackup\backups\2017-09-27 15.40.18 - auto.zip].
+[2017-10-04 09.08.48] [AutoSave] backup file [BP_3_1_K\ProjectBackup\backups\2017-09-27 15.40.18 - auto.zip] removed.
+[2017-10-04 14.28.41] Successfully created [AutoSave] backup [2017-10-04 14.28.41 - auto.zip] requested by [NIO13_PC1:User].
+[2017-10-04 14.28.42] Removing excessive [AutoSave] backup file [F:\TEXT  TEM\BP_3_1_K\ProjectBackup\backups\2017-10-02 13.59.29 - auto.zip].
+[2017-10-04 14.28.42] [AutoSave] backup file [BP_3_1_K\ProjectBackup\backups\2017-10-02 13.59.29 - auto.zip] removed.
+[2017-10-12 09.03.31] Successfully created [AutoSave] backup [2017-10-12 09.03.30 - auto.zip] requested by [NIO13_PC1:User].
+[2017-10-12 09.03.31] Removing excessive [AutoSave] backup file [F:\TEXT  TEM\BP_3_1_K\ProjectBackup\backups\2017-10-03 15.52.15 - auto.zip].
+[2017-10-12 09.03.31] [AutoSave] backup file [BP_3_1_K\ProjectBackup\backups\2017-10-03 15.52.15 - auto.zip] removed.
+[2017-10-14 07.58.05] Successfully created [Constraints Definition Upgrade] backup [2017-10-14 07.58.05 - consDefUpgr.zip] requested by [BUM-PC:BUM].
+[2017-10-14 07.58.05] Removing excessive [Constraints Definition Upgrade] backup file [F:\TEXT  TEM\BP_3_1_K\ProjectBackup\backups\2014-09-04 13.39.32 - consDefUpgr.zip].
+[2017-10-14 07.58.05] [Constraints Definition Upgrade] backup file [BP_3_1_K\ProjectBackup\backups\2014-09-04 13.39.32 - consDefUpgr.zip] removed.
+[2017-10-14 07.58.05] Migrated iCDB content backup file [cdbback\2017-10-14 07.58.05-680.zip] removed.
+[2017-10-16 15.16.01] Successfully created [AutoSave] backup [2017-10-16 15.16.01 - auto.zip] requested by [BUM-PC:BUM].
+[2017-10-16 15.16.01] Removing excessive [AutoSave] backup file [F:\TEXT  TEM\BP_3_1_K\ProjectBackup\backups\2017-10-04 09.08.47 - auto.zip].
+[2017-10-16 15.16.01] [AutoSave] backup file [BP_3_1_K\ProjectBackup\backups\2017-10-04 09.08.47 - auto.zip] removed.
+[2017-10-21 11.06.17] Successfully created [AutoSave] backup [2017-10-21 11.06.17 - auto.zip] requested by [BUM-PC:BUM].
+[2017-10-21 11.06.17] Removing excessive [AutoSave] backup file [F:\TEXT  TEM\BP_3_1_K\ProjectBackup\backups\2017-10-04 14.28.41 - auto.zip].
+[2017-10-21 11.06.17] [AutoSave] backup file [BP_3_1_K\ProjectBackup\backups\2017-10-04 14.28.41 - auto.zip] removed.
+[2017-10-21 19.21.30] Successfully created [AutoSave] backup [2017-10-21 19.21.30 - auto.zip] requested by [BUM-PC:BUM].
+[2017-10-21 19.21.30] Removing excessive [AutoSave] backup file [F:\TEXT  TEM\BP_3_1_K\ProjectBackup\backups\2017-10-12 09.03.30 - auto.zip].
+[2017-10-21 19.21.30] [AutoSave] backup file [BP_3_1_K\ProjectBackup\backups\2017-10-12 09.03.30 - auto.zip] removed.
+[2017-10-23 14.50.28] Successfully created [Constraints Definition Upgrade] backup [2017-10-23 14.50.27 - consDefUpgr.zip] requested by [NIO13_PC1:User].
+[2017-10-23 14.50.28] Removing excessive [Constraints Definition Upgrade] backup file [F:\TEXT  TEM\BP_3_1_K\ProjectBackup\backups\2017-10-14 07.58.05 - consDefUpgr.zip].
+[2017-10-23 14.50.28] [Constraints Definition Upgrade] backup file [BP_3_1_K\ProjectBackup\backups\2017-10-14 07.58.05 - consDefUpgr.zip] removed.
+[2017-10-23 14.50.28] Migrated iCDB content backup file [cdbback\2017-10-23 14.50.26-616.zip] removed.
+[2017-10-24 11.17.40] Successfully created [AutoSave] backup [2017-10-24 11.17.39 - auto.zip] requested by [NIO13_PC1:User].
+[2017-10-24 11.17.40] Removing excessive [AutoSave] backup file [F:\TEXT  TEM\BP_3_1_K\ProjectBackup\backups\2017-10-16 15.16.01 - auto.zip].
+[2017-10-24 11.17.40] [AutoSave] backup file [BP_3_1_K\ProjectBackup\backups\2017-10-16 15.16.01 - auto.zip] removed.
+[2017-10-24 16.22.48] Successfully created [AutoSave] backup [2017-10-24 16.22.44 - auto.zip] requested by [NIO13_PC1:User].
+[2017-10-24 16.22.48] Removing excessive [AutoSave] backup file [F:\TEXT  TEM\BP_3_1_K\ProjectBackup\backups\2017-10-21 11.06.17 - auto.zip].
+[2017-10-24 16.22.48] [AutoSave] backup file [BP_3_1_K\ProjectBackup\backups\2017-10-21 11.06.17 - auto.zip] removed.
+[2017-10-25 10.00.04] Successfully created [AutoSave] backup [2017-10-25 10.00.04 - auto.zip] requested by [NIO13_PC1:User].
+[2017-10-25 10.00.04] Removing excessive [AutoSave] backup file [F:\TEXT  TEM\BP_3_1_K\ProjectBackup\backups\2017-10-21 19.21.30 - auto.zip].
+[2017-10-25 10.00.04] [AutoSave] backup file [BP_3_1_K\ProjectBackup\backups\2017-10-21 19.21.30 - auto.zip] removed.
+[2017-10-25 15.18.34] Successfully created [AutoSave] backup [2017-10-25 15.18.34 - auto.zip] requested by [NIO13_PC1:User].
+[2017-10-25 15.18.34] Removing excessive [AutoSave] backup file [F:\TEXT  TEM\BP_3_1_K\ProjectBackup\backups\2017-10-24 11.17.39 - auto.zip].
+[2017-10-25 15.18.34] [AutoSave] backup file [BP_3_1_K\ProjectBackup\backups\2017-10-24 11.17.39 - auto.zip] removed.
+[2017-10-25 19.14.50] Successfully created [Constraints Definition Upgrade] backup [2017-10-25 19.14.50 - consDefUpgr.zip] requested by [BUM-PC:BUM].
+[2017-10-25 19.14.50] Removing excessive [Constraints Definition Upgrade] backup file [F:\TEXT  TEM\BP_3_1_K\ProjectBackup\backups\2017-10-23 14.50.27 - consDefUpgr.zip].
+[2017-10-25 19.14.50] [Constraints Definition Upgrade] backup file [BP_3_1_K\ProjectBackup\backups\2017-10-23 14.50.27 - consDefUpgr.zip] removed.
+[2017-10-25 19.14.50] Migrated iCDB content backup file [cdbback\2017-10-25 19.14.50-1512.zip] removed.
+[2017-10-25 20.01.32] Successfully created [AutoSave] backup [2017-10-25 20.01.32 - auto.zip] requested by [BUM-PC:BUM].
+[2017-10-25 20.01.32] Removing excessive [AutoSave] backup file [F:\TEXT  TEM\BP_3_1_K\ProjectBackup\backups\2017-10-24 16.22.44 - auto.zip].
+[2017-10-25 20.01.32] [AutoSave] backup file [BP_3_1_K\ProjectBackup\backups\2017-10-24 16.22.44 - auto.zip] removed.
+[2017-10-26 10.47.36] Successfully created [Constraints Definition Upgrade] backup [2017-10-26 10.47.36 - consDefUpgr.zip] requested by [NIO13_PC1:User].
+[2017-10-26 10.47.36] Removing excessive [Constraints Definition Upgrade] backup file [F:\TEXT  TEM\BP_3_1_K\ProjectBackup\backups\2017-10-25 19.14.50 - consDefUpgr.zip].
+[2017-10-26 10.47.36] [Constraints Definition Upgrade] backup file [BP_3_1_K\ProjectBackup\backups\2017-10-25 19.14.50 - consDefUpgr.zip] removed.
+[2017-10-26 10.47.36] Migrated iCDB content backup file [cdbback\2017-10-26 10.47.35-2164.zip] removed.
+[2017-10-26 10.48.08] Successfully created [AutoSave] backup [2017-10-26 10.48.06 - auto.zip] requested by [NIO13_PC1:User].
+[2017-10-26 10.48.08] Removing excessive [AutoSave] backup file [F:\TEXT  TEM\BP_3_1_K\ProjectBackup\backups\2017-10-25 10.00.04 - auto.zip].
+[2017-10-26 10.48.08] [AutoSave] backup file [BP_3_1_K\ProjectBackup\backups\2017-10-25 10.00.04 - auto.zip] removed.
+[2017-10-26 14.48.12] Successfully created [AutoSave] backup [2017-10-26 14.48.06 - auto.zip] requested by [NIO13_PC1:User].
+[2017-10-26 14.48.12] Removing excessive [AutoSave] backup file [F:\TEXT  TEM\BP_3_1_K\ProjectBackup\backups\2017-10-25 15.18.34 - auto.zip].
+[2017-10-26 14.48.12] [AutoSave] backup file [BP_3_1_K\ProjectBackup\backups\2017-10-25 15.18.34 - auto.zip] removed.
+[2017-10-27 18.49.47] Successfully created [Constraints Definition Upgrade] backup [2017-10-27 18.49.47 - consDefUpgr.zip] requested by [BUM-PC:BUM].
+[2017-10-27 18.49.47] Removing excessive [Constraints Definition Upgrade] backup file [F:\TEXT  TEM\BP_3_1_K\ProjectBackup\backups\2017-10-26 10.47.36 - consDefUpgr.zip].
+[2017-10-27 18.49.47] [Constraints Definition Upgrade] backup file [BP_3_1_K\ProjectBackup\backups\2017-10-26 10.47.36 - consDefUpgr.zip] removed.
+[2017-10-27 18.49.47] Migrated iCDB content backup file [cdbback\2017-10-27 18.49.47-584.zip] removed.
+[2017-10-27 19.54.52] Successfully created [AutoSave] backup [2017-10-27 19.54.52 - auto.zip] requested by [BUM-PC:BUM].
+[2017-10-27 19.54.52] Removing excessive [AutoSave] backup file [F:\TEXT  TEM\BP_3_1_K\ProjectBackup\backups\2017-10-25 20.01.32 - auto.zip].
+[2017-10-27 19.54.52] [AutoSave] backup file [BP_3_1_K\ProjectBackup\backups\2017-10-25 20.01.32 - auto.zip] removed.
+[2017-10-28 17.05.40] Successfully created [AutoSave] backup [2017-10-28 17.05.40 - auto.zip] requested by [BUM-PC:BUM].
+[2017-10-28 17.05.40] Removing excessive [AutoSave] backup file [F:\TEXT  TEM\BP_3_1_K\ProjectBackup\backups\2017-10-26 10.48.06 - auto.zip].
+[2017-10-28 17.05.40] [AutoSave] backup file [BP_3_1_K\ProjectBackup\backups\2017-10-26 10.48.06 - auto.zip] removed.
+[2017-10-28 21.05.40] Successfully created [AutoSave] backup [2017-10-28 21.05.40 - auto.zip] requested by [BUM-PC:BUM].
+[2017-10-28 21.05.40] Removing excessive [AutoSave] backup file [F:\TEXT  TEM\BP_3_1_K\ProjectBackup\backups\2017-10-26 14.48.06 - auto.zip].
+[2017-10-28 21.05.40] [AutoSave] backup file [BP_3_1_K\ProjectBackup\backups\2017-10-26 14.48.06 - auto.zip] removed.
+[2017-10-29 08.35.43] Successfully created [AutoSave] backup [2017-10-29 08.35.43 - auto.zip] requested by [BUM-PC:BUM].
+[2017-10-29 08.35.43] Removing excessive [AutoSave] backup file [F:\TEXT  TEM\BP_3_1_K\ProjectBackup\backups\2017-10-27 19.54.52 - auto.zip].
+[2017-10-29 08.35.43] [AutoSave] backup file [BP_3_1_K\ProjectBackup\backups\2017-10-27 19.54.52 - auto.zip] removed.
+[2017-10-29 16.04.07] Successfully created [AutoSave] backup [2017-10-29 16.04.07 - auto.zip] requested by [BUM-PC:BUM].
+[2017-10-29 16.04.07] Removing excessive [AutoSave] backup file [F:\TEXT  TEM\BP_3_1_K\ProjectBackup\backups\2017-10-28 17.05.40 - auto.zip].
+[2017-10-29 16.04.07] [AutoSave] backup file [BP_3_1_K\ProjectBackup\backups\2017-10-28 17.05.40 - auto.zip] removed.
+[2017-10-30 08.33.47] Successfully created [Constraints Definition Upgrade] backup [2017-10-30 08.33.46 - consDefUpgr.zip] requested by [NIO13_PC1:User].
+[2017-10-30 08.33.47] Removing excessive [Constraints Definition Upgrade] backup file [F:\TEXT  TEM\BP_3_1_K\ProjectBackup\backups\2017-10-27 18.49.47 - consDefUpgr.zip].
+[2017-10-30 08.33.47] [Constraints Definition Upgrade] backup file [BP_3_1_K\ProjectBackup\backups\2017-10-27 18.49.47 - consDefUpgr.zip] removed.
+[2017-10-30 08.33.47] Migrated iCDB content backup file [cdbback\2017-10-30 08.33.45-4672.zip] removed.
+[2017-10-30 08.34.20] Successfully created [AutoSave] backup [2017-10-30 08.34.17 - auto.zip] requested by [NIO13_PC1:User].
+[2017-10-30 08.34.20] Removing excessive [AutoSave] backup file [F:\TEXT  TEM\BP_3_1_K\ProjectBackup\backups\2017-10-28 21.05.40 - auto.zip].
+[2017-10-30 08.34.20] [AutoSave] backup file [BP_3_1_K\ProjectBackup\backups\2017-10-28 21.05.40 - auto.zip] removed.

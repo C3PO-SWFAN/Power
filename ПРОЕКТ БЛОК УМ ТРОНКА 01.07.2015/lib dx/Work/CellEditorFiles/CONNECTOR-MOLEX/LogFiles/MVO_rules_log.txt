@@ -1,0 +1,6 @@
+
+Can not open Multiple Via Rules file. File doesn't exist:
+       'D:\lib dx\Work\CellEditorFiles\CONNECTOR-MOLEX\Config\MultiViaRules.txt'
+
+Can not open Multiple Via Rules file. File doesn't exist:
+       'D:\lib dx\Work\CellEditorFiles\CONNECTOR-MOLEX\Layout\MVO_Rules.txt'

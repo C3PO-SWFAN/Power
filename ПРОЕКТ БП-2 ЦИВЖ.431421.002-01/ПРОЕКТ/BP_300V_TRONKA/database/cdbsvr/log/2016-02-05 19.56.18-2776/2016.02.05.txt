@@ -1,0 +1,337 @@
+[2016.02.05 19:56:18] [0000m.00s.203ms] [0] WELCOME
+[2016.02.05 19:56:18] [0000m.00s.203ms] [1] iCDB Server ver.1.094, vt40T8RtWJOG2cE2Nlvc5A, build:535943 created 2013-01-08 09:09:26, sources stamp:vt40T8RtWJOG2cE2Nlvc5A
+[2016.02.05 19:56:18] [0000m.00s.203ms] [1] Copyright 2013 Mentor Graphics Corporation. All Rights Reserved.
+[2016.02.05 19:56:18] [0000m.00s.203ms] [1] Base flow version [7.9.4]
+[2016.02.05 19:56:18] [0000m.00s.203ms] [1] GBS Install Id [26418], Flow Id [EE7.9.4], Full Flow Name [Expedition Enterprise Flow], Exact Access Date [Jun 1 2012]
+[2016.02.05 19:56:18] [0000m.00s.203ms] [1] UPDATE Install Info, GBS Install Id [29518], UPDATE Name [Expedition Enterprise Flow - Update 9 for EE7.9.4]
+[2016.02.05 19:56:18] [0000m.00s.203ms] [1] Machine [VOLODYMYR]  User [V1]  PID [2776]
+[2016.02.05 19:56:18] [0000m.00s.203ms] [1] Operating system [Microsoft Windows XP Professional Service Pack 3 (build 2600)]
+[2016.02.05 19:56:18] [0000m.00s.203ms] [1] Current working dir [F:\TEXT  TEM\BP_300V_TRONKA]
+[2016.02.05 19:56:18] [0000m.00s.203ms] [1] PATH [C:\mentorgraphics\7.9.4EE\SDD_HOME\wv\win32\bin;C:\mentorgraphics\7.9.4EE\SDD_HOME\common\win32\bin;C:\mentorgraphics\7.9.4EE\SDD_HOME\common\win32\lib;C:\mentorgraphics\7.9.4EE\MGC_HOME.ixn\bin;C:\mentorgraphics\7.9.4EE\MGC_HOME.ixn\lib;C:\cygwin-1.7.9DMS\bin;C:\Program Files\Python26\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\Program Files\Skype\Phone\]
+[2016.02.05 19:56:18] [0000m.00s.203ms] [1] SDD_HOME [C:\mentorgraphics\7.9.4EE\SDD_HOME] on file system [NTFS]
+[2016.02.05 19:56:18] [0000m.00s.203ms] [1] SDD_PLATFORM [win32]
+[2016.02.05 19:56:18] [0000m.00s.203ms] [1] WDIR [D:\WDIR;C:\mentorgraphics\7.9.4EE\SDD_HOME\standard]
+[2016.02.05 19:56:18] [0000m.00s.203ms] [1] Local iCDB working dir [D:\WDIR\iCDB] on file system [NTFS]
+[2016.02.05 19:56:18] [0000m.00s.203ms] [2] S: Loading config files
+[2016.02.05 19:56:19] [0000m.00s.296ms] [1] Config file [F:\TEXT  TEM\BP_300V_TRONKA\database\cdbsvr\Server.cfg] not found
+[2016.02.05 19:56:19] [0000m.00s.312ms] [3] S: Config loaded
+[2016.02.05 19:56:19] [0000m.00s.328ms] [0] S: Project path [F:\TEXT  TEM\BP_300V_TRONKA\database] on file system [NTFS]
+[2016.02.05 19:56:19] [0000m.00s.328ms] [0] S: Project file (.prj) path [F:\TEXT  TEM\BP_300V_TRONKA\BP_300V_TRONKA.prj] on file system [NTFS]
+[2016.02.05 19:56:19] [0000m.00s.328ms] [1] S: WARNING: Database auto-repair support DISABLED
+[2016.02.05 19:56:19] [0000m.00s.328ms] [0] S: Single-user mode (auto)
+[2016.02.05 19:56:19] [0000m.00s.328ms] [0] S: Event polling mode autodetection
+[2016.02.05 19:56:19] [0000m.00s.359ms] [0] S: Started up automatically by iCDB Client: VOLODYMYR:V1:4032
+[2016.02.05 19:56:19] [0000m.00s.359ms] [0] S: Auto close mode
+[2016.02.05 19:56:19] [0000m.00s.359ms] [0] S: Database ID [23ce-4613-e689-3742-242e-4b67-42e4-b650-8691-80ef-cfdd-5d5d]
+[2016.02.05 19:56:19] [0000m.00s.359ms] [0] PathTranslator: BEGIN dumping
+[2016.02.05 19:56:19] [0000m.00s.359ms] [0] PathTranslator: Local -> global path prefix list
+[2016.02.05 19:56:19] [0000m.00s.359ms] [0] PathTranslator: Global -> local path prefix list
+[2016.02.05 19:56:19] [0000m.00s.359ms] [0] PathTranslator: END dumping
+[2016.02.05 19:56:19] [0000m.00s.375ms] [0] S: START
+[2016.02.05 19:56:19] [0000m.00s.421ms] [0] S: Server startup lock file created
+[2016.02.05 19:56:19] [0000m.00s.437ms] [0] S: Listening for client connections on port [10001]
+[2016.02.05 19:56:19] [0000m.00s.453ms] [0] S: Server network ID [volodymyr:192.168.1.227,volodymyr:10001]
+[2016.02.05 19:56:19] [0000m.00s.453ms] [0] S: Server GUID [94c8-961f-38e8-5b73-342e-4b68-42e4-b650-c671-80ef-cfdd-5d5d]
+[2016.02.05 19:56:19] [0000m.00s.453ms] [0] S: Project GUID [23ce-4613-e689-3742-242e-4b67-42e4-b650-8691-80ef-cfdd-5d5d]
+[2016.02.05 19:56:19] [0000m.00s.468ms] [0] S: Wrote data to server address file
+[2016.02.05 19:56:19] [0000m.00s.468ms] [0] S: Server startup lock file removed
+[2016.02.05 19:56:19] [0000m.00s.546ms] [1] ProjectBackupManager: Setting project file (.prj) path: [F:\TEXT  TEM\BP_300V_TRONKA\BP_300V_TRONKA.prj]
+[2016.02.05 19:56:19] [0000m.01s.156ms] [0] S: Plugins loaded: [PIM] [ENetGen70] 
+[2016.02.05 19:56:19] [0000m.01s.171ms] [0] S: Local disc access time: 84 us
+[2016.02.05 19:56:19] [0000m.01s.171ms] [0] S: File server access time: 122 us
+[2016.02.05 19:56:20] [0000m.01s.250ms] [0] Single file [F:\TEXT  TEM\BP_300V_TRONKA\database\icdb.dat] size [201456 (196.7 kB)]
+[2016.02.05 19:56:20] [0000m.01s.250ms] [1] Single file [F:\TEXT  TEM\BP_300V_TRONKA\database\icdb.dat] opened in read-write mode
+[2016.02.05 19:56:20] [0000m.01s.250ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2016.02.05 19:56:20] [0000m.01s.250ms] [0] Database GUARD OK: [201456]
+[2016.02.05 19:56:20] [0000m.01s.281ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2016.02.05 19:56:20] [0000m.01s.281ms] [0] Database GUARD OK: [201456]
+[2016.02.05 19:56:20] [0000m.01s.281ms] [0] SingleFile: [cd7e-126a-f84c-4bff] SFI version check [1009] [1009]
+[2016.02.05 19:56:20] [0000m.01s.296ms] [0] SingleFile: [cd7e-126a-f84c-4bff] Database SFI header has been read in [19ms 162us]
+[2016.02.05 19:56:20] [0000m.01s.343ms] [0] iCDB Server PI: Server & plugin session [590]
+[2016.02.05 19:56:20] [0000m.01s.343ms] [0] iCDB Server PI: Opening database [F:\TEXT  TEM\BP_300V_TRONKA\database]
+[2016.02.05 19:56:20] [0000m.01s.343ms] [0] iCDB Server PI: Database [F:\TEXT  TEM\BP_300V_TRONKA\database] opened
+[2016.02.05 19:56:20] [0000m.01s.593ms] [0] iCDB Database: Checking existence of constraint definitions
+[2016.02.05 19:56:20] [0000m.01s.593ms] [0] iCDB Database: Checking constraint definitions version
+[2016.02.05 19:56:20] [0000m.01s.875ms] [0] iCDB Database: Creating database content backup before upgrade
+[2016.02.05 19:56:20] [0000m.01s.875ms] [1] iCDB Storage Server: Database backup: ProjectPath[F:\TEXT  TEM\BP_300V_TRONKA\database]
+[2016.02.05 19:56:20] [0000m.01s.890ms] [0] iCDB Storage Server Backup Thread: Database backup: BackupPath[F:\TEXT  TEM\BP_300V_TRONKA\database\cdbback\2016-02-05 19.56.20-2776.zip]
+[2016.02.05 19:56:20] [0000m.01s.937ms] [0] iCDB Storage Server Backup Thread: Backup database DONE: Result[ Succeeded[TRUE]] BackupPath[F:\TEXT  TEM\BP_300V_TRONKA\database\cdbback\2016-02-05 19.56.20-2776.zip]
+[2016.02.05 19:56:20] [0000m.01s.937ms] [0] iCDB Database: Database content backed up to [F:\TEXT  TEM\BP_300V_TRONKA\database\cdbback\2016-02-05 19.56.20-2776.zip] of size [343 387 bytes (335.3 kB)]  in [75ms 999us]
+[2016.02.05 19:56:20] [0000m.02s.000ms] [0] iCDB Database: Upgrading constraint definitions from version [ce_ee.cns=7.10.24;user.cns=23bc-5dbe-811f-e7e3-e487-7e23-5877-e250-e2f7-9777-77e2-03e2]
+[2016.02.05 19:56:20] [0000m.02s.015ms] [0] iCDB Database: Loading snapshot [1:DxD] version [2709]
+[2016.02.05 19:56:20] [0000m.02s.171ms] [0] iCDB Database: Snapshot [1:DxD] loaded in [163ms 234us]
+[2016.02.05 19:56:20] [0000m.02s.171ms] [0] iCDB Database: Upgrading constraint definitions for snapshot [1:DxD]
+[2016.02.05 19:56:20] [0000m.02s.171ms] [0] iCDB Database: Constraint definitions for snapshot [1:DxD] upgraded in [4ms 607us]
+[2016.02.05 19:56:20] [0000m.02s.171ms] [0] iCDB Database: Saving snapshot [1:DxD]
+[2016.02.05 19:56:20] [0000m.02s.171ms] [0] iCDB Database: Snapshot [1:DxD] saved in [137us]
+[2016.02.05 19:56:21] [0000m.02s.281ms] [0] iCDB Database: Loading snapshot [2:Board1_layout_temp] version [2709]
+[2016.02.05 19:56:21] [0000m.02s.296ms] [0] iCDB Database: Snapshot [2:Board1_layout_temp] loaded in [15ms 827us]
+[2016.02.05 19:56:21] [0000m.02s.296ms] [0] iCDB Database: Upgrading constraint definitions for snapshot [2:Board1_layout_temp]
+[2016.02.05 19:56:21] [0000m.02s.312ms] [0] iCDB Database: Constraint definitions for snapshot [2:Board1_layout_temp] upgraded in [11ms 654us]
+[2016.02.05 19:56:21] [0000m.02s.312ms] [0] iCDB Database: Saving snapshot [2:Board1_layout_temp]
+[2016.02.05 19:56:21] [0000m.02s.312ms] [0] iCDB Database: Snapshot [2:Board1_layout_temp] saved in [130us]
+[2016.02.05 19:56:21] [0000m.02s.328ms] [0] iCDB Database: Loading snapshot [3:Board1] version [2709]
+[2016.02.05 19:56:21] [0000m.02s.375ms] [0] iCDB Database: Snapshot [3:Board1] loaded in [36ms 507us]
+[2016.02.05 19:56:21] [0000m.02s.375ms] [0] iCDB Database: Upgrading constraint definitions for snapshot [3:Board1]
+[2016.02.05 19:56:21] [0000m.02s.390ms] [0] iCDB Database: Constraint definitions for snapshot [3:Board1] upgraded in [12ms 42us]
+[2016.02.05 19:56:21] [0000m.02s.390ms] [0] iCDB Database: Saving snapshot [3:Board1]
+[2016.02.05 19:56:21] [0000m.02s.390ms] [0] iCDB Database: Snapshot [3:Board1] saved in [294us]
+[2016.02.05 19:56:21] [0000m.02s.421ms] [0] iCDB Database: Loading snapshot [4:RefSync] version [2709]
+[2016.02.05 19:56:21] [0000m.02s.468ms] [0] iCDB Database: Snapshot [4:RefSync] loaded in [58ms 460us]
+[2016.02.05 19:56:21] [0000m.02s.468ms] [0] iCDB Database: Upgrading constraint definitions for snapshot [4:RefSync]
+[2016.02.05 19:56:21] [0000m.02s.484ms] [0] iCDB Database: Constraint definitions for snapshot [4:RefSync] upgraded in [12ms 161us]
+[2016.02.05 19:56:21] [0000m.02s.484ms] [0] iCDB Database: Saving snapshot [4:RefSync]
+[2016.02.05 19:56:21] [0000m.02s.484ms] [0] iCDB Database: Snapshot [4:RefSync] saved in [133us]
+[2016.02.05 19:56:21] [0000m.02s.500ms] [0] iCDB Database: Constraint definitions upgraded to version [ce_ee.cns=7.10.24;user.cns=13c3-d235-cdd4-ffd2-f127-4704-2274-7050-a5ca-3ad9-497a-d97a]
+[2016.02.05 19:56:21] [0000m.02s.546ms] [0] iCDB Server PI: Initializing plugins
+[2016.02.05 19:56:21] [0000m.02s.578ms] [0] iCDB Server PI: Plugins initialized
+[2016.02.05 19:56:21] [0000m.02s.578ms] [0] S: iCDB database loaded
+[2016.02.05 19:56:21] [0000m.02s.750ms] [1] PrjBackupMgr: Successfully created Project Backup [F:\TEXT  TEM\BP_300V_TRONKA\ProjectBackup\backups\2016-02-05 19.56.21 - consDefUpgr.zip] with GUID [285a-2284-29f7-f52a-542e-4b6a-42e4-b650-c671-80ef-cfdd-5d5d]
+[2016.02.05 19:56:21] [0000m.02s.750ms] [0] PrjBackupMgr: Removing excessive backup:  BackupGUID[a1a5-7443-c278-263b-5d9a-1b6a-d9a1-b650-a0a0-a00c-bc3c-8dfb] CreationTime[Wednesday, February 03, 2016 07:18:45] Type[ConsDefUpgrade] Creator[iCDB Server (2016-02-03 09.18.43-4016)] ApplicationName[iCDB Server (2016-02-03 09.18.43-4016)] UserName[User] MachineName[NIO13_PC1] Description[Before constraint definitions upgrade from version:\n    ce_ee.cns=7.10.24;user.cns=13c3-d235-cdd4-ffd2-f127-4704-2274-7050-a5ca-3ad9-497a-d97a\nto version:\n    ce_ee.cns=7.10.24;user.cns=23bc-5dbe-811f-e7e3-e487-7e23-5877-e250-e2f7-9777-77e2-03e2\nof the same flow install:\n    Expedition Enterprise Flow; Expedition Enterprise Flow - Update 9 for EE7.9.4\n    Flow Id: EE7.9.4\n    GBS Install Id: 26418; 29518\n    iCDB GBS Build Id: 535943\n    iCDB Version: 2709] FullFlowName[Expedition Enterprise Flow; Expedition Enterprise Flow - Update 9 for EE7.9.4] FlowId[EE7.9.4] GBSInstallId[26418; 29518] GBSBuildId[535943] IcdbVersion[2709] ReferenceLogFilePath[database\cdbsvr\dbupgrade\2016-02-03 09.18.44-4016\2016.02.03.upgrade.txt] BackupFilePath[F:\TEXT  TEM\BP_300V_TRONKA\ProjectBackup\backups\2016-02-03 09.18.45 - consDefUpgr.zip] BackupFileSize[545358] Persistent[FALSE]
+[2016.02.05 19:56:21] [0000m.02s.750ms] [0] PrjBackupMgr: Project Backup file [F:\TEXT  TEM\BP_300V_TRONKA\ProjectBackup\backups\2016-02-03 09.18.45 - consDefUpgr.zip] with GUID [a1a5-7443-c278-263b-5d9a-1b6a-d9a1-b650-a0a0-a00c-bc3c-8dfb] removed
+[2016.02.05 19:56:21] [0000m.02s.750ms] [1] PrjBackupMgr: Migrated iCDB content backup file [F:\TEXT  TEM\BP_300V_TRONKA\database\cdbback\2016-02-05 19.56.20-2776.zip] removed
+[2016.02.05 19:56:21] [0000m.02s.781ms] [0] S: Starting threads
+[2016.02.05 19:56:21] [0000m.02s.859ms] [1] CMT: There are no clients - waiting [10 seconds]
+[2016.02.05 19:56:21] [0000m.02s.859ms] [0] BT: Listening for broadcast messages on port [10000]
+[2016.02.05 19:56:21] [0000m.02s.890ms] [0] IT: Session [591] for host [volodymyr] user [V1] with process ID [4032] created
+[2016.02.05 19:56:21] [0000m.02s.890ms] [1] SC[591]: Registered sub-client [DxD] with ID [1] for session ID [591] host [volodymyr] user [V1] process ID [4032]
+[2016.02.05 19:56:21] [0000m.02s.953ms] [1] CMT: There are [1] clients now: 591
+[2016.02.05 19:56:21] [0000m.03s.015ms] [1] SC[591]: Registered sub-client [TransactionRollbackSubClient] with ID [2] for session ID [591] host [volodymyr] user [V1] process ID [4032]
+[2016.02.05 19:56:21] [0000m.03s.046ms] [1] SC[591]: Registered sub-client [xprob] with ID [3] for session ID [591] host [volodymyr] user [V1] process ID [4032]
+[2016.02.05 19:56:23] [0000m.04s.687ms] [1] SC[591]: Registered sub-client [SelectionHolder] with ID [4] for session ID [591] host [volodymyr] user [V1] process ID [4032]
+[2016.02.05 19:56:23] [0000m.04s.718ms] [1] SC[591]: Registered sub-client [SymbolEditor] with ID [5] for session ID [591] host [volodymyr] user [V1] process ID [4032]
+[2016.02.05 19:56:23] [0000m.04s.718ms] [1] SC[591]: Registered sub-client [EEVM_EEVM_415033308] with ID [6] for session ID [591] host [volodymyr] user [V1] process ID [4032]
+[2016.02.05 19:56:23] [0000m.04s.718ms] [1] SC[591]: UnRegistered sub-client [EEVM_EEVM_415033308] with ID [6] for session ID [591] host [volodymyr] user [V1] process ID [4032]
+[2016.02.05 19:56:23] [0000m.04s.734ms] [1] SC[591]: Registered sub-client [EEVM_EEVM_415033308] with ID [7] for session ID [591] host [volodymyr] user [V1] process ID [4032]
+[2016.02.05 19:56:23] [0000m.04s.750ms] [1] SC[591]: UnRegistered sub-client [EEVM_EEVM_415033308] with ID [7] for session ID [591] host [volodymyr] user [V1] process ID [4032]
+[2016.02.05 19:56:23] [0000m.04s.765ms] [1] SC[591]: Registered sub-client [EEVM_EEVM_415033308] with ID [8] for session ID [591] host [volodymyr] user [V1] process ID [4032]
+[2016.02.05 19:56:23] [0000m.04s.765ms] [1] SC[591]: UnRegistered sub-client [EEVM_EEVM_415033308] with ID [8] for session ID [591] host [volodymyr] user [V1] process ID [4032]
+[2016.02.05 19:56:23] [0000m.04s.781ms] [1] SC[591]: Registered sub-client [EEVM_EEVM_415033308] with ID [9] for session ID [591] host [volodymyr] user [V1] process ID [4032]
+[2016.02.05 19:56:23] [0000m.04s.796ms] [1] SC[591]: UnRegistered sub-client [EEVM_EEVM_415033308] with ID [9] for session ID [591] host [volodymyr] user [V1] process ID [4032]
+[2016.02.05 19:56:24] [0000m.05s.875ms] [1] SC[591]: Registered sub-client [HdlProject] with ID [10] for session ID [591] host [volodymyr] user [V1] process ID [4032]
+[2016.02.05 19:56:24] [0000m.05s.906ms] [1] SC[591]: Registered sub-client [Navigator] with ID [11] for session ID [591] host [volodymyr] user [V1] process ID [4032]
+[2016.02.05 19:56:24] [0000m.05s.937ms] [1] SC[591]: Registered sub-client [OutputWindow] with ID [12] for session ID [591] host [volodymyr] user [V1] process ID [4032]
+[2016.02.05 19:56:24] [0000m.05s.937ms] [1] SC[591]: Registered sub-client [PlaceDevice] with ID [13] for session ID [591] host [volodymyr] user [V1] process ID [4032]
+[2016.02.05 19:56:25] [0000m.06s.468ms] [1] SC[591]: Registered sub-client [SAE] with ID [14] for session ID [591] host [volodymyr] user [V1] process ID [4032]
+[2016.02.05 19:56:25] [0000m.06s.484ms] [1] SC[591]: Registered sub-client [CCZAddin] with ID [15] for session ID [591] host [volodymyr] user [V1] process ID [4032]
+[2016.02.05 19:56:25] [0000m.06s.484ms] [1] SC[591]: Registered sub-client [DxThumbnails] with ID [16] for session ID [591] host [volodymyr] user [V1] process ID [4032]
+[2016.02.05 19:56:25] [0000m.06s.718ms] [1] SC[591]: Registered sub-client [SheetConnectorsCacheDxD:1454694985] with ID [17] for session ID [591] host [volodymyr] user [V1] process ID [4032]
+[2016.02.05 19:56:25] [0000m.06s.750ms] [1] SC[591]: Registered sub-client [NetsNamesCollectorDxD:1454694985] with ID [18] for session ID [591] host [volodymyr] user [V1] process ID [4032]
+[2016.02.05 19:56:26] [0000m.07s.890ms] [1] SC[591]: Registered sub-client [ObjectHolder_441985112] with ID [19] for session ID [591] host [volodymyr] user [V1] process ID [4032]
+[2016.02.05 19:56:26] [0000m.07s.906ms] [1] SC[591]: Registered sub-client [BlockCacheDxD:442142576] with ID [20] for session ID [591] host [volodymyr] user [V1] process ID [4032]
+[2016.02.05 19:56:26] [0000m.07s.937ms] [1] SC[591]: Registered sub-client [GlobalNetAliasUpdater_442282576] with ID [21] for session ID [591] host [volodymyr] user [V1] process ID [4032]
+[2016.02.05 19:56:26] [0000m.07s.984ms] [1] SC[591]: Registered sub-client [IcdbNetProcessorSubClientDxD:443105248] with ID [22] for session ID [591] host [volodymyr] user [V1] process ID [4032]
+[2016.02.05 19:56:28] [0000m.09s.562ms] [1] SC[591]: Registered sub-client [DxDbSearch] with ID [23] for session ID [591] host [volodymyr] user [V1] process ID [4032]
+[2016.02.05 19:56:42] [0000m.23s.250ms] [0] DFAMT: File server access time: 91 us
+[2016.02.05 19:59:48] [0003m.29s.640ms] [0] IT: Session [592] for host [volodymyr] user [V1] with process ID [3132] created
+[2016.02.05 19:59:48] [0003m.29s.640ms] [1] SC[592]: Registered sub-client [CDBPackagerGUI] with ID [1] for session ID [592] host [volodymyr] user [V1] process ID [3132]
+[2016.02.05 19:59:48] [0003m.29s.656ms] [1] SC[592]: UnRegistered sub-client [CDBPackagerGUI] with ID [1] for session ID [592] host [volodymyr] user [V1] process ID [3132]
+[2016.02.05 19:59:48] [0003m.29s.718ms] [1] CMT: There are [2] clients now: 591, 592
+[2016.02.05 19:59:48] [0003m.29s.718ms] [1] CMT: Removed client [592]
+[2016.02.05 19:59:48] [0003m.29s.718ms] [1] CMT: There are [1] clients now: 591
+[2016.02.05 19:59:51] [0003m.33s.171ms] [0] IT: Session [593] for host [volodymyr] user [V1] with process ID [2184] created
+[2016.02.05 19:59:51] [0003m.33s.171ms] [1] SC[593]: Registered sub-client [Packager_653359] with ID [1] for session ID [593] host [volodymyr] user [V1] process ID [2184]
+[2016.02.05 19:59:51] [0003m.33s.234ms] [1] CMT: There are [2] clients now: 591, 593
+[2016.02.05 20:00:01] [0003m.43s.125ms] [1] SC[593]: UnRegistered sub-client [Packager_653359] with ID [1] for session ID [593] host [volodymyr] user [V1] process ID [2184]
+[2016.02.05 20:00:01] [0003m.43s.203ms] [1] CMT: Removed client [593]
+[2016.02.05 20:00:01] [0003m.43s.203ms] [1] CMT: There are [1] clients now: 591
+[2016.02.05 20:00:58] [0004m.39s.828ms] [0] IT: Session [594] for host [volodymyr] user [V1] with process ID [356] created
+[2016.02.05 20:00:58] [0004m.39s.828ms] [1] SC[594]: Registered sub-client [Expedition PCB_720031] with ID [1] for session ID [594] host [volodymyr] user [V1] process ID [356]
+[2016.02.05 20:00:58] [0004m.39s.875ms] [1] CMT: There are [2] clients now: 591, 594
+[2016.02.05 20:00:58] [0004m.39s.937ms] [1] SC[594]: Registered sub-client [EEVM_EEVM_277215340] with ID [2] for session ID [594] host [volodymyr] user [V1] process ID [356]
+[2016.02.05 20:00:58] [0004m.39s.968ms] [1] SC[594]: UnRegistered sub-client [EEVM_EEVM_277215340] with ID [2] for session ID [594] host [volodymyr] user [V1] process ID [356]
+[2016.02.05 20:00:58] [0004m.39s.984ms] [1] SC[594]: Registered sub-client [EEVM_EEVM_277215340] with ID [3] for session ID [594] host [volodymyr] user [V1] process ID [356]
+[2016.02.05 20:00:58] [0004m.40s.015ms] [1] SC[594]: UnRegistered sub-client [EEVM_EEVM_277215340] with ID [3] for session ID [594] host [volodymyr] user [V1] process ID [356]
+[2016.02.05 20:01:04] [0004m.45s.703ms] [1] SC[594]: Registered sub-client [ExpeditionCrossProber] with ID [4] for session ID [594] host [volodymyr] user [V1] process ID [356]
+[2016.02.05 20:01:04] [0004m.46s.140ms] [1] SC[594]: Registered sub-client [JobPrefsDBPI_726421] with ID [5] for session ID [594] host [volodymyr] user [V1] process ID [356]
+[2016.02.05 20:01:04] [0004m.46s.140ms] [1] SC[594]: UnRegistered sub-client [JobPrefsDBPI_726421] with ID [5] for session ID [594] host [volodymyr] user [V1] process ID [356]
+[2016.02.05 20:04:58] [0008m.39s.453ms] [1] SC[594]: Registered sub-client [EEVM_EEVM_1239256] with ID [6] for session ID [594] host [volodymyr] user [V1] process ID [356]
+[2016.02.05 20:04:58] [0008m.39s.453ms] [1] SC[594]: UnRegistered sub-client [EEVM_EEVM_1239256] with ID [6] for session ID [594] host [volodymyr] user [V1] process ID [356]
+[2016.02.05 20:04:59] [0008m.40s.359ms] [0] IT: Session [595] for host [volodymyr] user [V1] with process ID [2220] created
+[2016.02.05 20:04:59] [0008m.40s.359ms] [1] SC[595]: Registered sub-client [Expedition_960468] with ID [1] for session ID [595] host [volodymyr] user [V1] process ID [2220]
+[2016.02.05 20:04:59] [0008m.40s.437ms] [1] CMT: There are [3] clients now: 591, 594, 595
+[2016.02.05 20:04:59] [0008m.40s.500ms] [1] SC[595]: UnRegistered sub-client [Expedition_960468] with ID [1] for session ID [595] host [volodymyr] user [V1] process ID [2220]
+[2016.02.05 20:04:59] [0008m.40s.546ms] [1] CMT: Removed client [595]
+[2016.02.05 20:04:59] [0008m.40s.546ms] [1] CMT: There are [2] clients now: 591, 594
+[2016.02.05 20:05:03] [0008m.45s.031ms] [1] SC[594]: UnRegistered sub-client [ExpeditionCrossProber] with ID [4] for session ID [594] host [volodymyr] user [V1] process ID [356]
+[2016.02.05 20:05:04] [0008m.45s.468ms] [1] SC[594]: UnRegistered sub-client [Expedition PCB_720031] with ID [1] for session ID [594] host [volodymyr] user [V1] process ID [356]
+[2016.02.05 20:05:04] [0008m.45s.578ms] [1] CMT: Removed client [594]
+[2016.02.05 20:05:04] [0008m.45s.578ms] [1] CMT: There are [1] clients now: 591
+[2016.02.05 20:16:43] [0020m.24s.296ms] [0] IT: Session [596] for host [volodymyr] user [V1] with process ID [828] created
+[2016.02.05 20:16:43] [0020m.24s.296ms] [1] SC[596]: Registered sub-client [DxPDFDialogClient] with ID [1] for session ID [596] host [volodymyr] user [V1] process ID [828]
+[2016.02.05 20:16:43] [0020m.24s.312ms] [1] CMT: There are [2] clients now: 591, 596
+[2016.02.05 20:16:43] [0020m.24s.312ms] [1] SC[596]: UnRegistered sub-client [DxPDFDialogClient] with ID [1] for session ID [596] host [volodymyr] user [V1] process ID [828]
+[2016.02.05 20:16:43] [0020m.24s.406ms] [1] CMT: Removed client [596]
+[2016.02.05 20:16:43] [0020m.24s.406ms] [1] CMT: There are [1] clients now: 591
+[2016.02.05 20:16:50] [0020m.31s.500ms] [0] IT: Session [597] for host [volodymyr] user [V1] with process ID [1352] created
+[2016.02.05 20:16:50] [0020m.31s.500ms] [1] SC[597]: Registered sub-client [Sch2PdfClient] with ID [1] for session ID [597] host [volodymyr] user [V1] process ID [1352]
+[2016.02.05 20:16:50] [0020m.31s.546ms] [1] SC[597]: Registered sub-client [SheetConnectorsCacheDxD:1454696210] with ID [2] for session ID [597] host [volodymyr] user [V1] process ID [1352]
+[2016.02.05 20:16:50] [0020m.31s.562ms] [1] CMT: There are [2] clients now: 591, 597
+[2016.02.05 20:16:50] [0020m.31s.593ms] [1] SC[597]: Registered sub-client [ICE_ICTIND] with ID [3] for session ID [597] host [volodymyr] user [V1] process ID [1352]
+[2016.02.05 20:16:51] [0020m.32s.250ms] [1] SC[597]: UnRegistered sub-client [SheetConnectorsCacheDxD:1454696210] with ID [2] for session ID [597] host [volodymyr] user [V1] process ID [1352]
+[2016.02.05 20:16:51] [0020m.32s.250ms] [1] SC[597]: UnRegistered sub-client [Sch2PdfClient] with ID [1] for session ID [597] host [volodymyr] user [V1] process ID [1352]
+[2016.02.05 20:16:51] [0020m.32s.265ms] [1] SC[597]: UnRegistered sub-client [ICE_ICTIND] with ID [3] for session ID [597] host [volodymyr] user [V1] process ID [1352]
+[2016.02.05 20:16:51] [0020m.32s.359ms] [1] CMT: Removed client [597]
+[2016.02.05 20:16:51] [0020m.32s.359ms] [1] CMT: There are [1] clients now: 591
+[2016.02.05 20:18:50] [0022m.31s.531ms] [0] IT: Session [598] for host [volodymyr] user [V1] with process ID [3952] created
+[2016.02.05 20:18:50] [0022m.31s.531ms] [1] SC[598]: Registered sub-client [CDBPackagerGUI] with ID [1] for session ID [598] host [volodymyr] user [V1] process ID [3952]
+[2016.02.05 20:18:50] [0022m.31s.546ms] [1] CMT: There are [2] clients now: 591, 598
+[2016.02.05 20:18:50] [0022m.31s.546ms] [1] SC[598]: UnRegistered sub-client [CDBPackagerGUI] with ID [1] for session ID [598] host [volodymyr] user [V1] process ID [3952]
+[2016.02.05 20:18:50] [0022m.31s.656ms] [1] CMT: Removed client [598]
+[2016.02.05 20:18:50] [0022m.31s.656ms] [1] CMT: There are [1] clients now: 591
+[2016.02.05 20:18:54] [0022m.35s.328ms] [0] IT: Session [599] for host [volodymyr] user [V1] with process ID [404] created
+[2016.02.05 20:18:54] [0022m.35s.328ms] [1] SC[599]: Registered sub-client [Packager_1795515] with ID [1] for session ID [599] host [volodymyr] user [V1] process ID [404]
+[2016.02.05 20:18:54] [0022m.35s.375ms] [1] CMT: There are [2] clients now: 591, 599
+[2016.02.05 20:18:55] [0022m.36s.703ms] [1] SC[599]: UnRegistered sub-client [Packager_1795515] with ID [1] for session ID [599] host [volodymyr] user [V1] process ID [404]
+[2016.02.05 20:18:55] [0022m.36s.781ms] [1] CMT: Removed client [599]
+[2016.02.05 20:18:55] [0022m.36s.781ms] [1] CMT: There are [1] clients now: 591
+[2016.02.05 20:19:40] [0023m.21s.718ms] [0] IT: Session [600] for host [volodymyr] user [V1] with process ID [3936] created
+[2016.02.05 20:19:40] [0023m.21s.718ms] [1] SC[600]: Registered sub-client [Expedition PCB_1841921] with ID [1] for session ID [600] host [volodymyr] user [V1] process ID [3936]
+[2016.02.05 20:19:40] [0023m.21s.765ms] [1] CMT: There are [2] clients now: 591, 600
+[2016.02.05 20:19:40] [0023m.21s.781ms] [1] SC[600]: Registered sub-client [EEVM_EEVM_117958588] with ID [2] for session ID [600] host [volodymyr] user [V1] process ID [3936]
+[2016.02.05 20:19:40] [0023m.21s.796ms] [1] SC[600]: UnRegistered sub-client [EEVM_EEVM_117958588] with ID [2] for session ID [600] host [volodymyr] user [V1] process ID [3936]
+[2016.02.05 20:19:40] [0023m.21s.812ms] [1] SC[600]: Registered sub-client [EEVM_EEVM_117958588] with ID [3] for session ID [600] host [volodymyr] user [V1] process ID [3936]
+[2016.02.05 20:19:40] [0023m.21s.843ms] [1] SC[600]: UnRegistered sub-client [EEVM_EEVM_117958588] with ID [3] for session ID [600] host [volodymyr] user [V1] process ID [3936]
+[2016.02.05 20:19:41] [0023m.22s.750ms] [1] SC[600]: Registered sub-client [ExpeditionCrossProber] with ID [4] for session ID [600] host [volodymyr] user [V1] process ID [3936]
+[2016.02.05 20:19:41] [0023m.22s.937ms] [1] SC[600]: Registered sub-client [JobPrefsDBPI_1843203] with ID [5] for session ID [600] host [volodymyr] user [V1] process ID [3936]
+[2016.02.05 20:19:41] [0023m.22s.937ms] [1] SC[600]: UnRegistered sub-client [JobPrefsDBPI_1843203] with ID [5] for session ID [600] host [volodymyr] user [V1] process ID [3936]
+[2016.02.05 20:20:24] [0024m.06s.000ms] [0] IT: Session [601] for host [volodymyr] user [V1] with process ID [2424] created
+[2016.02.05 20:20:24] [0024m.06s.000ms] [1] SC[601]: Registered sub-client [CDBPackagerGUI] with ID [1] for session ID [601] host [volodymyr] user [V1] process ID [2424]
+[2016.02.05 20:20:24] [0024m.06s.015ms] [1] SC[601]: UnRegistered sub-client [CDBPackagerGUI] with ID [1] for session ID [601] host [volodymyr] user [V1] process ID [2424]
+[2016.02.05 20:20:24] [0024m.06s.062ms] [1] CMT: There are [3] clients now: 591, 600, 601
+[2016.02.05 20:20:24] [0024m.06s.062ms] [1] CMT: Removed client [601]
+[2016.02.05 20:20:24] [0024m.06s.062ms] [1] CMT: There are [2] clients now: 591, 600
+[2016.02.05 20:20:27] [0024m.09s.062ms] [0] IT: Session [602] for host [volodymyr] user [V1] with process ID [1392] created
+[2016.02.05 20:20:27] [0024m.09s.062ms] [1] SC[602]: Registered sub-client [Packager_1889250] with ID [1] for session ID [602] host [volodymyr] user [V1] process ID [1392]
+[2016.02.05 20:20:27] [0024m.09s.078ms] [1] CMT: There are [3] clients now: 591, 600, 602
+[2016.02.05 20:20:29] [0024m.10s.390ms] [1] SC[602]: UnRegistered sub-client [Packager_1889250] with ID [1] for session ID [602] host [volodymyr] user [V1] process ID [1392]
+[2016.02.05 20:20:29] [0024m.10s.484ms] [1] CMT: Removed client [602]
+[2016.02.05 20:20:29] [0024m.10s.484ms] [1] CMT: There are [2] clients now: 591, 600
+[2016.02.05 20:20:36] [0024m.18s.125ms] [1] SC[600]: UnRegistered sub-client [ExpeditionCrossProber] with ID [4] for session ID [600] host [volodymyr] user [V1] process ID [3936]
+[2016.02.05 20:20:36] [0024m.18s.156ms] [1] SC[600]: Registered sub-client [EEVM_EEVM_1242112] with ID [6] for session ID [600] host [volodymyr] user [V1] process ID [3936]
+[2016.02.05 20:20:36] [0024m.18s.156ms] [1] SC[600]: UnRegistered sub-client [EEVM_EEVM_1242112] with ID [6] for session ID [600] host [volodymyr] user [V1] process ID [3936]
+[2016.02.05 20:20:36] [0024m.18s.187ms] [1] SC[600]: Registered sub-client [EEVM_EEVM_1241772] with ID [7] for session ID [600] host [volodymyr] user [V1] process ID [3936]
+[2016.02.05 20:20:36] [0024m.18s.187ms] [1] SC[600]: UnRegistered sub-client [EEVM_EEVM_1241772] with ID [7] for session ID [600] host [volodymyr] user [V1] process ID [3936]
+[2016.02.05 20:20:37] [0024m.18s.656ms] [0] IT: Session [603] for host [volodymyr] user [V1] with process ID [1296] created
+[2016.02.05 20:20:37] [0024m.18s.656ms] [1] SC[603]: Registered sub-client [Expedition_1898875] with ID [1] for session ID [603] host [volodymyr] user [V1] process ID [1296]
+[2016.02.05 20:20:37] [0024m.18s.734ms] [1] CMT: There are [3] clients now: 591, 600, 603
+[2016.02.05 20:20:37] [0024m.18s.750ms] [1] SC[603]: UnRegistered sub-client [Expedition_1898875] with ID [1] for session ID [603] host [volodymyr] user [V1] process ID [1296]
+[2016.02.05 20:20:37] [0024m.18s.843ms] [1] CMT: Removed client [603]
+[2016.02.05 20:20:37] [0024m.18s.843ms] [1] CMT: There are [2] clients now: 591, 600
+[2016.02.05 20:20:37] [0024m.19s.234ms] [1] SC[600]: Registered sub-client [EEVM_EEVM_280449756] with ID [8] for session ID [600] host [volodymyr] user [V1] process ID [3936]
+[2016.02.05 20:20:38] [0024m.19s.250ms] [1] SC[600]: UnRegistered sub-client [EEVM_EEVM_280449756] with ID [8] for session ID [600] host [volodymyr] user [V1] process ID [3936]
+[2016.02.05 20:20:38] [0024m.19s.265ms] [1] SC[600]: Registered sub-client [EEVM_EEVM_280449756] with ID [9] for session ID [600] host [volodymyr] user [V1] process ID [3936]
+[2016.02.05 20:20:38] [0024m.19s.265ms] [1] SC[600]: UnRegistered sub-client [EEVM_EEVM_280449756] with ID [9] for session ID [600] host [volodymyr] user [V1] process ID [3936]
+[2016.02.05 20:20:38] [0024m.19s.281ms] [1] SC[600]: Registered sub-client [EEVM_EEVM_280449756] with ID [10] for session ID [600] host [volodymyr] user [V1] process ID [3936]
+[2016.02.05 20:20:38] [0024m.19s.281ms] [1] SC[600]: UnRegistered sub-client [EEVM_EEVM_280449756] with ID [10] for session ID [600] host [volodymyr] user [V1] process ID [3936]
+[2016.02.05 20:20:38] [0024m.19s.328ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [F:\TEXT  TEM\BP_300V_TRONKA\database\s2\cdbcnfgs\2000000010000050.blk\cnfg_obj_state] - auto-saving it
+[2016.02.05 20:20:38] [0024m.19s.484ms] [1] SC[600]: Registered sub-client [JobPrefsDBPI_1899750] with ID [11] for session ID [600] host [volodymyr] user [V1] process ID [3936]
+[2016.02.05 20:20:38] [0024m.19s.500ms] [1] SC[600]: UnRegistered sub-client [JobPrefsDBPI_1899750] with ID [11] for session ID [600] host [volodymyr] user [V1] process ID [3936]
+[2016.02.05 20:20:39] [0024m.21s.203ms] [1] SC[600]: Registered sub-client [JobPrefsDBPI_1901484] with ID [12] for session ID [600] host [volodymyr] user [V1] process ID [3936]
+[2016.02.05 20:20:39] [0024m.21s.234ms] [1] SC[600]: UnRegistered sub-client [JobPrefsDBPI_1901484] with ID [12] for session ID [600] host [volodymyr] user [V1] process ID [3936]
+[2016.02.05 20:20:40] [0024m.21s.609ms] [0] IT: Session [604] for host [volodymyr] user [V1] with process ID [2328] created
+[2016.02.05 20:20:40] [0024m.21s.609ms] [1] SC[604]: Registered sub-client [Packager_1901812] with ID [1] for session ID [604] host [volodymyr] user [V1] process ID [2328]
+[2016.02.05 20:20:40] [0024m.21s.656ms] [1] CMT: There are [3] clients now: 591, 600, 604
+[2016.02.05 20:20:41] [0024m.22s.921ms] [1] SC[604]: UnRegistered sub-client [Packager_1901812] with ID [1] for session ID [604] host [volodymyr] user [V1] process ID [2328]
+[2016.02.05 20:20:41] [0024m.22s.968ms] [1] CMT: Removed client [604]
+[2016.02.05 20:20:41] [0024m.22s.968ms] [1] CMT: There are [2] clients now: 591, 600
+[2016.02.05 20:20:42] [0024m.23s.281ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [F:\TEXT  TEM\BP_300V_TRONKA\database\s2\cdbcatlg\grpobj] - auto-saving it
+[2016.02.05 20:20:43] [0024m.24s.390ms] [0] IT: Session [605] for host [volodymyr] user [V1] with process ID [904] created
+[2016.02.05 20:20:43] [0024m.24s.390ms] [1] SC[605]: Registered sub-client [Expedition_1904500] with ID [1] for session ID [605] host [volodymyr] user [V1] process ID [904]
+[2016.02.05 20:20:43] [0024m.24s.468ms] [1] CMT: There are [3] clients now: 591, 600, 605
+[2016.02.05 20:20:43] [0024m.24s.562ms] [1] SC[605]: UnRegistered sub-client [Expedition_1904500] with ID [1] for session ID [605] host [volodymyr] user [V1] process ID [904]
+[2016.02.05 20:20:43] [0024m.24s.578ms] [1] CMT: Removed client [605]
+[2016.02.05 20:20:43] [0024m.24s.578ms] [1] CMT: There are [2] clients now: 591, 600
+[2016.02.05 20:20:44] [0024m.26s.234ms] [0] IT: Session [606] for host [volodymyr] user [V1] with process ID [904] created
+[2016.02.05 20:20:44] [0024m.26s.234ms] [1] SC[606]: Registered sub-client [JobPrefsDBPI_1906468] with ID [1] for session ID [606] host [volodymyr] user [V1] process ID [904]
+[2016.02.05 20:20:45] [0024m.26s.265ms] [1] SC[606]: UnRegistered sub-client [JobPrefsDBPI_1906468] with ID [1] for session ID [606] host [volodymyr] user [V1] process ID [904]
+[2016.02.05 20:20:45] [0024m.26s.281ms] [1] CMT: There are [3] clients now: 591, 600, 606
+[2016.02.05 20:20:45] [0024m.26s.281ms] [1] CMT: Removed client [606]
+[2016.02.05 20:20:45] [0024m.26s.281ms] [1] CMT: There are [2] clients now: 591, 600
+[2016.02.05 20:20:45] [0024m.26s.937ms] [0] IT: Session [607] for host [volodymyr] user [V1] with process ID [904] created
+[2016.02.05 20:20:45] [0024m.26s.937ms] [1] SC[607]: Registered sub-client [JobPrefsDBPI_1907140] with ID [1] for session ID [607] host [volodymyr] user [V1] process ID [904]
+[2016.02.05 20:20:45] [0024m.26s.984ms] [1] CMT: There are [3] clients now: 591, 600, 607
+[2016.02.05 20:20:50] [0024m.32s.015ms] [1] SC[607]: UnRegistered sub-client [JobPrefsDBPI_1907140] with ID [1] for session ID [607] host [volodymyr] user [V1] process ID [904]
+[2016.02.05 20:20:50] [0024m.32s.015ms] [1] CMT: Removed client [607]
+[2016.02.05 20:20:50] [0024m.32s.015ms] [1] CMT: There are [2] clients now: 591, 600
+[2016.02.05 20:20:52] [0024m.33s.453ms] [0] IT: Session [608] for host [volodymyr] user [V1] with process ID [2156] created
+[2016.02.05 20:20:52] [0024m.33s.453ms] [1] SC[608]: Registered sub-client [JobPrefsDBPI_1913671] with ID [1] for session ID [608] host [volodymyr] user [V1] process ID [2156]
+[2016.02.05 20:20:52] [0024m.33s.484ms] [1] SC[608]: Registered sub-client [Expedition_1913765] with ID [2] for session ID [608] host [volodymyr] user [V1] process ID [2156]
+[2016.02.05 20:20:52] [0024m.33s.531ms] [1] SC[608]: UnRegistered sub-client [JobPrefsDBPI_1913671] with ID [1] for session ID [608] host [volodymyr] user [V1] process ID [2156]
+[2016.02.05 20:20:52] [0024m.33s.531ms] [1] CMT: There are [3] clients now: 591, 600, 608
+[2016.02.05 20:20:52] [0024m.33s.578ms] [1] SC[608]: UnRegistered sub-client [Expedition_1913765] with ID [2] for session ID [608] host [volodymyr] user [V1] process ID [2156]
+[2016.02.05 20:20:52] [0024m.33s.625ms] [1] CMT: Removed client [608]
+[2016.02.05 20:20:52] [0024m.33s.625ms] [1] CMT: There are [2] clients now: 591, 600
+[2016.02.05 20:20:53] [0024m.34s.500ms] [1] SC[600]: Registered sub-client [EEVM_EEVM_280449100] with ID [13] for session ID [600] host [volodymyr] user [V1] process ID [3936]
+[2016.02.05 20:20:53] [0024m.34s.546ms] [1] SC[600]: UnRegistered sub-client [EEVM_EEVM_280449100] with ID [13] for session ID [600] host [volodymyr] user [V1] process ID [3936]
+[2016.02.05 20:20:53] [0024m.34s.578ms] [1] SC[600]: Registered sub-client [EEVM_EEVM_280449100] with ID [14] for session ID [600] host [volodymyr] user [V1] process ID [3936]
+[2016.02.05 20:20:53] [0024m.34s.578ms] [1] SC[600]: UnRegistered sub-client [EEVM_EEVM_280449100] with ID [14] for session ID [600] host [volodymyr] user [V1] process ID [3936]
+[2016.02.05 20:20:53] [0024m.34s.609ms] [1] SC[600]: Registered sub-client [EEVM_EEVM_280449100] with ID [15] for session ID [600] host [volodymyr] user [V1] process ID [3936]
+[2016.02.05 20:20:53] [0024m.34s.640ms] [1] SC[600]: UnRegistered sub-client [EEVM_EEVM_280449100] with ID [15] for session ID [600] host [volodymyr] user [V1] process ID [3936]
+[2016.02.05 20:20:53] [0024m.34s.781ms] [1] SC[600]: UnRegistered sub-client [Expedition PCB_1841921] with ID [1] for session ID [600] host [volodymyr] user [V1] process ID [3936]
+[2016.02.05 20:20:53] [0024m.34s.843ms] [1] CMT: Removed client [600]
+[2016.02.05 20:20:53] [0024m.34s.843ms] [1] CMT: There are [1] clients now: 591
+[2016.02.05 20:20:55] [0024m.36s.406ms] [0] IT: Session [609] for host [volodymyr] user [V1] with process ID [3936] created
+[2016.02.05 20:20:55] [0024m.36s.406ms] [1] SC[609]: Registered sub-client [Expedition PCB_1916640] with ID [1] for session ID [609] host [volodymyr] user [V1] process ID [3936]
+[2016.02.05 20:20:55] [0024m.36s.453ms] [1] CMT: There are [2] clients now: 591, 609
+[2016.02.05 20:20:56] [0024m.37s.484ms] [1] SC[609]: Registered sub-client [JobPrefsDBPI_1917750] with ID [2] for session ID [609] host [volodymyr] user [V1] process ID [3936]
+[2016.02.05 20:20:56] [0024m.37s.484ms] [1] SC[609]: UnRegistered sub-client [JobPrefsDBPI_1917750] with ID [2] for session ID [609] host [volodymyr] user [V1] process ID [3936]
+[2016.02.05 20:20:56] [0024m.37s.593ms] [1] SC[609]: Registered sub-client [JobPrefsDBPI_1917859] with ID [3] for session ID [609] host [volodymyr] user [V1] process ID [3936]
+[2016.02.05 20:20:56] [0024m.37s.609ms] [1] SC[609]: UnRegistered sub-client [JobPrefsDBPI_1917859] with ID [3] for session ID [609] host [volodymyr] user [V1] process ID [3936]
+[2016.02.05 20:20:56] [0024m.37s.640ms] [1] SC[609]: Registered sub-client [ExpeditionCrossProber] with ID [4] for session ID [609] host [volodymyr] user [V1] process ID [3936]
+[2016.02.05 20:21:06] [0024m.47s.484ms] [1] SC[609]: UnRegistered sub-client [ExpeditionCrossProber] with ID [4] for session ID [609] host [volodymyr] user [V1] process ID [3936]
+[2016.02.05 20:21:06] [0024m.47s.875ms] [1] SC[609]: UnRegistered sub-client [Expedition PCB_1916640] with ID [1] for session ID [609] host [volodymyr] user [V1] process ID [3936]
+[2016.02.05 20:21:06] [0024m.47s.921ms] [1] CMT: Removed client [609]
+[2016.02.05 20:21:06] [0024m.47s.921ms] [1] CMT: There are [1] clients now: 591
+[2016.02.05 21:31:51] [0095m.32s.609ms] [1] PrjBackupMgr: Successfully created Project Backup [F:\TEXT  TEM\BP_300V_TRONKA\ProjectBackup\backups\2016-02-05 21.31.51 - auto.zip] with GUID [515d-30f3-de26-b147-7a8f-4b6c-a8f4-b650-4b71-80ef-cfdd-5d5d]
+[2016.02.05 21:31:51] [0095m.32s.609ms] [0] PrjBackupMgr: Removing excessive backup:  BackupGUID[20f4-a47a-934b-673c-7ef4-4b6c-ef44-b650-e5c0-a00c-bc3c-8dfb] CreationTime[Friday, February 05, 2016 07:31:51] Type[Autosave] Creator[iCDB Server (2016-02-05 08.26.45-2820)] ApplicationName[iCDB Server (2016-02-05 08.26.45-2820)] UserName[User] MachineName[NIO13_PC1] Description[Autosave] FullFlowName[Expedition Enterprise Flow; Expedition Enterprise Flow - Update 9 for EE7.9.4] FlowId[EE7.9.4] GBSInstallId[26418; 29518] GBSBuildId[535943] IcdbVersion[2709] ReferenceLogFilePath[] BackupFilePath[F:\TEXT  TEM\BP_300V_TRONKA\ProjectBackup\backups\2016-02-05 09.31.51 - auto.zip] BackupFileSize[714183] Persistent[FALSE]
+[2016.02.05 21:31:51] [0095m.32s.609ms] [0] PrjBackupMgr: Project Backup file [F:\TEXT  TEM\BP_300V_TRONKA\ProjectBackup\backups\2016-02-05 09.31.51 - auto.zip] with GUID [20f4-a47a-934b-673c-7ef4-4b6c-ef44-b650-e5c0-a00c-bc3c-8dfb] removed
+[2016.02.05 21:31:51] [0095m.32s.609ms] [0] PrjBackupEngine: Successfully created backup:  BackupGUID[515d-30f3-de26-b147-7a8f-4b6c-a8f4-b650-4b71-80ef-cfdd-5d5d] CreationTime[Friday, February 05, 2016 19:31:51] Type[Autosave] Creator[iCDB Server (2016-02-05 19.56.18-2776)] ApplicationName[iCDB Server (2016-02-05 19.56.18-2776)] UserName[V1] MachineName[VOLODYMYR] Description[Autosave] FullFlowName[Expedition Enterprise Flow; Expedition Enterprise Flow - Update 9 for EE7.9.4] FlowId[EE7.9.4] GBSInstallId[26418; 29518] GBSBuildId[535943] IcdbVersion[2709] ReferenceLogFilePath[] BackupFilePath[F:\TEXT  TEM\BP_300V_TRONKA\ProjectBackup\backups\2016-02-05 21.31.51 - auto.zip] BackupFileSize[1010660] Persistent[FALSE]
+[2016.02.05 23:38:33] [0222m.14s.531ms] [1] SC[591]: UnRegistered sub-client [GlobalNetAliasUpdater_442282576] with ID [21] for session ID [591] host [volodymyr] user [V1] process ID [4032]
+[2016.02.05 23:38:33] [0222m.14s.984ms] [1] SC[591]: UnRegistered sub-client [BlockCacheDxD:442142576] with ID [20] for session ID [591] host [volodymyr] user [V1] process ID [4032]
+[2016.02.05 23:38:33] [0222m.15s.093ms] [1] SC[591]: UnRegistered sub-client [ObjectHolder_441985112] with ID [19] for session ID [591] host [volodymyr] user [V1] process ID [4032]
+[2016.02.05 23:38:33] [0222m.15s.093ms] [1] SC[591]: UnRegistered sub-client [IcdbNetProcessorSubClientDxD:443105248] with ID [22] for session ID [591] host [volodymyr] user [V1] process ID [4032]
+[2016.02.05 23:38:34] [0222m.15s.968ms] [1] SC[591]: UnRegistered sub-client [SelectionHolder] with ID [4] for session ID [591] host [volodymyr] user [V1] process ID [4032]
+[2016.02.05 23:38:34] [0222m.16s.015ms] [1] SC[591]: UnRegistered sub-client [SheetConnectorsCacheDxD:1454694985] with ID [17] for session ID [591] host [volodymyr] user [V1] process ID [4032]
+[2016.02.05 23:38:34] [0222m.16s.031ms] [1] SC[591]: UnRegistered sub-client [NetsNamesCollectorDxD:1454694985] with ID [18] for session ID [591] host [volodymyr] user [V1] process ID [4032]
+[2016.02.05 23:38:34] [0222m.16s.156ms] [1] SC[591]: UnRegistered sub-client [TransactionRollbackSubClient] with ID [2] for session ID [591] host [volodymyr] user [V1] process ID [4032]
+[2016.02.05 23:38:35] [0222m.16s.359ms] [1] SC[591]: UnRegistered sub-client [DxD] with ID [1] for session ID [591] host [volodymyr] user [V1] process ID [4032]
+[2016.02.05 23:38:35] [0222m.16s.703ms] [1] SC[591]: UnRegistered sub-client [xprob] with ID [3] for session ID [591] host [volodymyr] user [V1] process ID [4032]
+[2016.02.05 23:38:35] [0222m.16s.703ms] [1] SC[591]: UnRegistered sub-client [SymbolEditor] with ID [5] for session ID [591] host [volodymyr] user [V1] process ID [4032]
+[2016.02.05 23:38:35] [0222m.16s.953ms] [1] SC[591]: UnRegistered sub-client [Navigator] with ID [11] for session ID [591] host [volodymyr] user [V1] process ID [4032]
+[2016.02.05 23:38:35] [0222m.17s.015ms] [1] SC[591]: UnRegistered sub-client [OutputWindow] with ID [12] for session ID [591] host [volodymyr] user [V1] process ID [4032]
+[2016.02.05 23:38:36] [0222m.17s.453ms] [1] SC[591]: UnRegistered sub-client [DxDbSearch] with ID [23] for session ID [591] host [volodymyr] user [V1] process ID [4032]
+[2016.02.05 23:38:36] [0222m.17s.578ms] [1] SC[591]: UnRegistered sub-client [SAE] with ID [14] for session ID [591] host [volodymyr] user [V1] process ID [4032]
+[2016.02.05 23:38:36] [0222m.17s.875ms] [1] SC[591]: UnRegistered sub-client [CCZAddin] with ID [15] for session ID [591] host [volodymyr] user [V1] process ID [4032]
+[2016.02.05 23:38:36] [0222m.17s.890ms] [1] SC[591]: UnRegistered sub-client [DxThumbnails] with ID [16] for session ID [591] host [volodymyr] user [V1] process ID [4032]
+[2016.02.05 23:38:41] [0222m.22s.796ms] [1] SC[591]: UnRegistered sub-client [PlaceDevice] with ID [13] for session ID [591] host [volodymyr] user [V1] process ID [4032]
+[2016.02.05 23:38:44] [0222m.25s.812ms] [1] SC[591]: UnRegistered sub-client [HdlProject] with ID [10] for session ID [591] host [volodymyr] user [V1] process ID [4032]
+[2016.02.05 23:38:44] [0222m.25s.890ms] [1] CMT: Removed client [591]
+[2016.02.05 23:38:44] [0222m.25s.890ms] [1] CMT: There are no clients left - waiting [1 seconds]
+[2016.02.05 23:38:46] [0222m.27s.296ms] [0] CMT: Starting server auto-close
+[2016.02.05 23:38:46] [0222m.27s.375ms] [0] S: Closing server
+[2016.02.05 23:38:46] [0222m.27s.437ms] [0] iCDB Server PI: Closing plugins
+[2016.02.05 23:38:46] [0222m.27s.437ms] [0] iCDB Server PI: Plugins closed
+[2016.02.05 23:38:46] [0222m.27s.437ms] [0] iCDB Server PI: Unloading database
+[2016.02.05 23:38:46] [0222m.27s.453ms] [0] iCDB Server PI: Saving storage
+[2016.02.05 23:38:46] [0222m.27s.468ms] [0] iCDB Server PI: Closing database
+[2016.02.05 23:38:46] [0222m.27s.578ms] [1] iCDB Server PI: Stats: Database defragmentation: max[2] avg[1] holes[33%] data[85%]
+[2016.02.05 23:38:46] [0222m.27s.578ms] [1] iCDB Server PI: Stats: Database file size [313664 (306.3 kB)]
+[2016.02.05 23:38:46] [0222m.27s.578ms] [1] iCDB Server PI: WARNING: Database needs defragmentation!
+[2016.02.05 23:38:46] [0222m.27s.750ms] [0] iCDB Server PI: Database closed
+[2016.02.05 23:38:46] [0222m.27s.750ms] [0] iCDB Server PI: Defragmenting database
+[2016.02.05 23:38:46] [0222m.27s.796ms] [0] iCDB Server PI: Creating database [F:\TEXT  TEM\BP_300V_TRONKA\database] backup to file [F:\TEXT  TEM\BP_300V_TRONKA\database\cdbback\2016-02-05 23.38.46-2776-d.zip]
+[2016.02.05 23:38:51] [0222m.32s.265ms] [0] iCDB Server PI: Database backup: DONE
+[2016.02.05 23:38:51] [0222m.32s.531ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2016.02.05 23:38:51] [0222m.32s.531ms] [0] Database GUARD OK: [313664]
+[2016.02.05 23:38:51] [0222m.32s.531ms] [0] SingleFile: [cd7e-126a-f84c-4bff] SFI version check [1009] [1009]
+[2016.02.05 23:38:51] [0222m.32s.531ms] [0] SingleFile: [cd7e-126a-f84c-4bff] Database SFI header has been read in [9ms 898us]
+[2016.02.05 23:38:51] [0222m.32s.750ms] [1] iCDB Server PI: Stats: Database file sizes: before[313664 (306.3 kB)], after[157616 (153.9 kB)], gain[156048 (152.4 kB)]
+[2016.02.05 23:38:51] [0222m.32s.750ms] [0] Single file [F:\TEXT  TEM\BP_300V_TRONKA\database\icdb.dat] closed with size [157616 (153.9 kB)]
+[2016.02.05 23:38:51] [0222m.32s.750ms] [0] iCDB Server PI: Database defragmentation completed successfully
+[2016.02.05 23:38:51] [0222m.32s.750ms] [1] BackupTransaction: Removing database backup [F:\TEXT  TEM\BP_300V_TRONKA\database\cdbback\2016-02-05 23.38.46-2776-d.zip]
+[2016.02.05 23:38:51] [0222m.32s.750ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [962821457] ticks
+[2016.02.05 23:38:51] [0222m.32s.750ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [459514] microseconds
+[2016.02.05 23:38:51] [0222m.32s.750ms] [1] iCDB Server PI: Stats: Total iCDB commands count: [1931]
+[2016.02.05 23:38:51] [0222m.32s.750ms] [1] iCDB Server PI: Stats: Average iCDB speed:        [4202] commands per second
+[2016.02.05 23:38:52] [0222m.33s.406ms] [0] S: STOP

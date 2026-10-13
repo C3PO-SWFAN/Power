@@ -1,0 +1,11 @@
+
+                                    DXFImport
+                                    ---------
+
+                     03:23 PM Wednesday, September 18, 2013
+          Job Name: D:\lib dx\Work\CellEditorFiles\ANTENNA\OBMAN-A1.pcb
+
+    DXFile "D:\Lib_ANT\Output\ANT016008LCD1575MA1.dxf" loaded successfully.
+    
+    DXFile D:\Lib_ANT\Output\ANT016008LCD1575MA1.dxf created 09/18/2013 at 15:20:25
+    

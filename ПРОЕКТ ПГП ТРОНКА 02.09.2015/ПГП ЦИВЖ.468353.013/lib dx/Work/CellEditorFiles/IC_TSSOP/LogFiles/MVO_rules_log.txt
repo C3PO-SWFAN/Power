@@ -1,0 +1,6 @@
+
+Can not open Multiple Via Rules file. File doesn't exist:
+       'D:\lib dx\Work\CellEditorFiles\IC_TSSOP\Config\MultiViaRules.txt'
+
+Can not open Multiple Via Rules file. File doesn't exist:
+       'D:\lib dx\Work\CellEditorFiles\IC_TSSOP\Layout\MVO_Rules.txt'

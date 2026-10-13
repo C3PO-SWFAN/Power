@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                     05:56 PM Wednesday, September 18, 2013
+           Job Name: D:\lib dx\Work\CellEditorFiles\ANTENNA\ANT-1.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                     05:57 PM Wednesday, September 18, 2013
+           Job Name: D:\lib dx\Work\CellEditorFiles\ANTENNA\ANT-1.pcb
+

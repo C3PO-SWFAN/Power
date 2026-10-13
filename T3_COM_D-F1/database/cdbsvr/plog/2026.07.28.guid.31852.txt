@@ -1,0 +1,57 @@
+[2026.07.28 17:48:44] [0000m.17s.578ms] [0] WELCOME
+[2026.07.28 17:48:44] [0000m.17s.579ms] [1] iCDB Database ver.2.211, Xoetbt//r2sGE9TmsNJ3zA, build:20123704 created 2022-02-01 11:52:52, sources stamp:Xoetbt//r2sGE9TmsNJ3zA
+[2026.07.28 17:48:44] [0000m.17s.579ms] [1] Unpublished work. Copyright 2022 Siemens\r\n\r\nThis material contains trade secrets or otherwise confidential\r\ninformation owned by Siemens Industry Software Inc.\r\nor its affiliates (collectively, 'SISW'), or its licensors.\r\nAccess to and use of this information is strictly limited\r\nas set forth in the Customer's applicable agreements with SISW.
+[2026.07.28 17:48:44] [0000m.17s.588ms] [1] Base flow version [VX.2.11]
+[2026.07.28 17:48:44] [0000m.17s.588ms] [1] Install Id [2431697], Flow Id [X-ENTP VX.2.11], Full Flow Name [Xpedition Enterprise X-ENTP VX.2.11], Exact Access Date [2022/02/01]
+[2026.07.28 17:48:44] [0000m.17s.589ms] [1] Machine [R2D2]  IP [127.0.0.1,172.16.123.7]  User [Work]  PID [31852]
+[2026.07.28 17:48:44] [0000m.17s.589ms] [1] Operating system [Microsoft Windows 8 Business Edition, 64-bit (build 9200)]
+[2026.07.28 17:48:44] [0000m.17s.589ms] [1] Current working dir [C:\Users\Work\Desktop\Барабаш\T3_COM_D-F1]
+[2026.07.28 17:48:44] [0000m.17s.589ms] [1] PATH [C:\MentorGraphics\EEVX.2.11\SDD_HOME\common\win64\bin;C:\MentorGraphics\EEVX.2.11\SDD_HOME\common\win64\lib;C:\MentorGraphics\EEVX.2.11\SDD_HOME\common3D\win64\lib;C:\MentorGraphics\EEVX.2.11\SDD_HOME\common\win32\lib;C:\MentorGraphics\EEVX.2.11\SDD_HOME\common\win64\jre\default\bin;C:\MentorGraphics\EEVX.2.11\MGC_HOME.ixw\bin;C:\MentorGraphics\EEVX.2.11\MGC_HOME.ixw\lib;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\MATLAB\R2025b\runtime\win64;C:\Program Files\MATLAB\R2025b\bin;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\WINDOWS\system32\config\systemprofile\AppData\Local\Muse Hub\lib;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\Bin\;C:\Program Files\IVI Foundation\VISA\Win64\Bin\;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\Bin;C:\Program Files\Microchip\xc8\v3.10\bin;C:\Program Files\Microchip\xc-dsc\v3.31\bin;C:\Program Files\Microchip\xc16\v2.10\bin;C:\Program Files\Microchip\xc32\v5.10\bin;C:\Program Files (x86)\P-CAD 2006 Viewer\;C:\Program Files (x86)\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\DTS\Binn\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Users\Work\AppData\Local\Microsoft\WindowsApps;C:\Users\Work\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Work\AppData\Local\Python\bin;C:\Users\Work\AppData\Local\Muse Hub\lib;C:\altera\13.1\modelsim_ase\win32aloem;C:\altera\13.1\modelsim_ae\win32aloem;C:\altera_lite\25.1std\questa_fse\win64;C:\altera\13.0sp1\modelsim_ase\win32aloem;C:\altera\13.0sp1\modelsim_ae\win32aloem]
+[2026.07.28 17:48:44] [0000m.17s.589ms] [1] SDD_HOME [C:\MentorGraphics\EEVX.2.11\SDD_HOME] on file system [NTFS]
+[2026.07.28 17:48:44] [0000m.17s.589ms] [1] SDD_PLATFORM [win64]
+[2026.07.28 17:48:44] [0000m.17s.589ms] [1] WDIR [C:\WDIR\EEVX.2.11;C:\MentorGraphics\EEVX.2.11\SDD_HOME\standard;]
+[2026.07.28 17:48:44] [0000m.17s.589ms] [1] Local iCDB working dir [C:\WDIR\EEVX.2.11\iCDB] on file system [NTFS]
+[2026.07.28 17:48:44] [0000m.17s.589ms] [3] WARNING: Database [C:\Users\Work\Desktop\Барабаш\T3_COM_D-F1\database\icdb.dat] was manually copied
+[2026.07.28 17:48:44] [0000m.17s.589ms] [3] File change time:        [2026-07-28 11.34.09]
+[2026.07.28 17:48:44] [0000m.17s.589ms] [3] File modification time:  [2018-03-20 14.21.28]
+[2026.07.28 17:48:44] [0000m.17s.589ms] [3] Last change time:        [2018-03-20 14.21.28]
+[2026.07.28 17:48:44] [0000m.17s.589ms] [3] Last database open information:
+[2026.07.28 17:48:44] [0000m.17s.589ms] [3] Time:             [2018-03-20 12.49.23]
+[2026.07.28 17:48:44] [0000m.17s.589ms] [3] Location:         [F:\TT18\GA\TRONCA-3\T3_COM_D-F1\database\icdb.dat]
+[2026.07.28 17:48:44] [0000m.17s.589ms] [3] Machine:          [NIO13_PC1]
+[2026.07.28 17:48:44] [0000m.17s.589ms] [3] User:             [User]
+[2026.07.28 17:48:44] [0000m.17s.589ms] [3] PID:              [2388]
+[2026.07.28 17:48:44] [0000m.17s.589ms] [3] Application:      [iCDB Server]
+[2026.07.28 17:48:44] [0000m.17s.589ms] [3] Operating system: [Microsoft Windows XP Professional Service Pack 3 (build 2600)]
+[2026.07.28 17:48:44] [0000m.17s.589ms] [3] WARNING: Regenerating database GUID
+[2026.07.28 17:48:44] [0000m.17s.589ms] [3] Previous database GUID [9b15-5805-7827-3bb5-0421-9aa5-4219-aa50-6150-a00c-7c3c-8dfb]
+[2026.07.28 17:48:44] [0000m.17s.589ms] [3] Current database GUID  [b92f-fe6c-e416-b920-c41c-86a2-51c8-6a60-3e53-cd5c-1646-e5f5]
+[2026.07.28 17:48:44] [0000m.17s.589ms] [0] .
+[2026.07.28 17:48:45] [0000m.17s.598ms] [0] WELCOME
+[2026.07.28 17:48:45] [0000m.17s.601ms] [1] iCDB Database ver.2.211, Xoetbt//r2sGE9TmsNJ3zA, build:20123704 created 2022-02-01 11:52:52, sources stamp:Xoetbt//r2sGE9TmsNJ3zA
+[2026.07.28 17:48:45] [0000m.17s.601ms] [1] Unpublished work. Copyright 2022 Siemens\r\n\r\nThis material contains trade secrets or otherwise confidential\r\ninformation owned by Siemens Industry Software Inc.\r\nor its affiliates (collectively, 'SISW'), or its licensors.\r\nAccess to and use of this information is strictly limited\r\nas set forth in the Customer's applicable agreements with SISW.
+[2026.07.28 17:48:45] [0000m.17s.601ms] [1] Base flow version [VX.2.11]
+[2026.07.28 17:48:45] [0000m.17s.601ms] [1] Install Id [2431697], Flow Id [X-ENTP VX.2.11], Full Flow Name [Xpedition Enterprise X-ENTP VX.2.11], Exact Access Date [2022/02/01]
+[2026.07.28 17:48:45] [0000m.17s.601ms] [1] Machine [R2D2]  IP [127.0.0.1,172.16.123.7]  User [Work]  PID [31852]
+[2026.07.28 17:48:45] [0000m.17s.601ms] [1] Operating system [Microsoft Windows 8 Business Edition, 64-bit (build 9200)]
+[2026.07.28 17:48:45] [0000m.17s.601ms] [1] Current working dir [C:\Users\Work\Desktop\Барабаш\T3_COM_D-F1]
+[2026.07.28 17:48:45] [0000m.17s.601ms] [1] PATH [C:\MentorGraphics\EEVX.2.11\SDD_HOME\common\win64\bin;C:\MentorGraphics\EEVX.2.11\SDD_HOME\common\win64\lib;C:\MentorGraphics\EEVX.2.11\SDD_HOME\common3D\win64\lib;C:\MentorGraphics\EEVX.2.11\SDD_HOME\common\win32\lib;C:\MentorGraphics\EEVX.2.11\SDD_HOME\common\win64\jre\default\bin;C:\MentorGraphics\EEVX.2.11\MGC_HOME.ixw\bin;C:\MentorGraphics\EEVX.2.11\MGC_HOME.ixw\lib;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\MATLAB\R2025b\runtime\win64;C:\Program Files\MATLAB\R2025b\bin;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\WINDOWS\system32\config\systemprofile\AppData\Local\Muse Hub\lib;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\Bin\;C:\Program Files\IVI Foundation\VISA\Win64\Bin\;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\Bin;C:\Program Files\Microchip\xc8\v3.10\bin;C:\Program Files\Microchip\xc-dsc\v3.31\bin;C:\Program Files\Microchip\xc16\v2.10\bin;C:\Program Files\Microchip\xc32\v5.10\bin;C:\Program Files (x86)\P-CAD 2006 Viewer\;C:\Program Files (x86)\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\DTS\Binn\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Users\Work\AppData\Local\Microsoft\WindowsApps;C:\Users\Work\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Work\AppData\Local\Python\bin;C:\Users\Work\AppData\Local\Muse Hub\lib;C:\altera\13.1\modelsim_ase\win32aloem;C:\altera\13.1\modelsim_ae\win32aloem;C:\altera_lite\25.1std\questa_fse\win64;C:\altera\13.0sp1\modelsim_ase\win32aloem;C:\altera\13.0sp1\modelsim_ae\win32aloem]
+[2026.07.28 17:48:45] [0000m.17s.601ms] [1] SDD_HOME [C:\MentorGraphics\EEVX.2.11\SDD_HOME] on file system [NTFS]
+[2026.07.28 17:48:45] [0000m.17s.602ms] [1] SDD_PLATFORM [win64]
+[2026.07.28 17:48:45] [0000m.17s.602ms] [1] WDIR [C:\WDIR\EEVX.2.11;C:\MentorGraphics\EEVX.2.11\SDD_HOME\standard;]
+[2026.07.28 17:48:45] [0000m.17s.602ms] [1] Local iCDB working dir [C:\WDIR\EEVX.2.11\iCDB] on file system [NTFS]
+[2026.07.28 17:48:45] [0000m.17s.602ms] [3] File change time:        [2026-07-28 17.48.44]
+[2026.07.28 17:48:45] [0000m.17s.602ms] [3] File modification time:  [2026-07-28 17.48.44]
+[2026.07.28 17:48:45] [0000m.17s.602ms] [3] Last change time:        [2026-07-28 17.48.44]
+[2026.07.28 17:48:45] [0000m.17s.602ms] [3] Last database open information:
+[2026.07.28 17:48:45] [0000m.17s.602ms] [3] Time:             [2018-03-20 12.49.23]
+[2026.07.28 17:48:45] [0000m.17s.602ms] [3] Location:         [F:\TT18\GA\TRONCA-3\T3_COM_D-F1\database\icdb.dat]
+[2026.07.28 17:48:45] [0000m.17s.602ms] [3] Machine:          [NIO13_PC1]
+[2026.07.28 17:48:45] [0000m.17s.602ms] [3] User:             [User]
+[2026.07.28 17:48:45] [0000m.17s.602ms] [3] PID:              [2388]
+[2026.07.28 17:48:45] [0000m.17s.602ms] [3] Application:      [iCDB Server]
+[2026.07.28 17:48:45] [0000m.17s.602ms] [3] Operating system: [Microsoft Windows XP Professional Service Pack 3 (build 2600)]
+[2026.07.28 17:48:45] [0000m.17s.602ms] [3] Database GUID must be regenerated
+[2026.07.28 17:48:45] [0000m.17s.602ms] [3] Previous database GUID [b92f-fe6c-e416-b920-c41c-86a2-51c8-6a60-3e53-cd5c-1646-e5f5]
+[2026.07.28 17:48:45] [0000m.17s.602ms] [3] Current database GUID  [0ad9-b207-6108-170a-d41c-86a3-51c8-6a60-3e53-cd5c-1646-e5f5]
+[2026.07.28 17:48:45] [0000m.17s.602ms] [0] .

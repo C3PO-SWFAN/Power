@@ -1,0 +1,68 @@
+
+Illegal Trace Geometry for trace on plane layer( Conductor with negative or zero width ):
+
+Units = Mils
+Number of Ground Planes = 1
+
+DIELECTRICS
+Number  Thickness     Constant
+        (Thd)         (Er)
+1        31.10236      4.700000     
+2        1.574803      1.000000     
+
+TRACES
+Number  Top Width     Bottom Width  Thickness     Dist from Gnd Clearance
+        (Twt)         (Bwt)         (Th)          (Dg)          (Dc)
+1        0.000000      0.000000      1.574803      31.10236      10.00000     
+
+
+Illegal Trace Geometry for trace on plane layer( Conductor with negative or zero width ):
+
+Units = Mils
+Number of Ground Planes = 1
+
+DIELECTRICS
+Number  Thickness     Constant
+        (Thd)         (Er)
+1        31.10236      4.700000     
+2        1.574803      1.000000     
+
+TRACES
+Number  Top Width     Bottom Width  Thickness     Dist from Gnd Clearance
+        (Twt)         (Bwt)         (Th)          (Dg)          (Dc)
+1        0.000000      0.000000      1.574803      31.10236      10.00000     
+
+
+Illegal Trace Geometry for trace on plane layer( Conductor with negative or zero width ):
+
+Units = Mils
+Number of Ground Planes = 1
+
+DIELECTRICS
+Number  Thickness     Constant
+        (Thd)         (Er)
+1        31.10236      4.700000     
+2        1.574803      1.000000     
+
+TRACES
+Number  Top Width     Bottom Width  Thickness     Dist from Gnd Clearance
+        (Twt)         (Bwt)         (Th)          (Dg)          (Dc)
+1        0.000000      0.000000      1.574803      31.10236      10.00000     
+
+
+Illegal Trace Geometry for trace on plane layer( Conductor with negative or zero width ):
+
+Units = Mils
+Number of Ground Planes = 1
+
+DIELECTRICS
+Number  Thickness     Constant
+        (Thd)         (Er)
+1        31.10236      4.700000     
+2        1.574803      1.000000     
+
+TRACES
+Number  Top Width     Bottom Width  Thickness     Dist from Gnd Clearance
+        (Twt)         (Bwt)         (Th)          (Dg)          (Dc)
+1        0.000000      0.000000      1.574803      31.10236      10.00000     
+

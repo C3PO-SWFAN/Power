@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                       08:17 PM Tuesday, January 29, 2013
+         Job Name: D:\lib dx\Work\CellEditorFiles\SV-64-2\SV-64-2-AD.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                       08:21 PM Tuesday, January 29, 2013
+         Job Name: D:\lib dx\Work\CellEditorFiles\SV-64-2\SV-64-2-AD.pcb
+

@@ -1,0 +1,111 @@
+
+                                   DXF Export
+                                   ----------
+
+                      03:48 PM Saturday, February 06, 2016
+            Job Name: F:\TEXT TEM\BP_300V_TRONKA\PCB\BOARD_2LAYER.pcb
+
+
+
+    DXF File: F:\TEXT TEM\BP_300V_TRONKA\PCB\Output\BP_300V_NRONKA.dxf
+
+
+    Total - Export Element
+    ----------------------------------------------------------------------
+
+       140 - Assembly Outlines Btm
+
+        70 - Assembly Outlines Top
+
+       111 - Assembly Part Numbers Btm
+
+        27 - Assembly Part Numbers Top
+
+       111 - Assembly Ref Des Btm
+
+        27 - Assembly Ref Des Top
+
+         1 - Board Origin
+
+         1 - Board Outline
+
+       339 - Drill Drawing
+
+         1 - Etched Text Layer 2
+
+       777 - Generated Silkscreen Btm
+
+       316 - Generated Silkscreen Top
+
+         1 - Manufacturing Outlines
+
+        11 - Mounting Hole Pads Layer 1
+
+        11 - Mounting Hole Pads Layer 2
+
+        54 - Mounting Holes Layer 1
+
+        54 - Mounting Holes Layer 2
+
+         1 - NC Drill Origin
+
+        86 - Part Holes Layer 1
+
+        86 - Part Holes Layer 2
+
+        86 - Part Pads Layer 1
+
+        86 - Part Pads Layer 2
+
+       257 - Part Pads SMD Btm
+
+       343 - Pin Numbers Btm
+
+       343 - Pin Numbers Top
+
+       111 - Placement Outlines Btm
+
+        27 - Placement Outlines Top
+
+       119 - Plane Data Layer 1
+
+        95 - Plane Data Layer 2
+
+       103 - Plane Shapes Layer 1
+
+        40 - Plane Shapes Layer 2
+
+         1 - Route Border
+
+       136 - Silkscreen Outlines Btm
+
+       112 - Silkscreen Outlines Top
+
+       111 - Silkscreen Ref Des Btm
+
+        27 - Silkscreen Ref Des Top
+
+       345 - Soldermask Pads Btm
+
+        88 - Soldermask Pads Top
+
+       257 - Solderpaste Pads Btm
+
+        29 - Traces Layer 1
+
+       264 - Traces Layer 2
+
+       104 - Via Holes Layer 1
+
+       104 - Via Holes Layer 2
+
+       104 - Via Pads Layer 1
+
+       104 - Via Pads Layer 2
+
+
+    Successful Completion.
+
+
+
+                        03:48 PM Saturday, February 06, 2016

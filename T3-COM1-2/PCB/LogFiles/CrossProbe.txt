@@ -1,0 +1,6 @@
+Mentor Graphics Corporation
+Cross Probe Log
+Date: Thursday 07/19/18  Time: 10:59:01
+
+XPDAEMON - RELEASE NAME=01.981129.00
+Design Capture Project file is not valid

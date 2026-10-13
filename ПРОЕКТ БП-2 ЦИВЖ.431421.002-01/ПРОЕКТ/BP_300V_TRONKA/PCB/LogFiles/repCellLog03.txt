@@ -1,0 +1,27 @@
+=======================================================================
+Expedition PCB - Pinnacle - Version 2013.0.540.971
+=======================================================================
+
+RELOAD CELLS
+
+Job Directory:  F:\TEXT TEM\BP_300V_TRONKA\PCB\
+
+
+Design Units:(mm)
+
+Replace Cell Log:   repCellLog03.txt
+
+Sun Jan 31 14:13:28 2016
+
+Reference Designator            Cell Name                         New Cell Name
+===============================================================================
+
+
+---------------  RELOAD CELLS  Sun Jan 31 14:13:28 2016  ---------------
+
+
+
+
+---------------    Sun Jan 31 14:13:28 2016  ---------------
+
+

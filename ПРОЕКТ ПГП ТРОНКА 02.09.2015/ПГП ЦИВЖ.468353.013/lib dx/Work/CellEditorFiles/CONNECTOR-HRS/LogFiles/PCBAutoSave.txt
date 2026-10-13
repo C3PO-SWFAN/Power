@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                       03:57 PM Thursday, August 22, 2013
+Job Name: D:\lib dx\Work\CellEditorFiles\CONNECTOR-HRS\HEADER-AXK6S30547YG-5,5mm-P5KS.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                       04:27 PM Thursday, August 22, 2013
+Job Name: D:\lib dx\Work\CellEditorFiles\CONNECTOR-HRS\HEADER-AXK6S30547YG-5,5mm-P5KS.pcb
+

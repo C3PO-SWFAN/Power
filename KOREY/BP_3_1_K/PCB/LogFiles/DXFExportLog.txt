@@ -1,0 +1,95 @@
+
+                                   DXF Export
+                                   ----------
+
+                        06:36 PM Sunday, October 29, 2017
+              Job Name: F:\TEXT  TEM\BP_3_1_K\PCB\BOARD_2LAYER.pcb
+
+
+
+    DXF File: F:\TEXT  TEM\BP_3_1_K\PCB\Output\BP-3-1-K.dxf
+
+
+    Total - Export Element
+    ----------------------------------------------------------------------
+
+       124 - Assembly Outlines Top
+
+        85 - Assembly Part Numbers Top
+
+        85 - Assembly Ref Des Top
+
+         1 - Board Origin
+
+         1 - Board Outline
+
+       408 - Drill Drawing
+
+         1 - Etched Text Layer 1
+
+       461 - Generated Silkscreen Top
+
+         1 - Manufacturing Outlines
+
+        14 - Mounting Hole Pads Layer 1
+
+        14 - Mounting Hole Pads Layer 2
+
+        51 - Mounting Holes Layer 1
+
+        51 - Mounting Holes Layer 2
+
+         1 - NC Drill Origin
+
+        91 - Part Holes Layer 1
+
+        91 - Part Holes Layer 2
+
+        91 - Part Pads Layer 1
+
+        91 - Part Pads Layer 2
+
+       118 - Part Pads SMD Top
+
+       209 - Pin Numbers Top
+
+        85 - Placement Outlines Top
+
+       253 - Plane Data Layer 1
+
+       188 - Plane Data Layer 2
+
+        82 - Plane Shapes Layer 1
+
+        87 - Plane Shapes Layer 2
+
+         1 - Route Border
+
+        97 - Silkscreen Outlines Top
+
+        85 - Silkscreen Ref Des Top
+
+        92 - Soldermask Pads Btm
+
+       210 - Soldermask Pads Top
+
+       118 - Solderpaste Pads Top
+
+       129 - Traces Layer 1
+
+        13 - Traces Layer 2
+
+       147 - Via Holes Layer 1
+
+       147 - Via Holes Layer 2
+
+       147 - Via Pads Layer 1
+
+       147 - Via Pads Layer 2
+
+
+    Successful Completion.
+
+
+
+                        06:36 PM Sunday, October 29, 2017

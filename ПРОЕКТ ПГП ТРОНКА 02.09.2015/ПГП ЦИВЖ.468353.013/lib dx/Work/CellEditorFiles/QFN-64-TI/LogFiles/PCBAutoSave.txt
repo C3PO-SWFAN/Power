@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                       08:56 PM Tuesday, January 29, 2013
+     Job Name: D:\lib dx\Work\CellEditorFiles\QFN-64-TI\RGC-S-PVQFN-N64.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                       10:00 PM Tuesday, January 29, 2013
+     Job Name: D:\lib dx\Work\CellEditorFiles\QFN-64-TI\RGC-S-PVQFN-N64.pcb
+

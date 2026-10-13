@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                         07:16 PM Monday, June 29, 2015
+   Job Name: D:\lib dx\Work\CellEditorFiles\RESISTOR-V\TO-220_2PIN_RES_GOR.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                         07:26 PM Monday, June 29, 2015
+   Job Name: D:\lib dx\Work\CellEditorFiles\RESISTOR-V\TO-220_2PIN_RES_GOR.pcb
+

@@ -1,0 +1,35 @@
+ ----------------------------
+|      Drill Engine Log      |
+|          Started           |
+|  Wed Sep 02 13:22:43 2015  |
+ ----------------------------
+
+Removing Output/NCDrill/ThruHoleNonPlated.ncd
+Removing Output/NCDrill/ThruHolePlated.ncd
+
+Created drill file "F:\TEXT TEM\ROTARY_12P1N_H\PCB\Output\NCDrill\ThruHolePlated.ncd" for span from 1 to 2
+Total holes, contours in this file 59, 0
+
+    Tool   Size (MM)    Tolerance (MM)     Plated   Count
+    ----   ---------   -----------------   ------   -----
+     05     0.5000                          YES     6
+     01     0.8000                          YES     20
+     02     1.0000                          YES     12
+     04     1.5000                          YES     1
+     03     1.6000                          YES     16
+     07     3.6000                          YES     4
+
+
+Created drill file "F:\TEXT TEM\ROTARY_12P1N_H\PCB\Output\NCDrill\ThruHoleNonPlated.ncd" for span from 1 to 2
+Total holes, contours in this file 14, 0
+
+    Tool   Size (MM)    Tolerance (MM)     Plated   Count
+    ----   ---------   -----------------   ------   -----
+     06     1.6000                          NO      14
+
+
+ ----------------------------
+|      Drill Engine Log      |
+|          Finished          |
+|  Wed Sep 02 13:22:44 2015  |
+ ----------------------------

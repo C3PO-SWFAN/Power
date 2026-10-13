@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                         08:17 PM Thursday, May 14, 2015
+Job Name: D:\lib dx\Work\CellEditorFiles\CONNECTOR-DIN41612\MALE-L22-R2_54-ANGLE.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                         08:42 PM Thursday, May 14, 2015
+Job Name: D:\lib dx\Work\CellEditorFiles\CONNECTOR-DIN41612\MALE-L22-R2_54-ANGLE.pcb
+

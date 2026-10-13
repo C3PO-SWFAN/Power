@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                        11:45 AM Monday, October 01, 2012
+Job Name: D:\lib dx\Work\CellEditorFiles\IC_TSSOP\TSSOP16_.65MMSP_.177X.201B_.252W.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                        11:47 AM Monday, October 01, 2012
+Job Name: D:\lib dx\Work\CellEditorFiles\IC_TSSOP\TSSOP16_.65MMSP_.177X.201B_.252W.pcb
+

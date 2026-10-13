@@ -1,0 +1,46 @@
+
+Schematic unused pins from : Packager  27-Jun-2015  11:50
+
+------------------------------------------------------------------------
+            Part/Reference             |          Unused pins
+                                       |  (G) - Gate, (P) - Partial Gate
+------------------------------------------------------------------------
+ Part APT2012CGCK                      |
+ Part APT2012SRCPRV                    |
+ Part B43508A9108M                     |
+ Part CDBC580-G                        |
+ Part CMR5H-06 TR13                    |
+ Part CRCW251275K0JNEG                 |
+ Part C3216X5R1E106M085AC              |
+ Part C3225X7S1H106M250AB              |
+ Part C3225X7T2J104K160AC              |
+ Part C5750X6S2W225K250KA              |
+ Part ERJ-3EKF2000V                    |
+ Part ERJ-6GEYJ152V                    |
+ Part ERJ-6GEYJ161V                    |
+ Part ERJ-6GEY0R00V                    |
+ Part ERJ-8GEYJ103V                    |
+ Part GRM188R71H104KA93D               |
+ Part MAL214658471E3                   |
+ Part MCR25JZHJ000                     |
+ Part MMZ1608S102A                     |
+ Part M80-8531842                      |
+ Part R463R447000M2M                   |
+ Part SBH11-PBPC-D17-ST-BK             |
+ Part SRF0905-202Y                     |
+ Part VLF10040T-6R8N4R5                |
+ Part 3-1437646-3                      |
+ Part 5-1879022-3                      |
+ Part 5010                             |
+ Part 5011                             |
+ Part 7914G-1-000E                     |
+ Part 0039281063                       |
+  X7                                   | (P)  2
+ Part 0039281083                       |
+  X5                                   | (P)  2 6
+ Part 0039281123                       |
+  X2                                   | (P)  2 4 8 10
+ Part 0039281143                       |
+  X8                                   | (P)  2 5 9 12
+ Part 09062486833_MIN                  |
+  X1                                   | (P)  16z

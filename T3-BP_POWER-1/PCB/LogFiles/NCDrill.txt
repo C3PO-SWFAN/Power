@@ -1,0 +1,47 @@
+ ----------------------------
+|      Drill Engine Log      |
+|          Started           |
+|  Mon Feb 11 09:52:49 2019  |
+ ----------------------------
+
+Removing Output/NCDrill/ThruHoleNonPlated.ncd
+Removing Output/NCDrill/ThruHolePlated.ncd
+
+Created drill file "F:\TT18\GA\TRONCA-3\T3-BP_POWER-1\PCB\Output\NCDrill\ThruHolePlated.ncd" for span from 1 to 2
+Total holes, contours in this file 1802, 0
+
+    Tool   Size (MM)    Tolerance (MM)     Plated   Count
+    ----   ---------   -----------------   ------   -----
+     12     0.3500                          YES     1275
+     06     0.5000                          YES     9
+     10     0.8000                          YES     59
+     08     1.0000                          YES     3
+     07     1.1000                          YES     60
+     05     1.2000                          YES     12
+     01     1.3000                          YES     90
+     09     1.4000                          YES     168
+     19     1.5000                          YES     8
+     03     1.6000                          YES     21
+     04     1.8000                          YES     20
+     11     2.0000                          YES     40
+     02     2.1000                          YES     8
+     18     2.3000                          YES     10
+     15     3.6000                          YES     16
+     16     4.2000                          YES     3
+
+
+Created drill file "F:\TT18\GA\TRONCA-3\T3-BP_POWER-1\PCB\Output\NCDrill\ThruHoleNonPlated.ncd" for span from 1 to 2
+Total holes, contours in this file 79, 0
+
+    Tool   Size (MM)    Tolerance (MM)     Plated   Count
+    ----   ---------   -----------------   ------   -----
+     13     1.0000                          NO      11
+     17     1.3000                          NO      6
+     14     1.5000                          NO      62
+
+
+ ----------------------------
+|      Drill Engine Log      |
+|          Finished          |
+|  Mon Feb 11 09:52:49 2019  |
+ ----------------------------

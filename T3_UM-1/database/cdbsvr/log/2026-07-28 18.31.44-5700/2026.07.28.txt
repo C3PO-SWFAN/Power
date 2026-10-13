@@ -1,0 +1,366 @@
+[2026.07.28 18:31:44] [0000m.00s.015ms] [0] WELCOME
+[2026.07.28 18:31:44] [0000m.00s.015ms] [1] iCDB Server ver.2.211, Xoetbt//r2sGE9TmsNJ3zA, build:20123704 created 2022-02-01 11:52:52, sources stamp:Xoetbt//r2sGE9TmsNJ3zA
+[2026.07.28 18:31:44] [0000m.00s.015ms] [1] Unpublished work. Copyright 2022 Siemens\r\n\r\nThis material contains trade secrets or otherwise confidential\r\ninformation owned by Siemens Industry Software Inc.\r\nor its affiliates (collectively, 'SISW'), or its licensors.\r\nAccess to and use of this information is strictly limited\r\nas set forth in the Customer's applicable agreements with SISW.
+[2026.07.28 18:31:44] [0000m.00s.015ms] [1] Base flow version [VX.2.11]
+[2026.07.28 18:31:44] [0000m.00s.016ms] [1] Install Id [2431697], Flow Id [X-ENTP VX.2.11], Full Flow Name [Xpedition Enterprise X-ENTP VX.2.11], Exact Access Date [2022/02/01]
+[2026.07.28 18:31:44] [0000m.00s.021ms] [1] Machine [R2D2]  IP [127.0.0.1,172.16.123.7]  User [Work]  PID [5700]
+[2026.07.28 18:31:44] [0000m.00s.021ms] [1] Operating system [Microsoft Windows 10 Business Edition, 64-bit (build 26200)]
+[2026.07.28 18:31:44] [0000m.00s.021ms] [1] Current working dir [C:\Users\Work\Desktop\Барабаш\T3_UM-1]
+[2026.07.28 18:31:44] [0000m.00s.021ms] [1] PATH [C:\MentorGraphics\EEVX.2.11\SDD_HOME\common\win64\bin;C:\MentorGraphics\EEVX.2.11\SDD_HOME\common\win64\lib;C:\MentorGraphics\EEVX.2.11\SDD_HOME\common3D\win64\lib;C:\MentorGraphics\EEVX.2.11\SDD_HOME\common\win32\lib;C:\MentorGraphics\EEVX.2.11\SDD_HOME\common\win64\jre\default\bin;C:\MentorGraphics\EEVX.2.11\MGC_HOME.ixw\bin;C:\MentorGraphics\EEVX.2.11\MGC_HOME.ixw\lib;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\MATLAB\R2025b\runtime\win64;C:\Program Files\MATLAB\R2025b\bin;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\WINDOWS\system32\config\systemprofile\AppData\Local\Muse Hub\lib;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\Bin\;C:\Program Files\IVI Foundation\VISA\Win64\Bin\;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\Bin;C:\Program Files\Microchip\xc8\v3.10\bin;C:\Program Files\Microchip\xc-dsc\v3.31\bin;C:\Program Files\Microchip\xc16\v2.10\bin;C:\Program Files\Microchip\xc32\v5.10\bin;C:\Program Files (x86)\P-CAD 2006 Viewer\;C:\Program Files (x86)\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\DTS\Binn\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Users\Work\AppData\Local\Microsoft\WindowsApps;C:\Users\Work\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Work\AppData\Local\Python\bin;C:\Users\Work\AppData\Local\Muse Hub\lib;C:\altera\13.1\modelsim_ase\win32aloem;C:\altera\13.1\modelsim_ae\win32aloem;C:\altera_lite\25.1std\questa_fse\win64;C:\altera\13.0sp1\modelsim_ase\win32aloem;C:\altera\13.0sp1\modelsim_ae\win32aloem]
+[2026.07.28 18:31:44] [0000m.00s.021ms] [1] SDD_HOME [C:\MentorGraphics\EEVX.2.11\SDD_HOME] on file system [NTFS]
+[2026.07.28 18:31:44] [0000m.00s.021ms] [1] SDD_PLATFORM [win64]
+[2026.07.28 18:31:44] [0000m.00s.021ms] [1] WDIR [C:\WDIR\EEVX.2.11;C:\MentorGraphics\EEVX.2.11\SDD_HOME\standard;]
+[2026.07.28 18:31:44] [0000m.00s.021ms] [1] Local iCDB working dir [C:\WDIR\EEVX.2.11\iCDB] on file system [NTFS]
+[2026.07.28 18:31:44] [0000m.00s.021ms] [2] S: Loading config files
+[2026.07.28 18:31:44] [0000m.00s.022ms] [1] Config file [C:\Users\Work\Desktop\Барабаш\T3_UM-1\database\cdbsvr\Server.cfg] not found
+[2026.07.28 18:31:44] [0000m.00s.023ms] [3] S: Config loaded
+[2026.07.28 18:31:44] [0000m.00s.024ms] [0] S: Project path [C:\Users\Work\Desktop\Барабаш\T3_UM-1\database] on file system [NTFS]
+[2026.07.28 18:31:44] [0000m.00s.024ms] [0] S: Project file (.prj) path [C:\Users\Work\Desktop\Барабаш\T3_UM-1\T3_UM-1.prj] on file system [NTFS]
+[2026.07.28 18:31:44] [0000m.00s.024ms] [1] S: WARNING: Database auto-repair support DISABLED
+[2026.07.28 18:31:44] [0000m.00s.024ms] [0] S: Single-user mode (auto)
+[2026.07.28 18:31:44] [0000m.00s.024ms] [0] S: Event polling mode autodetection
+[2026.07.28 18:31:44] [0000m.00s.024ms] [0] S: Started up automatically by iCDB Client: R2D2:Work:29768
+[2026.07.28 18:31:44] [0000m.00s.024ms] [0] S: Auto close mode
+[2026.07.28 18:31:44] [0000m.00s.024ms] [0] S: Database ID [4093-5589-beab-ac7a-2e5b-86a8-e5b8-6a60-7534-cd5c-1646-e5f5]
+[2026.07.28 18:31:44] [0000m.00s.024ms] [0] PathTranslator: BEGIN dumping
+[2026.07.28 18:31:44] [0000m.00s.024ms] [0] PathTranslator: Local -> global path prefix list
+[2026.07.28 18:31:44] [0000m.00s.024ms] [0] PathTranslator: Global -> local path prefix list
+[2026.07.28 18:31:44] [0000m.00s.024ms] [0] PathTranslator: END dumping
+[2026.07.28 18:31:44] [0000m.00s.024ms] [0] S: START
+[2026.07.28 18:31:44] [0000m.00s.024ms] [0] S: Server startup lock file created
+[2026.07.28 18:31:44] [0000m.00s.024ms] [0] S: Listening for client connections on port [10003]
+[2026.07.28 18:31:44] [0000m.00s.028ms] [0] S: Server network ID [R2D2:172.16.123.7,R2D2:10003]
+[2026.07.28 18:31:44] [0000m.00s.028ms] [0] S: Server GUID [bcf5-e31d-2b8b-2a06-06bc-86a6-6bc8-6a60-7432-cd5c-1646-e5f5]
+[2026.07.28 18:31:44] [0000m.00s.028ms] [0] S: Project GUID [4093-5589-beab-ac7a-2e5b-86a8-e5b8-6a60-7534-cd5c-1646-e5f5]
+[2026.07.28 18:31:44] [0000m.00s.028ms] [0] S: Wrote data to server address file
+[2026.07.28 18:31:44] [0000m.00s.029ms] [0] S: Server startup lock file removed
+[2026.07.28 18:31:44] [0000m.00s.029ms] [1] ProjectBackupManager: Setting project file (.prj) path: [C:\Users\Work\Desktop\Барабаш\T3_UM-1\T3_UM-1.prj]
+[2026.07.28 18:31:44] [0000m.00s.055ms] [0] S: Plugins loaded: [PIM] [ENetGen70] 
+[2026.07.28 18:31:44] [0000m.00s.055ms] [1] ServerToolkit: INFO: Plugin not found in SDD_ICDB_BIN [C:\MentorGraphics\EEVX.2.11\SDD_HOME\iCDB\win64\bin]
+[2026.07.28 18:31:44] [0000m.00s.055ms] [1] ServerToolkit: INFO: Plugin not found in SDD_COMMON_BIN [C:\MentorGraphics\EEVX.2.11\SDD_HOME\common\win64\bin]
+[2026.07.28 18:31:44] [0000m.00s.055ms] [1] ServerToolkit: INFO: Plugin not found in PATH
+[2026.07.28 18:31:44] [0000m.00s.055ms] [1] ServerToolkit: INFO: Plugin not found in CWD
+[2026.07.28 18:31:44] [0000m.00s.055ms] [1] ServerToolkit: INFO: returning just plugin exe name!
+[2026.07.28 18:31:44] [0000m.00s.056ms] [0] S: Local disc access time: 9 us
+[2026.07.28 18:31:44] [0000m.00s.056ms] [0] S: File server access time: 7 us
+[2026.07.28 18:31:44] [0000m.00s.056ms] [0] Single file [C:\Users\Work\Desktop\Барабаш\T3_UM-1\database\icdb.dat] size [1399792 (1.3 MB)]
+[2026.07.28 18:31:44] [0000m.00s.056ms] [1] Single file [C:\Users\Work\Desktop\Барабаш\T3_UM-1\database\icdb.dat] opened in read-write mode
+[2026.07.28 18:31:44] [0000m.00s.056ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2026.07.28 18:31:44] [0000m.00s.056ms] [0] Database GUARD OK: [1399792]
+[2026.07.28 18:31:44] [0000m.00s.057ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2026.07.28 18:31:44] [0000m.00s.057ms] [0] Database GUARD OK: [1399792]
+[2026.07.28 18:31:44] [0000m.00s.057ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2026.07.28 18:31:44] [0000m.00s.057ms] [0] Database GUARD OK: [1399792]
+[2026.07.28 18:31:44] [0000m.00s.057ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2026.07.28 18:31:44] [0000m.00s.057ms] [0] Database GUARD OK: [1399792]
+[2026.07.28 18:31:44] [0000m.00s.057ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2026.07.28 18:31:44] [0000m.00s.057ms] [0] Database GUARD OK: [1399792]
+[2026.07.28 18:31:44] [0000m.00s.057ms] [0] SingleFile: [d323-a98e-baaa-fcd0] SFI version check [1009] [1009]
+[2026.07.28 18:31:44] [0000m.00s.059ms] [0] SingleFile: [d323-a98e-baaa-fcd0] Database SFI header has been read in [1ms 829us]
+[2026.07.28 18:31:44] [0000m.00s.060ms] [0] iCDB Server PI: Server & plugin session [3755]
+[2026.07.28 18:31:44] [0000m.00s.060ms] [0] iCDB Server PI: Opening database [C:\Users\Work\Desktop\Барабаш\T3_UM-1\database]
+[2026.07.28 18:31:44] [0000m.00s.060ms] [0] iCDB Server PI: Database [C:\Users\Work\Desktop\Барабаш\T3_UM-1\database] opened
+[2026.07.28 18:31:44] [0000m.00s.077ms] [0] iCDB Database: Checking existence of constraint definitions
+[2026.07.28 18:31:44] [0000m.00s.077ms] [0] iCDB Database: Checking constraint definitions version
+[2026.07.28 18:31:44] [0000m.00s.094ms] [1] iCDB Database: Constraint definitions version [ce_ee.cns=7.10.77;user.cns=ad32-be84-ecce-3282-d1d6-76a3-2d67-6a60-b511-cd5c-1646-e5f5] up to date
+[2026.07.28 18:31:44] [0000m.00s.099ms] [0] iCDB Server PI: Initializing plugins
+[2026.07.28 18:31:44] [0000m.00s.100ms] [0] iCDB Server PI: Plugins initialized
+[2026.07.28 18:31:44] [0000m.00s.100ms] [0] S: iCDB database loaded
+[2026.07.28 18:31:44] [0000m.00s.100ms] [0] S: Starting threads
+[2026.07.28 18:31:44] [0000m.00s.101ms] [0] BT: Listening for broadcast messages on port [10000]
+[2026.07.28 18:31:44] [0000m.00s.101ms] [1] CMT: There are no clients - waiting [10 seconds]
+[2026.07.28 18:31:44] [0000m.00s.101ms] [0] IT: Session [3756] for host [R2D2] user [Work] client type[0] clsvrPluginID[0] with process ID [29768] created
+[2026.07.28 18:31:44] [0000m.00s.103ms] [1] SC[3756]: Registered sub-client [DxD] with ID [1] for session ID [3756] host [R2D2] user [Work] process ID [29768]
+[2026.07.28 18:31:44] [0000m.00s.104ms] [0] MWT: WindowProc: WM_NCCREATE
+[2026.07.28 18:31:44] [0000m.00s.104ms] [0] IT: iCDB Server Monitor session [1] for host [R2D2] user [Work] with process ID [12740] created
+[2026.07.28 18:31:44] [0000m.00s.104ms] [1] DMT: There are [1] iCDB Server Monitor connected now
+[2026.07.28 18:31:44] [0000m.00s.199ms] [1] SC[3756]: Registered sub-client [TransactionRollbackSubClient] with ID [2] for session ID [3756] host [R2D2] user [Work] process ID [29768]
+[2026.07.28 18:31:44] [0000m.00s.212ms] [1] SC[3756]: Registered sub-client [SymbolEditor] with ID [3] for session ID [3756] host [R2D2] user [Work] process ID [29768]
+[2026.07.28 18:31:44] [0000m.00s.213ms] [1] CMT: There are [1] clients now: 3756
+[2026.07.28 18:31:44] [0000m.00s.216ms] [1] SC[3756]: Registered sub-client [SelectionHolder] with ID [4] for session ID [3756] host [R2D2] user [Work] process ID [29768]
+[2026.07.28 18:31:44] [0000m.00s.235ms] [1] SC[3756]: Registered sub-client [EEVM_EEVM_717357152] with ID [5] for session ID [3756] host [R2D2] user [Work] process ID [29768]
+[2026.07.28 18:31:44] [0000m.00s.235ms] [1] SC[3756]: UnRegistered sub-client [EEVM_EEVM_717357152] with ID [5] for session ID [3756] host [R2D2] user [Work] process ID [29768]
+[2026.07.28 18:31:44] [0000m.00s.237ms] [1] SC[3756]: Registered sub-client [EEVM_EEVM_717357152] with ID [6] for session ID [3756] host [R2D2] user [Work] process ID [29768]
+[2026.07.28 18:31:44] [0000m.00s.274ms] [1] SC[3756]: UnRegistered sub-client [EEVM_EEVM_717357152] with ID [6] for session ID [3756] host [R2D2] user [Work] process ID [29768]
+[2026.07.28 18:31:44] [0000m.00s.277ms] [1] SC[3756]: Registered sub-client [EEVM_EEVM_717358992] with ID [7] for session ID [3756] host [R2D2] user [Work] process ID [29768]
+[2026.07.28 18:31:44] [0000m.00s.278ms] [1] SC[3756]: UnRegistered sub-client [EEVM_EEVM_717358992] with ID [7] for session ID [3756] host [R2D2] user [Work] process ID [29768]
+[2026.07.28 18:31:44] [0000m.00s.279ms] [1] SC[3756]: Registered sub-client [EEVM_EEVM_717358992] with ID [8] for session ID [3756] host [R2D2] user [Work] process ID [29768]
+[2026.07.28 18:31:44] [0000m.00s.311ms] [1] SC[3756]: UnRegistered sub-client [EEVM_EEVM_717358992] with ID [8] for session ID [3756] host [R2D2] user [Work] process ID [29768]
+[2026.07.28 18:31:44] [0000m.00s.320ms] [1] SC[3756]: Registered sub-client [Core::DesignListener-653364304-0] with ID [9] for session ID [3756] host [R2D2] user [Work] process ID [29768]
+[2026.07.28 18:31:44] [0000m.00s.322ms] [1] SC[3756]: Registered sub-client [BlockCacheDxD:653368064] with ID [10] for session ID [3756] host [R2D2] user [Work] process ID [29768]
+[2026.07.28 18:31:44] [0000m.00s.324ms] [1] SC[3756]: Registered sub-client [Core::NetFlatData-245] with ID [11] for session ID [3756] host [R2D2] user [Work] process ID [29768]
+[2026.07.28 18:31:44] [0000m.00s.327ms] [1] SC[3756]: Registered sub-client [SystemDesignDll] with ID [12] for session ID [3756] host [R2D2] user [Work] process ID [29768]
+[2026.07.28 18:31:44] [0000m.00s.330ms] [1] SC[3756]: UnRegistered sub-client [SystemDesignDll] with ID [12] for session ID [3756] host [R2D2] user [Work] process ID [29768]
+[2026.07.28 18:31:44] [0000m.00s.333ms] [1] SC[3756]: Registered sub-client [SystemDesignDll] with ID [13] for session ID [3756] host [R2D2] user [Work] process ID [29768]
+[2026.07.28 18:31:46] [0000m.01s.963ms] [1] SC[3756]: Registered sub-client [DesignSearcher2] with ID [14] for session ID [3756] host [R2D2] user [Work] process ID [29768]
+[2026.07.28 18:31:46] [0000m.01s.984ms] [1] SC[3756]: Registered sub-client [HdlProject] with ID [15] for session ID [3756] host [R2D2] user [Work] process ID [29768]
+[2026.07.28 18:31:46] [0000m.01s.988ms] [1] SC[3756]: Registered sub-client [IBDInstanceDialog] with ID [16] for session ID [3756] host [R2D2] user [Work] process ID [29768]
+[2026.07.28 18:31:46] [0000m.01s.993ms] [1] SC[3756]: Registered sub-client [ProjectIntegrationIcdbCacheDxD:717293968] with ID [17] for session ID [3756] host [R2D2] user [Work] process ID [29768]
+[2026.07.28 18:31:46] [0000m.02s.040ms] [1] SC[3756]: Registered sub-client [SheetConnectorsCacheDxD:1785252706] with ID [18] for session ID [3756] host [R2D2] user [Work] process ID [29768]
+[2026.07.28 18:31:46] [0000m.02s.126ms] [1] SC[3756]: Registered sub-client [NetsNamesCollectorDxD:1785252706] with ID [19] for session ID [3756] host [R2D2] user [Work] process ID [29768]
+[2026.07.28 18:31:46] [0000m.02s.138ms] [1] SC[3756]: Registered sub-client [PartReplaceUtils] with ID [20] for session ID [3756] host [R2D2] user [Work] process ID [29768]
+[2026.07.28 18:31:46] [0000m.02s.140ms] [1] SC[3756]: Registered sub-client [PartReplaceUtilsSelectionListener] with ID [21] for session ID [3756] host [R2D2] user [Work] process ID [29768]
+[2026.07.28 18:31:46] [0000m.02s.150ms] [1] SC[3756]: Registered sub-client [xprob] with ID [22] for session ID [3756] host [R2D2] user [Work] process ID [29768]
+[2026.07.28 18:31:46] [0000m.02s.226ms] [1] SC[3756]: Registered sub-client [StartServerClient510c] with ID [23] for session ID [3756] host [R2D2] user [Work] process ID [29768]
+[2026.07.28 18:31:46] [0000m.02s.227ms] [1] SC[3756]: UnRegistered sub-client [StartServerClient510c] with ID [23] for session ID [3756] host [R2D2] user [Work] process ID [29768]
+[2026.07.28 18:31:49] [0000m.04s.935ms] [1] SC[3756]: Registered sub-client [Navigator] with ID [24] for session ID [3756] host [R2D2] user [Work] process ID [29768]
+[2026.07.28 18:31:49] [0000m.04s.950ms] [1] SC[3756]: Registered sub-client [OutputWindow] with ID [25] for session ID [3756] host [R2D2] user [Work] process ID [29768]
+[2026.07.28 18:31:49] [0000m.04s.952ms] [1] SC[3756]: Registered sub-client [PlaceDevice] with ID [26] for session ID [3756] host [R2D2] user [Work] process ID [29768]
+[2026.07.28 18:31:49] [0000m.05s.079ms] [1] SC[3756]: Registered sub-client [FFSearch_RBHost] with ID [27] for session ID [3756] host [R2D2] user [Work] process ID [29768]
+[2026.07.28 18:31:49] [0000m.05s.082ms] [1] SC[3756]: Registered sub-client [LocalSymbolsDataProvider] with ID [28] for session ID [3756] host [R2D2] user [Work] process ID [29768]
+[2026.07.28 18:31:50] [0000m.05s.937ms] [1] SC[3756]: Registered sub-client [FFSSelListener] with ID [29] for session ID [3756] host [R2D2] user [Work] process ID [29768]
+[2026.07.28 18:31:50] [0000m.05s.939ms] [1] SC[3756]: Registered sub-client [SAE] with ID [30] for session ID [3756] host [R2D2] user [Work] process ID [29768]
+[2026.07.28 18:31:50] [0000m.05s.942ms] [1] SC[3756]: Registered sub-client [CCZAddin] with ID [31] for session ID [3756] host [R2D2] user [Work] process ID [29768]
+[2026.07.28 18:31:50] [0000m.05s.943ms] [1] SC[3756]: Registered sub-client [DxThumbnails] with ID [32] for session ID [3756] host [R2D2] user [Work] process ID [29768]
+[2026.07.28 18:31:50] [0000m.05s.945ms] [1] SC[3756]: Registered sub-client [MyParts] with ID [33] for session ID [3756] host [R2D2] user [Work] process ID [29768]
+[2026.07.28 18:31:50] [0000m.05s.960ms] [1] SC[3756]: Registered sub-client [PinsList] with ID [34] for session ID [3756] host [R2D2] user [Work] process ID [29768]
+[2026.07.28 18:31:50] [0000m.06s.067ms] [1] SC[3756]: Registered sub-client [toolboxes] with ID [35] for session ID [3756] host [R2D2] user [Work] process ID [29768]
+[2026.07.28 18:31:50] [0000m.06s.174ms] [1] SC[3756]: Registered sub-client [ObjectHolder_811080624] with ID [36] for session ID [3756] host [R2D2] user [Work] process ID [29768]
+[2026.07.28 18:31:50] [0000m.06s.176ms] [1] SC[3756]: Registered sub-client [BlockCacheDxD:811361280] with ID [37] for session ID [3756] host [R2D2] user [Work] process ID [29768]
+[2026.07.28 18:31:50] [0000m.06s.178ms] [1] SC[3756]: Registered sub-client [GlobalNetAliasUpdater_812020928] with ID [38] for session ID [3756] host [R2D2] user [Work] process ID [29768]
+[2026.07.28 18:31:50] [0000m.06s.180ms] [1] SC[3756]: Registered sub-client [IcdbNetProcessorSubClientDxD:812228720] with ID [39] for session ID [3756] host [R2D2] user [Work] process ID [29768]
+[2026.07.28 18:31:51] [0000m.06s.504ms] [1] SC[3756]: Registered sub-client [SupplyChainDataProviderInterface] with ID [40] for session ID [3756] host [R2D2] user [Work] process ID [29768]
+[2026.07.28 18:31:51] [0000m.06s.504ms] [1] SC[3756]: UnRegistered sub-client [SupplyChainDataProviderInterface] with ID [40] for session ID [3756] host [R2D2] user [Work] process ID [29768]
+[2026.07.28 18:32:02] [0000m.17s.791ms] [1] SC[3756]: Registered sub-client [Dx2Exp_25622468] with ID [41] for session ID [3756] host [R2D2] user [Work] process ID [29768]
+[2026.07.28 18:32:02] [0000m.17s.792ms] [1] SC[3756]: UnRegistered sub-client [Dx2Exp_25622468] with ID [41] for session ID [3756] host [R2D2] user [Work] process ID [29768]
+[2026.07.28 18:32:13] [0000m.28s.555ms] [0] IT: Session [3757] for host [R2D2] user [Work] client type[0] clsvrPluginID[0] with process ID [31848] created
+[2026.07.28 18:32:13] [0000m.28s.559ms] [1] SC[3757]: Registered sub-client [Expedition PCB_25633203] with ID [1] for session ID [3757] host [R2D2] user [Work] process ID [31848]
+[2026.07.28 18:32:13] [0000m.28s.635ms] [1] CMT: There are [2] clients now: 3756, 3757
+[2026.07.28 18:32:13] [0000m.28s.785ms] [1] SC[3757]: Registered sub-client [EEVM_EEVM_1422816976] with ID [2] for session ID [3757] host [R2D2] user [Work] process ID [31848]
+[2026.07.28 18:32:13] [0000m.28s.828ms] [1] SC[3757]: UnRegistered sub-client [EEVM_EEVM_1422816976] with ID [2] for session ID [3757] host [R2D2] user [Work] process ID [31848]
+[2026.07.28 18:32:13] [0000m.28s.833ms] [1] SC[3757]: Registered sub-client [EEVM_EEVM_1422816976] with ID [3] for session ID [3757] host [R2D2] user [Work] process ID [31848]
+[2026.07.28 18:32:13] [0000m.28s.881ms] [1] SC[3757]: UnRegistered sub-client [EEVM_EEVM_1422816976] with ID [3] for session ID [3757] host [R2D2] user [Work] process ID [31848]
+[2026.07.28 18:32:14] [0000m.29s.529ms] [1] SC[3757]: Registered sub-client [JobPrefsDBPI_25634203] with ID [4] for session ID [3757] host [R2D2] user [Work] process ID [31848]
+[2026.07.28 18:32:14] [0000m.29s.532ms] [1] SC[3757]: UnRegistered sub-client [JobPrefsDBPI_25634203] with ID [4] for session ID [3757] host [R2D2] user [Work] process ID [31848]
+[2026.07.28 18:32:14] [0000m.29s.891ms] [0] DFAMT: File server access time: 30 us
+[2026.07.28 18:32:15] [0000m.31s.228ms] [1] SC[3757]: Registered sub-client [JobPrefsDBPI_25635906] with ID [5] for session ID [3757] host [R2D2] user [Work] process ID [31848]
+[2026.07.28 18:32:15] [0000m.31s.244ms] [1] SC[3757]: UnRegistered sub-client [JobPrefsDBPI_25635906] with ID [5] for session ID [3757] host [R2D2] user [Work] process ID [31848]
+[2026.07.28 18:32:16] [0000m.31s.992ms] [1] SC[3757]: Registered sub-client [JobPrefsDBPI_25636656] with ID [6] for session ID [3757] host [R2D2] user [Work] process ID [31848]
+[2026.07.28 18:32:16] [0000m.32s.009ms] [1] SC[3757]: UnRegistered sub-client [JobPrefsDBPI_25636656] with ID [6] for session ID [3757] host [R2D2] user [Work] process ID [31848]
+[2026.07.28 18:32:23] [0000m.38s.733ms] [1] SC[3757]: Registered sub-client [JobPrefsDBPI_25643406] with ID [7] for session ID [3757] host [R2D2] user [Work] process ID [31848]
+[2026.07.28 18:32:23] [0000m.38s.739ms] [1] SC[3757]: UnRegistered sub-client [JobPrefsDBPI_25643406] with ID [7] for session ID [3757] host [R2D2] user [Work] process ID [31848]
+[2026.07.28 18:32:23] [0000m.38s.960ms] [1] SC[3757]: Registered sub-client [ExpeditionCrossProber] with ID [8] for session ID [3757] host [R2D2] user [Work] process ID [31848]
+[2026.07.28 18:32:23] [0000m.38s.962ms] [1] SC[3757]: Registered sub-client [StartServerClient7a3c] with ID [9] for session ID [3757] host [R2D2] user [Work] process ID [31848]
+[2026.07.28 18:32:23] [0000m.38s.962ms] [1] SC[3757]: UnRegistered sub-client [StartServerClient7a3c] with ID [9] for session ID [3757] host [R2D2] user [Work] process ID [31848]
+[2026.07.28 18:32:34] [0000m.49s.540ms] [1] SC[3757]: Registered sub-client [XPDAddin] with ID [10] for session ID [3757] host [R2D2] user [Work] process ID [31848]
+[2026.07.28 18:32:34] [0000m.49s.540ms] [1] SC[3757]: UnRegistered sub-client [XPDAddin] with ID [10] for session ID [3757] host [R2D2] user [Work] process ID [31848]
+[2026.07.28 18:33:07] [0001m.22s.474ms] [1] SC[3757]: UnRegistered sub-client [ExpeditionCrossProber] with ID [8] for session ID [3757] host [R2D2] user [Work] process ID [31848]
+[2026.07.28 18:33:09] [0001m.24s.726ms] [1] SC[3757]: UnRegistered sub-client [Expedition PCB_25633203] with ID [1] for session ID [3757] host [R2D2] user [Work] process ID [31848]
+[2026.07.28 18:33:09] [0001m.24s.752ms] [1] CMT: Removed client [3757]
+[2026.07.28 18:33:09] [0001m.24s.752ms] [1] CMT: There are [1] clients now: 3756
+[2026.07.28 19:25:42] [0053m.58s.136ms] [1] SC[3756]: UnRegistered sub-client [SystemDesignDll] with ID [13] for session ID [3756] host [R2D2] user [Work] process ID [29768]
+[2026.07.28 19:25:42] [0053m.58s.270ms] [1] SC[3756]: UnRegistered sub-client [DesignSearcher2] with ID [14] for session ID [3756] host [R2D2] user [Work] process ID [29768]
+[2026.07.28 19:25:42] [0053m.58s.326ms] [1] SC[3756]: UnRegistered sub-client [xprob] with ID [22] for session ID [3756] host [R2D2] user [Work] process ID [29768]
+[2026.07.28 19:25:42] [0053m.58s.345ms] [1] SC[3756]: UnRegistered sub-client [GlobalNetAliasUpdater_812020928] with ID [38] for session ID [3756] host [R2D2] user [Work] process ID [29768]
+[2026.07.28 19:25:42] [0053m.58s.345ms] [1] SC[3756]: UnRegistered sub-client [BlockCacheDxD:811361280] with ID [37] for session ID [3756] host [R2D2] user [Work] process ID [29768]
+[2026.07.28 19:25:42] [0053m.58s.346ms] [1] SC[3756]: UnRegistered sub-client [ObjectHolder_811080624] with ID [36] for session ID [3756] host [R2D2] user [Work] process ID [29768]
+[2026.07.28 19:25:42] [0053m.58s.346ms] [1] SC[3756]: UnRegistered sub-client [IcdbNetProcessorSubClientDxD:812228720] with ID [39] for session ID [3756] host [R2D2] user [Work] process ID [29768]
+[2026.07.28 19:25:42] [0053m.58s.359ms] [1] SC[3756]: UnRegistered sub-client [Navigator] with ID [24] for session ID [3756] host [R2D2] user [Work] process ID [29768]
+[2026.07.28 19:25:42] [0053m.58s.360ms] [1] SC[3756]: UnRegistered sub-client [FFSSelListener] with ID [29] for session ID [3756] host [R2D2] user [Work] process ID [29768]
+[2026.07.28 19:25:42] [0053m.58s.360ms] [1] SC[3756]: UnRegistered sub-client [LocalSymbolsDataProvider] with ID [28] for session ID [3756] host [R2D2] user [Work] process ID [29768]
+[2026.07.28 19:25:43] [0053m.58s.439ms] [1] SC[3756]: UnRegistered sub-client [FFSearch_RBHost] with ID [27] for session ID [3756] host [R2D2] user [Work] process ID [29768]
+[2026.07.28 19:25:43] [0053m.58s.453ms] [1] SC[3756]: UnRegistered sub-client [MyParts] with ID [33] for session ID [3756] host [R2D2] user [Work] process ID [29768]
+[2026.07.28 19:25:43] [0053m.58s.455ms] [1] SC[3756]: UnRegistered sub-client [toolboxes] with ID [35] for session ID [3756] host [R2D2] user [Work] process ID [29768]
+[2026.07.28 19:25:43] [0053m.58s.509ms] [1] SC[3756]: UnRegistered sub-client [SelectionHolder] with ID [4] for session ID [3756] host [R2D2] user [Work] process ID [29768]
+[2026.07.28 19:25:43] [0053m.58s.510ms] [1] SC[3756]: UnRegistered sub-client [PartReplaceUtils] with ID [20] for session ID [3756] host [R2D2] user [Work] process ID [29768]
+[2026.07.28 19:25:43] [0053m.58s.510ms] [1] SC[3756]: UnRegistered sub-client [PartReplaceUtilsSelectionListener] with ID [21] for session ID [3756] host [R2D2] user [Work] process ID [29768]
+[2026.07.28 19:25:44] [0053m.59s.519ms] [1] SC[3756]: UnRegistered sub-client [ProjectIntegrationIcdbCacheDxD:717293968] with ID [17] for session ID [3756] host [R2D2] user [Work] process ID [29768]
+[2026.07.28 19:25:44] [0053m.59s.520ms] [1] SC[3756]: UnRegistered sub-client [Core::NetFlatData-245] with ID [11] for session ID [3756] host [R2D2] user [Work] process ID [29768]
+[2026.07.28 19:25:44] [0053m.59s.520ms] [1] SC[3756]: UnRegistered sub-client [BlockCacheDxD:653368064] with ID [10] for session ID [3756] host [R2D2] user [Work] process ID [29768]
+[2026.07.28 19:25:44] [0053m.59s.520ms] [1] SC[3756]: UnRegistered sub-client [Core::DesignListener-653364304-0] with ID [9] for session ID [3756] host [R2D2] user [Work] process ID [29768]
+[2026.07.28 19:25:44] [0053m.59s.521ms] [1] SC[3756]: UnRegistered sub-client [SheetConnectorsCacheDxD:1785252706] with ID [18] for session ID [3756] host [R2D2] user [Work] process ID [29768]
+[2026.07.28 19:25:44] [0053m.59s.522ms] [1] SC[3756]: UnRegistered sub-client [NetsNamesCollectorDxD:1785252706] with ID [19] for session ID [3756] host [R2D2] user [Work] process ID [29768]
+[2026.07.28 19:25:44] [0053m.59s.530ms] [1] SC[3756]: UnRegistered sub-client [TransactionRollbackSubClient] with ID [2] for session ID [3756] host [R2D2] user [Work] process ID [29768]
+[2026.07.28 19:25:44] [0053m.59s.531ms] [1] SC[3756]: UnRegistered sub-client [DxD] with ID [1] for session ID [3756] host [R2D2] user [Work] process ID [29768]
+[2026.07.28 19:25:44] [0053m.59s.546ms] [1] SC[3756]: UnRegistered sub-client [SymbolEditor] with ID [3] for session ID [3756] host [R2D2] user [Work] process ID [29768]
+[2026.07.28 19:25:44] [0053m.59s.566ms] [1] SC[3756]: UnRegistered sub-client [OutputWindow] with ID [25] for session ID [3756] host [R2D2] user [Work] process ID [29768]
+[2026.07.28 19:25:44] [0053m.59s.604ms] [1] SC[3756]: UnRegistered sub-client [SAE] with ID [30] for session ID [3756] host [R2D2] user [Work] process ID [29768]
+[2026.07.28 19:25:44] [0053m.59s.653ms] [1] SC[3756]: UnRegistered sub-client [CCZAddin] with ID [31] for session ID [3756] host [R2D2] user [Work] process ID [29768]
+[2026.07.28 19:25:44] [0053m.59s.679ms] [1] SC[3756]: UnRegistered sub-client [DxThumbnails] with ID [32] for session ID [3756] host [R2D2] user [Work] process ID [29768]
+[2026.07.28 19:25:47] [0054m.02s.808ms] [0] MWT: WM_QUERYENDSESSION
+[2026.07.28 19:25:47] [0054m.02s.808ms] [0] MWT: Requesting emergency server stop: Got a message: WM_QUERYENDSESSION
+[2026.07.28 19:25:47] [0054m.02s.809ms] [0] Removing server address file.
+[2026.07.28 19:25:47] [0054m.02s.879ms] [0] S: Closing server
+[2026.07.28 19:25:47] [0054m.02s.880ms] [4] SMCL: Distributing notify to registered [General] iCDB Server Manager clients [NotifyServerStatus @ Version[1] # Id[Sender GUID[bcf5-e31d-2b8b-2a06-06bc-86a6-6bc8-6a60-7432-cd5c-1646-e5f5] Command number[33385]] # Proxy[EMPTY] # RequestId[Sender GUID[0000-0000-0000-0000-0000-0000-0000-0000-0000-0000-0000-0000] Command number[0]] # ReplyPort[10003] # Status [Closing]]
+[2026.07.28 19:25:47] [0054m.02s.880ms] [3] IT: FREE
+[2026.07.28 19:25:47] [0054m.02s.880ms] [4] IT: Waiting for finish
+[2026.07.28 19:25:47] [0054m.02s.880ms] [4] IT: Empty client connection popped from the waiting queue
+[2026.07.28 19:25:47] [0054m.02s.880ms] [2] IT: STOP
+[2026.07.28 19:25:47] [0054m.02s.880ms] [3] ET: Suspend request
+[2026.07.28 19:25:47] [0054m.02s.880ms] [3] ET: Suspend request finished
+[2026.07.28 19:25:47] [0054m.02s.880ms] [2] SCL: Removing all clients
+[2026.07.28 19:25:47] [0054m.02s.880ms] [2] ET: SUSPENDED
+[2026.07.28 19:25:47] [0054m.02s.880ms] [3] SC[3756]: FREE
+[2026.07.28 19:25:47] [0054m.02s.880ms] [4] SMCL: Distributing notify to registered [ClientList] iCDB Server Manager clients [NotifyServerClientRemove @ Version[1] # Id[Sender GUID[bcf5-e31d-2b8b-2a06-06bc-86a6-6bc8-6a60-7432-cd5c-1646-e5f5] Command number[33386]] # Proxy[EMPTY] # RequestId[Sender GUID[0000-0000-0000-0000-0000-0000-0000-0000-0000-0000-0000-0000] Command number[0]] # ReplyPort[10003] # Client [Address[R2D2] User[Work] PID[29768] Session[3756] Status[Active] Dead elapsed time sec[0] Version[2.211] Sub-clients[ ( Sub-client[Name[HdlProject] Id[15]], Sub-client[Name[IBDInstanceDialog] Id[16]], Sub-client[Name[PlaceDevice] Id[26]], Sub-client[Name[PinsList] Id[34]])]]]
+[2026.07.28 19:25:47] [0054m.02s.880ms] [3] CRT[3756]: FREE
+[2026.07.28 19:25:47] [0054m.02s.880ms] [4] CRT[3756]: Waiting for finish
+[2026.07.28 19:25:47] [0054m.02s.895ms] [2] CRT[3756]: STOP
+[2026.07.28 19:25:47] [0054m.02s.896ms] [3] CST[3756]: FREE
+[2026.07.28 19:25:47] [0054m.02s.896ms] [4] CST[3756]: Waiting for finish
+[2026.07.28 19:25:47] [0054m.02s.896ms] [2] CST[3756]: STOP
+[2026.07.28 19:25:47] [0054m.02s.896ms] [1] SC[3756]: WARNING: Session is still active while destroying
+[2026.07.28 19:25:47] [0054m.02s.896ms] [2] SC[3756]: Disconnecting from peer
+[2026.07.28 19:25:47] [0054m.02s.896ms] [6] iCDB Server PI: ReleaseOpenSnapshotRefCount [1]: 0
+[2026.07.28 19:25:47] [0054m.02s.896ms] [3] iCDB Server PI: No one is using snapshot [1] - removing from cache
+[2026.07.28 19:25:47] [0054m.02s.896ms] [6] iCDB Storage Server: Checking existence of file [C:\Users\Work\Desktop\Барабаш\T3_UM-1\database\s1\cdbblks\2000000010000050.blk\rbcatl.v]
+[2026.07.28 19:25:47] [0054m.02s.896ms] [6] iCDB Storage Server: File [C:\Users\Work\Desktop\Барабаш\T3_UM-1\database\s1\cdbblks\2000000010000050.blk\rbcatl.v] doesn't exist
+[2026.07.28 19:25:47] [0054m.02s.914ms] [6] iCDB Storage Server: Checking existence of file [C:\Users\Work\Desktop\Барабаш\T3_UM-1\database\s1\uids]
+[2026.07.28 19:25:47] [0054m.02s.914ms] [6] iCDB Storage Server: File [C:\Users\Work\Desktop\Барабаш\T3_UM-1\database\s1\uids] exists
+[2026.07.28 19:25:47] [0054m.02s.915ms] [4] iCDB SnapshotMap: Snapshot [1] removed
+[2026.07.28 19:25:47] [0054m.02s.915ms] [6] iCDB Storage Server: Unloading directory [C:\Users\Work\Desktop\Барабаш\T3_UM-1\database\s1]
+[2026.07.28 19:25:47] [0054m.02s.915ms] [6] iCDB Storage Server: Unloading file [C:\Users\Work\Desktop\Барабаш\T3_UM-1\database\s1\cdbblks\2000000010000050.blk\blk_obj_state]
+[2026.07.28 19:25:47] [0054m.02s.915ms] [6] iCDB Storage Server: Unloading file [C:\Users\Work\Desktop\Барабаш\T3_UM-1\database\s1\cdbblks\2000000010000050.blk\blkatl.v]
+[2026.07.28 19:25:47] [0054m.02s.915ms] [6] iCDB Storage Server: Unloading file [C:\Users\Work\Desktop\Барабаш\T3_UM-1\database\s1\cdbblks\2000000010000050.blk\dxdatl.v]
+[2026.07.28 19:25:47] [0054m.02s.915ms] [6] iCDB Storage Server: Unloading file [C:\Users\Work\Desktop\Барабаш\T3_UM-1\database\s1\cdbcatlg\catlgatl.v]
+[2026.07.28 19:25:47] [0054m.02s.915ms] [6] iCDB Storage Server: Unloading file [C:\Users\Work\Desktop\Барабаш\T3_UM-1\database\s1\cdbcatlg\grpatl.v]
+[2026.07.28 19:25:47] [0054m.02s.915ms] [6] iCDB Storage Server: Unloading file [C:\Users\Work\Desktop\Барабаш\T3_UM-1\database\s1\cdbcatlg\grpobj]
+[2026.07.28 19:25:47] [0054m.02s.915ms] [6] iCDB Storage Server: Unloading file [C:\Users\Work\Desktop\Барабаш\T3_UM-1\database\s1\cdbcmpcache\cmp_obj_state]
+[2026.07.28 19:25:47] [0054m.02s.915ms] [6] iCDB Storage Server: Unloading file [C:\Users\Work\Desktop\Барабаш\T3_UM-1\database\s1\cdbcmpcache\cmpatl.v]
+[2026.07.28 19:25:47] [0054m.02s.915ms] [6] iCDB Storage Server: Unloading file [C:\Users\Work\Desktop\Барабаш\T3_UM-1\database\s1\cdbcmpcache\dxdatl.v]
+[2026.07.28 19:25:47] [0054m.02s.915ms] [6] iCDB Storage Server: Unloading file [C:\Users\Work\Desktop\Барабаш\T3_UM-1\database\s1\cdbcmps\cmpatl.v]
+[2026.07.28 19:25:47] [0054m.02s.915ms] [6] iCDB Storage Server: Unloading file [C:\Users\Work\Desktop\Барабаш\T3_UM-1\database\s1\cdbcnfgs\2000000010000050.blk\ces_obj_state]
+[2026.07.28 19:25:47] [0054m.02s.915ms] [6] iCDB Storage Server: Unloading file [C:\Users\Work\Desktop\Барабаш\T3_UM-1\database\s1\cdbcnfgs\2000000010000050.blk\cesatl.v]
+[2026.07.28 19:25:47] [0054m.02s.915ms] [6] iCDB Storage Server: Unloading file [C:\Users\Work\Desktop\Барабаш\T3_UM-1\database\s1\cdbcnfgs\2000000010000050.blk\cnfgatl.v]
+[2026.07.28 19:25:47] [0054m.02s.915ms] [6] iCDB Storage Server: Unloading file [C:\Users\Work\Desktop\Барабаш\T3_UM-1\database\s1\cdbcnfgs\2000000010000050.blk\varatl.v]
+[2026.07.28 19:25:47] [0054m.02s.915ms] [6] iCDB Storage Server: Unloading file [C:\Users\Work\Desktop\Барабаш\T3_UM-1\database\s1\dsgn_obj_state]
+[2026.07.28 19:25:47] [0054m.02s.915ms] [6] iCDB Storage Server: Unloading file [C:\Users\Work\Desktop\Барабаш\T3_UM-1\database\s1\oryg]
+[2026.07.28 19:25:47] [0054m.02s.915ms] [6] iCDB Storage Server: Unloading file [C:\Users\Work\Desktop\Барабаш\T3_UM-1\database\s1\uids]
+[2026.07.28 19:25:47] [0054m.02s.915ms] [5] iCDB Server PI: Snapshot [1] removed from cache
+[2026.07.28 19:25:47] [0054m.02s.915ms] [6] iCDB Server PI: ReleaseOpenSnapshotRefCount [5]: 0
+[2026.07.28 19:25:47] [0054m.02s.915ms] [3] iCDB Server PI: No one is using snapshot [5] - removing from cache
+[2026.07.28 19:25:47] [0054m.02s.915ms] [6] iCDB Storage Server: Checking existence of file [C:\Users\Work\Desktop\Барабаш\T3_UM-1\database\s5\uids]
+[2026.07.28 19:25:47] [0054m.02s.916ms] [6] iCDB Storage Server: File [C:\Users\Work\Desktop\Барабаш\T3_UM-1\database\s5\uids] exists
+[2026.07.28 19:25:47] [0054m.02s.916ms] [4] iCDB SnapshotMap: Snapshot [5] removed
+[2026.07.28 19:25:47] [0054m.02s.916ms] [6] iCDB Storage Server: Unloading directory [C:\Users\Work\Desktop\Барабаш\T3_UM-1\database\s5]
+[2026.07.28 19:25:47] [0054m.02s.916ms] [6] iCDB Storage Server: Unloading file [C:\Users\Work\Desktop\Барабаш\T3_UM-1\database\s5\cdbcatlg\catlgatl.v]
+[2026.07.28 19:25:47] [0054m.02s.916ms] [6] iCDB Storage Server: Unloading file [C:\Users\Work\Desktop\Барабаш\T3_UM-1\database\s5\cdbcatlg\grpatl.v]
+[2026.07.28 19:25:47] [0054m.02s.916ms] [6] iCDB Storage Server: Unloading file [C:\Users\Work\Desktop\Барабаш\T3_UM-1\database\s5\cdbcatlg\grpobj]
+[2026.07.28 19:25:47] [0054m.02s.916ms] [6] iCDB Storage Server: Unloading file [C:\Users\Work\Desktop\Барабаш\T3_UM-1\database\s5\cdbcmpcache\cmpatl.v]
+[2026.07.28 19:25:47] [0054m.02s.916ms] [6] iCDB Storage Server: Unloading file [C:\Users\Work\Desktop\Барабаш\T3_UM-1\database\s5\cdbcmps\cmpatl.v]
+[2026.07.28 19:25:47] [0054m.02s.916ms] [6] iCDB Storage Server: Unloading file [C:\Users\Work\Desktop\Барабаш\T3_UM-1\database\s5\oryg]
+[2026.07.28 19:25:47] [0054m.02s.916ms] [6] iCDB Storage Server: Unloading file [C:\Users\Work\Desktop\Барабаш\T3_UM-1\database\s5\params]
+[2026.07.28 19:25:47] [0054m.02s.916ms] [6] iCDB Storage Server: Unloading file [C:\Users\Work\Desktop\Барабаш\T3_UM-1\database\s5\uids]
+[2026.07.28 19:25:47] [0054m.02s.916ms] [5] iCDB Server PI: Snapshot [5] removed from cache
+[2026.07.28 19:25:47] [0054m.02s.916ms] [3] ET: Discarding pending commands
+[2026.07.28 19:25:47] [0054m.02s.916ms] [3] ET: Resume request
+[2026.07.28 19:25:47] [0054m.02s.916ms] [3] ET: Resume request finished
+[2026.07.28 19:25:47] [0054m.02s.916ms] [2] ET: RESUMED
+[2026.07.28 19:25:47] [0054m.02s.927ms] [2] PrjBackupEngine: STOP
+[2026.07.28 19:25:47] [0054m.02s.927ms] [3] PrjBackupEngine: FREE
+[2026.07.28 19:25:47] [0054m.02s.927ms] [4] PrjBackupEngine: Waiting for finish
+[2026.07.28 19:25:47] [0054m.02s.927ms] [3] ET: FREE
+[2026.07.28 19:25:47] [0054m.02s.927ms] [4] ET: Waiting for finish
+[2026.07.28 19:25:47] [0054m.02s.927ms] [2] ET: STOP
+[2026.07.28 19:25:47] [0054m.02s.927ms] [2] SCL: Stopping all send threads
+[2026.07.28 19:25:47] [0054m.02s.927ms] [3] CMT: FREE
+[2026.07.28 19:25:47] [0054m.02s.927ms] [4] CMT: Waiting for finish
+[2026.07.28 19:25:47] [0054m.02s.948ms] [0] SD[1]: ERROR: Receiving command: Socket Exception: Category[Socket] Error[ConnectionClosed] Description[Connection closed] Message[]
+[2026.07.28 19:25:47] [0054m.02s.948ms] [2] SD[1]: Setting status to FINISHED
+[2026.07.28 19:25:47] [0054m.02s.948ms] [7] SD[1]: Sending logout notify: SvrNotifyLogout @ Version[VX.2.11.0] # Id[2721]
+[2026.07.28 19:25:47] [0054m.02s.948ms] [2] SD[1]: Disconnecting from peer
+[2026.07.28 19:25:47] [0054m.02s.948ms] [2] DRT[1]: STOP
+[2026.07.28 19:25:47] [0054m.02s.948ms] [4] DMT: Dispatching command [DiagFinished # Diag Id [1]]
+[2026.07.28 19:25:47] [0054m.02s.949ms] [5] DMT: Trying to remove iCDB Server Monitor [1]
+[2026.07.28 19:25:47] [0054m.02s.949ms] [4] SDL: Removing iCDB Server Monitor [1]
+[2026.07.28 19:25:47] [0054m.02s.949ms] [3] SD[1]: FREE
+[2026.07.28 19:25:47] [0054m.02s.949ms] [3] DRT[1]: FREE
+[2026.07.28 19:25:47] [0054m.02s.949ms] [4] DRT[1]: Waiting for finish
+[2026.07.28 19:25:47] [0054m.02s.949ms] [3] DST[1]: FREE
+[2026.07.28 19:25:47] [0054m.02s.949ms] [4] DST[1]: Waiting for finish
+[2026.07.28 19:25:47] [0054m.02s.949ms] [2] DST[1]: EXIT graceful
+[2026.07.28 19:25:47] [0054m.02s.949ms] [2] DST[1]: STOP
+[2026.07.28 19:25:47] [0054m.02s.949ms] [4] SDL: iCDB Server Monitor [1] removed
+[2026.07.28 19:25:47] [0054m.02s.949ms] [1] DMT: Removed iCDB Server Monitor [1]
+[2026.07.28 19:25:47] [0054m.02s.971ms] [2] CMT: STOP
+[2026.07.28 19:25:47] [0054m.02s.972ms] [3] DMT: FREE
+[2026.07.28 19:25:47] [0054m.02s.972ms] [4] DMT: Waiting for finish
+[2026.07.28 19:25:47] [0054m.02s.972ms] [2] DMT: STOP
+[2026.07.28 19:25:47] [0054m.02s.972ms] [3] DFAMT: FREE
+[2026.07.28 19:25:47] [0054m.02s.972ms] [4] DFAMT: Waiting for finish
+[2026.07.28 19:25:47] [0054m.02s.987ms] [2] DFAMT: Filer project path [C:\Users\Work\Desktop\Барабаш\T3_UM-1\database] access monitoring ended
+[2026.07.28 19:25:47] [0054m.02s.988ms] [2] DFAMT: STOP
+[2026.07.28 19:25:47] [0054m.02s.988ms] [4] DFAMT: FINISHED
+[2026.07.28 19:25:47] [0054m.02s.988ms] [3] DiagSystemMemoryMonitorThread: FREE
+[2026.07.28 19:25:47] [0054m.02s.988ms] [4] DiagSystemMemoryMonitorThread: Waiting for finish
+[2026.07.28 19:25:47] [0054m.03s.003ms] [2] DiagSystemMemoryMonitorThread: System memory usage monitoring ended
+[2026.07.28 19:25:47] [0054m.03s.004ms] [2] DiagSystemMemoryMonitorThread: STOP
+[2026.07.28 19:25:47] [0054m.03s.004ms] [4] DiagSystemMemoryMonitorThread: FINISHED
+[2026.07.28 19:25:47] [0054m.03s.004ms] [4] DMT: FINISHED
+[2026.07.28 19:25:47] [0054m.03s.004ms] [2] SCL: Removing all clients
+[2026.07.28 19:25:47] [0054m.03s.004ms] [2] iCDB Server PI: Unloading observers
+[2026.07.28 19:25:47] [0054m.03s.004ms] [2] iCDB Server PI: Observers unloaded
+[2026.07.28 19:25:47] [0054m.03s.004ms] [0] iCDB Server PI: Closing plugins
+[2026.07.28 19:25:47] [0054m.03s.004ms] [2] iCDB Server PI: Closing PIM plugin
+[2026.07.28 19:25:47] [0054m.03s.004ms] [5] iCDB PIM Wrapper: FREE
+[2026.07.28 19:25:47] [0054m.03s.004ms] [2] iCDB Server PI: Closing ENetGen plugin
+[2026.07.28 19:25:47] [0054m.03s.004ms] [5] iCDB ENetGen Wrapper: FREE
+[2026.07.28 19:25:47] [0054m.03s.004ms] [0] iCDB Server PI: Plugins closed
+[2026.07.28 19:25:47] [0054m.03s.004ms] [0] iCDB Server PI: Unloading database
+[2026.07.28 19:25:47] [0054m.03s.004ms] [7] DCM: CDBCesDefConstraintManager::LoadVersionInfo(force[0] cumulativesaveVersion[0000000000000000] transporter[0000000000000000]) -- isModified[0] upgradeFlag[0]
+[2026.07.28 19:25:47] [0054m.03s.004ms] [6] iCDB Storage Server: Saving all modified files
+[2026.07.28 19:25:47] [0054m.03s.004ms] [7] SingleFile: [d323-a98e-baaa-fcd0] RTS: switched to: [1]
+[2026.07.28 19:25:47] [0054m.03s.004ms] [0] iCDB Server PI: Saving storage
+[2026.07.28 19:25:47] [0054m.03s.004ms] [6] iCDB Storage Server: Saving all modified files
+[2026.07.28 19:25:47] [0054m.03s.004ms] [7] SingleFile: [d323-a98e-baaa-fcd0] RTS: switched to: [1]
+[2026.07.28 19:25:47] [0054m.03s.004ms] [0] iCDB Server PI: Closing database
+[2026.07.28 19:25:47] [0054m.03s.004ms] [7] Holes::writing holes [1] prev [0] from [1400428] 
+[2026.07.28 19:25:47] [0054m.03s.004ms] [7] Holes::write <35948,36139>
+[2026.07.28 19:25:47] [0054m.03s.005ms] [7] Holes have been successfully saved 1 CRC [856574711]
+[2026.07.28 19:25:47] [0054m.03s.006ms] [1] iCDB Server PI: Stats: Database defragmentation: max[1] avg[1] holes[0%] data[99%]
+[2026.07.28 19:25:47] [0054m.03s.006ms] [1] iCDB Server PI: Stats: Database file size [1400440 (1.3 MB)]
+[2026.07.28 19:25:47] [0054m.03s.006ms] [7] Holes::writing holes [1] prev [1] from [1400436] 
+[2026.07.28 19:25:47] [0054m.03s.006ms] [7] Holes::write <35948,36139>
+[2026.07.28 19:25:47] [0054m.03s.006ms] [7] Holes have been successfully saved 1 CRC [856574711]
+[2026.07.28 19:25:47] [0054m.03s.006ms] [4] iCDB SnapshotMap: No Snapshot removed: map is empty
+[2026.07.28 19:25:47] [0054m.03s.006ms] [7] DCM: CDBCesDefConstraintManager::LoadVersionInfo(force[0] cumulativesaveVersion[0000000000000000] transporter[0000000000000000]) -- isModified[0] upgradeFlag[0]
+[2026.07.28 19:25:47] [0054m.03s.006ms] [7] DCM: CDBCesDefConstraintManager::UnLoad()
+[2026.07.28 19:25:47] [0054m.03s.007ms] [3] iCDB Storage Server: FREE
+[2026.07.28 19:25:47] [0054m.03s.007ms] [3] iCDB Storage Server Save Thread: FREE
+[2026.07.28 19:25:47] [0054m.03s.007ms] [4] iCDB Storage Server Save Thread: Waiting for finish
+[2026.07.28 19:25:47] [0054m.03s.007ms] [2] iCDB Storage Server Save Thread: STOP
+[2026.07.28 19:25:47] [0054m.03s.008ms] [3] iCDB Storage Server Backup Thread: FREE
+[2026.07.28 19:25:47] [0054m.03s.008ms] [4] iCDB Storage Server Backup Thread: Waiting for finish
+[2026.07.28 19:25:47] [0054m.03s.008ms] [2] iCDB Storage Server Backup Thread: STOP
+[2026.07.28 19:25:47] [0054m.03s.009ms] [3] SingleFile: [0000-0000-0000-0000] Modification time updated for file [C:\Users\Work\Desktop\Барабаш\T3_UM-1\database\icdb.dat]
+[2026.07.28 19:25:47] [0054m.03s.009ms] [3] SingleFile: [0000-0000-0000-0000] Closing file [C:\Users\Work\Desktop\Барабаш\T3_UM-1\database\icdb.dat] restrained
+[2026.07.28 19:25:47] [0054m.03s.010ms] [0] iCDB Server PI: Database closed
+[2026.07.28 19:25:47] [0054m.03s.010ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [37261] ticks
+[2026.07.28 19:25:47] [0054m.03s.010ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [3726] microseconds
+[2026.07.28 19:25:47] [0054m.03s.010ms] [1] iCDB Server PI: Stats: Total iCDB commands count: [85]
+[2026.07.28 19:25:47] [0054m.03s.010ms] [1] iCDB Server PI: Stats: Average iCDB speed:        [22812] commands per second
+[2026.07.28 19:25:47] [0054m.03s.010ms] [1] iCDB Server PI: Stats: Mem[17633280]
+[2026.07.28 19:25:47] [0054m.03s.010ms] [1] iCDB Server PI: Stats: MemPeak[66281472]
+[2026.07.28 19:25:47] [0054m.03s.011ms] [0] Single file [C:\Users\Work\Desktop\Барабаш\T3_UM-1\database\icdb.dat] closed with size [1400440 (1.3 MB)]
+[2026.07.28 19:25:47] [0054m.03s.020ms] [2] SDL: Removing all connected iCDB Server Monitor
+[2026.07.28 19:25:47] [0054m.03s.020ms] [2] S: Unloading ENetGen plugin from file [C:\MentorGraphics\EEVX.2.11\SDD_HOME\common\win64\bin\..\lib\ENetGen70.dll]
+[2026.07.28 19:25:47] [0054m.03s.022ms] [2] S: Unloading PIM plugin from file [C:\MentorGraphics\EEVX.2.11\SDD_HOME\common\win64\bin\..\lib\PIM.dll]
+[2026.07.28 19:25:47] [0054m.03s.024ms] [3] ST: FREE
+[2026.07.28 19:25:47] [0054m.03s.024ms] [4] ST: Waiting for finish
+[2026.07.28 19:25:47] [0054m.03s.024ms] [2] ST: STOP
+[2026.07.28 19:25:47] [0054m.03s.024ms] [3] MET: FREE
+[2026.07.28 19:25:47] [0054m.03s.024ms] [4] MET: Waiting for finish
+[2026.07.28 19:25:47] [0054m.03s.024ms] [2] MET: STOP
+[2026.07.28 19:25:47] [0054m.03s.024ms] [3] MCE: FREE
+[2026.07.28 19:25:47] [0054m.03s.024ms] [3] ELMT: FREE
+[2026.07.28 19:25:47] [0054m.03s.024ms] [4] ELMT: Waiting for finish
+[2026.07.28 19:25:47] [0054m.03s.024ms] [2] ELMT: STOP
+[2026.07.28 19:25:47] [0054m.03s.024ms] [3] EventLogDataFile: EventLog data file [C:\Users\Work\Desktop\Барабаш\T3_UM-1\database\cdbsvr\events\events.dat] closed
+[2026.07.28 19:25:47] [0054m.03s.025ms] [3] EventLogIndexFile: EventLog index file [C:\Users\Work\Desktop\Барабаш\T3_UM-1\database\cdbsvr\events\events.idx] closed
+[2026.07.28 19:25:47] [0054m.03s.025ms] [4] ELMT: FINISHED
+[2026.07.28 19:25:47] [0054m.03s.025ms] [3] AT: FREE
+[2026.07.28 19:25:47] [0054m.03s.025ms] [4] AT: Waiting for finish
+[2026.07.28 19:25:47] [0054m.03s.081ms] [2] AT: Removing server address file [C:\Users\Work\Desktop\Барабаш\T3_UM-1\database\cdbsvr\sAddress.adr]
+[2026.07.28 19:25:47] [0054m.03s.082ms] [0] AT: ERROR: Could not remove server address file [C:\Users\Work\Desktop\Барабаш\T3_UM-1\database\cdbsvr\sAddress.adr]
+[2026.07.28 19:25:47] [0054m.03s.082ms] [2] AT: STOP
+[2026.07.28 19:25:47] [0054m.03s.082ms] [3] BT: FREE
+[2026.07.28 19:25:47] [0054m.03s.082ms] [4] BT: Waiting for finish
+[2026.07.28 19:25:47] [0054m.03s.161ms] [4] BT: Sending broadcast on port [10000]: NotifyProjectGlobalStatus @ Version[1] # Id[Sender GUID[bcf5-e31d-2b8b-2a06-06bc-86a6-6bc8-6a60-7432-cd5c-1646-e5f5] Command number[33389]] # Proxy[EMPTY] # RequestId[Sender GUID[0000-0000-0000-0000-0000-0000-0000-0000-0000-0000-0000-0000] Command number[0]] # ReplyPort[0] # ProjectId [GUID[4093-5589-beab-ac7a-2e5b-86a8-e5b8-6a60-7534-cd5c-1646-e5f5] Address[Host[R2D2] Port[10003]] IsLauncher[FALSE] Launcher[GUID[0000-0000-0000-0000-0000-0000-0000-0000-0000-0000-0000-0000] Address[Host[] Port[0]]] Path[C:\Users\Work\Desktop\Барабаш\T3_UM-1\database] ReadOnly[FALSE] Server GUID[bcf5-e31d-2b8b-2a06-06bc-86a6-6bc8-6a60-7432-cd5c-1646-e5f5]] # Status [Shutdown]
+[2026.07.28 19:25:47] [0054m.03s.162ms] [2] BT: STOP
+[2026.07.28 19:25:47] [0054m.03s.162ms] [3] MWT: FREE
+[2026.07.28 19:25:47] [0054m.03s.162ms] [4] MWT: Waiting for finish
+[2026.07.28 19:25:47] [0054m.03s.162ms] [0] MWT: Destroy the shutdown block reason.
+[2026.07.28 19:25:47] [0054m.03s.164ms] [0] MWT: STOP
+[2026.07.28 19:25:47] [0054m.03s.165ms] [0] S: STOP
+[2026.07.28 19:25:47] [0054m.03s.165ms] [3] S: FREE
+[2026.07.28 19:25:47] [0054m.03s.165ms] [3] S: FREE: Server implementation
+[2026.07.28 19:25:47] [0054m.03s.165ms] [3] CLSVRM: FREE

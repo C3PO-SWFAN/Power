@@ -1,0 +1,13 @@
+
+Schematic unused pins from : Packager  2-Sep-2015  13:21
+
+------------------------------------------------------------------------
+            Part/Reference             |          Unused pins
+                                       |  (G) - Gate, (P) - Partial Gate
+------------------------------------------------------------------------
+ Part ERJ-3GEY0R00V                    |
+ Part ERJ-6GEY0R00V                    |
+ Part GRM1885C1H101JA01D               |
+ Part KC52B10.001NPS                   |
+ Part MGSHV-0_2-D1_6xd0.62             |
+ Part M80-8532042                      |

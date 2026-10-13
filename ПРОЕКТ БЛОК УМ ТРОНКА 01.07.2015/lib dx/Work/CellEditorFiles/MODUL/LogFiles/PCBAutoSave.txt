@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                        12:24 PM Thursday, March 28, 2013
+          Job Name: D:\lib dx\Work\CellEditorFiles\MODUL\Ti-Wi-BLE.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                        12:39 PM Thursday, March 28, 2013
+          Job Name: D:\lib dx\Work\CellEditorFiles\MODUL\Ti-Wi-BLE.pcb
+

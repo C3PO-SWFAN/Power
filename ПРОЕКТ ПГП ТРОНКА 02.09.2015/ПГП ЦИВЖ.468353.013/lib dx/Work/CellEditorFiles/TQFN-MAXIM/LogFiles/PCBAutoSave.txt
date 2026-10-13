@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                        10:30 AM Thursday, April 10, 2014
+      Job Name: D:\lib dx\Work\CellEditorFiles\TQFN-MAXIM\TQFN-16-MAXIM.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                        10:40 AM Thursday, April 10, 2014
+      Job Name: D:\lib dx\Work\CellEditorFiles\TQFN-MAXIM\TQFN-16-MAXIM.pcb
+

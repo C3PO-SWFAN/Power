@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                      11:32 AM Saturday, December 14, 2013
+       Job Name: D:\lib dx\Work\CellEditorFiles\IND-V\7,6x3-d0,9-L12,5.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                      11:41 AM Saturday, December 14, 2013
+       Job Name: D:\lib dx\Work\CellEditorFiles\IND-V\7,6x3-d0,9-L12,5.pcb
+

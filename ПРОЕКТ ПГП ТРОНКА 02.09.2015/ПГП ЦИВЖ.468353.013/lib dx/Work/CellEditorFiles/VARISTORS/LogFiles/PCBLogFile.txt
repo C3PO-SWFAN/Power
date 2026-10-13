@@ -1,0 +1,8 @@
+
+Cell Editor Version: 2012.0.514.029
+
+Successfully read the design.
+Cannot resolve immovable metal conflicts.
+Cannot resolve immovable metal conflicts.
+Saved the design...
+Saved the design...

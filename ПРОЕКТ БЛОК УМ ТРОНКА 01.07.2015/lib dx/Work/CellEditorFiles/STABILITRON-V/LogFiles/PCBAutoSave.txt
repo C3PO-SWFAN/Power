@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                        10:45 AM Tuesday, April 30, 2013
+        Job Name: D:\lib dx\Work\CellEditorFiles\STABILITRON-V\DO-35.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                        10:48 AM Tuesday, April 30, 2013
+        Job Name: D:\lib dx\Work\CellEditorFiles\STABILITRON-V\DO-35.pcb
+

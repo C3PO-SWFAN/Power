@@ -1,0 +1,140 @@
+
+                               Forward Annotation
+                               ------------------
+
+                      02:48 PM Wednesday, February 28, 2018
+             Job Name: F:\TEXT  TEM\T3_COM_D-1\PCB\BOARD_2LAYER.pcb
+
+
+Version:  01.01.00
+
+     The PDBs listed in the project file will be searched to satisfy the parts
+      requirements of the iCDB and to replace any duplicates found in the
+      Target PDB.
+
+     The schematic source is a Common Data Base.
+
+     The AllowAlphaRefDes status indicates that reference
+      designators containing all alpha characters should be deleted
+      and the relevant symbols repackaged.
+
+
+
+     Common Data Base has been read
+
+     Target PDB Name: Work\Layout_Temp\PartsDB.pdb
+
+     Number of Part Numbers: 12
+          Part Numb: CL43C102JIHNNNE -> Vend Part: CL43C102JIHNNNE 
+          Part Numb: CRM2512-FX-R100ELF -> Vend Part: CRM2512-FX-R100ELF 
+          Part Numb: MCR25JZHJ000 -> Vend Part: MCR25JZHJ000 
+          Part Numb: R76UI1100SE30J_UNIVER -> Vend Part: R76UI1100SE30J_UNIVER 
+          Part Numb: R76UI14704040J_UNIVER -> Vend Part: R76UI14704040J_UNIVER 
+          Part Numb: SRP1770TA-330M -> Vend Part: SRP1770TA-330M 
+          Part Numb: SRP6540-220M -> Vend Part: SRP6540-220M 
+          Part Numb: 4-1879021-9 -> Vend Part: 4-1879021-9 
+          Part Numb: 5011 -> Vend Part: 5011 
+          Part Numb: 5013 -> Vend Part: 5013 
+          Part Numb: 5125 -> Vend Part: 5125 
+          Part Numb: 0039301040 -> Vend Part: 0039301040 
+
+     Number of Part Names: 0
+
+     Number of Part Labels: 0
+
+
+     Checking for value differences between symbol properties and PartsDB properties
+
+     Checking the validity of the packaging of prepackaged schematic
+      symbols.  Only the first error in symbols having the same
+      Reference Designator will be reported.
+
+     The packaging of all prepackaged schematic symbols is consistent
+      with the Parts DataBase data for the cross mapping of
+      symbol pin names to Part Number pin numbers.
+      Symbols that were not prepackaged will now be packaged correctly.
+      
+     No errors in Existing Schematic Packaging.
+
+     INFO: Cell (_VB_DRILL_DRAWING_)THRU is not in Central Library - Using local library.
+
+     INFO: Cell (_VB_DRILL_SYMBOLS_)THRU is not in Central Library - Using local library.
+
+     The Common DataBase has been read and will be packaged.
+     Clustering 276 Symbols:
+             276  *************************
+             250  **************************************************
+             200  **************************************************
+             150  **************************************************
+             100  **************************************************
+              50  **************************************************
+     Clustering is Complete
+
+     Packager Assignments successfully completed
+
+
+
+     129 nets were found containing 564 pins
+     276 components were found
+
+     Creating a formatted Schematic Netlist (LogFiles\SchematicNetlist.txt)...
+     A formatted Schematic Netlist has been created.
+
+     The Logic DataBase has been compiled from the Schematic Design.
+      Use Netload to bring the Component Design into sync.
+
+     Logic Data has been successfully Compiled with no errors or warnings.
+      Please proceed with your component Design.
+                                     NetLoad
+                                     -------
+
+                      02:48 PM Wednesday, February 28, 2018
+             Job Name: F:\TEXT  TEM\T3_COM_D-1\PCB\BOARD_2LAYER.pcb
+
+
+Version:  02.11.12
+
+	Netloading the Layout.  Unused components will be changed to spares.
+
+	Unconnected pins will be set to net "(Net0)".
+
+	Schematic reference designator changes will be forward annotated.
+
+
+     Netload completed successfully with 0 warning(s).
+     
+     Back Annotating...
+
+  Updating Logic Database...
+
+     Version:  99.00.05
+
+     No changes made to Existing Schematic Packaging.
+
+
+     There is no symbol data to be back annotated to the schematic source.
+
+
+     The Logic DataBase has been updated and the Common DataBase has
+      automatically been brought into sync with the Logic DataBase.
+      Please proceed with your design.
+
+     Finished updating the Logic Database.
+
+     Creating a formatted Schematic Netlist (LogFiles\AfterBakAnnoNetlist.txt)...
+     A formatted Schematic Netlist has been created.
+
+     Creating a new netlist text file (LogFiles\KeyinNetList.txt)
+      from the Logic Database (Work\Layout_Temp\LogicDB.lgc)...
+  A new netlist text file has been generated.
+
+
+
+                 Beginning Netload on the Layout Design.
+           ---------------------------------------------------
+
+Forward-Annotation on the Layout Design has been successfully completed.
+
+There were 0 reassignments of nets.
+There were 0 traces broken back.
+There were 0 nets removed from the Layout Design.

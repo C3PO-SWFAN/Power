@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                       01:02 PM Wednesday, March 19, 2014
+    Job Name: D:\lib dx\Work\CellEditorFiles\RELE SEMICONDUCTOR\C53TP50CH.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                       01:37 PM Wednesday, March 19, 2014
+    Job Name: D:\lib dx\Work\CellEditorFiles\RELE SEMICONDUCTOR\C53TP50CH.pcb
+

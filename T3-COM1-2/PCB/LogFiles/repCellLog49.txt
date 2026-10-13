@@ -1,0 +1,726 @@
+=======================================================================
+Expedition PCB - Pinnacle - Version 2013.0.540.971
+=======================================================================
+
+RELOAD CELLS
+
+Job Directory:  F:\TT18\GA\TRONCA-3\T3-COM1-2\PCB\
+
+
+Design Units:(mm)
+
+Replace Cell Log:   repCellLog49.txt
+
+Wed Mar 28 10:59:58 2018
+
+Reference Designator            Cell Name                         New Cell Name
+===============================================================================
+
+
+---------------  RELOAD CELLS  Wed Mar 28 10:59:58 2018  ---------------
+
+
+
+
+---------------  RELOAD CELLS TMP  Wed Mar 28 10:59:58 2018  ---------------
+
+
+H13                             0805-STANDART-2012-SVET           0805-STANDART-2012-SVET         
+TP42                            TEST-POINTS-1                     TEST-POINTS-1                   
+D1                              THN-30                            THN-30                          
+D9                              SOT-23-DBV-R-PDSO-G5-TI           SOT-23-DBV-R-PDSO-G5-TI         
+H5                              0805-STANDART-2012-SVET           0805-STANDART-2012-SVET         
+TP25                            TEST-POINTS-1                     TEST-POINTS-1                   
+C116                            0603-STANDART-1608                0603-STANDART-1608              
+R10                             2512-STANDART-6332                2512-STANDART-6332              
+R20                             2512-STANDART-6332                2512-STANDART-6332              
+R1                              2512-STANDART-6332                2512-STANDART-6332              
+R16                             2512-STANDART-6332                2512-STANDART-6332              
+R9                              2512-STANDART-6332                2512-STANDART-6332              
+TP21                            TEST-POINTS-1                     TEST-POINTS-1                   
+C11                             0603-STANDART-1608                0603-STANDART-1608              
+K7                              RT-2-TE-YNIVERSAL                 RT-2-TE-YNIVERSAL               
+TP34                            TEST-POINTS-1                     TEST-POINTS-1                   
+C123                            0603-STANDART-1608                0603-STANDART-1608              
+R88                             0603-STANDART-1608                0603-STANDART-1608              
+C51                             0805-STANDART-2012                0805-STANDART-2012              
+R174                            0603-STANDART-1608                0603-STANDART-1608              
+TP46                            TEST-POINTS-1                     TEST-POINTS-1                   
+TP32                            TEST-POINTS-1                     TEST-POINTS-1                   
+R76                             0603-STANDART-1608                0603-STANDART-1608              
+R114                            0603-STANDART-1608                0603-STANDART-1608              
+H10                             0805-STANDART-2012-SVET           0805-STANDART-2012-SVET         
+D35                             PW-R-PDSO-G20-TI                  PW-R-PDSO-G20-TI                
+TP7                             TEST-POINTS-1                     TEST-POINTS-1                   
+R70                             0603-STANDART-1608                0603-STANDART-1608              
+R53                             0603-STANDART-1608                0603-STANDART-1608              
+R146                            0603-STANDART-1608                0603-STANDART-1608              
+TP35                            TEST-POINTS-1                     TEST-POINTS-1                   
+C79                             0805-STANDART-2012                0805-STANDART-2012              
+R80                             0603-STANDART-1608                0603-STANDART-1608              
+R186                            0603-STANDART-1608                0603-STANDART-1608              
+X17                             IDS-20-V-2,54                     IDS-20-V-2,54                   
+C17                             0603-STANDART-1608                0603-STANDART-1608              
+R50                             0603-STANDART-1608                0603-STANDART-1608              
+D14                             SOT-23-DBV-R-PDSO-G5-TI           SOT-23-DBV-R-PDSO-G5-TI         
+H9                              0805-STANDART-2012-SVET           0805-STANDART-2012-SVET         
+D22                             SOT-23-DBV-R-PDSO-G5-TI           SOT-23-DBV-R-PDSO-G5-TI         
+R101                            0603-STANDART-1608                0603-STANDART-1608              
+C9                              0603-STANDART-1608                0603-STANDART-1608              
+L2                              1210-STANDART-3225                1210-STANDART-3225              
+R56                             0603-STANDART-1608                0603-STANDART-1608              
+R98                             0603-STANDART-1608                0603-STANDART-1608              
+KW6                             MGSHV-0_12-D1_3xd0_45             MGSHV-0_12-D1_3xd0_45           
+R135                            0603-STANDART-1608                0603-STANDART-1608              
+R37                             1206-STANDART-3216                1206-STANDART-3216              
+TP31                            TEST-POINTS-1                     TEST-POINTS-1                   
+R122                            0603-STANDART-1608                0603-STANDART-1608              
+R3                              2512-STANDART-6332                2512-STANDART-6332              
+R65                             0603-STANDART-1608                0603-STANDART-1608              
+R66                             0603-STANDART-1608                0603-STANDART-1608              
+H2                              0805-STANDART-2012-SVET           0805-STANDART-2012-SVET         
+H14                             0805-STANDART-2012-SVET           0805-STANDART-2012-SVET         
+V6                              SOD123-DIODES                     SOD123-DIODES                   
+R31                             2512-STANDART-6332                2512-STANDART-6332              
+V3                              SMB-ST                            SMB-ST                          
+L7                              1210-STANDART-3225                1210-STANDART-3225              
+R84                             0603-STANDART-1608                0603-STANDART-1608              
+D21                             SOT-23-DBV-R-PDSO-G5-TI           SOT-23-DBV-R-PDSO-G5-TI         
+V14                             RTVSxP1UP                         RTVSxP1UP                       
+TP29                            TEST-POINTS-1                     TEST-POINTS-1                   
+R125                            0603-STANDART-1608                0603-STANDART-1608              
+R130                            0603-STANDART-1608                0603-STANDART-1608              
+R108                            0603-STANDART-1608                0603-STANDART-1608              
+R42                             0603-STANDART-1608                0603-STANDART-1608              
+C119                            0603-STANDART-1608                0603-STANDART-1608              
+R73                             0603-STANDART-1608                0603-STANDART-1608              
+D27                             D_R_PDSO-G16                      D_R_PDSO-G16                    
+R152                            0603-STANDART-1608                0603-STANDART-1608              
+C1                              0603-STANDART-1608                0603-STANDART-1608              
+C72                             0805-STANDART-2012                0805-STANDART-2012              
+R32                             2512-STANDART-6332                2512-STANDART-6332              
+KW4                             MGSHV-0_12-D1_3xd0_45             MGSHV-0_12-D1_3xd0_45           
+R145                            0603-STANDART-1608                0603-STANDART-1608              
+C74                             0805-STANDART-2012                0805-STANDART-2012              
+R172                            0603-STANDART-1608                0603-STANDART-1608              
+R133                            0603-STANDART-1608                0603-STANDART-1608              
+R62                             0603-STANDART-1608                0603-STANDART-1608              
+R169                            0603-STANDART-1608                0603-STANDART-1608              
+R256                            0603-STANDART-1608                0603-STANDART-1608              
+R209                            0603-STANDART-1608                0603-STANDART-1608              
+C100                            1210-STANDART-3225                1210-STANDART-3225              
+C118                            0603-STANDART-1608                0603-STANDART-1608              
+C14                             0603-STANDART-1608                0603-STANDART-1608              
+C104                            0805-STANDART-2012                0805-STANDART-2012              
+R118                            0603-STANDART-1608                0603-STANDART-1608              
+C132                            0603-STANDART-1608                0603-STANDART-1608              
+R233                            0603-STANDART-1608                0603-STANDART-1608              
+C142                            CAP-EL-L7.5-D18,0                 CAP-EL-L7.5-D18,0               
+R179                            0603-STANDART-1608                0603-STANDART-1608              
+C67                             1206-STANDART-3216                1206-STANDART-3216              
+D24                             SOT-23-DBV-R-PDSO-G5-TI           SOT-23-DBV-R-PDSO-G5-TI         
+KW3                             MGSHV-0_12-D1_3xd0_45             MGSHV-0_12-D1_3xd0_45           
+D10                             SOT-23-DBV-R-PDSO-G5-TI           SOT-23-DBV-R-PDSO-G5-TI         
+R126                            0603-STANDART-1608                0603-STANDART-1608              
+V5                              SOD323F_SC90                      SOD323F_SC90                    
+K2                              RT-2-TE-YNIVERSAL                 RT-2-TE-YNIVERSAL               
+C88                             0805-STANDART-2012                0805-STANDART-2012              
+R199                            0603-STANDART-1608                0603-STANDART-1608              
+R166                            0603-STANDART-1608                0603-STANDART-1608              
+KW7                             MGSHV-0_12-D1_3xd0_45             MGSHV-0_12-D1_3xd0_45           
+K11                             RT-2-TE-YNIVERSAL                 RT-2-TE-YNIVERSAL               
+C106                            0603-STANDART-1608                0603-STANDART-1608              
+K4                              RT-2-TE-YNIVERSAL                 RT-2-TE-YNIVERSAL               
+C101                            1210-STANDART-3225                1210-STANDART-3225              
+V4                              SMB-ST                            SMB-ST                          
+C10                             0603-STANDART-1608                0603-STANDART-1608              
+X3                              2Rx4K_ANGLE                       2Rx4K_ANGLE                     
+K6                              RT-2-TE-YNIVERSAL                 RT-2-TE-YNIVERSAL               
+TP41                            TEST-POINTS-1                     TEST-POINTS-1                   
+C135                            0603-STANDART-1608                0603-STANDART-1608              
+R220                            0603-STANDART-1608                0603-STANDART-1608              
+C23                             0603-STANDART-1608                0603-STANDART-1608              
+X1                              2Rx4K_ANGLE                       2Rx4K_ANGLE                     
+C83                             0805-STANDART-2012                0805-STANDART-2012              
+D18                             8-SOIC-VISHAY                     8-SOIC-VISHAY                   
+V7                              SOD123-DIODES                     SOD123-DIODES                   
+X20                             2Rx6K                             2Rx6K                           
+R163                            0603-STANDART-1608                0603-STANDART-1608              
+TP38                            TEST-POINTS-1                     TEST-POINTS-1                   
+R164                            0603-STANDART-1608                0603-STANDART-1608              
+FB17                            0603-STANDART-1608                0603-STANDART-1608              
+C41                             0603-STANDART-1608                0603-STANDART-1608              
+H18                             0805-STANDART-2012-SVET           0805-STANDART-2012-SVET         
+R115                            0603-STANDART-1608                0603-STANDART-1608              
+C143                            CAP-EL-L7.5-D18,0                 CAP-EL-L7.5-D18,0               
+C107                            0603-STANDART-1608                0603-STANDART-1608              
+C112                            0603-STANDART-1608                0603-STANDART-1608              
+R159                            0603-STANDART-1608                0603-STANDART-1608              
+R182                            0603-STANDART-1608                0603-STANDART-1608              
+FB4                             0603-STANDART-1608                0603-STANDART-1608              
+R41                             0603-STANDART-1608                0603-STANDART-1608              
+R259                            0805-STANDART-2012                0805-STANDART-2012              
+TP47                            TEST-POINTS-1                     TEST-POINTS-1                   
+D38                             PW-R-PDSO-G20                     PW-R-PDSO-G20                   
+D15                             SOT-23-RT-3-AD                    SOT-23-RT-3-AD                  
+C128                            0603-STANDART-1608                0603-STANDART-1608              
+C78                             0805-STANDART-2012                0805-STANDART-2012              
+R165                            0603-STANDART-1608                0603-STANDART-1608              
+R24                             2512-STANDART-6332                2512-STANDART-6332              
+C70                             1210-STANDART-3225                1210-STANDART-3225              
+R155                            0603-STANDART-1608                0603-STANDART-1608              
+R221                            0603-STANDART-1608                0603-STANDART-1608              
+R168                            0603-STANDART-1608                0603-STANDART-1608              
+D30                             16-SOIC-VISHAY                    16-SOIC-VISHAY                  
+R217                            0603-STANDART-1608                0603-STANDART-1608              
+C60                             0805-STANDART-2012                0805-STANDART-2012              
+S2                              7914G                             7914G                           
+TP40                            TEST-POINTS-1                     TEST-POINTS-1                   
+C3                              0603-STANDART-1608                0603-STANDART-1608              
+H19                             0805-STANDART-2012-SVET           0805-STANDART-2012-SVET         
+R117                            0603-STANDART-1608                0603-STANDART-1608              
+R74                             0603-STANDART-1608                0603-STANDART-1608              
+D40                             PW-R-PDSO-G20                     PW-R-PDSO-G20                   
+K1                              RT-2-TE-YNIVERSAL                 RT-2-TE-YNIVERSAL               
+R176                            0603-STANDART-1608                0603-STANDART-1608              
+TP16                            TEST-POINTS-1                     TEST-POINTS-1                   
+R147                            0603-STANDART-1608                0603-STANDART-1608              
+R141                            0603-STANDART-1608                0603-STANDART-1608              
+R195                            0603-STANDART-1608                0603-STANDART-1608              
+C58                             0805-STANDART-2012                0805-STANDART-2012              
+C105                            0603-STANDART-1608                0603-STANDART-1608              
+R222                            0603-STANDART-1608                0603-STANDART-1608              
+C28                             0603-STANDART-1608                0603-STANDART-1608              
+TP28                            TEST-POINTS-1                     TEST-POINTS-1                   
+C84                             0805-STANDART-2012                0805-STANDART-2012              
+D42                             DBV_R-PDSO-G6                     DBV_R-PDSO-G6                   
+TP18                            TEST-POINTS-1                     TEST-POINTS-1                   
+R89                             0603-STANDART-1608                0603-STANDART-1608              
+X14                             2Rx4K_ANGLE                       2Rx4K_ANGLE                     
+R132                            0603-STANDART-1608                0603-STANDART-1608              
+C38                             0603-STANDART-1608                0603-STANDART-1608              
+TP26                            TEST-POINTS-1                     TEST-POINTS-1                   
+R208                            0603-STANDART-1608                0603-STANDART-1608              
+R123                            0603-STANDART-1608                0603-STANDART-1608              
+X9                              2Rx4K_ANGLE                       2Rx4K_ANGLE                     
+C36                             0603-STANDART-1608                0603-STANDART-1608              
+C98                             1210-STANDART-3225                1210-STANDART-3225              
+K14                             RT-2-TE-YNIVERSAL                 RT-2-TE-YNIVERSAL               
+C27                             0603-STANDART-1608                0603-STANDART-1608              
+R212                            0603-STANDART-1608                0603-STANDART-1608              
+D37                             SC-70-KS-6-AD                     SC-70-KS-6-AD                   
+R46                             0603-STANDART-1608                0603-STANDART-1608              
+D31                             16-SOIC-VISHAY                    16-SOIC-VISHAY                  
+C81                             0805-STANDART-2012                0805-STANDART-2012              
+R112                            0603-STANDART-1608                0603-STANDART-1608              
+D19                             8-SOIC-VISHAY                     8-SOIC-VISHAY                   
+R213                            0603-STANDART-1608                0603-STANDART-1608              
+R193                            0603-STANDART-1608                0603-STANDART-1608              
+R205                            0603-STANDART-1608                0603-STANDART-1608              
+C89                             0805-STANDART-2012                0805-STANDART-2012              
+R21                             2512-STANDART-6332                2512-STANDART-6332              
+D12                             SOT-23-DBV-R-PDSO-G5-TI           SOT-23-DBV-R-PDSO-G5-TI         
+D34                             PW-R-PDSO-G20-TI                  PW-R-PDSO-G20-TI                
+R243                            0603-STANDART-1608                0603-STANDART-1608              
+R105                            1210-STANDART-3225                1210-STANDART-3225              
+R69                             0603-STANDART-1608                0603-STANDART-1608              
+X4                              2Rx4K_ANGLE                       2Rx4K_ANGLE                     
+D32                             16-SOIC-VISHAY                    16-SOIC-VISHAY                  
+FB8                             0603-STANDART-1608                0603-STANDART-1608              
+C33                             0603-STANDART-1608                0603-STANDART-1608              
+R94                             0603-STANDART-1608                0603-STANDART-1608              
+R75                             0603-STANDART-1608                0603-STANDART-1608              
+R121                            0603-STANDART-1608                0603-STANDART-1608              
+R178                            0603-STANDART-1608                0603-STANDART-1608              
+R103                            0603-STANDART-1608                0603-STANDART-1608              
+C44                             0603-STANDART-1608                0603-STANDART-1608              
+X21                             M80-VERT-J-TEK-26                 M80-VERT-J-TEK-26               
+C134                            0603-STANDART-1608                0603-STANDART-1608              
+FB1                             0603-STANDART-1608                0603-STANDART-1608              
+R175                            0603-STANDART-1608                0603-STANDART-1608              
+R2                              2512-STANDART-6332                2512-STANDART-6332              
+H22                             0805-STANDART-2012-SVET           0805-STANDART-2012-SVET         
+R241                            0603-STANDART-1608                0603-STANDART-1608              
+TP15                            TEST-POINTS-1                     TEST-POINTS-1                   
+R29                             2512-STANDART-6332                2512-STANDART-6332              
+TP43                            TEST-POINTS-1                     TEST-POINTS-1                   
+R34                             2512-STANDART-6332                2512-STANDART-6332              
+C131                            0603-STANDART-1608                0603-STANDART-1608              
+FB2                             0603-STANDART-1608                0603-STANDART-1608              
+R235                            2512-STANDART-6332                2512-STANDART-6332              
+R242                            0603-STANDART-1608                0603-STANDART-1608              
+R52                             0603-STANDART-1608                0603-STANDART-1608              
+C30                             0603-STANDART-1608                0603-STANDART-1608              
+R58                             0603-STANDART-1608                0603-STANDART-1608              
+FB11                            0603-STANDART-1608                0603-STANDART-1608              
+C120                            0603-STANDART-1608                0603-STANDART-1608              
+C21                             0603-STANDART-1608                0603-STANDART-1608              
+TP19                            TEST-POINTS-1                     TEST-POINTS-1                   
+C109                            0603-STANDART-1608                0603-STANDART-1608              
+R197                            0603-STANDART-1608                0603-STANDART-1608              
+R59                             0603-STANDART-1608                0603-STANDART-1608              
+C4                              0603-STANDART-1608                0603-STANDART-1608              
+C64                             1808-STANDART-4520                1808-STANDART-4520              
+C61                             0805-STANDART-2012                0805-STANDART-2012              
+R43                             0603-STANDART-1608                0603-STANDART-1608              
+R79                             0603-STANDART-1608                0603-STANDART-1608              
+C111                            0603-STANDART-1608                0603-STANDART-1608              
+C13                             0603-STANDART-1608                0603-STANDART-1608              
+K15                             RT-2-TE-YNIVERSAL                 RT-2-TE-YNIVERSAL               
+C35                             0603-STANDART-1608                0603-STANDART-1608              
+TP22                            TEST-POINTS-1                     TEST-POINTS-1                   
+C39                             0603-STANDART-1608                0603-STANDART-1608              
+D2                              DPAK-3-TO252-ONSEMI               DPAK-3-TO252-ONSEMI             
+C133                            0603-STANDART-1608                0603-STANDART-1608              
+R185                            0603-STANDART-1608                0603-STANDART-1608              
+C45                             0805-STANDART-2012                0805-STANDART-2012              
+R127                            0603-STANDART-1608                0603-STANDART-1608              
+R93                             0603-STANDART-1608                0603-STANDART-1608              
+R22                             2512-STANDART-6332                2512-STANDART-6332              
+R154                            0603-STANDART-1608                0603-STANDART-1608              
+C32                             0603-STANDART-1608                0603-STANDART-1608              
+C63                             0805-STANDART-2012                0805-STANDART-2012              
+C80                             0805-STANDART-2012                0805-STANDART-2012              
+X5                              2Rx4K_ANGLE                       2Rx4K_ANGLE                     
+R23                             2512-STANDART-6332                2512-STANDART-6332              
+D23                             SOT-23-DBV-R-PDSO-G5-TI           SOT-23-DBV-R-PDSO-G5-TI         
+R234                            2512-STANDART-6332                2512-STANDART-6332              
+FB3                             0603-STANDART-1608                0603-STANDART-1608              
+R245                            0603-STANDART-1608                0603-STANDART-1608              
+C49                             0805-STANDART-2012                0805-STANDART-2012              
+TP48                            TEST-POINTS-1                     TEST-POINTS-1                   
+C12                             0603-STANDART-1608                0603-STANDART-1608              
+R225                            0603-STANDART-1608                0603-STANDART-1608              
+TP30                            TEST-POINTS-1                     TEST-POINTS-1                   
+C8                              0603-STANDART-1608                0603-STANDART-1608              
+R33                             2512-STANDART-6332                2512-STANDART-6332              
+R161                            0603-STANDART-1608                0603-STANDART-1608              
+C68                             1206-STANDART-3216                1206-STANDART-3216              
+R204                            0603-STANDART-1608                0603-STANDART-1608              
+C25                             0603-STANDART-1608                0603-STANDART-1608              
+V9                              SOD123-DIODES                     SOD123-DIODES                   
+R206                            0603-STANDART-1608                0603-STANDART-1608              
+KW9                             MGSHV-0_2-D1_6xd0_62_d1_7         MGSHV-0_2-D1_6xd0_62_d1_7       
+C93                             0805-STANDART-2012                0805-STANDART-2012              
+R28                             2512-STANDART-6332                2512-STANDART-6332              
+C37                             0603-STANDART-1608                0603-STANDART-1608              
+H7                              0805-STANDART-2012-SVET           0805-STANDART-2012-SVET         
+C94                             0805-STANDART-2012                0805-STANDART-2012              
+H3                              0805-STANDART-2012-SVET           0805-STANDART-2012-SVET         
+R109                            0603-STANDART-1608                0603-STANDART-1608              
+R128                            0603-STANDART-1608                0603-STANDART-1608              
+C69                             1206-STANDART-3216                1206-STANDART-3216              
+V16                             RTVSxP1UP                         RTVSxP1UP                       
+R13                             2512-STANDART-6332                2512-STANDART-6332              
+L3                              1210-STANDART-3225                1210-STANDART-3225              
+R14                             2512-STANDART-6332                2512-STANDART-6332              
+R137                            0603-STANDART-1608                0603-STANDART-1608              
+D4                              DVB-R-PDSO-G12/G28                DVB-R-PDSO-G12/G28              
+R99                             0603-STANDART-1608                0603-STANDART-1608              
+FB18                            0603-STANDART-1608                0603-STANDART-1608              
+C140                            0805-STANDART-2012                0805-STANDART-2012              
+R223                            0603-STANDART-1608                0603-STANDART-1608              
+R78                             0603-STANDART-1608                0603-STANDART-1608              
+C48                             0805-STANDART-2012                0805-STANDART-2012              
+R153                            0603-STANDART-1608                0603-STANDART-1608              
+R8                              2512-STANDART-6332                2512-STANDART-6332              
+V10                             SOD123-DIODES                     SOD123-DIODES                   
+R100                            0603-STANDART-1608                0603-STANDART-1608              
+R171                            0603-STANDART-1608                0603-STANDART-1608              
+R151                            0603-STANDART-1608                0603-STANDART-1608              
+R170                            0603-STANDART-1608                0603-STANDART-1608              
+R134                            0603-STANDART-1608                0603-STANDART-1608              
+C85                             0805-STANDART-2012                0805-STANDART-2012              
+R162                            0603-STANDART-1608                0603-STANDART-1608              
+R124                            0603-STANDART-1608                0603-STANDART-1608              
+C97                             1210-STANDART-3225                1210-STANDART-3225              
+K16                             RT-2-TE-YNIVERSAL                 RT-2-TE-YNIVERSAL               
+R27                             2512-STANDART-6332                2512-STANDART-6332              
+R140                            0603-STANDART-1608                0603-STANDART-1608              
+C46                             0805-STANDART-2012                0805-STANDART-2012              
+C57                             0805-STANDART-2012                0805-STANDART-2012              
+L5                              1210-STANDART-3225                1210-STANDART-3225              
+FB10                            0603-STANDART-1608                0603-STANDART-1608              
+L8                              6540_SRP_SERIES_7t5x6t5_H4        6540_SRP_SERIES_7t5x6t5_H4      
+C31                             0603-STANDART-1608                0603-STANDART-1608              
+TP3                             TEST-POINTS-1                     TEST-POINTS-1                   
+R119                            0603-STANDART-1608                0603-STANDART-1608              
+C6                              0603-STANDART-1608                0603-STANDART-1608              
+TP14                            TEST-POINTS-1                     TEST-POINTS-1                   
+C129                            0603-STANDART-1608                0603-STANDART-1608              
+X13                             2Rx4K_ANGLE                       2Rx4K_ANGLE                     
+R131                            0603-STANDART-1608                0603-STANDART-1608              
+R150                            0603-STANDART-1608                0603-STANDART-1608              
+TP20                            TEST-POINTS-1                     TEST-POINTS-1                   
+R232                            0603-STANDART-1608                0603-STANDART-1608              
+C137                            0603-STANDART-1608                0603-STANDART-1608              
+D33                             16-SOIC-VISHAY                    16-SOIC-VISHAY                  
+C47                             0805-STANDART-2012                0805-STANDART-2012              
+TP2                             TEST-POINTS-1                     TEST-POINTS-1                   
+C71                             1210-STANDART-3225                1210-STANDART-3225              
+K12                             RT-2-TE-YNIVERSAL                 RT-2-TE-YNIVERSAL               
+C54                             0805-STANDART-2012                0805-STANDART-2012              
+R30                             2512-STANDART-6332                2512-STANDART-6332              
+R227                            0603-STANDART-1608                0603-STANDART-1608              
+R157                            0603-STANDART-1608                0603-STANDART-1608              
+R187                            0603-STANDART-1608                0603-STANDART-1608              
+C5                              0603-STANDART-1608                0603-STANDART-1608              
+C59                             0805-STANDART-2012                0805-STANDART-2012              
+R19                             2512-STANDART-6332                2512-STANDART-6332              
+V11                             SOD123-DIODES                     SOD123-DIODES                   
+R177                            0603-STANDART-1608                0603-STANDART-1608              
+X22                             2Rx4K                             2Rx4K                           
+TP13                            TEST-POINTS-1                     TEST-POINTS-1                   
+C76                             0805-STANDART-2012                0805-STANDART-2012              
+H20                             0805-STANDART-2012-SVET           0805-STANDART-2012-SVET         
+R26                             2512-STANDART-6332                2512-STANDART-6332              
+R216                            0603-STANDART-1608                0603-STANDART-1608              
+TP1                             TEST-POINTS-1                     TEST-POINTS-1                   
+C2                              0603-STANDART-1608                0603-STANDART-1608              
+X15                             2Rx4K_ANGLE                       2Rx4K_ANGLE                     
+R25                             2512-STANDART-6332                2512-STANDART-6332              
+L6                              1210-STANDART-3225                1210-STANDART-3225              
+R12                             2512-STANDART-6332                2512-STANDART-6332              
+X7                              2Rx4K_ANGLE                       2Rx4K_ANGLE                     
+C127                            0603-STANDART-1608                0603-STANDART-1608              
+R230                            0603-STANDART-1608                0603-STANDART-1608              
+TP23                            TEST-POINTS-1                     TEST-POINTS-1                   
+R249                            0603-STANDART-1608                0603-STANDART-1608              
+D11                             SOT-23-DBV-R-PDSO-G5-TI           SOT-23-DBV-R-PDSO-G5-TI         
+FB6                             0603-STANDART-1608                0603-STANDART-1608              
+FB13                            0603-STANDART-1608                0603-STANDART-1608              
+R257                            0603-STANDART-1608                0603-STANDART-1608              
+R194                            0603-STANDART-1608                0603-STANDART-1608              
+R240                            0603-STANDART-1608                0603-STANDART-1608              
+R120                            0603-STANDART-1608                0603-STANDART-1608              
+C56                             0805-STANDART-2012                0805-STANDART-2012              
+TP10                            TEST-POINTS-1                     TEST-POINTS-1                   
+R136                            0603-STANDART-1608                0603-STANDART-1608              
+R231                            0603-STANDART-1608                0603-STANDART-1608              
+C139                            0805-STANDART-2012                0805-STANDART-2012              
+FB5                             0603-STANDART-1608                0603-STANDART-1608              
+C114                            0603-STANDART-1608                0603-STANDART-1608              
+K5                              RT-2-TE-YNIVERSAL                 RT-2-TE-YNIVERSAL               
+C22                             0603-STANDART-1608                0603-STANDART-1608              
+TP17                            TEST-POINTS-1                     TEST-POINTS-1                   
+D13                             SOT-23-DBV-R-PDSO-G5-TI           SOT-23-DBV-R-PDSO-G5-TI         
+R18                             2512-STANDART-6332                2512-STANDART-6332              
+C87                             0805-STANDART-2012                0805-STANDART-2012              
+TP6                             TEST-POINTS-1                     TEST-POINTS-1                   
+V2                              SMB-ST                            SMB-ST                          
+R4                              2512-STANDART-6332                2512-STANDART-6332              
+R142                            0603-STANDART-1608                0603-STANDART-1608              
+C117                            0603-STANDART-1608                0603-STANDART-1608              
+R72                             0603-STANDART-1608                0603-STANDART-1608              
+R236                            2512-STANDART-6332                2512-STANDART-6332              
+R55                             0603-STANDART-1608                0603-STANDART-1608              
+R207                            0603-STANDART-1608                0603-STANDART-1608              
+R77                             0603-STANDART-1608                0603-STANDART-1608              
+C24                             0603-STANDART-1608                0603-STANDART-1608              
+R96                             0603-STANDART-1608                0603-STANDART-1608              
+R91                             0603-STANDART-1608                0603-STANDART-1608              
+R183                            0603-STANDART-1608                0603-STANDART-1608              
+R61                             0603-STANDART-1608                0603-STANDART-1608              
+C53                             0805-STANDART-2012                0805-STANDART-2012              
+R15                             2512-STANDART-6332                2512-STANDART-6332              
+R81                             0603-STANDART-1608                0603-STANDART-1608              
+C95                             1210-STANDART-3225                1210-STANDART-3225              
+R63                             0603-STANDART-1608                0603-STANDART-1608              
+H1                              0805-STANDART-2012-SVET           0805-STANDART-2012-SVET         
+R144                            0603-STANDART-1608                0603-STANDART-1608              
+TP45                            TEST-POINTS-1                     TEST-POINTS-1                   
+R51                             0603-STANDART-1608                0603-STANDART-1608              
+K13                             RT-2-TE-YNIVERSAL                 RT-2-TE-YNIVERSAL               
+R47                             0603-STANDART-1608                0603-STANDART-1608              
+C62                             0805-STANDART-2012                0805-STANDART-2012              
+R196                            0603-STANDART-1608                0603-STANDART-1608              
+R35                             1206-STANDART-3216                1206-STANDART-3216              
+R251                            0603-STANDART-1608                0603-STANDART-1608              
+R111                            0603-STANDART-1608                0603-STANDART-1608              
+TP12                            TEST-POINTS-1                     TEST-POINTS-1                   
+R252                            0603-STANDART-1608                0603-STANDART-1608              
+R68                             0603-STANDART-1608                0603-STANDART-1608              
+C122                            0603-STANDART-1608                0603-STANDART-1608              
+R11                             2512-STANDART-6332                2512-STANDART-6332              
+C141                            0805-STANDART-2012                0805-STANDART-2012              
+X8                              2Rx4K_ANGLE                       2Rx4K_ANGLE                     
+R190                            0603-STANDART-1608                0603-STANDART-1608              
+TP8                             TEST-POINTS-1                     TEST-POINTS-1                   
+C136                            0603-STANDART-1608                0603-STANDART-1608              
+C92                             0805-STANDART-2012                0805-STANDART-2012              
+FB12                            0603-STANDART-1608                0603-STANDART-1608              
+D28                             D_R_PDSO-G16                      D_R_PDSO-G16                    
+H6                              0805-STANDART-2012-SVET           0805-STANDART-2012-SVET         
+X18                             IDS-16-V-2,54                     IDS-16-V-2,54                   
+X19                             2Rx6K                             2Rx6K                           
+R181                            0603-STANDART-1608                0603-STANDART-1608              
+C15                             0603-STANDART-1608                0603-STANDART-1608              
+R36                             1206-STANDART-3216                1206-STANDART-3216              
+R48                             0603-STANDART-1608                0603-STANDART-1608              
+C66                             1206-STANDART-3216                1206-STANDART-3216              
+K8                              RT-2-TE-YNIVERSAL                 RT-2-TE-YNIVERSAL               
+R238                            2512-STANDART-6332                2512-STANDART-6332              
+V13                             RTVSxP1UP                         RTVSxP1UP                       
+H15                             0805-STANDART-2012-SVET           0805-STANDART-2012-SVET         
+D39                             PW-R-PDSO-G20                     PW-R-PDSO-G20                   
+D29                             16-SOIC-7mm5W-Allegro             16-SOIC-7mm5W-Allegro           
+R92                             0603-STANDART-1608                0603-STANDART-1608              
+V17                             SOD323F_SC90                      SOD323F_SC90                    
+V15                             RTVSxP1UP                         RTVSxP1UP                       
+TP11                            TEST-POINTS-1                     TEST-POINTS-1                   
+C19                             0603-STANDART-1608                0603-STANDART-1608              
+R244                            0603-STANDART-1608                0603-STANDART-1608              
+C126                            0603-STANDART-1608                0603-STANDART-1608              
+TP9                             TEST-POINTS-1                     TEST-POINTS-1                   
+R60                             0603-STANDART-1608                0603-STANDART-1608              
+R39                             1206-STANDART-3216                1206-STANDART-3216              
+C130                            0603-STANDART-1608                0603-STANDART-1608              
+R5                              2512-STANDART-6332                2512-STANDART-6332              
+TP44                            TEST-POINTS-1                     TEST-POINTS-1                   
+X11                             2Rx4K_ANGLE                       2Rx4K_ANGLE                     
+H4                              0805-STANDART-2012-SVET           0805-STANDART-2012-SVET         
+D3                              DPAK-3-TO252-ONSEMI               DPAK-3-TO252-ONSEMI             
+D7                              SOT-23-DBV-R-PDSO-G5-TI           SOT-23-DBV-R-PDSO-G5-TI         
+R106                            1210-STANDART-3225                1210-STANDART-3225              
+X6                              2Rx4K_ANGLE                       2Rx4K_ANGLE                     
+C91                             0805-STANDART-2012                0805-STANDART-2012              
+TP36                            TEST-POINTS-1                     TEST-POINTS-1                   
+R184                            0603-STANDART-1608                0603-STANDART-1608              
+R102                            0603-STANDART-1608                0603-STANDART-1608              
+D16                             SOT-23-DBV-R-PDSO-G5-TI           SOT-23-DBV-R-PDSO-G5-TI         
+D26                             D_R_PDSO-G16                      D_R_PDSO-G16                    
+KW2                             MGSHV-0_12-D1_3xd0_45             MGSHV-0_12-D1_3xd0_45           
+R201                            0603-STANDART-1608                0603-STANDART-1608              
+V12                             RTVSxP1UP                         RTVSxP1UP                       
+R40                             1206-STANDART-3216                1206-STANDART-3216              
+R258                            0805-STANDART-2012                0805-STANDART-2012              
+R250                            0603-STANDART-1608                0603-STANDART-1608              
+R237                            2512-STANDART-6332                2512-STANDART-6332              
+C26                             0603-STANDART-1608                0603-STANDART-1608              
+C82                             0805-STANDART-2012                0805-STANDART-2012              
+KW5                             MGSHV-0_12-D1_3xd0_45             MGSHV-0_12-D1_3xd0_45           
+FB9                             0603-STANDART-1608                0603-STANDART-1608              
+TP5                             TEST-POINTS-1                     TEST-POINTS-1                   
+R192                            0603-STANDART-1608                0603-STANDART-1608              
+D36                             D_R_PDSO_G14                      D_R_PDSO_G14                    
+R17                             2512-STANDART-6332                2512-STANDART-6332              
+R219                            0603-STANDART-1608                0603-STANDART-1608              
+C96                             1210-STANDART-3225                1210-STANDART-3225              
+C18                             0603-STANDART-1608                0603-STANDART-1608              
+R211                            0603-STANDART-1608                0603-STANDART-1608              
+R104                            1210-STANDART-3225                1210-STANDART-3225              
+K9                              RT-2-TE-YNIVERSAL                 RT-2-TE-YNIVERSAL               
+R64                             0603-STANDART-1608                0603-STANDART-1608              
+TP24                            TEST-POINTS-1                     TEST-POINTS-1                   
+FB7                             0603-STANDART-1608                0603-STANDART-1608              
+R44                             0603-STANDART-1608                0603-STANDART-1608              
+H11                             0805-STANDART-2012-SVET           0805-STANDART-2012-SVET         
+C7                              0603-STANDART-1608                0603-STANDART-1608              
+C77                             0805-STANDART-2012                0805-STANDART-2012              
+R180                            0603-STANDART-1608                0603-STANDART-1608              
+FB14                            0603-STANDART-1608                0603-STANDART-1608              
+D20                             SOT-23-DBV-R-PDSO-G5-TI           SOT-23-DBV-R-PDSO-G5-TI         
+V1                              SMB-ST                            SMB-ST                          
+R90                             0603-STANDART-1608                0603-STANDART-1608              
+R158                            0603-STANDART-1608                0603-STANDART-1608              
+C125                            0603-STANDART-1608                0603-STANDART-1608              
+C55                             0805-STANDART-2012                0805-STANDART-2012              
+R149                            0603-STANDART-1608                0603-STANDART-1608              
+R38                             1206-STANDART-3216                1206-STANDART-3216              
+R215                            0603-STANDART-1608                0603-STANDART-1608              
+C108                            0603-STANDART-1608                0603-STANDART-1608              
+X10                             2Rx4K_ANGLE                       2Rx4K_ANGLE                     
+R191                            0603-STANDART-1608                0603-STANDART-1608              
+R97                             0603-STANDART-1608                0603-STANDART-1608              
+C34                             0603-STANDART-1608                0603-STANDART-1608              
+C113                            0603-STANDART-1608                0603-STANDART-1608              
+R254                            0603-STANDART-1608                0603-STANDART-1608              
+H17                             0805-STANDART-2012-SVET           0805-STANDART-2012-SVET         
+TP39                            TEST-POINTS-1                     TEST-POINTS-1                   
+
+
+---------------    Wed Mar 28 11:00:00 2018  ---------------
+
+
+
+
+---------------  RELOAD CELLS TMP  Wed Mar 28 11:00:00 2018  ---------------
+
+
+R110                            0603-STANDART-1608                0603-STANDART-1608              
+R226                            0603-STANDART-1608                0603-STANDART-1608              
+R87                             0603-STANDART-1608                0603-STANDART-1608              
+FB16                            0603-STANDART-1608                0603-STANDART-1608              
+H16                             0805-STANDART-2012-SVET           0805-STANDART-2012-SVET         
+C102                            1210-STANDART-3225                1210-STANDART-3225              
+R198                            0603-STANDART-1608                0603-STANDART-1608              
+R71                             0603-STANDART-1608                0603-STANDART-1608              
+KW10                            MGSHV-0_2-D1_6xd0_62_d1_7         MGSHV-0_2-D1_6xd0_62_d1_7       
+R255                            0603-STANDART-1608                0603-STANDART-1608              
+K3                              RT-2-TE-YNIVERSAL                 RT-2-TE-YNIVERSAL               
+R188                            0603-STANDART-1608                0603-STANDART-1608              
+TP33                            TEST-POINTS-1                     TEST-POINTS-1                   
+TP27                            TEST-POINTS-1                     TEST-POINTS-1                   
+KW1                             MGSHV-0_12-D1_3xd0_45             MGSHV-0_12-D1_3xd0_45           
+R67                             0603-STANDART-1608                0603-STANDART-1608              
+R54                             0603-STANDART-1608                0603-STANDART-1608              
+TP49                            TEST-POINTS-1                     TEST-POINTS-1                   
+R203                            0603-STANDART-1608                0603-STANDART-1608              
+R246                            0603-STANDART-1608                0603-STANDART-1608              
+R156                            0603-STANDART-1608                0603-STANDART-1608              
+KW8                             MGSHV-0_12-D1_3xd0_45             MGSHV-0_12-D1_3xd0_45           
+D25                             SOT-23-DBV-R-PDSO-G5-TI           SOT-23-DBV-R-PDSO-G5-TI         
+R143                            0603-STANDART-1608                0603-STANDART-1608              
+R107                            1210-STANDART-3225                1210-STANDART-3225              
+C29                             0603-STANDART-1608                0603-STANDART-1608              
+R85                             0603-STANDART-1608                0603-STANDART-1608              
+R83                             0603-STANDART-1608                0603-STANDART-1608              
+R138                            0603-STANDART-1608                0603-STANDART-1608              
+R49                             0603-STANDART-1608                0603-STANDART-1608              
+C16                             0603-STANDART-1608                0603-STANDART-1608              
+R45                             0603-STANDART-1608                0603-STANDART-1608              
+H8                              0805-STANDART-2012-SVET           0805-STANDART-2012-SVET         
+R139                            0603-STANDART-1608                0603-STANDART-1608              
+D8                              SOT-23-DBV-R-PDSO-G5-TI           SOT-23-DBV-R-PDSO-G5-TI         
+R116                            0603-STANDART-1608                0603-STANDART-1608              
+X16                             2Rx4K_ANGLE                       2Rx4K_ANGLE                     
+C121                            0603-STANDART-1608                0603-STANDART-1608              
+L1                              SR0905                            SR0905                          
+C52                             0805-STANDART-2012                0805-STANDART-2012              
+V8                              SOD123-DIODES                     SOD123-DIODES                   
+C110                            0603-STANDART-1608                0603-STANDART-1608              
+R229                            0603-STANDART-1608                0603-STANDART-1608              
+C115                            0603-STANDART-1608                0603-STANDART-1608              
+C20                             0603-STANDART-1608                0603-STANDART-1608              
+C75                             0805-STANDART-2012                0805-STANDART-2012              
+D6                              MSOP-RM-10-AD                     MSOP-RM-10-AD                   
+R160                            0603-STANDART-1608                0603-STANDART-1608              
+D41                             PW-R-PDSO-G20                     PW-R-PDSO-G20                   
+C43                             0603-STANDART-1608                0603-STANDART-1608              
+X12                             2Rx4K_ANGLE                       2Rx4K_ANGLE                     
+R239                            1210-STANDART-3225                1210-STANDART-3225              
+R167                            0603-STANDART-1608                0603-STANDART-1608              
+R6                              2512-STANDART-6332                2512-STANDART-6332              
+R82                             0603-STANDART-1608                0603-STANDART-1608              
+R148                            0603-STANDART-1608                0603-STANDART-1608              
+S1                              7914G                             7914G                           
+C73                             0805-STANDART-2012                0805-STANDART-2012              
+C103                            1210-STANDART-3225                1210-STANDART-3225              
+C65                             1808-STANDART-4520                1808-STANDART-4520              
+C138                            0603-STANDART-1608                0603-STANDART-1608              
+R248                            0603-STANDART-1608                0603-STANDART-1608              
+R253                            0603-STANDART-1608                0603-STANDART-1608              
+R202                            0603-STANDART-1608                0603-STANDART-1608              
+TP37                            TEST-POINTS-1                     TEST-POINTS-1                   
+D17                             D_R_PDSO_G14                      D_R_PDSO_G14                    
+R95                             0603-STANDART-1608                0603-STANDART-1608              
+R228                            0603-STANDART-1608                0603-STANDART-1608              
+FB15                            0603-STANDART-1608                0603-STANDART-1608              
+R214                            0603-STANDART-1608                0603-STANDART-1608              
+TP4                             TEST-POINTS-1                     TEST-POINTS-1                   
+C90                             0805-STANDART-2012                0805-STANDART-2012              
+H12                             0805-STANDART-2012-SVET           0805-STANDART-2012-SVET         
+R173                            0603-STANDART-1608                0603-STANDART-1608              
+H21                             0805-STANDART-2012-SVET           0805-STANDART-2012-SVET         
+R247                            0603-STANDART-1608                0603-STANDART-1608              
+D43                             SOIC-8-SIL-LAB-NB                 SOIC-8-SIL-LAB-NB               
+C42                             0603-STANDART-1608                0603-STANDART-1608              
+L4                              1210-STANDART-3225                1210-STANDART-3225              
+R224                            0603-STANDART-1608                0603-STANDART-1608              
+C50                             0805-STANDART-2012                0805-STANDART-2012              
+R189                            0603-STANDART-1608                0603-STANDART-1608              
+R57                             0603-STANDART-1608                0603-STANDART-1608              
+R218                            0603-STANDART-1608                0603-STANDART-1608              
+R7                              2512-STANDART-6332                2512-STANDART-6332              
+K10                             RT-2-TE-YNIVERSAL                 RT-2-TE-YNIVERSAL               
+C86                             0805-STANDART-2012                0805-STANDART-2012              
+R200                            0603-STANDART-1608                0603-STANDART-1608              
+C40                             0603-STANDART-1608                0603-STANDART-1608              
+R86                             0603-STANDART-1608                0603-STANDART-1608              
+C99                             1210-STANDART-3225                1210-STANDART-3225              
+R113                            0603-STANDART-1608                0603-STANDART-1608              
+D5                              DBV_R-PDSO-G6                     DBV_R-PDSO-G6                   
+X2                              2Rx4K_ANGLE                       2Rx4K_ANGLE                     
+R129                            0603-STANDART-1608                0603-STANDART-1608              
+R210                            0603-STANDART-1608                0603-STANDART-1608              
+C124                            0603-STANDART-1608                0603-STANDART-1608              
+
+
+---------------    Wed Mar 28 11:00:00 2018  ---------------
+
+
+
+
+---------------    Wed Mar 28 11:00:00 2018  ---------------
+
+
+
+
+---------------  RELOAD CELLS  Wed Mar 28 11:11:11 2018  ---------------
+
+
+
+
+---------------    Wed Mar 28 11:11:11 2018  ---------------
+
+
+
+
+---------------  RELOAD CELLS  Wed Mar 28 11:24:00 2018  ---------------
+
+
+
+
+---------------    Wed Mar 28 11:24:00 2018  ---------------
+
+
+
+
+---------------    Wed Mar 28 11:25:21 2018  ---------------
+
+
+
+
+---------------    Wed Mar 28 11:25:29 2018  ---------------
+
+
+
+
+---------------    Wed Mar 28 11:26:10 2018  ---------------
+
+
+
+
+---------------  RELOAD CELLS  Wed Mar 28 11:40:37 2018  ---------------
+
+
+
+
+---------------    Wed Mar 28 11:40:37 2018  ---------------
+
+
+
+
+---------------  RELOAD CELLS  Wed Mar 28 11:47:47 2018  ---------------
+
+
+
+
+---------------    Wed Mar 28 11:47:47 2018  ---------------
+
+
+
+
+---------------    Wed Mar 28 11:48:02 2018  ---------------
+
+
+
+
+---------------    Wed Mar 28 11:48:07 2018  ---------------
+
+
+
+
+---------------    Wed Mar 28 11:48:50 2018  ---------------
+
+

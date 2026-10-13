@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                       12:19 PM Wednesday, April 16, 2014
+        Job Name: D:\lib dx\Work\CellEditorFiles\QSOP-AD\QSOP-RQ16-AD.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                       12:26 PM Wednesday, April 16, 2014
+        Job Name: D:\lib dx\Work\CellEditorFiles\QSOP-AD\QSOP-RQ16-AD.pcb
+

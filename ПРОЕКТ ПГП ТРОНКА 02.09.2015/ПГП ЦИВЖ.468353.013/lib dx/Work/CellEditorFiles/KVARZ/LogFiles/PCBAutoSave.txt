@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                          09:07 PM Monday, May 18, 2015
+     Job Name: D:\lib dx\Work\CellEditorFiles\KVARZ\SMD-2-5x3,2-MODEL445.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                          09:10 PM Monday, May 18, 2015
+     Job Name: D:\lib dx\Work\CellEditorFiles\KVARZ\SMD-2-5x3,2-MODEL445.pcb
+

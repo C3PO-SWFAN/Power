@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                        07:37 PM Thursday, June 04, 2015
+         Job Name: D:\lib dx\Work\CellEditorFiles\CAP-EL\D5x11x2-VER.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                        07:37 PM Thursday, June 04, 2015
+         Job Name: D:\lib dx\Work\CellEditorFiles\CAP-EL\D5x11x2-VER.pcb
+

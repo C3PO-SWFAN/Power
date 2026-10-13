@@ -1,0 +1,614 @@
+[2026.07.29 10:20:26] [0000m.00s.045ms] [0] WELCOME
+[2026.07.29 10:20:26] [0000m.00s.045ms] [1] iCDB Server ver.2.211, Xoetbt//r2sGE9TmsNJ3zA, build:20123704 created 2022-02-01 11:52:52, sources stamp:Xoetbt//r2sGE9TmsNJ3zA
+[2026.07.29 10:20:26] [0000m.00s.045ms] [1] Unpublished work. Copyright 2022 Siemens\r\n\r\nThis material contains trade secrets or otherwise confidential\r\ninformation owned by Siemens Industry Software Inc.\r\nor its affiliates (collectively, 'SISW'), or its licensors.\r\nAccess to and use of this information is strictly limited\r\nas set forth in the Customer's applicable agreements with SISW.
+[2026.07.29 10:20:26] [0000m.00s.046ms] [1] Base flow version [VX.2.11]
+[2026.07.29 10:20:26] [0000m.00s.046ms] [1] Install Id [2431697], Flow Id [X-ENTP VX.2.11], Full Flow Name [Xpedition Enterprise X-ENTP VX.2.11], Exact Access Date [2022/02/01]
+[2026.07.29 10:20:26] [0000m.00s.052ms] [1] Machine [R2D2]  IP [127.0.0.1,172.16.123.7]  User [Work]  PID [2656]
+[2026.07.29 10:20:26] [0000m.00s.053ms] [1] Operating system [Microsoft Windows 10 Business Edition, 64-bit (build 26200)]
+[2026.07.29 10:20:26] [0000m.00s.053ms] [1] Current working dir [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2]
+[2026.07.29 10:20:26] [0000m.00s.053ms] [1] PATH [C:\MentorGraphics\EEVX.2.11\SDD_HOME\common\win64\bin;C:\MentorGraphics\EEVX.2.11\SDD_HOME\common\win64\lib;C:\MentorGraphics\EEVX.2.11\SDD_HOME\common3D\win64\lib;C:\MentorGraphics\EEVX.2.11\SDD_HOME\common\win32\lib;C:\MentorGraphics\EEVX.2.11\SDD_HOME\common\win64\jre\default\bin;C:\MentorGraphics\EEVX.2.11\MGC_HOME.ixw\bin;C:\MentorGraphics\EEVX.2.11\MGC_HOME.ixw\lib;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\MATLAB\R2025b\runtime\win64;C:\Program Files\MATLAB\R2025b\bin;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\WINDOWS\system32\config\systemprofile\AppData\Local\Muse Hub\lib;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\Bin\;C:\Program Files\IVI Foundation\VISA\Win64\Bin\;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\Bin;C:\Program Files\Microchip\xc8\v3.10\bin;C:\Program Files\Microchip\xc-dsc\v3.31\bin;C:\Program Files\Microchip\xc16\v2.10\bin;C:\Program Files\Microchip\xc32\v5.10\bin;C:\Program Files (x86)\P-CAD 2006 Viewer\;C:\Program Files (x86)\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\DTS\Binn\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Users\Work\AppData\Local\Microsoft\WindowsApps;C:\Users\Work\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Work\AppData\Local\Python\bin;C:\Users\Work\AppData\Local\Muse Hub\lib;C:\altera\13.1\modelsim_ase\win32aloem;C:\altera\13.1\modelsim_ae\win32aloem;C:\altera_lite\25.1std\questa_fse\win64;C:\altera\13.0sp1\modelsim_ase\win32aloem;C:\altera\13.0sp1\modelsim_ae\win32aloem]
+[2026.07.29 10:20:26] [0000m.00s.053ms] [1] SDD_HOME [C:\MentorGraphics\EEVX.2.11\SDD_HOME] on file system [NTFS]
+[2026.07.29 10:20:26] [0000m.00s.053ms] [1] SDD_PLATFORM [win64]
+[2026.07.29 10:20:26] [0000m.00s.053ms] [1] WDIR [C:\WDIR\EEVX.2.11;C:\MentorGraphics\EEVX.2.11\SDD_HOME\standard;]
+[2026.07.29 10:20:26] [0000m.00s.053ms] [1] Local iCDB working dir [C:\WDIR\EEVX.2.11\iCDB] on file system [NTFS]
+[2026.07.29 10:20:26] [0000m.00s.053ms] [2] S: Loading config files
+[2026.07.29 10:20:26] [0000m.00s.076ms] [1] Config file [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\cdbsvr\Server.cfg] not found
+[2026.07.29 10:20:26] [0000m.00s.077ms] [3] S: Config loaded
+[2026.07.29 10:20:26] [0000m.00s.077ms] [0] S: Project path [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database] on file system [NTFS]
+[2026.07.29 10:20:26] [0000m.00s.077ms] [0] S: Project file (.prj) path [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\UM_TRONKA_MK_2.prj] on file system [NTFS]
+[2026.07.29 10:20:26] [0000m.00s.078ms] [1] S: WARNING: Database auto-repair support DISABLED
+[2026.07.29 10:20:26] [0000m.00s.078ms] [0] S: Single-user mode (auto)
+[2026.07.29 10:20:26] [0000m.00s.078ms] [0] S: Event polling mode autodetection
+[2026.07.29 10:20:26] [0000m.00s.078ms] [0] S: Started up automatically by iCDB Client: R2D2:Work:8704
+[2026.07.29 10:20:26] [0000m.00s.078ms] [0] S: Auto close mode
+[2026.07.29 10:20:26] [0000m.00s.078ms] [0] S: Database ID [1164-9809-6e02-a168-ab9a-96a0-c9a9-6a60-fc41-cd5c-1646-e5f5]
+[2026.07.29 10:20:26] [0000m.00s.078ms] [0] PathTranslator: BEGIN dumping
+[2026.07.29 10:20:26] [0000m.00s.078ms] [0] PathTranslator: Local -> global path prefix list
+[2026.07.29 10:20:26] [0000m.00s.078ms] [0] PathTranslator: Global -> local path prefix list
+[2026.07.29 10:20:26] [0000m.00s.078ms] [0] PathTranslator: END dumping
+[2026.07.29 10:20:26] [0000m.00s.078ms] [0] S: START
+[2026.07.29 10:20:26] [0000m.00s.078ms] [0] S: Server startup lock file created
+[2026.07.29 10:20:26] [0000m.00s.078ms] [0] S: Listening for client connections on port [10003]
+[2026.07.29 10:20:26] [0000m.00s.079ms] [0] S: Server network ID [R2D2:172.16.123.7,R2D2:10003]
+[2026.07.29 10:20:26] [0000m.00s.079ms] [0] S: Server GUID [5662-f8c8-883d-6fdc-ab9a-96a0-c9a9-6a60-3632-cd5c-1646-e5f5]
+[2026.07.29 10:20:26] [0000m.00s.079ms] [0] S: Project GUID [1164-9809-6e02-a168-ab9a-96a0-c9a9-6a60-fc41-cd5c-1646-e5f5]
+[2026.07.29 10:20:26] [0000m.00s.080ms] [0] S: Wrote data to server address file
+[2026.07.29 10:20:26] [0000m.00s.081ms] [0] S: Server startup lock file removed
+[2026.07.29 10:20:26] [0000m.00s.081ms] [1] ProjectBackupManager: Setting project file (.prj) path: [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\UM_TRONKA_MK_2.prj]
+[2026.07.29 10:20:26] [0000m.00s.523ms] [0] S: Plugins loaded: [PIM] [ENetGen70] 
+[2026.07.29 10:20:26] [0000m.00s.523ms] [1] ServerToolkit: INFO: Plugin not found in SDD_ICDB_BIN [C:\MentorGraphics\EEVX.2.11\SDD_HOME\iCDB\win64\bin]
+[2026.07.29 10:20:26] [0000m.00s.523ms] [1] ServerToolkit: INFO: Plugin not found in SDD_COMMON_BIN [C:\MentorGraphics\EEVX.2.11\SDD_HOME\common\win64\bin]
+[2026.07.29 10:20:26] [0000m.00s.524ms] [1] ServerToolkit: INFO: Plugin not found in PATH
+[2026.07.29 10:20:26] [0000m.00s.524ms] [1] ServerToolkit: INFO: Plugin not found in CWD
+[2026.07.29 10:20:26] [0000m.00s.524ms] [1] ServerToolkit: INFO: returning just plugin exe name!
+[2026.07.29 10:20:26] [0000m.00s.524ms] [0] S: Local disc access time: 10 us
+[2026.07.29 10:20:26] [0000m.00s.524ms] [0] S: File server access time: 8 us
+[2026.07.29 10:20:26] [0000m.00s.538ms] [0] Single file [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\icdb.dat] size [1012744 (989.0 kB)]
+[2026.07.29 10:20:26] [0000m.00s.538ms] [1] Single file [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\icdb.dat] opened in read-write mode
+[2026.07.29 10:20:26] [0000m.00s.538ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2026.07.29 10:20:26] [0000m.00s.538ms] [0] Database GUARD OK: [1012744]
+[2026.07.29 10:20:26] [0000m.00s.539ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2026.07.29 10:20:26] [0000m.00s.539ms] [0] Database GUARD OK: [1012744]
+[2026.07.29 10:20:26] [0000m.00s.539ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2026.07.29 10:20:26] [0000m.00s.539ms] [0] Database GUARD OK: [1012744]
+[2026.07.29 10:20:26] [0000m.00s.540ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2026.07.29 10:20:26] [0000m.00s.540ms] [0] Database GUARD OK: [1012744]
+[2026.07.29 10:20:26] [0000m.00s.540ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2026.07.29 10:20:26] [0000m.00s.540ms] [0] Database GUARD OK: [1012744]
+[2026.07.29 10:20:26] [0000m.00s.540ms] [0] SingleFile: [1402-082e-8c40-b970] SFI version check [1009] [1009]
+[2026.07.29 10:20:26] [0000m.00s.541ms] [0] SingleFile: [1402-082e-8c40-b970] Database SFI header has been read in [1ms 689us]
+[2026.07.29 10:20:26] [0000m.00s.543ms] [0] iCDB Server PI: Server & plugin session [1718]
+[2026.07.29 10:20:26] [0000m.00s.543ms] [0] iCDB Server PI: Opening database [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database]
+[2026.07.29 10:20:26] [0000m.00s.543ms] [0] iCDB Server PI: Database [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database] opened
+[2026.07.29 10:20:26] [0000m.00s.682ms] [0] iCDB Database: Checking existence of constraint definitions
+[2026.07.29 10:20:26] [0000m.00s.682ms] [0] iCDB Database: Checking constraint definitions version
+[2026.07.29 10:20:27] [0000m.00s.725ms] [0] iCDB Database: Creating database content backup before upgrade
+[2026.07.29 10:20:27] [0000m.00s.725ms] [1] iCDB Storage Server: Database backup: ProjectPath[C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database]
+[2026.07.29 10:20:27] [0000m.00s.728ms] [0] iCDB Storage Server Backup Thread: Database backup: BackupPath[C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\cdbback\2026-07-29 10.20.27-2656.zip]
+[2026.07.29 10:20:27] [0000m.00s.750ms] [0] iCDB Storage Server Backup Thread: Backup database DONE: Result[ Succeeded[TRUE]] BackupPath[C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\cdbback\2026-07-29 10.20.27-2656.zip]
+[2026.07.29 10:20:27] [0000m.00s.751ms] [0] iCDB Database: Database content backed up to [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\cdbback\2026-07-29 10.20.27-2656.zip] of size [895 321 bytes (874.3 kB)]  in [25ms 985us]
+[2026.07.29 10:20:27] [0000m.00s.754ms] [0] iCDB Database: Upgrading constraint definitions from version [ce_ee.cns=7.10.24;user.cns=23bc-5dbe-811f-e7e3-e487-7e23-5877-e250-e2f7-9777-77e2-03e2]
+[2026.07.29 10:20:27] [0000m.00s.760ms] [0] iCDB Database: Upgrading snapshot [1:DxD] from version [2709]
+[2026.07.29 10:20:27] [0000m.00s.762ms] [1] CORE: Applying a fix no 121 stage [fsAtlasLoaded] to atlas [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s1\cdbcatlg\grpatl]
+[2026.07.29 10:20:27] [0000m.00s.763ms] [1] CORE: Atlas fixed stage [fsAtlasLoaded] successfully [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s1\cdbcatlg\grpatl]
+[2026.07.29 10:20:27] [0000m.00s.765ms] [1] CORE: Upgrade atlas from version 511 [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s1\cdbblks\2000000010000050.blk\blkatl]
+[2026.07.29 10:20:27] [0000m.00s.765ms] [1] CORE: Upgrade atlas from version 512 [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s1\cdbblks\2000000010000050.blk\blkatl]
+[2026.07.29 10:20:27] [0000m.00s.765ms] [1] CORE: Upgrade atlas from version 511 to 513 completed successfully [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s1\cdbblks\2000000010000050.blk\blkatl]
+[2026.07.29 10:20:27] [0000m.00s.765ms] [1] CORE: Applying a fix no 140 stage [fsAtlasLoaded] to atlas [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s1\cdbblks\2000000010000050.blk\blkatl]
+[2026.07.29 10:20:27] [0000m.00s.765ms] [1] CORE: Atlas fixed stage [fsAtlasLoaded] successfully [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s1\cdbblks\2000000010000050.blk\blkatl]
+[2026.07.29 10:20:27] [0000m.00s.769ms] [1] CORE: Upgrade atlas from version 507 [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s1\cdbblks\2000000010000050.blk\dxdatl]
+[2026.07.29 10:20:27] [0000m.00s.769ms] [1] CORE: Upgrade atlas from version 517 [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s1\cdbblks\2000000010000050.blk\dxdatl]
+[2026.07.29 10:20:27] [0000m.00s.769ms] [1] CORE: Upgrade atlas from version 517 to 518 completed successfully [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s1\cdbblks\2000000010000050.blk\dxdatl]
+[2026.07.29 10:20:27] [0000m.00s.769ms] [1] CORE: Applying a fix no 131 stage [fsAtlasLoaded] to atlas [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s1\cdbblks\2000000010000050.blk\dxdatl]
+[2026.07.29 10:20:27] [0000m.00s.769ms] [1] CORE: Atlas fixed stage [fsAtlasLoaded] successfully [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s1\cdbblks\2000000010000050.blk\dxdatl]
+[2026.07.29 10:20:27] [0000m.00s.772ms] [1] CORE: Upgrade atlas from version 641 [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s1\cdbcnfgs\2000000010000050.blk\cesatl]
+[2026.07.29 10:20:27] [0000m.00s.772ms] [1] CORE: Upgrade atlas from version 641 to 642 completed successfully [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s1\cdbcnfgs\2000000010000050.blk\cesatl]
+[2026.07.29 10:20:27] [0000m.00s.772ms] [1] CORE: Applying a fix no 122 stage [fsAtlasLoaded] to atlas [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s1\cdbcnfgs\2000000010000050.blk\cesatl]
+[2026.07.29 10:20:27] [0000m.00s.772ms] [1] CORE: Applying a fix no 123 stage [fsAtlasLoaded] to atlas [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s1\cdbcnfgs\2000000010000050.blk\cesatl]
+[2026.07.29 10:20:27] [0000m.00s.772ms] [1] CORE: There is a power PhysicalNet without SUPPLY_VOLTAGE{[CesPhysicalNet] [324-10-49] [59] } 
+[2026.07.29 10:20:27] [0000m.00s.772ms] [1] CORE: There is a power PhysicalNet without SUPPLY_VOLTAGE{[CesPhysicalNet] [91-111-49] [113] } 
+[2026.07.29 10:20:27] [0000m.00s.772ms] [1] CORE: SUPPLY_VOLTAGE was added to the object{[CesPhysicalNet] [91-111-49] [113] } 
+[2026.07.29 10:20:27] [0000m.00s.772ms] [1] CORE: There is a power ElectricalNet without SUPPLY_VOLTAGE{[CesElectricalNet] [91-111-47] [112] } 
+[2026.07.29 10:20:27] [0000m.00s.772ms] [1] CORE: SUPPLY_VOLTAGE was added to the object{[CesElectricalNet] [91-111-47] [112] } 
+[2026.07.29 10:20:27] [0000m.00s.772ms] [1] CORE: There is a power PhysicalNet without SUPPLY_VOLTAGE{[CesPhysicalNet] [306-20-49] [122] } 
+[2026.07.29 10:20:27] [0000m.00s.773ms] [1] CORE: There is a power PhysicalNet without SUPPLY_VOLTAGE{[CesPhysicalNet] [144-30-49] [202] } 
+[2026.07.29 10:20:27] [0000m.00s.773ms] [1] CORE: SUPPLY_VOLTAGE was added to the object{[CesPhysicalNet] [144-30-49] [202] } 
+[2026.07.29 10:20:27] [0000m.00s.773ms] [1] CORE: There is a power ElectricalNet without SUPPLY_VOLTAGE{[CesElectricalNet] [144-30-47] [168] } 
+[2026.07.29 10:20:27] [0000m.00s.773ms] [1] CORE: SUPPLY_VOLTAGE was added to the object{[CesElectricalNet] [144-30-47] [168] } 
+[2026.07.29 10:20:27] [0000m.00s.773ms] [1] CORE: There is a power PhysicalNet without SUPPLY_VOLTAGE{[CesPhysicalNet] [236-142-49] [289] } 
+[2026.07.29 10:20:27] [0000m.00s.773ms] [1] CORE: There is a power PhysicalNet without SUPPLY_VOLTAGE{[CesPhysicalNet] [236-143-49] [290] } 
+[2026.07.29 10:20:27] [0000m.00s.773ms] [1] CORE: Applying a fix no 130 stage [fsAtlasLoaded] to atlas [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s1\cdbcnfgs\2000000010000050.blk\cesatl]
+[2026.07.29 10:20:27] [0000m.00s.773ms] [1] CORE: Applying a fix no 132 stage [fsAtlasLoaded] to atlas [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s1\cdbcnfgs\2000000010000050.blk\cesatl]
+[2026.07.29 10:20:27] [0000m.00s.773ms] [1] CORE: Add missing minimal scheme CesConstraint : definition (1718-85-72) object: [2] type: [41]  {[CesConstraint] [1718-5-22] [3010] } 
+[2026.07.29 10:20:27] [0000m.00s.773ms] [1] CORE: Add missing minimal scheme CesConstraint : definition (1718-86-72) object: [2] type: [41]  {[CesConstraint] [1718-6-22] [3011] } 
+[2026.07.29 10:20:27] [0000m.00s.773ms] [1] CORE: Add missing minimal scheme CesConstraint : definition (1718-87-72) object: [2] type: [41]  {[CesConstraint] [1718-7-22] [3012] } 
+[2026.07.29 10:20:27] [0000m.00s.773ms] [1] CORE: Add missing minimal scheme CesConstraint : definition (1718-88-72) object: [2] type: [41]  {[CesConstraint] [1718-8-22] [3013] } 
+[2026.07.29 10:20:27] [0000m.00s.773ms] [1] CORE: Add missing minimal scheme CesConstraint : definition (1718-89-72) object: [2] type: [41]  {[CesConstraint] [1718-9-22] [3014] } 
+[2026.07.29 10:20:27] [0000m.00s.773ms] [1] CORE: Add missing minimal scheme CesConstraint : definition (1718-90-72) object: [2] type: [41]  {[CesConstraint] [1718-10-22] [3015] } 
+[2026.07.29 10:20:27] [0000m.00s.773ms] [1] CORE: Add missing minimal scheme CesConstraint : definition (1718-85-72) object: [2] type: [42]  {[CesConstraint] [1718-11-22] [3016] } 
+[2026.07.29 10:20:27] [0000m.00s.773ms] [1] CORE: Add missing minimal scheme CesConstraint : definition (1718-86-72) object: [2] type: [42]  {[CesConstraint] [1718-12-22] [3017] } 
+[2026.07.29 10:20:27] [0000m.00s.773ms] [1] CORE: Add missing minimal scheme CesConstraint : definition (1718-87-72) object: [2] type: [42]  {[CesConstraint] [1718-13-22] [3018] } 
+[2026.07.29 10:20:27] [0000m.00s.773ms] [1] CORE: Add missing minimal scheme CesConstraint : definition (1718-88-72) object: [2] type: [42]  {[CesConstraint] [1718-14-22] [3019] } 
+[2026.07.29 10:20:27] [0000m.00s.773ms] [1] CORE: Add missing minimal scheme CesConstraint : definition (1718-89-72) object: [2] type: [42]  {[CesConstraint] [1718-15-22] [3020] } 
+[2026.07.29 10:20:27] [0000m.00s.773ms] [1] CORE: Add missing minimal scheme CesConstraint : definition (1718-90-72) object: [2] type: [42]  {[CesConstraint] [1718-16-22] [3021] } 
+[2026.07.29 10:20:27] [0000m.00s.773ms] [1] CORE: Add missing minimal scheme CesConstraint : definition (1718-85-72) object: [8] type: [42]  {[CesConstraint] [1718-17-22] [3022] } 
+[2026.07.29 10:20:27] [0000m.00s.773ms] [1] CORE: Add missing minimal scheme CesConstraint : definition (1718-86-72) object: [8] type: [42]  {[CesConstraint] [1718-18-22] [3023] } 
+[2026.07.29 10:20:27] [0000m.00s.773ms] [1] CORE: Add missing minimal scheme CesConstraint : definition (1718-87-72) object: [8] type: [42]  {[CesConstraint] [1718-19-22] [3024] } 
+[2026.07.29 10:20:27] [0000m.00s.773ms] [1] CORE: Add missing minimal scheme CesConstraint : definition (1718-88-72) object: [8] type: [42]  {[CesConstraint] [1718-20-22] [3025] } 
+[2026.07.29 10:20:27] [0000m.00s.773ms] [1] CORE: Add missing minimal scheme CesConstraint : definition (1718-89-72) object: [8] type: [42]  {[CesConstraint] [1718-21-22] [3026] } 
+[2026.07.29 10:20:27] [0000m.00s.773ms] [1] CORE: Add missing minimal scheme CesConstraint : definition (1718-90-72) object: [8] type: [42]  {[CesConstraint] [1718-22-22] [3027] } 
+[2026.07.29 10:20:27] [0000m.00s.773ms] [1] CORE: Add missing minimal scheme CesConstraint : definition (1718-76-72) object: [2] type: [38]  {[CesConstraint] [1718-23-22] [3028] } 
+[2026.07.29 10:20:27] [0000m.00s.773ms] [1] CORE: Add missing minimal scheme CesConstraint : definition (1718-76-72) object: [2] type: [40]  {[CesConstraint] [1718-24-22] [3029] } 
+[2026.07.29 10:20:27] [0000m.00s.773ms] [1] CORE: Add missing minimal scheme CesConstraint : definition (1718-76-72) object: [8] type: [40]  {[CesConstraint] [1718-25-22] [3030] } 
+[2026.07.29 10:20:27] [0000m.00s.773ms] [1] CORE: Applying a fix no 133 stage [fsAtlasLoaded] to atlas [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s1\cdbcnfgs\2000000010000050.blk\cesatl]
+[2026.07.29 10:20:27] [0000m.00s.773ms] [1] CORE: Applying a fix no 134 stage [fsAtlasLoaded] to atlas [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s1\cdbcnfgs\2000000010000050.blk\cesatl]
+[2026.07.29 10:20:27] [0000m.00s.774ms] [1] CORE: Applying a fix no 151 stage [fsAtlasLoaded] to atlas [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s1\cdbcnfgs\2000000010000050.blk\cesatl]
+[2026.07.29 10:20:27] [0000m.00s.774ms] [1] CORE: Applying a fix no 152 stage [fsAtlasLoaded] to atlas [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s1\cdbcnfgs\2000000010000050.blk\cesatl]
+[2026.07.29 10:20:27] [0000m.00s.774ms] [1] CORE: Applying a fix no 153 stage [fsAtlasLoaded] to atlas [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s1\cdbcnfgs\2000000010000050.blk\cesatl]
+[2026.07.29 10:20:27] [0000m.00s.774ms] [1] CORE: Applying a fix no 154 stage [fsAtlasLoaded] to atlas [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s1\cdbcnfgs\2000000010000050.blk\cesatl]
+[2026.07.29 10:20:27] [0000m.00s.774ms] [1] CORE: Atlas fixed stage [fsAtlasLoaded] successfully [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s1\cdbcnfgs\2000000010000050.blk\cesatl]
+[2026.07.29 10:20:27] [0000m.00s.775ms] [1] CORE: Applying a fix no 120 stage [fsAtlasLoaded] to atlas [varatl]
+[2026.07.29 10:20:27] [0000m.00s.775ms] [1] CORE: Applying a fix no 141 stage [fsAtlasLoaded] to atlas [varatl]
+[2026.07.29 10:20:27] [0000m.00s.775ms] [1] CORE: Atlas fixed stage [fsAtlasLoaded] successfully [varatl]
+[2026.07.29 10:20:27] [0000m.00s.775ms] [1] CORE: Upgrade snapshot DxD completed successfully.
+[2026.07.29 10:20:27] [0000m.00s.775ms] [1] CORE: Applying a fix no 150 stage [fsSnapshotLoaded] to atlas [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s1\cdbcatlg\catlgatl]
+[2026.07.29 10:20:27] [0000m.00s.775ms] [1] CORE: Atlas fixed stage [fsSnapshotLoaded] successfully [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s1\cdbcatlg\catlgatl]
+[2026.07.29 10:20:27] [0000m.00s.775ms] [0] iCDB Database: Snapshot [1:DxD] upgraded to version [4100] in [14ms 823us]
+[2026.07.29 10:20:27] [0000m.00s.775ms] [0] iCDB Database: Upgrading MinimalScheme constraints for snapshot [1:DxD]
+[2026.07.29 10:20:27] [0000m.00s.775ms] [0] iCDB Database: MinimalScheme constraints for snapshot [1:DxD] upgraded in [92us]
+[2026.07.29 10:20:27] [0000m.00s.775ms] [0] iCDB Database: Upgrading constraint definitions for snapshot [1:DxD]
+[2026.07.29 10:20:27] [0000m.00s.812ms] [0] iCDB Database: Constraint definitions for snapshot [1:DxD] upgraded in [36ms 865us]
+[2026.07.29 10:20:27] [0000m.00s.812ms] [0] iCDB Database: Saving upgraded snapshot [1:DxD]
+[2026.07.29 10:20:27] [0000m.00s.848ms] [0] iCDB Database: Upgraded snapshot [1:DxD] saved in [35ms 817us]
+[2026.07.29 10:20:27] [0000m.00s.857ms] [1] CRC equalize: S=1 I=12 IC=1 C=11
+[2026.07.29 10:20:27] [0000m.00s.857ms] [1] CRC equalize: S=1 I=12 IC=1 C=11
+[2026.07.29 10:20:27] [0000m.00s.857ms] [1] CRC equalize: S=1 I=12 IC=1 C=11
+[2026.07.29 10:20:27] [0000m.00s.859ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s1\cdbblks\2000000010000050.blk\blkatl.v] - auto-saving it
+[2026.07.29 10:20:27] [0000m.00s.860ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s1\cdbblks\2000000010000050.blk\dxdatl.v] - auto-saving it
+[2026.07.29 10:20:27] [0000m.00s.860ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s1\cdbcatlg\catlgatl.v] - auto-saving it
+[2026.07.29 10:20:27] [0000m.00s.860ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s1\cdbcatlg\grpatl.v] - auto-saving it
+[2026.07.29 10:20:27] [0000m.00s.860ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s1\cdbcatlg\grpobj] - auto-saving it
+[2026.07.29 10:20:27] [0000m.00s.860ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s1\cdbcnfgs\2000000010000050.blk\ces_obj_state] - auto-saving it
+[2026.07.29 10:20:27] [0000m.00s.860ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s1\cdbcnfgs\2000000010000050.blk\cesatl.v] - auto-saving it
+[2026.07.29 10:20:27] [0000m.00s.861ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s1\cdbcnfgs\2000000010000050.blk\varatl.v] - auto-saving it
+[2026.07.29 10:20:27] [0000m.00s.861ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s1\oryg] - auto-saving it
+[2026.07.29 10:20:27] [0000m.00s.861ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s1\params] - auto-saving it
+[2026.07.29 10:20:27] [0000m.00s.861ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s1\uids] - auto-saving it
+[2026.07.29 10:20:27] [0000m.00s.861ms] [0] iCDB Database: Upgrading snapshot [2:Board1_layout_temp] from version [2709]
+[2026.07.29 10:20:27] [0000m.00s.863ms] [1] CORE: Applying a fix no 121 stage [fsAtlasLoaded] to atlas [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s2\cdbcatlg\grpatl]
+[2026.07.29 10:20:27] [0000m.00s.863ms] [1] CORE: Atlas fixed stage [fsAtlasLoaded] successfully [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s2\cdbcatlg\grpatl]
+[2026.07.29 10:20:27] [0000m.00s.864ms] [1] CORE: Upgrade atlas from version 511 [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s2\cdbblks\2000000010000050.blk\blkatl]
+[2026.07.29 10:20:27] [0000m.00s.864ms] [1] CORE: Upgrade atlas from version 512 [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s2\cdbblks\2000000010000050.blk\blkatl]
+[2026.07.29 10:20:27] [0000m.00s.864ms] [1] CORE: Upgrade atlas from version 511 to 513 completed successfully [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s2\cdbblks\2000000010000050.blk\blkatl]
+[2026.07.29 10:20:27] [0000m.00s.864ms] [1] CORE: Applying a fix no 140 stage [fsAtlasLoaded] to atlas [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s2\cdbblks\2000000010000050.blk\blkatl]
+[2026.07.29 10:20:27] [0000m.00s.864ms] [1] CORE: Atlas fixed stage [fsAtlasLoaded] successfully [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s2\cdbblks\2000000010000050.blk\blkatl]
+[2026.07.29 10:20:27] [0000m.00s.867ms] [1] CORE: Upgrade atlas from version 641 [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s2\cdbcnfgs\2000000010000050.blk\cesatl]
+[2026.07.29 10:20:27] [0000m.00s.867ms] [1] CORE: Upgrade atlas from version 641 to 642 completed successfully [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s2\cdbcnfgs\2000000010000050.blk\cesatl]
+[2026.07.29 10:20:27] [0000m.00s.867ms] [1] CORE: Applying a fix no 122 stage [fsAtlasLoaded] to atlas [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s2\cdbcnfgs\2000000010000050.blk\cesatl]
+[2026.07.29 10:20:27] [0000m.00s.867ms] [1] CORE: Applying a fix no 123 stage [fsAtlasLoaded] to atlas [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s2\cdbcnfgs\2000000010000050.blk\cesatl]
+[2026.07.29 10:20:27] [0000m.00s.867ms] [1] CORE: There is a power PhysicalNet without SUPPLY_VOLTAGE{[CesPhysicalNet] [324-10-49] [59] } 
+[2026.07.29 10:20:27] [0000m.00s.867ms] [1] CORE: There is a power PhysicalNet without SUPPLY_VOLTAGE{[CesPhysicalNet] [91-111-49] [113] } 
+[2026.07.29 10:20:27] [0000m.00s.867ms] [1] CORE: SUPPLY_VOLTAGE was added to the object{[CesPhysicalNet] [91-111-49] [113] } 
+[2026.07.29 10:20:27] [0000m.00s.867ms] [1] CORE: There is a power ElectricalNet without SUPPLY_VOLTAGE{[CesElectricalNet] [91-111-47] [112] } 
+[2026.07.29 10:20:27] [0000m.00s.867ms] [1] CORE: SUPPLY_VOLTAGE was added to the object{[CesElectricalNet] [91-111-47] [112] } 
+[2026.07.29 10:20:27] [0000m.00s.867ms] [1] CORE: There is a power PhysicalNet without SUPPLY_VOLTAGE{[CesPhysicalNet] [306-20-49] [122] } 
+[2026.07.29 10:20:27] [0000m.00s.867ms] [1] CORE: There is a power PhysicalNet without SUPPLY_VOLTAGE{[CesPhysicalNet] [144-30-49] [202] } 
+[2026.07.29 10:20:27] [0000m.00s.867ms] [1] CORE: SUPPLY_VOLTAGE was added to the object{[CesPhysicalNet] [144-30-49] [202] } 
+[2026.07.29 10:20:27] [0000m.00s.867ms] [1] CORE: There is a power ElectricalNet without SUPPLY_VOLTAGE{[CesElectricalNet] [144-30-47] [168] } 
+[2026.07.29 10:20:27] [0000m.00s.867ms] [1] CORE: SUPPLY_VOLTAGE was added to the object{[CesElectricalNet] [144-30-47] [168] } 
+[2026.07.29 10:20:27] [0000m.00s.868ms] [1] CORE: There is a power PhysicalNet without SUPPLY_VOLTAGE{[CesPhysicalNet] [236-142-49] [289] } 
+[2026.07.29 10:20:27] [0000m.00s.868ms] [1] CORE: There is a power PhysicalNet without SUPPLY_VOLTAGE{[CesPhysicalNet] [236-143-49] [290] } 
+[2026.07.29 10:20:27] [0000m.00s.868ms] [1] CORE: Applying a fix no 130 stage [fsAtlasLoaded] to atlas [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s2\cdbcnfgs\2000000010000050.blk\cesatl]
+[2026.07.29 10:20:27] [0000m.00s.868ms] [1] CORE: Applying a fix no 132 stage [fsAtlasLoaded] to atlas [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s2\cdbcnfgs\2000000010000050.blk\cesatl]
+[2026.07.29 10:20:27] [0000m.00s.868ms] [1] CORE: Add missing minimal scheme CesConstraint : definition (1718-85-72) object: [2] type: [41]  {[CesConstraint] [1718-56-22] [3010] } 
+[2026.07.29 10:20:27] [0000m.00s.868ms] [1] CORE: Add missing minimal scheme CesConstraint : definition (1718-86-72) object: [2] type: [41]  {[CesConstraint] [1718-57-22] [3011] } 
+[2026.07.29 10:20:27] [0000m.00s.868ms] [1] CORE: Add missing minimal scheme CesConstraint : definition (1718-87-72) object: [2] type: [41]  {[CesConstraint] [1718-58-22] [3012] } 
+[2026.07.29 10:20:27] [0000m.00s.868ms] [1] CORE: Add missing minimal scheme CesConstraint : definition (1718-88-72) object: [2] type: [41]  {[CesConstraint] [1718-59-22] [3013] } 
+[2026.07.29 10:20:27] [0000m.00s.868ms] [1] CORE: Add missing minimal scheme CesConstraint : definition (1718-89-72) object: [2] type: [41]  {[CesConstraint] [1718-60-22] [3014] } 
+[2026.07.29 10:20:27] [0000m.00s.868ms] [1] CORE: Add missing minimal scheme CesConstraint : definition (1718-90-72) object: [2] type: [41]  {[CesConstraint] [1718-61-22] [3015] } 
+[2026.07.29 10:20:27] [0000m.00s.868ms] [1] CORE: Add missing minimal scheme CesConstraint : definition (1718-85-72) object: [2] type: [42]  {[CesConstraint] [1718-62-22] [3016] } 
+[2026.07.29 10:20:27] [0000m.00s.868ms] [1] CORE: Add missing minimal scheme CesConstraint : definition (1718-86-72) object: [2] type: [42]  {[CesConstraint] [1718-63-22] [3017] } 
+[2026.07.29 10:20:27] [0000m.00s.868ms] [1] CORE: Add missing minimal scheme CesConstraint : definition (1718-87-72) object: [2] type: [42]  {[CesConstraint] [1718-64-22] [3018] } 
+[2026.07.29 10:20:27] [0000m.00s.868ms] [1] CORE: Add missing minimal scheme CesConstraint : definition (1718-88-72) object: [2] type: [42]  {[CesConstraint] [1718-65-22] [3019] } 
+[2026.07.29 10:20:27] [0000m.00s.868ms] [1] CORE: Add missing minimal scheme CesConstraint : definition (1718-89-72) object: [2] type: [42]  {[CesConstraint] [1718-66-22] [3020] } 
+[2026.07.29 10:20:27] [0000m.00s.868ms] [1] CORE: Add missing minimal scheme CesConstraint : definition (1718-90-72) object: [2] type: [42]  {[CesConstraint] [1718-67-22] [3021] } 
+[2026.07.29 10:20:27] [0000m.00s.868ms] [1] CORE: Add missing minimal scheme CesConstraint : definition (1718-85-72) object: [8] type: [42]  {[CesConstraint] [1718-68-22] [3022] } 
+[2026.07.29 10:20:27] [0000m.00s.868ms] [1] CORE: Add missing minimal scheme CesConstraint : definition (1718-86-72) object: [8] type: [42]  {[CesConstraint] [1718-69-22] [3023] } 
+[2026.07.29 10:20:27] [0000m.00s.868ms] [1] CORE: Add missing minimal scheme CesConstraint : definition (1718-87-72) object: [8] type: [42]  {[CesConstraint] [1718-70-22] [3024] } 
+[2026.07.29 10:20:27] [0000m.00s.868ms] [1] CORE: Add missing minimal scheme CesConstraint : definition (1718-88-72) object: [8] type: [42]  {[CesConstraint] [1718-71-22] [3025] } 
+[2026.07.29 10:20:27] [0000m.00s.868ms] [1] CORE: Add missing minimal scheme CesConstraint : definition (1718-89-72) object: [8] type: [42]  {[CesConstraint] [1718-72-22] [3026] } 
+[2026.07.29 10:20:27] [0000m.00s.868ms] [1] CORE: Add missing minimal scheme CesConstraint : definition (1718-90-72) object: [8] type: [42]  {[CesConstraint] [1718-73-22] [3027] } 
+[2026.07.29 10:20:27] [0000m.00s.868ms] [1] CORE: Add missing minimal scheme CesConstraint : definition (1718-76-72) object: [2] type: [38]  {[CesConstraint] [1718-74-22] [3028] } 
+[2026.07.29 10:20:27] [0000m.00s.868ms] [1] CORE: Add missing minimal scheme CesConstraint : definition (1718-76-72) object: [2] type: [40]  {[CesConstraint] [1718-75-22] [3029] } 
+[2026.07.29 10:20:27] [0000m.00s.868ms] [1] CORE: Add missing minimal scheme CesConstraint : definition (1718-76-72) object: [8] type: [40]  {[CesConstraint] [1718-76-22] [3030] } 
+[2026.07.29 10:20:27] [0000m.00s.868ms] [1] CORE: Applying a fix no 133 stage [fsAtlasLoaded] to atlas [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s2\cdbcnfgs\2000000010000050.blk\cesatl]
+[2026.07.29 10:20:27] [0000m.00s.868ms] [1] CORE: Applying a fix no 134 stage [fsAtlasLoaded] to atlas [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s2\cdbcnfgs\2000000010000050.blk\cesatl]
+[2026.07.29 10:20:27] [0000m.00s.868ms] [1] CORE: Applying a fix no 151 stage [fsAtlasLoaded] to atlas [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s2\cdbcnfgs\2000000010000050.blk\cesatl]
+[2026.07.29 10:20:27] [0000m.00s.869ms] [1] CORE: Applying a fix no 152 stage [fsAtlasLoaded] to atlas [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s2\cdbcnfgs\2000000010000050.blk\cesatl]
+[2026.07.29 10:20:27] [0000m.00s.869ms] [1] CORE: Applying a fix no 153 stage [fsAtlasLoaded] to atlas [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s2\cdbcnfgs\2000000010000050.blk\cesatl]
+[2026.07.29 10:20:27] [0000m.00s.869ms] [1] CORE: Applying a fix no 154 stage [fsAtlasLoaded] to atlas [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s2\cdbcnfgs\2000000010000050.blk\cesatl]
+[2026.07.29 10:20:27] [0000m.00s.869ms] [1] CORE: Atlas fixed stage [fsAtlasLoaded] successfully [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s2\cdbcnfgs\2000000010000050.blk\cesatl]
+[2026.07.29 10:20:27] [0000m.00s.869ms] [1] CORE: Applying a fix no 120 stage [fsAtlasLoaded] to atlas [varatl]
+[2026.07.29 10:20:27] [0000m.00s.869ms] [1] CORE: Applying a fix no 141 stage [fsAtlasLoaded] to atlas [varatl]
+[2026.07.29 10:20:27] [0000m.00s.869ms] [1] CORE: Atlas fixed stage [fsAtlasLoaded] successfully [varatl]
+[2026.07.29 10:20:27] [0000m.00s.869ms] [1] CORE: Upgrade snapshot Board1_layout_temp completed successfully.
+[2026.07.29 10:20:27] [0000m.00s.869ms] [1] CORE: Applying a fix no 150 stage [fsSnapshotLoaded] to atlas [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s2\cdbcatlg\catlgatl]
+[2026.07.29 10:20:27] [0000m.00s.869ms] [1] CORE: Atlas fixed stage [fsSnapshotLoaded] successfully [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s2\cdbcatlg\catlgatl]
+[2026.07.29 10:20:27] [0000m.00s.869ms] [0] iCDB Database: Snapshot [2:Board1_layout_temp] upgraded to version [4100] in [8ms 518us]
+[2026.07.29 10:20:27] [0000m.00s.870ms] [0] iCDB Database: Upgrading MinimalScheme constraints for snapshot [2:Board1_layout_temp]
+[2026.07.29 10:20:27] [0000m.00s.870ms] [0] iCDB Database: MinimalScheme constraints for snapshot [2:Board1_layout_temp] upgraded in [83us]
+[2026.07.29 10:20:27] [0000m.00s.870ms] [0] iCDB Database: Upgrading constraint definitions for snapshot [2:Board1_layout_temp]
+[2026.07.29 10:20:27] [0000m.00s.901ms] [0] iCDB Database: Constraint definitions for snapshot [2:Board1_layout_temp] upgraded in [31ms 756us]
+[2026.07.29 10:20:27] [0000m.00s.901ms] [0] iCDB Database: Saving upgraded snapshot [2:Board1_layout_temp]
+[2026.07.29 10:20:27] [0000m.00s.919ms] [0] iCDB Database: Upgraded snapshot [2:Board1_layout_temp] saved in [17ms 183us]
+[2026.07.29 10:20:27] [0000m.00s.924ms] [1] CRC equalize: S=2 I=12 IC=1 C=11
+[2026.07.29 10:20:27] [0000m.00s.924ms] [1] CRC equalize: S=2 I=12 IC=1 C=11
+[2026.07.29 10:20:27] [0000m.00s.924ms] [1] CRC equalize: S=2 I=12 IC=1 C=11
+[2026.07.29 10:20:27] [0000m.00s.925ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s2\cdbblks\2000000010000050.blk\blkatl.v] - auto-saving it
+[2026.07.29 10:20:27] [0000m.00s.925ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s2\cdbcatlg\catlgatl.v] - auto-saving it
+[2026.07.29 10:20:27] [0000m.00s.925ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s2\cdbcatlg\grpatl.v] - auto-saving it
+[2026.07.29 10:20:27] [0000m.00s.925ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s2\cdbcatlg\grpobj] - auto-saving it
+[2026.07.29 10:20:27] [0000m.00s.925ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s2\cdbcnfgs\2000000010000050.blk\ces_obj_state] - auto-saving it
+[2026.07.29 10:20:27] [0000m.00s.925ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s2\cdbcnfgs\2000000010000050.blk\cesatl.v] - auto-saving it
+[2026.07.29 10:20:27] [0000m.00s.926ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s2\cdbcnfgs\2000000010000050.blk\varatl.v] - auto-saving it
+[2026.07.29 10:20:27] [0000m.00s.926ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s2\oryg] - auto-saving it
+[2026.07.29 10:20:27] [0000m.00s.926ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s2\params] - auto-saving it
+[2026.07.29 10:20:27] [0000m.00s.926ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s2\uids] - auto-saving it
+[2026.07.29 10:20:27] [0000m.00s.926ms] [0] iCDB Database: Upgrading snapshot [3:Board1] from version [2709]
+[2026.07.29 10:20:27] [0000m.00s.927ms] [1] CORE: Applying a fix no 121 stage [fsAtlasLoaded] to atlas [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s3\cdbcatlg\grpatl]
+[2026.07.29 10:20:27] [0000m.00s.927ms] [1] CORE: Atlas fixed stage [fsAtlasLoaded] successfully [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s3\cdbcatlg\grpatl]
+[2026.07.29 10:20:27] [0000m.00s.929ms] [1] CORE: Upgrade atlas from version 511 [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s3\cdbblks\2000000010000050.blk\blkatl]
+[2026.07.29 10:20:27] [0000m.00s.929ms] [1] CORE: Upgrade atlas from version 512 [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s3\cdbblks\2000000010000050.blk\blkatl]
+[2026.07.29 10:20:27] [0000m.00s.929ms] [1] CORE: Upgrade atlas from version 511 to 513 completed successfully [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s3\cdbblks\2000000010000050.blk\blkatl]
+[2026.07.29 10:20:27] [0000m.00s.929ms] [1] CORE: Applying a fix no 140 stage [fsAtlasLoaded] to atlas [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s3\cdbblks\2000000010000050.blk\blkatl]
+[2026.07.29 10:20:27] [0000m.00s.929ms] [1] CORE: Atlas fixed stage [fsAtlasLoaded] successfully [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s3\cdbblks\2000000010000050.blk\blkatl]
+[2026.07.29 10:20:27] [0000m.00s.931ms] [1] CORE: Upgrade atlas from version 641 [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s3\cdbcnfgs\2000000010000050.blk\cesatl]
+[2026.07.29 10:20:27] [0000m.00s.932ms] [1] CORE: Upgrade atlas from version 641 to 642 completed successfully [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s3\cdbcnfgs\2000000010000050.blk\cesatl]
+[2026.07.29 10:20:27] [0000m.00s.932ms] [1] CORE: Applying a fix no 122 stage [fsAtlasLoaded] to atlas [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s3\cdbcnfgs\2000000010000050.blk\cesatl]
+[2026.07.29 10:20:27] [0000m.00s.932ms] [1] CORE: Applying a fix no 123 stage [fsAtlasLoaded] to atlas [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s3\cdbcnfgs\2000000010000050.blk\cesatl]
+[2026.07.29 10:20:27] [0000m.00s.932ms] [1] CORE: There is a power PhysicalNet without SUPPLY_VOLTAGE{[CesPhysicalNet] [324-10-49] [59] } 
+[2026.07.29 10:20:27] [0000m.00s.932ms] [1] CORE: There is a power PhysicalNet without SUPPLY_VOLTAGE{[CesPhysicalNet] [91-111-49] [113] } 
+[2026.07.29 10:20:27] [0000m.00s.932ms] [1] CORE: SUPPLY_VOLTAGE was added to the object{[CesPhysicalNet] [91-111-49] [113] } 
+[2026.07.29 10:20:27] [0000m.00s.932ms] [1] CORE: There is a power ElectricalNet without SUPPLY_VOLTAGE{[CesElectricalNet] [91-111-47] [112] } 
+[2026.07.29 10:20:27] [0000m.00s.932ms] [1] CORE: SUPPLY_VOLTAGE was added to the object{[CesElectricalNet] [91-111-47] [112] } 
+[2026.07.29 10:20:27] [0000m.00s.932ms] [1] CORE: There is a power PhysicalNet without SUPPLY_VOLTAGE{[CesPhysicalNet] [306-20-49] [122] } 
+[2026.07.29 10:20:27] [0000m.00s.932ms] [1] CORE: There is a power PhysicalNet without SUPPLY_VOLTAGE{[CesPhysicalNet] [144-30-49] [202] } 
+[2026.07.29 10:20:27] [0000m.00s.932ms] [1] CORE: SUPPLY_VOLTAGE was added to the object{[CesPhysicalNet] [144-30-49] [202] } 
+[2026.07.29 10:20:27] [0000m.00s.932ms] [1] CORE: There is a power ElectricalNet without SUPPLY_VOLTAGE{[CesElectricalNet] [144-30-47] [168] } 
+[2026.07.29 10:20:27] [0000m.00s.932ms] [1] CORE: SUPPLY_VOLTAGE was added to the object{[CesElectricalNet] [144-30-47] [168] } 
+[2026.07.29 10:20:27] [0000m.00s.932ms] [1] CORE: There is a power PhysicalNet without SUPPLY_VOLTAGE{[CesPhysicalNet] [236-142-49] [289] } 
+[2026.07.29 10:20:27] [0000m.00s.932ms] [1] CORE: There is a power PhysicalNet without SUPPLY_VOLTAGE{[CesPhysicalNet] [236-143-49] [290] } 
+[2026.07.29 10:20:27] [0000m.00s.932ms] [1] CORE: Applying a fix no 130 stage [fsAtlasLoaded] to atlas [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s3\cdbcnfgs\2000000010000050.blk\cesatl]
+[2026.07.29 10:20:27] [0000m.00s.932ms] [1] CORE: Applying a fix no 132 stage [fsAtlasLoaded] to atlas [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s3\cdbcnfgs\2000000010000050.blk\cesatl]
+[2026.07.29 10:20:27] [0000m.00s.932ms] [1] CORE: Add missing minimal scheme CesConstraint : definition (1718-85-72) object: [2] type: [41]  {[CesConstraint] [1718-107-22] [3010] } 
+[2026.07.29 10:20:27] [0000m.00s.932ms] [1] CORE: Add missing minimal scheme CesConstraint : definition (1718-86-72) object: [2] type: [41]  {[CesConstraint] [1718-108-22] [3011] } 
+[2026.07.29 10:20:27] [0000m.00s.932ms] [1] CORE: Add missing minimal scheme CesConstraint : definition (1718-87-72) object: [2] type: [41]  {[CesConstraint] [1718-109-22] [3012] } 
+[2026.07.29 10:20:27] [0000m.00s.932ms] [1] CORE: Add missing minimal scheme CesConstraint : definition (1718-88-72) object: [2] type: [41]  {[CesConstraint] [1718-110-22] [3013] } 
+[2026.07.29 10:20:27] [0000m.00s.932ms] [1] CORE: Add missing minimal scheme CesConstraint : definition (1718-89-72) object: [2] type: [41]  {[CesConstraint] [1718-111-22] [3014] } 
+[2026.07.29 10:20:27] [0000m.00s.932ms] [1] CORE: Add missing minimal scheme CesConstraint : definition (1718-90-72) object: [2] type: [41]  {[CesConstraint] [1718-112-22] [3015] } 
+[2026.07.29 10:20:27] [0000m.00s.932ms] [1] CORE: Add missing minimal scheme CesConstraint : definition (1718-85-72) object: [2] type: [42]  {[CesConstraint] [1718-113-22] [3016] } 
+[2026.07.29 10:20:27] [0000m.00s.932ms] [1] CORE: Add missing minimal scheme CesConstraint : definition (1718-86-72) object: [2] type: [42]  {[CesConstraint] [1718-114-22] [3017] } 
+[2026.07.29 10:20:27] [0000m.00s.932ms] [1] CORE: Add missing minimal scheme CesConstraint : definition (1718-87-72) object: [2] type: [42]  {[CesConstraint] [1718-115-22] [3018] } 
+[2026.07.29 10:20:27] [0000m.00s.932ms] [1] CORE: Add missing minimal scheme CesConstraint : definition (1718-88-72) object: [2] type: [42]  {[CesConstraint] [1718-116-22] [3019] } 
+[2026.07.29 10:20:27] [0000m.00s.932ms] [1] CORE: Add missing minimal scheme CesConstraint : definition (1718-89-72) object: [2] type: [42]  {[CesConstraint] [1718-117-22] [3020] } 
+[2026.07.29 10:20:27] [0000m.00s.932ms] [1] CORE: Add missing minimal scheme CesConstraint : definition (1718-90-72) object: [2] type: [42]  {[CesConstraint] [1718-118-22] [3021] } 
+[2026.07.29 10:20:27] [0000m.00s.932ms] [1] CORE: Add missing minimal scheme CesConstraint : definition (1718-85-72) object: [8] type: [42]  {[CesConstraint] [1718-119-22] [3022] } 
+[2026.07.29 10:20:27] [0000m.00s.932ms] [1] CORE: Add missing minimal scheme CesConstraint : definition (1718-86-72) object: [8] type: [42]  {[CesConstraint] [1718-120-22] [3023] } 
+[2026.07.29 10:20:27] [0000m.00s.932ms] [1] CORE: Add missing minimal scheme CesConstraint : definition (1718-87-72) object: [8] type: [42]  {[CesConstraint] [1718-121-22] [3024] } 
+[2026.07.29 10:20:27] [0000m.00s.932ms] [1] CORE: Add missing minimal scheme CesConstraint : definition (1718-88-72) object: [8] type: [42]  {[CesConstraint] [1718-122-22] [3025] } 
+[2026.07.29 10:20:27] [0000m.00s.932ms] [1] CORE: Add missing minimal scheme CesConstraint : definition (1718-89-72) object: [8] type: [42]  {[CesConstraint] [1718-123-22] [3026] } 
+[2026.07.29 10:20:27] [0000m.00s.932ms] [1] CORE: Add missing minimal scheme CesConstraint : definition (1718-90-72) object: [8] type: [42]  {[CesConstraint] [1718-124-22] [3027] } 
+[2026.07.29 10:20:27] [0000m.00s.932ms] [1] CORE: Add missing minimal scheme CesConstraint : definition (1718-76-72) object: [2] type: [38]  {[CesConstraint] [1718-125-22] [3028] } 
+[2026.07.29 10:20:27] [0000m.00s.932ms] [1] CORE: Add missing minimal scheme CesConstraint : definition (1718-76-72) object: [2] type: [40]  {[CesConstraint] [1718-126-22] [3029] } 
+[2026.07.29 10:20:27] [0000m.00s.932ms] [1] CORE: Add missing minimal scheme CesConstraint : definition (1718-76-72) object: [8] type: [40]  {[CesConstraint] [1718-127-22] [3030] } 
+[2026.07.29 10:20:27] [0000m.00s.932ms] [1] CORE: Applying a fix no 133 stage [fsAtlasLoaded] to atlas [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s3\cdbcnfgs\2000000010000050.blk\cesatl]
+[2026.07.29 10:20:27] [0000m.00s.933ms] [1] CORE: Applying a fix no 134 stage [fsAtlasLoaded] to atlas [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s3\cdbcnfgs\2000000010000050.blk\cesatl]
+[2026.07.29 10:20:27] [0000m.00s.933ms] [1] CORE: Applying a fix no 151 stage [fsAtlasLoaded] to atlas [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s3\cdbcnfgs\2000000010000050.blk\cesatl]
+[2026.07.29 10:20:27] [0000m.00s.933ms] [1] CORE: Applying a fix no 152 stage [fsAtlasLoaded] to atlas [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s3\cdbcnfgs\2000000010000050.blk\cesatl]
+[2026.07.29 10:20:27] [0000m.00s.933ms] [1] CORE: Applying a fix no 153 stage [fsAtlasLoaded] to atlas [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s3\cdbcnfgs\2000000010000050.blk\cesatl]
+[2026.07.29 10:20:27] [0000m.00s.933ms] [1] CORE: Applying a fix no 154 stage [fsAtlasLoaded] to atlas [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s3\cdbcnfgs\2000000010000050.blk\cesatl]
+[2026.07.29 10:20:27] [0000m.00s.933ms] [1] CORE: Atlas fixed stage [fsAtlasLoaded] successfully [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s3\cdbcnfgs\2000000010000050.blk\cesatl]
+[2026.07.29 10:20:27] [0000m.00s.933ms] [1] CORE: Applying a fix no 120 stage [fsAtlasLoaded] to atlas [varatl]
+[2026.07.29 10:20:27] [0000m.00s.933ms] [1] CORE: Applying a fix no 141 stage [fsAtlasLoaded] to atlas [varatl]
+[2026.07.29 10:20:27] [0000m.00s.933ms] [1] CORE: Atlas fixed stage [fsAtlasLoaded] successfully [varatl]
+[2026.07.29 10:20:27] [0000m.00s.934ms] [1] CORE: Upgrade snapshot Board1 completed successfully.
+[2026.07.29 10:20:27] [0000m.00s.934ms] [1] CORE: Applying a fix no 150 stage [fsSnapshotLoaded] to atlas [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s3\cdbcatlg\catlgatl]
+[2026.07.29 10:20:27] [0000m.00s.934ms] [1] CORE: Atlas fixed stage [fsSnapshotLoaded] successfully [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s3\cdbcatlg\catlgatl]
+[2026.07.29 10:20:27] [0000m.00s.934ms] [0] iCDB Database: Snapshot [3:Board1] upgraded to version [4100] in [7ms 845us]
+[2026.07.29 10:20:27] [0000m.00s.934ms] [0] iCDB Database: Upgrading MinimalScheme constraints for snapshot [3:Board1]
+[2026.07.29 10:20:27] [0000m.00s.934ms] [0] iCDB Database: MinimalScheme constraints for snapshot [3:Board1] upgraded in [84us]
+[2026.07.29 10:20:27] [0000m.00s.934ms] [0] iCDB Database: Upgrading constraint definitions for snapshot [3:Board1]
+[2026.07.29 10:20:27] [0000m.00s.966ms] [0] iCDB Database: Constraint definitions for snapshot [3:Board1] upgraded in [31ms 975us]
+[2026.07.29 10:20:27] [0000m.00s.966ms] [0] iCDB Database: Saving upgraded snapshot [3:Board1]
+[2026.07.29 10:20:27] [0000m.00s.983ms] [0] iCDB Database: Upgraded snapshot [3:Board1] saved in [17ms 357us]
+[2026.07.29 10:20:27] [0000m.00s.988ms] [1] CRC equalize: S=3 I=12 IC=1 C=11
+[2026.07.29 10:20:27] [0000m.00s.988ms] [1] CRC equalize: S=3 I=12 IC=1 C=11
+[2026.07.29 10:20:27] [0000m.00s.988ms] [1] CRC equalize: S=3 I=12 IC=1 C=11
+[2026.07.29 10:20:27] [0000m.00s.989ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s3\cdbblks\2000000010000050.blk\blkatl.v] - auto-saving it
+[2026.07.29 10:20:27] [0000m.00s.989ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s3\cdbcatlg\catlgatl.v] - auto-saving it
+[2026.07.29 10:20:27] [0000m.00s.989ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s3\cdbcatlg\grpatl.v] - auto-saving it
+[2026.07.29 10:20:27] [0000m.00s.989ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s3\cdbcatlg\grpobj] - auto-saving it
+[2026.07.29 10:20:27] [0000m.00s.990ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s3\cdbcnfgs\2000000010000050.blk\ces_obj_state] - auto-saving it
+[2026.07.29 10:20:27] [0000m.00s.990ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s3\cdbcnfgs\2000000010000050.blk\cesatl.v] - auto-saving it
+[2026.07.29 10:20:27] [0000m.00s.990ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s3\cdbcnfgs\2000000010000050.blk\varatl.v] - auto-saving it
+[2026.07.29 10:20:27] [0000m.00s.990ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s3\oryg] - auto-saving it
+[2026.07.29 10:20:27] [0000m.00s.990ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s3\params] - auto-saving it
+[2026.07.29 10:20:27] [0000m.00s.990ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s3\uids] - auto-saving it
+[2026.07.29 10:20:27] [0000m.00s.990ms] [0] iCDB Database: Upgrading snapshot [4:RefSync] from version [2709]
+[2026.07.29 10:20:27] [0000m.00s.992ms] [1] CORE: Applying a fix no 121 stage [fsAtlasLoaded] to atlas [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s4\cdbcatlg\grpatl]
+[2026.07.29 10:20:27] [0000m.00s.992ms] [1] CORE: Atlas fixed stage [fsAtlasLoaded] successfully [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s4\cdbcatlg\grpatl]
+[2026.07.29 10:20:27] [0000m.00s.994ms] [1] CORE: Upgrade atlas from version 511 [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s4\cdbblks\2000000010000050.blk\blkatl]
+[2026.07.29 10:20:27] [0000m.00s.994ms] [1] CORE: Upgrade atlas from version 512 [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s4\cdbblks\2000000010000050.blk\blkatl]
+[2026.07.29 10:20:27] [0000m.00s.994ms] [1] CORE: Upgrade atlas from version 511 to 513 completed successfully [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s4\cdbblks\2000000010000050.blk\blkatl]
+[2026.07.29 10:20:27] [0000m.00s.994ms] [1] CORE: Applying a fix no 140 stage [fsAtlasLoaded] to atlas [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s4\cdbblks\2000000010000050.blk\blkatl]
+[2026.07.29 10:20:27] [0000m.00s.994ms] [1] CORE: Atlas fixed stage [fsAtlasLoaded] successfully [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s4\cdbblks\2000000010000050.blk\blkatl]
+[2026.07.29 10:20:27] [0000m.00s.997ms] [1] CORE: Upgrade atlas from version 507 [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s4\cdbblks\2000000010000050.blk\dxdatl]
+[2026.07.29 10:20:27] [0000m.00s.997ms] [1] CORE: Upgrade atlas from version 517 [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s4\cdbblks\2000000010000050.blk\dxdatl]
+[2026.07.29 10:20:27] [0000m.00s.997ms] [1] CORE: Upgrade atlas from version 517 to 518 completed successfully [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s4\cdbblks\2000000010000050.blk\dxdatl]
+[2026.07.29 10:20:27] [0000m.00s.997ms] [1] CORE: Applying a fix no 131 stage [fsAtlasLoaded] to atlas [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s4\cdbblks\2000000010000050.blk\dxdatl]
+[2026.07.29 10:20:27] [0000m.00s.997ms] [1] CORE: Atlas fixed stage [fsAtlasLoaded] successfully [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s4\cdbblks\2000000010000050.blk\dxdatl]
+[2026.07.29 10:20:27] [0000m.01s.000ms] [1] CORE: Upgrade atlas from version 641 [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s4\cdbcnfgs\2000000010000050.blk\cesatl]
+[2026.07.29 10:20:27] [0000m.01s.000ms] [1] CORE: Upgrade atlas from version 641 to 642 completed successfully [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s4\cdbcnfgs\2000000010000050.blk\cesatl]
+[2026.07.29 10:20:27] [0000m.01s.000ms] [1] CORE: Applying a fix no 122 stage [fsAtlasLoaded] to atlas [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s4\cdbcnfgs\2000000010000050.blk\cesatl]
+[2026.07.29 10:20:27] [0000m.01s.000ms] [1] CORE: Applying a fix no 123 stage [fsAtlasLoaded] to atlas [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s4\cdbcnfgs\2000000010000050.blk\cesatl]
+[2026.07.29 10:20:27] [0000m.01s.001ms] [1] CORE: There is a power PhysicalNet without SUPPLY_VOLTAGE{[CesPhysicalNet] [324-10-49] [59] } 
+[2026.07.29 10:20:27] [0000m.01s.001ms] [1] CORE: There is a power PhysicalNet without SUPPLY_VOLTAGE{[CesPhysicalNet] [91-111-49] [113] } 
+[2026.07.29 10:20:27] [0000m.01s.001ms] [1] CORE: SUPPLY_VOLTAGE was added to the object{[CesPhysicalNet] [91-111-49] [113] } 
+[2026.07.29 10:20:27] [0000m.01s.001ms] [1] CORE: There is a power ElectricalNet without SUPPLY_VOLTAGE{[CesElectricalNet] [91-111-47] [112] } 
+[2026.07.29 10:20:27] [0000m.01s.001ms] [1] CORE: SUPPLY_VOLTAGE was added to the object{[CesElectricalNet] [91-111-47] [112] } 
+[2026.07.29 10:20:27] [0000m.01s.001ms] [1] CORE: There is a power PhysicalNet without SUPPLY_VOLTAGE{[CesPhysicalNet] [306-20-49] [122] } 
+[2026.07.29 10:20:27] [0000m.01s.001ms] [1] CORE: There is a power PhysicalNet without SUPPLY_VOLTAGE{[CesPhysicalNet] [144-30-49] [202] } 
+[2026.07.29 10:20:27] [0000m.01s.001ms] [1] CORE: SUPPLY_VOLTAGE was added to the object{[CesPhysicalNet] [144-30-49] [202] } 
+[2026.07.29 10:20:27] [0000m.01s.001ms] [1] CORE: There is a power ElectricalNet without SUPPLY_VOLTAGE{[CesElectricalNet] [144-30-47] [168] } 
+[2026.07.29 10:20:27] [0000m.01s.001ms] [1] CORE: SUPPLY_VOLTAGE was added to the object{[CesElectricalNet] [144-30-47] [168] } 
+[2026.07.29 10:20:27] [0000m.01s.001ms] [1] CORE: There is a power PhysicalNet without SUPPLY_VOLTAGE{[CesPhysicalNet] [236-142-49] [289] } 
+[2026.07.29 10:20:27] [0000m.01s.001ms] [1] CORE: There is a power PhysicalNet without SUPPLY_VOLTAGE{[CesPhysicalNet] [236-143-49] [290] } 
+[2026.07.29 10:20:27] [0000m.01s.001ms] [1] CORE: Applying a fix no 130 stage [fsAtlasLoaded] to atlas [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s4\cdbcnfgs\2000000010000050.blk\cesatl]
+[2026.07.29 10:20:27] [0000m.01s.001ms] [1] CORE: Applying a fix no 132 stage [fsAtlasLoaded] to atlas [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s4\cdbcnfgs\2000000010000050.blk\cesatl]
+[2026.07.29 10:20:27] [0000m.01s.001ms] [1] CORE: Add missing minimal scheme CesConstraint : definition (1718-85-72) object: [2] type: [41]  {[CesConstraint] [1718-158-22] [3010] } 
+[2026.07.29 10:20:27] [0000m.01s.001ms] [1] CORE: Add missing minimal scheme CesConstraint : definition (1718-86-72) object: [2] type: [41]  {[CesConstraint] [1718-159-22] [3011] } 
+[2026.07.29 10:20:27] [0000m.01s.001ms] [1] CORE: Add missing minimal scheme CesConstraint : definition (1718-87-72) object: [2] type: [41]  {[CesConstraint] [1718-160-22] [3012] } 
+[2026.07.29 10:20:27] [0000m.01s.001ms] [1] CORE: Add missing minimal scheme CesConstraint : definition (1718-88-72) object: [2] type: [41]  {[CesConstraint] [1718-161-22] [3013] } 
+[2026.07.29 10:20:27] [0000m.01s.001ms] [1] CORE: Add missing minimal scheme CesConstraint : definition (1718-89-72) object: [2] type: [41]  {[CesConstraint] [1718-162-22] [3014] } 
+[2026.07.29 10:20:27] [0000m.01s.001ms] [1] CORE: Add missing minimal scheme CesConstraint : definition (1718-90-72) object: [2] type: [41]  {[CesConstraint] [1718-163-22] [3015] } 
+[2026.07.29 10:20:27] [0000m.01s.001ms] [1] CORE: Add missing minimal scheme CesConstraint : definition (1718-85-72) object: [2] type: [42]  {[CesConstraint] [1718-164-22] [3016] } 
+[2026.07.29 10:20:27] [0000m.01s.001ms] [1] CORE: Add missing minimal scheme CesConstraint : definition (1718-86-72) object: [2] type: [42]  {[CesConstraint] [1718-165-22] [3017] } 
+[2026.07.29 10:20:27] [0000m.01s.001ms] [1] CORE: Add missing minimal scheme CesConstraint : definition (1718-87-72) object: [2] type: [42]  {[CesConstraint] [1718-166-22] [3018] } 
+[2026.07.29 10:20:27] [0000m.01s.001ms] [1] CORE: Add missing minimal scheme CesConstraint : definition (1718-88-72) object: [2] type: [42]  {[CesConstraint] [1718-167-22] [3019] } 
+[2026.07.29 10:20:27] [0000m.01s.001ms] [1] CORE: Add missing minimal scheme CesConstraint : definition (1718-89-72) object: [2] type: [42]  {[CesConstraint] [1718-168-22] [3020] } 
+[2026.07.29 10:20:27] [0000m.01s.001ms] [1] CORE: Add missing minimal scheme CesConstraint : definition (1718-90-72) object: [2] type: [42]  {[CesConstraint] [1718-169-22] [3021] } 
+[2026.07.29 10:20:27] [0000m.01s.001ms] [1] CORE: Add missing minimal scheme CesConstraint : definition (1718-85-72) object: [8] type: [42]  {[CesConstraint] [1718-170-22] [3022] } 
+[2026.07.29 10:20:27] [0000m.01s.001ms] [1] CORE: Add missing minimal scheme CesConstraint : definition (1718-86-72) object: [8] type: [42]  {[CesConstraint] [1718-171-22] [3023] } 
+[2026.07.29 10:20:27] [0000m.01s.001ms] [1] CORE: Add missing minimal scheme CesConstraint : definition (1718-87-72) object: [8] type: [42]  {[CesConstraint] [1718-172-22] [3024] } 
+[2026.07.29 10:20:27] [0000m.01s.001ms] [1] CORE: Add missing minimal scheme CesConstraint : definition (1718-88-72) object: [8] type: [42]  {[CesConstraint] [1718-173-22] [3025] } 
+[2026.07.29 10:20:27] [0000m.01s.001ms] [1] CORE: Add missing minimal scheme CesConstraint : definition (1718-89-72) object: [8] type: [42]  {[CesConstraint] [1718-174-22] [3026] } 
+[2026.07.29 10:20:27] [0000m.01s.001ms] [1] CORE: Add missing minimal scheme CesConstraint : definition (1718-90-72) object: [8] type: [42]  {[CesConstraint] [1718-175-22] [3027] } 
+[2026.07.29 10:20:27] [0000m.01s.001ms] [1] CORE: Add missing minimal scheme CesConstraint : definition (1718-76-72) object: [2] type: [38]  {[CesConstraint] [1718-176-22] [3028] } 
+[2026.07.29 10:20:27] [0000m.01s.001ms] [1] CORE: Add missing minimal scheme CesConstraint : definition (1718-76-72) object: [2] type: [40]  {[CesConstraint] [1718-177-22] [3029] } 
+[2026.07.29 10:20:27] [0000m.01s.001ms] [1] CORE: Add missing minimal scheme CesConstraint : definition (1718-76-72) object: [8] type: [40]  {[CesConstraint] [1718-178-22] [3030] } 
+[2026.07.29 10:20:27] [0000m.01s.001ms] [1] CORE: Applying a fix no 133 stage [fsAtlasLoaded] to atlas [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s4\cdbcnfgs\2000000010000050.blk\cesatl]
+[2026.07.29 10:20:27] [0000m.01s.001ms] [1] CORE: Applying a fix no 134 stage [fsAtlasLoaded] to atlas [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s4\cdbcnfgs\2000000010000050.blk\cesatl]
+[2026.07.29 10:20:27] [0000m.01s.002ms] [1] CORE: Applying a fix no 151 stage [fsAtlasLoaded] to atlas [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s4\cdbcnfgs\2000000010000050.blk\cesatl]
+[2026.07.29 10:20:27] [0000m.01s.002ms] [1] CORE: Applying a fix no 152 stage [fsAtlasLoaded] to atlas [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s4\cdbcnfgs\2000000010000050.blk\cesatl]
+[2026.07.29 10:20:27] [0000m.01s.002ms] [1] CORE: Applying a fix no 153 stage [fsAtlasLoaded] to atlas [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s4\cdbcnfgs\2000000010000050.blk\cesatl]
+[2026.07.29 10:20:27] [0000m.01s.002ms] [1] CORE: Applying a fix no 154 stage [fsAtlasLoaded] to atlas [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s4\cdbcnfgs\2000000010000050.blk\cesatl]
+[2026.07.29 10:20:27] [0000m.01s.002ms] [1] CORE: Atlas fixed stage [fsAtlasLoaded] successfully [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s4\cdbcnfgs\2000000010000050.blk\cesatl]
+[2026.07.29 10:20:27] [0000m.01s.002ms] [1] CORE: Applying a fix no 120 stage [fsAtlasLoaded] to atlas [varatl]
+[2026.07.29 10:20:27] [0000m.01s.002ms] [1] CORE: Applying a fix no 141 stage [fsAtlasLoaded] to atlas [varatl]
+[2026.07.29 10:20:27] [0000m.01s.002ms] [1] CORE: Atlas fixed stage [fsAtlasLoaded] successfully [varatl]
+[2026.07.29 10:20:27] [0000m.01s.002ms] [1] CORE: Upgrade snapshot RefSync completed successfully.
+[2026.07.29 10:20:27] [0000m.01s.002ms] [1] CORE: Applying a fix no 150 stage [fsSnapshotLoaded] to atlas [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s4\cdbcatlg\catlgatl]
+[2026.07.29 10:20:27] [0000m.01s.002ms] [1] CORE: Atlas fixed stage [fsSnapshotLoaded] successfully [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s4\cdbcatlg\catlgatl]
+[2026.07.29 10:20:27] [0000m.01s.003ms] [0] iCDB Database: Snapshot [4:RefSync] upgraded to version [4100] in [12ms 555us]
+[2026.07.29 10:20:27] [0000m.01s.003ms] [0] iCDB Database: Upgrading MinimalScheme constraints for snapshot [4:RefSync]
+[2026.07.29 10:20:27] [0000m.01s.003ms] [0] iCDB Database: MinimalScheme constraints for snapshot [4:RefSync] upgraded in [80us]
+[2026.07.29 10:20:27] [0000m.01s.003ms] [0] iCDB Database: Upgrading constraint definitions for snapshot [4:RefSync]
+[2026.07.29 10:20:27] [0000m.01s.035ms] [0] iCDB Database: Constraint definitions for snapshot [4:RefSync] upgraded in [32ms 390us]
+[2026.07.29 10:20:27] [0000m.01s.035ms] [0] iCDB Database: Saving upgraded snapshot [4:RefSync]
+[2026.07.29 10:20:27] [0000m.01s.071ms] [0] iCDB Database: Upgraded snapshot [4:RefSync] saved in [35ms 860us]
+[2026.07.29 10:20:27] [0000m.01s.077ms] [1] CRC equalize: S=4 I=12 IC=1 C=11
+[2026.07.29 10:20:27] [0000m.01s.077ms] [1] CRC equalize: S=4 I=12 IC=1 C=11
+[2026.07.29 10:20:27] [0000m.01s.077ms] [1] CRC equalize: S=4 I=12 IC=1 C=11
+[2026.07.29 10:20:27] [0000m.01s.080ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s4\cdbblks\2000000010000050.blk\blkatl.v] - auto-saving it
+[2026.07.29 10:20:27] [0000m.01s.080ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s4\cdbblks\2000000010000050.blk\dxdatl.v] - auto-saving it
+[2026.07.29 10:20:27] [0000m.01s.080ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s4\cdbcatlg\catlgatl.v] - auto-saving it
+[2026.07.29 10:20:27] [0000m.01s.080ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s4\cdbcatlg\grpatl.v] - auto-saving it
+[2026.07.29 10:20:27] [0000m.01s.080ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s4\cdbcatlg\grpobj] - auto-saving it
+[2026.07.29 10:20:27] [0000m.01s.080ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s4\cdbcnfgs\2000000010000050.blk\ces_obj_state] - auto-saving it
+[2026.07.29 10:20:27] [0000m.01s.081ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s4\cdbcnfgs\2000000010000050.blk\cesatl.v] - auto-saving it
+[2026.07.29 10:20:27] [0000m.01s.081ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s4\cdbcnfgs\2000000010000050.blk\varatl.v] - auto-saving it
+[2026.07.29 10:20:27] [0000m.01s.081ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s4\oryg] - auto-saving it
+[2026.07.29 10:20:27] [0000m.01s.081ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s4\params] - auto-saving it
+[2026.07.29 10:20:27] [0000m.01s.081ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\s4\uids] - auto-saving it
+[2026.07.29 10:20:27] [0000m.01s.082ms] [0] iCDB Database: Constraint definitions upgraded to version [ce_ee.cns=7.10.77;user.cns=ad32-be84-ecce-3282-d1d6-76a3-2d67-6a60-b511-cd5c-1646-e5f5]
+[2026.07.29 10:20:27] [0000m.01s.090ms] [0] iCDB Server PI: Initializing plugins
+[2026.07.29 10:20:27] [0000m.01s.091ms] [0] iCDB Server PI: Plugins initialized
+[2026.07.29 10:20:27] [0000m.01s.091ms] [0] S: iCDB database loaded
+[2026.07.29 10:20:28] [0000m.01s.810ms] [1] PrjBackupMgr: Successfully created Project Backup [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\ProjectBackup\backups\2026-07-29 10.20.27 - upgrade.zip] with GUID [2f31-e715-17da-e2ba-bb9a-96a1-c9a9-6a60-3632-cd5c-1646-e5f5]
+[2026.07.29 10:20:28] [0000m.01s.810ms] [1] PrjBackupMgr: Migrated iCDB content backup file [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\cdbback\2026-07-29 10.20.27-2656.zip] removed
+[2026.07.29 10:20:28] [0000m.01s.811ms] [0] S: Starting threads
+[2026.07.29 10:20:28] [0000m.01s.812ms] [0] BT: Listening for broadcast messages on port [10000]
+[2026.07.29 10:20:28] [0000m.01s.812ms] [1] CMT: There are no clients - waiting [10 seconds]
+[2026.07.29 10:20:28] [0000m.01s.812ms] [0] IT: Session [1719] for host [R2D2] user [Work] client type[0] clsvrPluginID[0] with process ID [8704] created
+[2026.07.29 10:20:28] [0000m.01s.812ms] [1] SCL: WARNING: Could not find client [1719] stat data
+[2026.07.29 10:20:28] [0000m.01s.815ms] [0] MWT: WindowProc: WM_NCCREATE
+[2026.07.29 10:20:28] [0000m.01s.817ms] [1] SC[1719]: Registered sub-client [DxD] with ID [1] for session ID [1719] host [R2D2] user [Work] process ID [8704]
+[2026.07.29 10:20:28] [0000m.01s.825ms] [0] IT: iCDB Server Monitor session [1] for host [R2D2] user [Work] with process ID [21124] created
+[2026.07.29 10:20:28] [0000m.01s.825ms] [1] DMT: There are [1] iCDB Server Monitor connected now
+[2026.07.29 10:20:28] [0000m.01s.831ms] [1] CRC equalize: S=1 I=5 IC=0 C=4
+[2026.07.29 10:20:28] [0000m.01s.882ms] [1] SC[1719]: Registered sub-client [TransactionRollbackSubClient] with ID [2] for session ID [1719] host [R2D2] user [Work] process ID [8704]
+[2026.07.29 10:20:28] [0000m.01s.916ms] [1] CMT: There are [1] clients now: 1719
+[2026.07.29 10:20:28] [0000m.01s.917ms] [1] SC[1719]: Registered sub-client [SymbolEditor] with ID [3] for session ID [1719] host [R2D2] user [Work] process ID [8704]
+[2026.07.29 10:20:28] [0000m.01s.922ms] [1] SC[1719]: Registered sub-client [SelectionHolder] with ID [4] for session ID [1719] host [R2D2] user [Work] process ID [8704]
+[2026.07.29 10:20:28] [0000m.01s.940ms] [1] SC[1719]: Registered sub-client [EEVM_EEVM_644158560] with ID [5] for session ID [1719] host [R2D2] user [Work] process ID [8704]
+[2026.07.29 10:20:28] [0000m.01s.940ms] [1] SC[1719]: UnRegistered sub-client [EEVM_EEVM_644158560] with ID [5] for session ID [1719] host [R2D2] user [Work] process ID [8704]
+[2026.07.29 10:20:28] [0000m.01s.944ms] [1] SC[1719]: Registered sub-client [EEVM_EEVM_644158560] with ID [6] for session ID [1719] host [R2D2] user [Work] process ID [8704]
+[2026.07.29 10:20:28] [0000m.01s.954ms] [1] CRC equalize: S=2 I=5 IC=0 C=4
+[2026.07.29 10:20:28] [0000m.01s.960ms] [1] SC[1719]: UnRegistered sub-client [EEVM_EEVM_644158560] with ID [6] for session ID [1719] host [R2D2] user [Work] process ID [8704]
+[2026.07.29 10:20:28] [0000m.01s.965ms] [1] SC[1719]: Registered sub-client [BlockCacheDxD:650708496] with ID [7] for session ID [1719] host [R2D2] user [Work] process ID [8704]
+[2026.07.29 10:20:28] [0000m.02s.040ms] [1] SC[1719]: Registered sub-client [ObjectHolder_660972336] with ID [8] for session ID [1719] host [R2D2] user [Work] process ID [8704]
+[2026.07.29 10:20:28] [0000m.02s.042ms] [1] SC[1719]: Registered sub-client [GlobalNetAliasUpdater_657858544] with ID [9] for session ID [1719] host [R2D2] user [Work] process ID [8704]
+[2026.07.29 10:20:28] [0000m.02s.045ms] [1] SC[1719]: Registered sub-client [IcdbNetProcessorSubClientDxD:468272304] with ID [10] for session ID [1719] host [R2D2] user [Work] process ID [8704]
+[2026.07.29 10:20:28] [0000m.02s.053ms] [1] SC[1719]: UnRegistered sub-client [GlobalNetAliasUpdater_657858544] with ID [9] for session ID [1719] host [R2D2] user [Work] process ID [8704]
+[2026.07.29 10:20:28] [0000m.02s.053ms] [1] SC[1719]: UnRegistered sub-client [ObjectHolder_660972336] with ID [8] for session ID [1719] host [R2D2] user [Work] process ID [8704]
+[2026.07.29 10:20:28] [0000m.02s.053ms] [1] SC[1719]: UnRegistered sub-client [IcdbNetProcessorSubClientDxD:468272304] with ID [10] for session ID [1719] host [R2D2] user [Work] process ID [8704]
+[2026.07.29 10:20:28] [0000m.02s.063ms] [1] PrjBackupMgr: Successfully created Project Backup [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\ProjectBackup\backups\2026-07-29 10.20.28 - auto.zip] with GUID [b6a4-0652-112e-32c0-cb9a-96a2-c9a9-6a60-f63d-bd5c-1646-e5f5]
+[2026.07.29 10:20:28] [0000m.02s.063ms] [0] PrjBackupMgr: Removing excessive backup:  BackupGUID[c25d-5b79-5598-47df-eb14-2953-c142-9550-2950-a04c-9c3c-8dfb] CreationTime[Tuesday, June 30, 2015 07:14:06] Type[Autosave] Creator[iCDB Server (2015-06-30 10.01.05-2444)] ApplicationName[iCDB Server (2015-06-30 10.01.05-2444)] UserName[User] MachineName[NIO13_PC1] Description[Autosave] FullFlowName[Expedition Enterprise Flow; Expedition Enterprise Flow - Update 9 for EE7.9.4] FlowId[EE7.9.4] GBSInstallId[26418; 29518] GBSBuildId[535943] IcdbVersion[2709] ReferenceLogFilePath[] BackupFilePath[C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\ProjectBackup\backups\2015-06-30 10.14.06 - auto.zip] BackupFileSize[2398076] Persistent[FALSE]
+[2026.07.29 10:20:28] [0000m.02s.064ms] [0] PrjBackupMgr: Project Backup file [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\ProjectBackup\backups\2015-06-30 10.14.06 - auto.zip] with GUID [c25d-5b79-5598-47df-eb14-2953-c142-9550-2950-a04c-9c3c-8dfb] removed
+[2026.07.29 10:20:28] [0000m.02s.065ms] [0] PrjBackupEngine: Successfully created backup:  BackupGUID[b6a4-0652-112e-32c0-cb9a-96a2-c9a9-6a60-f63d-bd5c-1646-e5f5] CreationTime[Wednesday, July 29, 2026 07:20:28] Type[Autosave] Creator[iCDB Server (2026-07-29 10.20.26-2656)] ApplicationName[iCDB Server (2026-07-29 10.20.26-2656)] UserName[Work] MachineName[R2D2] Description[Autosave] FullFlowName[Xpedition Enterprise X-ENTP VX.2.11] FlowId[EEVX.2.11] GBSInstallId[2431697] GBSBuildId[20123704] IcdbVersion[4100] ReferenceLogFilePath[] BackupFilePath[C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\ProjectBackup\backups\2026-07-29 10.20.28 - auto.zip] BackupFileSize[3832388] Persistent[FALSE]
+[2026.07.29 10:20:28] [0000m.02s.097ms] [1] SC[1719]: Registered sub-client [ObjectHolder_660974624] with ID [11] for session ID [1719] host [R2D2] user [Work] process ID [8704]
+[2026.07.29 10:20:28] [0000m.02s.099ms] [1] SC[1719]: Registered sub-client [GlobalNetAliasUpdater_658186192] with ID [12] for session ID [1719] host [R2D2] user [Work] process ID [8704]
+[2026.07.29 10:20:28] [0000m.02s.100ms] [1] SC[1719]: Registered sub-client [IcdbNetProcessorSubClientDxD:468272304] with ID [13] for session ID [1719] host [R2D2] user [Work] process ID [8704]
+[2026.07.29 10:20:28] [0000m.02s.106ms] [1] SC[1719]: UnRegistered sub-client [GlobalNetAliasUpdater_658186192] with ID [12] for session ID [1719] host [R2D2] user [Work] process ID [8704]
+[2026.07.29 10:20:28] [0000m.02s.106ms] [1] SC[1719]: UnRegistered sub-client [ObjectHolder_660974624] with ID [11] for session ID [1719] host [R2D2] user [Work] process ID [8704]
+[2026.07.29 10:20:28] [0000m.02s.106ms] [1] SC[1719]: UnRegistered sub-client [IcdbNetProcessorSubClientDxD:468272304] with ID [13] for session ID [1719] host [R2D2] user [Work] process ID [8704]
+[2026.07.29 10:20:28] [0000m.02s.144ms] [1] SC[1719]: Registered sub-client [ObjectHolder_660973584] with ID [14] for session ID [1719] host [R2D2] user [Work] process ID [8704]
+[2026.07.29 10:20:28] [0000m.02s.146ms] [1] SC[1719]: Registered sub-client [GlobalNetAliasUpdater_658226320] with ID [15] for session ID [1719] host [R2D2] user [Work] process ID [8704]
+[2026.07.29 10:20:28] [0000m.02s.147ms] [1] SC[1719]: Registered sub-client [IcdbNetProcessorSubClientDxD:468272304] with ID [16] for session ID [1719] host [R2D2] user [Work] process ID [8704]
+[2026.07.29 10:20:28] [0000m.02s.152ms] [1] SC[1719]: UnRegistered sub-client [GlobalNetAliasUpdater_658226320] with ID [15] for session ID [1719] host [R2D2] user [Work] process ID [8704]
+[2026.07.29 10:20:28] [0000m.02s.152ms] [1] SC[1719]: UnRegistered sub-client [ObjectHolder_660973584] with ID [14] for session ID [1719] host [R2D2] user [Work] process ID [8704]
+[2026.07.29 10:20:28] [0000m.02s.152ms] [1] SC[1719]: UnRegistered sub-client [IcdbNetProcessorSubClientDxD:468272304] with ID [16] for session ID [1719] host [R2D2] user [Work] process ID [8704]
+[2026.07.29 10:20:28] [0000m.02s.153ms] [1] SC[1719]: UnRegistered sub-client [BlockCacheDxD:650708496] with ID [7] for session ID [1719] host [R2D2] user [Work] process ID [8704]
+[2026.07.29 10:20:28] [0000m.02s.177ms] [1] SC[1719]: Registered sub-client [ObjectHolder_660979408] with ID [17] for session ID [1719] host [R2D2] user [Work] process ID [8704]
+[2026.07.29 10:20:28] [0000m.02s.179ms] [1] SC[1719]: Registered sub-client [BlockCacheDxD:467907280] with ID [18] for session ID [1719] host [R2D2] user [Work] process ID [8704]
+[2026.07.29 10:20:28] [0000m.02s.180ms] [1] SC[1719]: Registered sub-client [GlobalNetAliasUpdater_657858544] with ID [19] for session ID [1719] host [R2D2] user [Work] process ID [8704]
+[2026.07.29 10:20:28] [0000m.02s.182ms] [1] SC[1719]: Registered sub-client [IcdbNetProcessorSubClientDxD:468274768] with ID [20] for session ID [1719] host [R2D2] user [Work] process ID [8704]
+[2026.07.29 10:20:28] [0000m.02s.187ms] [1] SC[1719]: UnRegistered sub-client [GlobalNetAliasUpdater_657858544] with ID [19] for session ID [1719] host [R2D2] user [Work] process ID [8704]
+[2026.07.29 10:20:28] [0000m.02s.187ms] [1] SC[1719]: UnRegistered sub-client [BlockCacheDxD:467907280] with ID [18] for session ID [1719] host [R2D2] user [Work] process ID [8704]
+[2026.07.29 10:20:28] [0000m.02s.187ms] [1] SC[1719]: UnRegistered sub-client [ObjectHolder_660979408] with ID [17] for session ID [1719] host [R2D2] user [Work] process ID [8704]
+[2026.07.29 10:20:28] [0000m.02s.187ms] [1] SC[1719]: UnRegistered sub-client [IcdbNetProcessorSubClientDxD:468274768] with ID [20] for session ID [1719] host [R2D2] user [Work] process ID [8704]
+[2026.07.29 10:20:28] [0000m.02s.210ms] [1] SC[1719]: Registered sub-client [ObjectHolder_660980656] with ID [21] for session ID [1719] host [R2D2] user [Work] process ID [8704]
+[2026.07.29 10:20:28] [0000m.02s.212ms] [1] SC[1719]: Registered sub-client [BlockCacheDxD:659181040] with ID [22] for session ID [1719] host [R2D2] user [Work] process ID [8704]
+[2026.07.29 10:20:28] [0000m.02s.214ms] [1] SC[1719]: Registered sub-client [GlobalNetAliasUpdater_659048096] with ID [23] for session ID [1719] host [R2D2] user [Work] process ID [8704]
+[2026.07.29 10:20:28] [0000m.02s.215ms] [1] SC[1719]: Registered sub-client [IcdbNetProcessorSubClientDxD:468280144] with ID [24] for session ID [1719] host [R2D2] user [Work] process ID [8704]
+[2026.07.29 10:20:28] [0000m.02s.220ms] [1] SC[1719]: UnRegistered sub-client [GlobalNetAliasUpdater_659048096] with ID [23] for session ID [1719] host [R2D2] user [Work] process ID [8704]
+[2026.07.29 10:20:28] [0000m.02s.220ms] [1] SC[1719]: UnRegistered sub-client [BlockCacheDxD:659181040] with ID [22] for session ID [1719] host [R2D2] user [Work] process ID [8704]
+[2026.07.29 10:20:28] [0000m.02s.220ms] [1] SC[1719]: UnRegistered sub-client [ObjectHolder_660980656] with ID [21] for session ID [1719] host [R2D2] user [Work] process ID [8704]
+[2026.07.29 10:20:28] [0000m.02s.220ms] [1] SC[1719]: UnRegistered sub-client [IcdbNetProcessorSubClientDxD:468280144] with ID [24] for session ID [1719] host [R2D2] user [Work] process ID [8704]
+[2026.07.29 10:20:28] [0000m.02s.241ms] [1] SC[1719]: Registered sub-client [ObjectHolder_660969216] with ID [25] for session ID [1719] host [R2D2] user [Work] process ID [8704]
+[2026.07.29 10:20:28] [0000m.02s.242ms] [1] SC[1719]: Registered sub-client [BlockCacheDxD:659165200] with ID [26] for session ID [1719] host [R2D2] user [Work] process ID [8704]
+[2026.07.29 10:20:28] [0000m.02s.244ms] [1] SC[1719]: Registered sub-client [GlobalNetAliasUpdater_656612928] with ID [27] for session ID [1719] host [R2D2] user [Work] process ID [8704]
+[2026.07.29 10:20:28] [0000m.02s.245ms] [1] SC[1719]: Registered sub-client [IcdbNetProcessorSubClientDxD:468281376] with ID [28] for session ID [1719] host [R2D2] user [Work] process ID [8704]
+[2026.07.29 10:20:28] [0000m.02s.249ms] [1] SC[1719]: UnRegistered sub-client [GlobalNetAliasUpdater_656612928] with ID [27] for session ID [1719] host [R2D2] user [Work] process ID [8704]
+[2026.07.29 10:20:28] [0000m.02s.250ms] [1] SC[1719]: UnRegistered sub-client [BlockCacheDxD:659165200] with ID [26] for session ID [1719] host [R2D2] user [Work] process ID [8704]
+[2026.07.29 10:20:28] [0000m.02s.250ms] [1] SC[1719]: UnRegistered sub-client [ObjectHolder_660969216] with ID [25] for session ID [1719] host [R2D2] user [Work] process ID [8704]
+[2026.07.29 10:20:28] [0000m.02s.250ms] [1] SC[1719]: UnRegistered sub-client [IcdbNetProcessorSubClientDxD:468281376] with ID [28] for session ID [1719] host [R2D2] user [Work] process ID [8704]
+[2026.07.29 10:20:28] [0000m.02s.265ms] [1] SC[1719]: Registered sub-client [Core::DesignListener-659179600-0] with ID [29] for session ID [1719] host [R2D2] user [Work] process ID [8704]
+[2026.07.29 10:20:28] [0000m.02s.267ms] [1] SC[1719]: Registered sub-client [BlockCacheDxD:659180480] with ID [30] for session ID [1719] host [R2D2] user [Work] process ID [8704]
+[2026.07.29 10:20:28] [0000m.02s.268ms] [1] SC[1719]: Registered sub-client [Core::NetFlatData-31202] with ID [31] for session ID [1719] host [R2D2] user [Work] process ID [8704]
+[2026.07.29 10:20:28] [0000m.02s.273ms] [1] SC[1719]: Registered sub-client [SystemDesignDll] with ID [32] for session ID [1719] host [R2D2] user [Work] process ID [8704]
+[2026.07.29 10:20:28] [0000m.02s.275ms] [1] SC[1719]: UnRegistered sub-client [SystemDesignDll] with ID [32] for session ID [1719] host [R2D2] user [Work] process ID [8704]
+[2026.07.29 10:20:28] [0000m.02s.278ms] [1] SC[1719]: Registered sub-client [SystemDesignDll] with ID [33] for session ID [1719] host [R2D2] user [Work] process ID [8704]
+[2026.07.29 10:20:29] [0000m.03s.495ms] [1] SC[1719]: Registered sub-client [DesignSearcher2] with ID [34] for session ID [1719] host [R2D2] user [Work] process ID [8704]
+[2026.07.29 10:20:29] [0000m.03s.499ms] [1] SC[1719]: Registered sub-client [HdlProject] with ID [35] for session ID [1719] host [R2D2] user [Work] process ID [8704]
+[2026.07.29 10:20:29] [0000m.03s.501ms] [1] SC[1719]: Registered sub-client [IBDInstanceDialog] with ID [36] for session ID [1719] host [R2D2] user [Work] process ID [8704]
+[2026.07.29 10:20:29] [0000m.03s.503ms] [1] SC[1719]: Registered sub-client [ProjectIntegrationIcdbCacheDxD:357897680] with ID [37] for session ID [1719] host [R2D2] user [Work] process ID [8704]
+[2026.07.29 10:20:29] [0000m.03s.536ms] [1] SC[1719]: Registered sub-client [SheetConnectorsCacheDxD:1785309629] with ID [38] for session ID [1719] host [R2D2] user [Work] process ID [8704]
+[2026.07.29 10:20:29] [0000m.03s.562ms] [1] SC[1719]: Registered sub-client [NetsNamesCollectorDxD:1785309629] with ID [39] for session ID [1719] host [R2D2] user [Work] process ID [8704]
+[2026.07.29 10:20:29] [0000m.03s.603ms] [1] SC[1719]: Registered sub-client [PartReplaceUtils] with ID [40] for session ID [1719] host [R2D2] user [Work] process ID [8704]
+[2026.07.29 10:20:29] [0000m.03s.604ms] [1] SC[1719]: Registered sub-client [PartReplaceUtilsSelectionListener] with ID [41] for session ID [1719] host [R2D2] user [Work] process ID [8704]
+[2026.07.29 10:20:29] [0000m.03s.612ms] [1] SC[1719]: Registered sub-client [xprob] with ID [42] for session ID [1719] host [R2D2] user [Work] process ID [8704]
+[2026.07.29 10:20:29] [0000m.03s.688ms] [1] SC[1719]: Registered sub-client [StartServerClient45b8] with ID [43] for session ID [1719] host [R2D2] user [Work] process ID [8704]
+[2026.07.29 10:20:29] [0000m.03s.689ms] [1] SC[1719]: UnRegistered sub-client [StartServerClient45b8] with ID [43] for session ID [1719] host [R2D2] user [Work] process ID [8704]
+[2026.07.29 10:20:32] [0000m.06s.372ms] [1] SC[1719]: Registered sub-client [Navigator] with ID [44] for session ID [1719] host [R2D2] user [Work] process ID [8704]
+[2026.07.29 10:20:32] [0000m.06s.380ms] [1] SC[1719]: Registered sub-client [OutputWindow] with ID [45] for session ID [1719] host [R2D2] user [Work] process ID [8704]
+[2026.07.29 10:20:32] [0000m.06s.382ms] [1] SC[1719]: Registered sub-client [PlaceDevice] with ID [46] for session ID [1719] host [R2D2] user [Work] process ID [8704]
+[2026.07.29 10:20:32] [0000m.06s.480ms] [1] SC[1719]: Registered sub-client [FFSearch_RBHost] with ID [47] for session ID [1719] host [R2D2] user [Work] process ID [8704]
+[2026.07.29 10:20:32] [0000m.06s.482ms] [1] SC[1719]: Registered sub-client [LocalSymbolsDataProvider] with ID [48] for session ID [1719] host [R2D2] user [Work] process ID [8704]
+[2026.07.29 10:20:33] [0000m.07s.137ms] [1] SC[1719]: Registered sub-client [FFSSelListener] with ID [49] for session ID [1719] host [R2D2] user [Work] process ID [8704]
+[2026.07.29 10:20:33] [0000m.07s.139ms] [1] SC[1719]: Registered sub-client [SAE] with ID [50] for session ID [1719] host [R2D2] user [Work] process ID [8704]
+[2026.07.29 10:20:33] [0000m.07s.141ms] [1] SC[1719]: Registered sub-client [CCZAddin] with ID [51] for session ID [1719] host [R2D2] user [Work] process ID [8704]
+[2026.07.29 10:20:33] [0000m.07s.142ms] [1] SC[1719]: Registered sub-client [DxThumbnails] with ID [52] for session ID [1719] host [R2D2] user [Work] process ID [8704]
+[2026.07.29 10:20:33] [0000m.07s.143ms] [1] SC[1719]: Registered sub-client [MyParts] with ID [53] for session ID [1719] host [R2D2] user [Work] process ID [8704]
+[2026.07.29 10:20:33] [0000m.07s.152ms] [1] SC[1719]: Registered sub-client [PinsList] with ID [54] for session ID [1719] host [R2D2] user [Work] process ID [8704]
+[2026.07.29 10:20:33] [0000m.07s.231ms] [1] SC[1719]: Registered sub-client [toolboxes] with ID [55] for session ID [1719] host [R2D2] user [Work] process ID [8704]
+[2026.07.29 10:20:33] [0000m.07s.336ms] [1] SC[1719]: Registered sub-client [ObjectHolder_476417872] with ID [56] for session ID [1719] host [R2D2] user [Work] process ID [8704]
+[2026.07.29 10:20:33] [0000m.07s.338ms] [1] SC[1719]: Registered sub-client [BlockCacheDxD:473922000] with ID [57] for session ID [1719] host [R2D2] user [Work] process ID [8704]
+[2026.07.29 10:20:33] [0000m.07s.339ms] [1] SC[1719]: Registered sub-client [GlobalNetAliasUpdater_477133264] with ID [58] for session ID [1719] host [R2D2] user [Work] process ID [8704]
+[2026.07.29 10:20:33] [0000m.07s.341ms] [1] SC[1719]: Registered sub-client [IcdbNetProcessorSubClientDxD:477068624] with ID [59] for session ID [1719] host [R2D2] user [Work] process ID [8704]
+[2026.07.29 10:20:34] [0000m.07s.991ms] [1] SC[1719]: Registered sub-client [SupplyChainDataProviderInterface] with ID [60] for session ID [1719] host [R2D2] user [Work] process ID [8704]
+[2026.07.29 10:20:34] [0000m.07s.991ms] [1] SC[1719]: UnRegistered sub-client [SupplyChainDataProviderInterface] with ID [60] for session ID [1719] host [R2D2] user [Work] process ID [8704]
+[2026.07.29 10:20:50] [0000m.24s.481ms] [1] CRC equalize: S=3 I=5 IC=0 C=4
+[2026.07.29 10:20:53] [0000m.26s.769ms] [1] SC[1719]: Registered sub-client [Dx2Exp_709125] with ID [61] for session ID [1719] host [R2D2] user [Work] process ID [8704]
+[2026.07.29 10:20:53] [0000m.26s.770ms] [1] SC[1719]: UnRegistered sub-client [Dx2Exp_709125] with ID [61] for session ID [1719] host [R2D2] user [Work] process ID [8704]
+[2026.07.29 10:20:59] [0000m.33s.261ms] [0] DFAMT: File server access time: 23 us
+[2026.07.29 10:21:09] [0000m.42s.966ms] [0] IT: Session [1720] for host [R2D2] user [Work] client type[0] clsvrPluginID[0] with process ID [16624] created
+[2026.07.29 10:21:09] [0000m.42s.967ms] [1] SC[1720]: Registered sub-client [Expedition PCB_725312] with ID [1] for session ID [1720] host [R2D2] user [Work] process ID [16624]
+[2026.07.29 10:21:09] [0000m.42s.993ms] [1] CMT: There are [2] clients now: 1719, 1720
+[2026.07.29 10:21:09] [0000m.42s.994ms] [1] CRC equalize: S=2 I=5 IC=0 C=4
+[2026.07.29 10:21:09] [0000m.43s.007ms] [1] CRC equalize: S=3 I=5 IC=0 C=4
+[2026.07.29 10:21:09] [0000m.43s.023ms] [1] SC[1720]: Registered sub-client [EEVM_EEVM_1415936816] with ID [2] for session ID [1720] host [R2D2] user [Work] process ID [16624]
+[2026.07.29 10:21:09] [0000m.43s.031ms] [1] SC[1720]: UnRegistered sub-client [EEVM_EEVM_1415936816] with ID [2] for session ID [1720] host [R2D2] user [Work] process ID [16624]
+[2026.07.29 10:21:09] [0000m.43s.033ms] [1] SC[1720]: Registered sub-client [EEVM_EEVM_1415936816] with ID [3] for session ID [1720] host [R2D2] user [Work] process ID [16624]
+[2026.07.29 10:21:09] [0000m.43s.042ms] [1] CRC equalize: S=3 I=5 IC=0 C=4
+[2026.07.29 10:21:09] [0000m.43s.046ms] [1] SC[1720]: UnRegistered sub-client [EEVM_EEVM_1415936816] with ID [3] for session ID [1720] host [R2D2] user [Work] process ID [16624]
+[2026.07.29 10:21:09] [0000m.43s.103ms] [1] CRC equalize: S=2 I=5 IC=0 C=4
+[2026.07.29 10:21:09] [0000m.43s.183ms] [1] CRC equalize: S=3 I=5 IC=0 C=4
+[2026.07.29 10:21:09] [0000m.43s.240ms] [1] SC[1720]: Registered sub-client [JobPrefsDBPI_725593] with ID [4] for session ID [1720] host [R2D2] user [Work] process ID [16624]
+[2026.07.29 10:21:09] [0000m.43s.242ms] [1] SC[1720]: UnRegistered sub-client [JobPrefsDBPI_725593] with ID [4] for session ID [1720] host [R2D2] user [Work] process ID [16624]
+[2026.07.29 10:21:10] [0000m.43s.907ms] [1] SC[1720]: Registered sub-client [JobPrefsDBPI_726250] with ID [5] for session ID [1720] host [R2D2] user [Work] process ID [16624]
+[2026.07.29 10:21:10] [0000m.43s.917ms] [1] SC[1720]: UnRegistered sub-client [JobPrefsDBPI_726250] with ID [5] for session ID [1720] host [R2D2] user [Work] process ID [16624]
+[2026.07.29 10:21:11] [0000m.44s.770ms] [1] SC[1720]: Registered sub-client [JobPrefsDBPI_727125] with ID [6] for session ID [1720] host [R2D2] user [Work] process ID [16624]
+[2026.07.29 10:21:11] [0000m.44s.779ms] [1] SC[1720]: UnRegistered sub-client [JobPrefsDBPI_727125] with ID [6] for session ID [1720] host [R2D2] user [Work] process ID [16624]
+[2026.07.29 10:21:13] [0000m.47s.007ms] [1] SC[1720]: Registered sub-client [JobPrefsDBPI_729359] with ID [7] for session ID [1720] host [R2D2] user [Work] process ID [16624]
+[2026.07.29 10:21:13] [0000m.47s.010ms] [1] SC[1720]: UnRegistered sub-client [JobPrefsDBPI_729359] with ID [7] for session ID [1720] host [R2D2] user [Work] process ID [16624]
+[2026.07.29 10:21:13] [0000m.47s.165ms] [1] SC[1720]: Registered sub-client [ExpeditionCrossProber] with ID [8] for session ID [1720] host [R2D2] user [Work] process ID [16624]
+[2026.07.29 10:21:13] [0000m.47s.167ms] [1] SC[1720]: Registered sub-client [StartServerClienta88] with ID [9] for session ID [1720] host [R2D2] user [Work] process ID [16624]
+[2026.07.29 10:21:13] [0000m.47s.167ms] [1] SC[1720]: UnRegistered sub-client [StartServerClienta88] with ID [9] for session ID [1720] host [R2D2] user [Work] process ID [16624]
+[2026.07.29 10:21:14] [0000m.47s.770ms] [1] CRC equalize: S=3 I=5 IC=0 C=4
+[2026.07.29 10:21:17] [0000m.51s.183ms] [1] SC[1720]: Registered sub-client [XPDAddin] with ID [10] for session ID [1720] host [R2D2] user [Work] process ID [16624]
+[2026.07.29 10:21:17] [0000m.51s.184ms] [1] SC[1720]: UnRegistered sub-client [XPDAddin] with ID [10] for session ID [1720] host [R2D2] user [Work] process ID [16624]
+[2026.07.29 10:22:13] [0001m.47s.038ms] [1] SC[1719]: UnRegistered sub-client [SystemDesignDll] with ID [33] for session ID [1719] host [R2D2] user [Work] process ID [8704]
+[2026.07.29 10:22:13] [0001m.47s.240ms] [1] SC[1719]: UnRegistered sub-client [DesignSearcher2] with ID [34] for session ID [1719] host [R2D2] user [Work] process ID [8704]
+[2026.07.29 10:22:13] [0001m.47s.333ms] [1] SC[1719]: UnRegistered sub-client [xprob] with ID [42] for session ID [1719] host [R2D2] user [Work] process ID [8704]
+[2026.07.29 10:22:13] [0001m.47s.413ms] [1] SC[1719]: UnRegistered sub-client [GlobalNetAliasUpdater_477133264] with ID [58] for session ID [1719] host [R2D2] user [Work] process ID [8704]
+[2026.07.29 10:22:13] [0001m.47s.414ms] [1] SC[1719]: UnRegistered sub-client [BlockCacheDxD:473922000] with ID [57] for session ID [1719] host [R2D2] user [Work] process ID [8704]
+[2026.07.29 10:22:13] [0001m.47s.414ms] [1] SC[1719]: UnRegistered sub-client [ObjectHolder_476417872] with ID [56] for session ID [1719] host [R2D2] user [Work] process ID [8704]
+[2026.07.29 10:22:13] [0001m.47s.414ms] [1] SC[1719]: UnRegistered sub-client [IcdbNetProcessorSubClientDxD:477068624] with ID [59] for session ID [1719] host [R2D2] user [Work] process ID [8704]
+[2026.07.29 10:22:13] [0001m.47s.429ms] [1] SC[1719]: UnRegistered sub-client [Navigator] with ID [44] for session ID [1719] host [R2D2] user [Work] process ID [8704]
+[2026.07.29 10:22:13] [0001m.47s.429ms] [1] SC[1719]: UnRegistered sub-client [FFSSelListener] with ID [49] for session ID [1719] host [R2D2] user [Work] process ID [8704]
+[2026.07.29 10:22:13] [0001m.47s.430ms] [1] SC[1719]: UnRegistered sub-client [LocalSymbolsDataProvider] with ID [48] for session ID [1719] host [R2D2] user [Work] process ID [8704]
+[2026.07.29 10:22:13] [0001m.47s.492ms] [1] SC[1719]: UnRegistered sub-client [FFSearch_RBHost] with ID [47] for session ID [1719] host [R2D2] user [Work] process ID [8704]
+[2026.07.29 10:22:13] [0001m.47s.502ms] [1] SC[1719]: UnRegistered sub-client [MyParts] with ID [53] for session ID [1719] host [R2D2] user [Work] process ID [8704]
+[2026.07.29 10:22:13] [0001m.47s.503ms] [1] SC[1719]: UnRegistered sub-client [toolboxes] with ID [55] for session ID [1719] host [R2D2] user [Work] process ID [8704]
+[2026.07.29 10:22:13] [0001m.47s.550ms] [1] SC[1719]: UnRegistered sub-client [SelectionHolder] with ID [4] for session ID [1719] host [R2D2] user [Work] process ID [8704]
+[2026.07.29 10:22:13] [0001m.47s.551ms] [1] SC[1719]: UnRegistered sub-client [PartReplaceUtils] with ID [40] for session ID [1719] host [R2D2] user [Work] process ID [8704]
+[2026.07.29 10:22:13] [0001m.47s.551ms] [1] SC[1719]: UnRegistered sub-client [PartReplaceUtilsSelectionListener] with ID [41] for session ID [1719] host [R2D2] user [Work] process ID [8704]
+[2026.07.29 10:22:13] [0001m.47s.668ms] [1] SC[1719]: UnRegistered sub-client [ProjectIntegrationIcdbCacheDxD:357897680] with ID [37] for session ID [1719] host [R2D2] user [Work] process ID [8704]
+[2026.07.29 10:22:13] [0001m.47s.669ms] [1] SC[1719]: UnRegistered sub-client [Core::NetFlatData-31202] with ID [31] for session ID [1719] host [R2D2] user [Work] process ID [8704]
+[2026.07.29 10:22:13] [0001m.47s.669ms] [1] SC[1719]: UnRegistered sub-client [BlockCacheDxD:659180480] with ID [30] for session ID [1719] host [R2D2] user [Work] process ID [8704]
+[2026.07.29 10:22:13] [0001m.47s.669ms] [1] SC[1719]: UnRegistered sub-client [Core::DesignListener-659179600-0] with ID [29] for session ID [1719] host [R2D2] user [Work] process ID [8704]
+[2026.07.29 10:22:13] [0001m.47s.670ms] [1] SC[1719]: UnRegistered sub-client [SheetConnectorsCacheDxD:1785309629] with ID [38] for session ID [1719] host [R2D2] user [Work] process ID [8704]
+[2026.07.29 10:22:13] [0001m.47s.670ms] [1] SC[1719]: UnRegistered sub-client [NetsNamesCollectorDxD:1785309629] with ID [39] for session ID [1719] host [R2D2] user [Work] process ID [8704]
+[2026.07.29 10:22:13] [0001m.47s.673ms] [1] SC[1719]: UnRegistered sub-client [TransactionRollbackSubClient] with ID [2] for session ID [1719] host [R2D2] user [Work] process ID [8704]
+[2026.07.29 10:22:13] [0001m.47s.674ms] [1] SC[1719]: UnRegistered sub-client [DxD] with ID [1] for session ID [1719] host [R2D2] user [Work] process ID [8704]
+[2026.07.29 10:22:13] [0001m.47s.692ms] [1] SC[1719]: UnRegistered sub-client [SymbolEditor] with ID [3] for session ID [1719] host [R2D2] user [Work] process ID [8704]
+[2026.07.29 10:22:13] [0001m.47s.709ms] [1] SC[1719]: UnRegistered sub-client [OutputWindow] with ID [45] for session ID [1719] host [R2D2] user [Work] process ID [8704]
+[2026.07.29 10:22:14] [0001m.47s.742ms] [1] SC[1719]: UnRegistered sub-client [SAE] with ID [50] for session ID [1719] host [R2D2] user [Work] process ID [8704]
+[2026.07.29 10:22:14] [0001m.47s.786ms] [1] SC[1719]: UnRegistered sub-client [CCZAddin] with ID [51] for session ID [1719] host [R2D2] user [Work] process ID [8704]
+[2026.07.29 10:22:14] [0001m.47s.807ms] [1] SC[1719]: UnRegistered sub-client [DxThumbnails] with ID [52] for session ID [1719] host [R2D2] user [Work] process ID [8704]
+[2026.07.29 10:22:16] [0001m.50s.566ms] [1] SC[1720]: UnRegistered sub-client [ExpeditionCrossProber] with ID [8] for session ID [1720] host [R2D2] user [Work] process ID [16624]
+[2026.07.29 10:22:18] [0001m.52s.211ms] [1] CRC equalize: S=2 I=5 IC=0 C=4
+[2026.07.29 10:22:18] [0001m.52s.219ms] [1] SC[1720]: UnRegistered sub-client [Expedition PCB_725312] with ID [1] for session ID [1720] host [R2D2] user [Work] process ID [16624]
+[2026.07.29 10:22:18] [0001m.52s.266ms] [1] CMT: Removed client [1720]
+[2026.07.29 10:22:18] [0001m.52s.266ms] [1] CMT: There are [1] clients now: 1719
+[2026.07.29 10:22:22] [0001m.56s.499ms] [1] SC[1719]: UnRegistered sub-client [PinsList] with ID [54] for session ID [1719] host [R2D2] user [Work] process ID [8704]
+[2026.07.29 10:22:22] [0001m.56s.611ms] [1] SC[1719]: UnRegistered sub-client [PlaceDevice] with ID [46] for session ID [1719] host [R2D2] user [Work] process ID [8704]
+[2026.07.29 10:22:22] [0001m.56s.636ms] [1] SC[1719]: UnRegistered sub-client [IBDInstanceDialog] with ID [36] for session ID [1719] host [R2D2] user [Work] process ID [8704]
+[2026.07.29 10:22:22] [0001m.56s.643ms] [1] SC[1719]: UnRegistered sub-client [HdlProject] with ID [35] for session ID [1719] host [R2D2] user [Work] process ID [8704]
+[2026.07.29 10:22:22] [0001m.56s.689ms] [1] CRC equalize: S=1 I=5 IC=0 C=4
+[2026.07.29 10:22:22] [0001m.56s.695ms] [1] CMT: Removed client [1719]
+[2026.07.29 10:22:22] [0001m.56s.695ms] [1] CMT: There are no clients left - waiting [1 seconds]
+[2026.07.29 10:22:23] [0001m.56s.999ms] [1] SDL: The last connected iCDB Server Monitor [1] is waiting for server close
+[2026.07.29 10:22:24] [0001m.57s.780ms] [0] CMT: Starting server auto-close
+[2026.07.29 10:22:24] [0001m.57s.794ms] [0] S: Closing server
+[2026.07.29 10:22:24] [0001m.57s.934ms] [0] iCDB Server PI: Closing plugins
+[2026.07.29 10:22:24] [0001m.57s.934ms] [0] iCDB Server PI: Plugins closed
+[2026.07.29 10:22:24] [0001m.57s.934ms] [0] iCDB Server PI: Unloading database
+[2026.07.29 10:22:24] [0001m.57s.934ms] [0] iCDB Server PI: Saving storage
+[2026.07.29 10:22:24] [0001m.57s.934ms] [0] iCDB Server PI: Closing database
+[2026.07.29 10:22:24] [0001m.57s.936ms] [1] iCDB Server PI: Stats: Database defragmentation: max[3] avg[1] holes[25%] data[94%]
+[2026.07.29 10:22:24] [0001m.57s.936ms] [1] iCDB Server PI: Stats: Database file size [1129304 (1.1 MB)]
+[2026.07.29 10:22:24] [0001m.57s.937ms] [1] iCDB Server PI: WARNING: Database needs defragmentation!
+[2026.07.29 10:22:24] [0001m.57s.952ms] [0] iCDB Server PI: Database closed
+[2026.07.29 10:22:24] [0001m.57s.952ms] [0] iCDB Server PI: Defragmenting database
+[2026.07.29 10:22:24] [0001m.57s.952ms] [0] iCDB Server PI: Creating database [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database] backup to file [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\cdbback\2026-07-29 10.22.24-2656-d.zip]
+[2026.07.29 10:22:24] [0001m.58s.004ms] [0] iCDB Server PI: Database backup: DONE
+[2026.07.29 10:22:24] [0001m.58s.020ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2026.07.29 10:22:24] [0001m.58s.020ms] [0] Database GUARD OK: [1129304]
+[2026.07.29 10:22:24] [0001m.58s.020ms] [0] SingleFile: [1402-082e-8c40-b970] SFI version check [1009] [1009]
+[2026.07.29 10:22:24] [0001m.58s.023ms] [0] SingleFile: [1402-082e-8c40-b970] Database SFI header has been read in [3ms 615us]
+[2026.07.29 10:22:24] [0001m.58s.055ms] [1] iCDB Server PI: Stats: Database file sizes: before[1129304 (1.1 MB)], after[553264 (540.3 kB)], gain[576040 (562.5 kB)]
+[2026.07.29 10:22:24] [0001m.58s.057ms] [0] Single file [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\icdb.dat] closed with size [553264 (540.3 kB)]
+[2026.07.29 10:22:24] [0001m.58s.069ms] [0] iCDB Server PI: Database defragmentation completed successfully
+[2026.07.29 10:22:24] [0001m.58s.069ms] [1] BackupTransaction: Removing database backup [C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр акнй сл рпнмйю 01.07.2015\окюрю сяхкхрекъ лнымнярх\UM_TRONKA_MK_2\database\cdbback\2026-07-29 10.22.24-2656-d.zip]
+[2026.07.29 10:22:24] [0001m.58s.070ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [74331] ticks
+[2026.07.29 10:22:24] [0001m.58s.070ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [7433] microseconds
+[2026.07.29 10:22:24] [0001m.58s.070ms] [1] iCDB Server PI: Stats: Total iCDB commands count: [104]
+[2026.07.29 10:22:24] [0001m.58s.070ms] [1] iCDB Server PI: Stats: Average iCDB speed:        [13991] commands per second
+[2026.07.29 10:22:24] [0001m.58s.070ms] [1] iCDB Server PI: Stats: Mem[17436672]
+[2026.07.29 10:22:24] [0001m.58s.070ms] [1] iCDB Server PI: Stats: MemPeak[38875136]
+[2026.07.29 10:22:24] [0001m.58s.137ms] [1] SD[1]: Removing the last connected iCDB Server Monitor [1]
+[2026.07.29 10:22:24] [0001m.58s.312ms] [0] MWT: Destroy the shutdown block reason.
+[2026.07.29 10:22:24] [0001m.58s.313ms] [0] MWT: STOP
+[2026.07.29 10:22:24] [0001m.58s.314ms] [0] S: STOP

@@ -1,0 +1,29 @@
+Prop name:ConsDefAttribs
+Flags    :$00000001
+       1
+       1
+Prop name:ConsDefCnfg2Prps
+Prop name:ConsDefFixes
+Prop name:ConsDefPrpAttr
+Flags    :$00002001
+       0
+Prop name:ConsDefPrpBit
+Flags    :$00000001
+FFFFFFFF
+Prop name:ConsDefPrpId
+Flags    :$00000001
+    2001
+Prop name:ConsDefPrpNam
+Flags    :$00000000
+Removed
+00002001
+CNS_LOADED
+Prop name:ConsDefPrpOrder
+Prop name:ConsDefPrpStr
+Flags    :$00000000
+Removed
+00000001
+C:\MentorGraphics\7.9.4EE\SDD_HOME\standard\ce_ee.cns=7.10.24;D:\WDIR\user.cns=23bc-5dbe-811f-e7e3-e487-7e23-5877-e250-e2f7-9777-77e2-03e2
+Prop name:ConsDefVersion
+Flags    :$00000001
+     1F4

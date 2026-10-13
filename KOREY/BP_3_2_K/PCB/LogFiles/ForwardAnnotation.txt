@@ -1,0 +1,155 @@
+
+                               Forward Annotation
+                               ------------------
+
+                        12:59 PM Thursday, April 12, 2018
+              Job Name: F:\TT18\KOREY\BP_3_2_K\PCB\BOARD_2LAYER.pcb
+
+
+Version:  01.01.00
+
+     A new Target PDB will be created from the Central Library to satisfy the parts
+      requirements of the iCDB.
+
+     The schematic source is a Common Data Base.
+
+     The AllowAlphaRefDes status indicates that reference
+      designators containing all alpha characters should be deleted
+      and the relevant symbols repackaged.
+
+
+
+     Common Data Base has been read
+
+     Target PDB Name: Work\Layout_Temp\PartsDB.pdb
+
+     Number of Part Numbers: 25
+          Part Numb: APT2012SRCPRV -> Vend Part: APT2012SRCPRV 
+          Part Numb: B32672L8102J -> Vend Part: B32672L8102J 
+          Part Numb: CC1206KRX7RABB471 -> Vend Part: CC1206KRX7RABB471 
+          Part Numb: CL10B104KB8SFNC -> Vend Part: CL10B104KB8SFNC 
+          Part Numb: CRCW251275K0JNEG -> Vend Part: CRCW251275K0JNEG 
+          Part Numb: C1808C101KGRACTU -> Vend Part: C1808C101KGRACTU 
+          Part Numb: ERJ-6ENF2000V -> Vend Part: ERJ-6ENF2000V 
+          Part Numb: ERJ-6GEYJ162V -> Vend Part: ERJ-6GEYJ162V 
+          Part Numb: ERJ-8GEYJ102V -> Vend Part: ERJ-8GEYJ102V 
+          Part Numb: GRM32DR71C106KA01L -> Vend Part: GRM32DR71C106KA01L 
+          Part Numb: MCR25JZHJ000 -> Vend Part: MCR25JZHJ000 
+          Part Numb: MGSHV-0_2-D1_6xd0.62_d1_7 -> Vend Part: MGSHV-0_2-D1_6xd0.62_d1_7 
+          Part Numb: MGSHV-0_5-D2_2xd0.9_d2_3 -> Vend Part: MGSHV-0_5-D2_2xd0.9_d2_3 
+          Part Numb: M80-5001605 -> Vend Part: M80-5001605 
+          Part Numb: M80-5101242 -> Vend Part: M80-5101242 
+          Part Numb: PTVS8V5P1UP,115 -> Vend Part: PTVS8V5P1UP,115 
+          Part Numb: P6SMB400CA -> Vend Part: P6SMB400CA 
+          Part Numb: RAC20-05SB -> Vend Part: RAC20-05SB 
+          Part Numb: VLF10040T-6R8N4R5 -> Vend Part: VLF10040T-6R8N4R5 
+          Part Numb: 1N4148W-7-F -> Vend Part: 1N4148W-7-F 
+          Part Numb: 5010 -> Vend Part: 5010 
+          Part Numb: 5011 -> Vend Part: 5011 
+          Part Numb: 5555165-5 -> Vend Part: 5555165-5 
+          Part Numb: 0039301040 -> Vend Part: 0039301040 
+          Part Numb: 0039301200 -> Vend Part: 0039301200 
+
+     Number of Part Names: 0
+
+     Number of Part Labels: 0
+
+
+     Checking for value differences between symbol properties and PartsDB properties
+
+     Checking the validity of the packaging of prepackaged schematic
+      symbols.  Only the first error in symbols having the same
+      Reference Designator will be reported.
+
+     The packaging of all prepackaged schematic symbols is consistent
+      with the Parts DataBase data for the cross mapping of
+      symbol pin names to Part Number pin numbers.
+      Symbols that were not prepackaged will now be packaged correctly.
+      
+     No errors in Existing Schematic Packaging.
+
+     INFO: Cell (_VB_DRILL_DRAWING_)THRU is not in Central Library - Using local library.
+
+     INFO: Cell (_VB_DRILL_SYMBOLS_)THRU is not in Central Library - Using local library.
+
+     The Common DataBase has been read and will be packaged.
+     Clustering 87 Symbols:
+              87  ************************************
+              50  **************************************************
+     Clustering is Complete
+
+     Packager Assignments successfully completed
+
+
+
+     43 nets were found containing 207 pins
+     87 components were found
+
+     Creating a formatted Schematic Netlist (LogFiles\SchematicNetlist.txt)...
+     A formatted Schematic Netlist has been created.
+
+     The Logic DataBase has been compiled from the Schematic Design.
+      Use Netload to bring the Component Design into sync.
+
+     Logic Data has been successfully Compiled with no errors or warnings.
+      Please proceed with your component Design.
+                                     NetLoad
+                                     -------
+
+                        12:59 PM Thursday, April 12, 2018
+              Job Name: F:\TT18\KOREY\BP_3_2_K\PCB\BOARD_2LAYER.pcb
+
+
+Version:  02.11.12
+
+	Netloading the Layout.  Unused components will be changed to spares.
+
+	Unconnected pins will be set to net "(Net0)".
+
+	Schematic reference designator changes will be forward annotated.
+
+
+     The following 2 components have not been placed:
+
+        R20
+        R21
+
+     Netload completed successfully with 0 warning(s).
+     
+     Back Annotating...
+
+  Updating Logic Database...
+
+     Version:  99.00.05
+
+     No changes made to Existing Schematic Packaging.
+
+
+     There is no symbol data to be back annotated to the schematic source.
+
+
+     The Logic DataBase has been updated and the Common DataBase has
+      automatically been brought into sync with the Logic DataBase.
+      Please proceed with your design.
+
+     Finished updating the Logic Database.
+
+     Creating a formatted Schematic Netlist (LogFiles\AfterBakAnnoNetlist.txt)...
+     A formatted Schematic Netlist has been created.
+
+     Creating a new netlist text file (LogFiles\KeyinNetList.txt)
+      from the Logic Database (Work\Layout_Temp\LogicDB.lgc)...
+  A new netlist text file has been generated.
+
+
+
+                 Beginning Netload on the Layout Design.
+           ---------------------------------------------------
+	Broke back a trace from the point (-20750000, -57250000).
+	Broke back a trace from the point (27000000, -22100000).
+
+Forward-Annotation on the Layout Design has been successfully completed.
+
+There were 0 reassignments of nets.
+There were 2 traces broken back.
+There were 0 nets removed from the Layout Design.

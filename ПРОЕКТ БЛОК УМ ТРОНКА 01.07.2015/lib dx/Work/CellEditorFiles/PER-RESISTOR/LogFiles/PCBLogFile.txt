@@ -1,0 +1,10 @@
+
+Cell Editor Version: 2012.0.514.029
+
+Successfully read the design.
+	NEW eThingTypeID (44896) needs to be added here!!!!
+	NEW eThingTypeID (44896) needs to be added here!!!!
+	NEW eThingTypeID (44896) needs to be added here!!!!
+	NEW eThingTypeID (44896) needs to be added here!!!!
+Saved the design...
+Saved the design...

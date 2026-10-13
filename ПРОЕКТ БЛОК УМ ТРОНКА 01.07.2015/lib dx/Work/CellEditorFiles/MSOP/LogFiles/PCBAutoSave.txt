@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                        08:18 PM Wednesday, June 24, 2015
+         Job Name: D:\lib dx\Work\CellEditorFiles\MSOP\MSOP-RM-10-AD.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                        08:18 PM Wednesday, June 24, 2015
+         Job Name: D:\lib dx\Work\CellEditorFiles\MSOP\MSOP-RM-10-AD.pcb
+

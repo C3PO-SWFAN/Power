@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                         03:38 PM Monday, April 22, 2013
+     Job Name: D:\lib dx\Work\CellEditorFiles\PREDOXRANITEL\36911000000.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                         03:43 PM Monday, April 22, 2013
+     Job Name: D:\lib dx\Work\CellEditorFiles\PREDOXRANITEL\36911000000.pcb
+

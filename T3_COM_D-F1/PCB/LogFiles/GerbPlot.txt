@@ -1,0 +1,156 @@
+ ----------------------------
+|    Gerber Plotting Log     |
+|          Started           |
+|  Wed Mar 14 14:18:09 2018  |
+ ----------------------------
+
+
+Processing Silktop.gdo
+    Number of Apertures     = 2
+    Number of Moves         = 1225
+    Number of Draws         = 40910
+    Number of Arcs          = 212
+    Number of Flashes       = 0
+    Number of Comments      = 6
+    Number of Drawn Pads    = 0
+    Number of Filled Shapes = 0
+    Number of Dcode Warnings= 0
+    Number of Dcode Errors  = 0
+    Total Draw Length       = 461.56 (IN)
+    Total Move Length       = 4166.09 (IN)
+
+Design has zero width element(s).Replacing with default width (0.005 IN) from gmf file.
+
+Processing Silkbottom.gdo
+    Number of Apertures     = 2
+    Number of Moves         = 757
+    Number of Draws         = 21476
+    Number of Arcs          = 4
+    Number of Flashes       = 0
+    Number of Comments      = 6
+    Number of Drawn Pads    = 0
+    Number of Filled Shapes = 0
+    Number of Dcode Warnings= 0
+    Number of Dcode Errors  = 0
+    Total Draw Length       = 411.376 (IN)
+    Total Move Length       = 1968.01 (IN)
+
+Design has zero width element(s).Replacing with default width (0.005 IN) from gmf file.
+
+Processing Pastetop.gdo
+    Number of Apertures     = 32
+    Number of Moves         = 129
+    Number of Draws         = 0
+    Number of Arcs          = 4
+    Number of Flashes       = 128
+    Number of Comments      = 6
+    Number of Drawn Pads    = 0
+    Number of Filled Shapes = 0
+    Number of Dcode Warnings= 0
+    Number of Dcode Errors  = 0
+    Total Draw Length       = 30.9212 (IN)
+    Total Move Length       = 251.786 (IN)
+
+Design has zero width element(s).Replacing with default width (0.005 IN) from gmf file.
+
+Processing Pastebottom.gdo
+    Number of Apertures     = 45
+    Number of Moves         = 193
+    Number of Draws         = 0
+    Number of Arcs          = 4
+    Number of Flashes       = 192
+    Number of Comments      = 6
+    Number of Drawn Pads    = 0
+    Number of Filled Shapes = 0
+    Number of Dcode Warnings= 0
+    Number of Dcode Errors  = 0
+    Total Draw Length       = 30.9212 (IN)
+    Total Move Length       = 481.011 (IN)
+
+Design has zero width element(s).Replacing with default width (0.005 IN) from gmf file.
+
+Processing Masktop .gdo
+    Number of Apertures     = 57
+    Number of Moves         = 502
+    Number of Draws         = 0
+    Number of Arcs          = 4
+    Number of Flashes       = 501
+    Number of Comments      = 6
+    Number of Drawn Pads    = 0
+    Number of Filled Shapes = 0
+    Number of Dcode Warnings= 0
+    Number of Dcode Errors  = 0
+    Total Draw Length       = 30.9212 (IN)
+    Total Move Length       = 1426.51 (IN)
+
+Design has zero width element(s).Replacing with default width (0.005 IN) from gmf file.
+
+Processing Maskbottom .gdo
+    Number of Apertures     = 70
+    Number of Moves         = 566
+    Number of Draws         = 0
+    Number of Arcs          = 4
+    Number of Flashes       = 565
+    Number of Comments      = 6
+    Number of Drawn Pads    = 0
+    Number of Filled Shapes = 0
+    Number of Dcode Warnings= 0
+    Number of Dcode Errors  = 0
+    Total Draw Length       = 30.9212 (IN)
+    Total Move Length       = 1635.32 (IN)
+
+Design has zero width element(s).Replacing with default width (0.005 IN) from gmf file.
+
+Processing Layer 2.gdo
+    Number of Apertures     = 77
+    Number of Moves         = 2711
+    Number of Draws         = 3600
+    Number of Arcs          = 3632
+    Number of Flashes       = 920
+    Number of Comments      = 6
+    Number of Drawn Pads    = 0
+    Number of Filled Shapes = 114
+    Number of Dcode Warnings= 0
+    Number of Dcode Errors  = 0
+    Total Draw Length       = 626.995 (IN)
+    Total Move Length       = 5966.31 (IN)
+
+Design has zero width element(s).Replacing with default width (0.005 IN) from gmf file.
+
+Processing Layer 1.gdo
+    Number of Apertures     = 64
+    Number of Moves         = 2529
+    Number of Draws         = 4879
+    Number of Arcs          = 3337
+    Number of Flashes       = 856
+    Number of Comments      = 6
+    Number of Drawn Pads    = 0
+    Number of Filled Shapes = 113
+    Number of Dcode Warnings= 0
+    Number of Dcode Errors  = 0
+    Total Draw Length       = 615.817 (IN)
+    Total Move Length       = 5120.81 (IN)
+
+Design has zero width element(s).Replacing with default width (0.005 IN) from gmf file.
+
+Processing Board Outline.gdo
+    Number of Apertures     = 1
+    Number of Moves         = 1
+    Number of Draws         = 0
+    Number of Arcs          = 4
+    Number of Flashes       = 0
+    Number of Comments      = 6
+    Number of Drawn Pads    = 0
+    Number of Filled Shapes = 0
+    Number of Dcode Warnings= 0
+    Number of Dcode Errors  = 0
+    Total Draw Length       = 30.9212 (IN)
+    Total Move Length       = 4.92126 (IN)
+
+Design has zero width element(s).Replacing with default width (0.005 IN) from gmf file.
+
+ ---------------------------
+|    Gerber Plotting Log     |
+|          Finished          |
+|  Wed Mar 14 14:18:12 2018  |
+ ----------------------------

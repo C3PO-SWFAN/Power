@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                          08:58 PM Friday, May 15, 2015
+Job Name: D:\lib dx\Work\CellEditorFiles\CONNECTOR-MOLEX\MICRO-USB-SD-47589-001.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                          08:58 PM Friday, May 15, 2015
+Job Name: D:\lib dx\Work\CellEditorFiles\CONNECTOR-MOLEX\MICRO-USB-SD-47589-001.pcb
+

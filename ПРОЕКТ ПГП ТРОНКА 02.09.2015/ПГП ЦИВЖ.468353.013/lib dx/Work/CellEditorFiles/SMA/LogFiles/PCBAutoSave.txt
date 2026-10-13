@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                        01:49 PM Saturday, March 14, 2015
+   Job Name: D:\lib dx\Work\CellEditorFiles\SMA\SMB-MURS140-MURS160-DIODES.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                        01:50 PM Saturday, March 14, 2015
+   Job Name: D:\lib dx\Work\CellEditorFiles\SMA\SMB-MURS140-MURS160-DIODES.pcb
+

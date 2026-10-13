@@ -1,0 +1,31 @@
+.filetype IDF_EXPORT_SETTINGS
+.units (mm)
+
+.board_file "F:\\TEXT  TEM\\BP_3_1_K\\PCB\\Output\\BP-3-1-K.emn"
+
+.library_file "F:\\TEXT  TEM\\BP_3_1_K\\PCB\\Output\\BP-3-1-K.emp"
+
+.board_stackup 1
+
+.idf_version "3.0"
+
+.board_thickness "1.022400"
+
+.comp_height "2.540000"
+
+.export_obstructs 1
+
+.exclude_obstructs 1
+
+.export_holes 1
+
+.export_height 1
+
+.hole_contour 1
+
+.board_cavities 1
+
+.scheme "Default"
+ ..scheme_location Local
+
+ ..scheme_changed 0

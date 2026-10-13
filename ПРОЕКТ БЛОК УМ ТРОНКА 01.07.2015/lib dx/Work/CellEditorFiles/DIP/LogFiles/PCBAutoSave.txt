@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                          03:37 PM Sunday, May 12, 2013
+             Job Name: D:\lib dx\Work\CellEditorFiles\DIP\DIP_14.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                          03:51 PM Sunday, May 12, 2013
+             Job Name: D:\lib dx\Work\CellEditorFiles\DIP\DIP_14.pcb
+

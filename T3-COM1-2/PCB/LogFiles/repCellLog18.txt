@@ -1,0 +1,154 @@
+=======================================================================
+Expedition PCB - Pinnacle - Version 2013.0.540.971
+=======================================================================
+
+RELOAD CELLS
+
+Job Directory:  F:\TEXT  TEM\T3-COM1-2\PCB\
+
+
+Design Units:(mm)
+
+Replace Cell Log:   repCellLog18.txt
+
+Sun Mar 04 10:46:56 2018
+
+Reference Designator            Cell Name                         New Cell Name
+===============================================================================
+
+
+---------------  RELOAD CELLS  Sun Mar 04 10:46:56 2018  ---------------
+
+
+
+
+---------------  RELOAD CELLS TMP  Sun Mar 04 10:46:56 2018  ---------------
+
+
+R151                            1206-STANDART-3216                1206-STANDART-3216              
+C135                            CAP-EL-L7.5-D18,0                 CAP-EL-L7.5-D18,0               
+X17                             M80-VERT-J-TEK-26                 M80-VERT-J-TEK-26               
+X9                              2Rx4K_ANGLE                       2Rx4K_ANGLE                     
+TP18                            TEST-POINTS-1                     TEST-POINTS-1                   
+X8                              2Rx4K_ANGLE                       2Rx4K_ANGLE                     
+K11                             RT-2-TE-YNIVERSAL                 RT-2-TE-YNIVERSAL               
+R29                             2512-STANDART-6332                2512-STANDART-6332              
+TP42                            TEST-POINTS-1                     TEST-POINTS-1                   
+K12                             RT-2-TE-YNIVERSAL                 RT-2-TE-YNIVERSAL               
+TP17                            TEST-POINTS-1                     TEST-POINTS-1                   
+R28                             2512-STANDART-6332                2512-STANDART-6332              
+TP33                            TEST-POINTS-1                     TEST-POINTS-1                   
+TP38                            TEST-POINTS-1                     TEST-POINTS-1                   
+X4                              2Rx4K_ANGLE                       2Rx4K_ANGLE                     
+TP47                            TEST-POINTS-1                     TEST-POINTS-1                   
+R9                              2512-STANDART-6332                2512-STANDART-6332              
+TP34                            TEST-POINTS-1                     TEST-POINTS-1                   
+X6                              2Rx4K_ANGLE                       2Rx4K_ANGLE                     
+R10                             2512-STANDART-6332                2512-STANDART-6332              
+R15                             2512-STANDART-6332                2512-STANDART-6332              
+D37                             SOIC-8-AD-R8                      SOIC-8-AD-R8                    
+K6                              RT-2-TE-YNIVERSAL                 RT-2-TE-YNIVERSAL               
+K3                              RT-2-TE-YNIVERSAL                 RT-2-TE-YNIVERSAL               
+X12                             2Rx4K_ANGLE                       2Rx4K_ANGLE                     
+TP32                            TEST-POINTS-1                     TEST-POINTS-1                   
+R7                              2512-STANDART-6332                2512-STANDART-6332              
+TP43                            TEST-POINTS-1                     TEST-POINTS-1                   
+X15                             2Rx4K_ANGLE                       2Rx4K_ANGLE                     
+R6                              2512-STANDART-6332                2512-STANDART-6332              
+X22                             IDS-20-V-2,54                     IDS-20-V-2,54                   
+X5                              2Rx4K_ANGLE                       2Rx4K_ANGLE                     
+R27                             2512-STANDART-6332                2512-STANDART-6332              
+TP27                            TEST-POINTS-1                     TEST-POINTS-1                   
+TP48                            TEST-POINTS-1                     TEST-POINTS-1                   
+TP30                            TEST-POINTS-1                     TEST-POINTS-1                   
+K7                              RT-2-TE-YNIVERSAL                 RT-2-TE-YNIVERSAL               
+X7                              2Rx4K_ANGLE                       2Rx4K_ANGLE                     
+R26                             2512-STANDART-6332                2512-STANDART-6332              
+TP40                            TEST-POINTS-1                     TEST-POINTS-1                   
+K4                              RT-2-TE-YNIVERSAL                 RT-2-TE-YNIVERSAL               
+K2                              RT-2-TE-YNIVERSAL                 RT-2-TE-YNIVERSAL               
+R30                             2512-STANDART-6332                2512-STANDART-6332              
+TP19                            TEST-POINTS-1                     TEST-POINTS-1                   
+R1                              2512-STANDART-6332                2512-STANDART-6332              
+X3                              2Rx4K_ANGLE                       2Rx4K_ANGLE                     
+TP29                            TEST-POINTS-1                     TEST-POINTS-1                   
+R22                             2512-STANDART-6332                2512-STANDART-6332              
+TP23                            TEST-POINTS-1                     TEST-POINTS-1                   
+D7                              8-SOIC-VISHAY                     8-SOIC-VISHAY                   
+R2                              2512-STANDART-6332                2512-STANDART-6332              
+R12                             2512-STANDART-6332                2512-STANDART-6332              
+TP3                             TEST-POINTS-1                     TEST-POINTS-1                   
+R18                             2512-STANDART-6332                2512-STANDART-6332              
+K16                             RT-2-TE-YNIVERSAL                 RT-2-TE-YNIVERSAL               
+X16                             2Rx4K_ANGLE                       2Rx4K_ANGLE                     
+R4                              2512-STANDART-6332                2512-STANDART-6332              
+TP21                            TEST-POINTS-1                     TEST-POINTS-1                   
+X18                             2Rx4K                             2Rx4K                           
+K9                              RT-2-TE-YNIVERSAL                 RT-2-TE-YNIVERSAL               
+TP41                            TEST-POINTS-1                     TEST-POINTS-1                   
+TP4                             TEST-POINTS-1                     TEST-POINTS-1                   
+R23                             2512-STANDART-6332                2512-STANDART-6332              
+R31                             2512-STANDART-6332                2512-STANDART-6332              
+X14                             2Rx4K_ANGLE                       2Rx4K_ANGLE                     
+R16                             2512-STANDART-6332                2512-STANDART-6332              
+R14                             2512-STANDART-6332                2512-STANDART-6332              
+TP15                            TEST-POINTS-1                     TEST-POINTS-1                   
+R21                             2512-STANDART-6332                2512-STANDART-6332              
+TP36                            TEST-POINTS-1                     TEST-POINTS-1                   
+TP25                            TEST-POINTS-1                     TEST-POINTS-1                   
+X19                             2Rx6K                             2Rx6K                           
+R32                             2512-STANDART-6332                2512-STANDART-6332              
+TP46                            TEST-POINTS-1                     TEST-POINTS-1                   
+TP1                             TEST-POINTS-1                     TEST-POINTS-1                   
+X1                              2Rx4K_ANGLE                       2Rx4K_ANGLE                     
+TP20                            TEST-POINTS-1                     TEST-POINTS-1                   
+TP39                            TEST-POINTS-1                     TEST-POINTS-1                   
+TP28                            TEST-POINTS-1                     TEST-POINTS-1                   
+C136                            CAP-EL-L7.5-D18,0                 CAP-EL-L7.5-D18,0               
+TP24                            TEST-POINTS-1                     TEST-POINTS-1                   
+TP2                             TEST-POINTS-1                     TEST-POINTS-1                   
+TP16                            TEST-POINTS-1                     TEST-POINTS-1                   
+TP45                            TEST-POINTS-1                     TEST-POINTS-1                   
+K13                             RT-2-TE-YNIVERSAL                 RT-2-TE-YNIVERSAL               
+D31                             THN-30                            THN-30                          
+X20                             2Rx6K                             2Rx6K                           
+K1                              RT-2-TE-YNIVERSAL                 RT-2-TE-YNIVERSAL               
+R11                             2512-STANDART-6332                2512-STANDART-6332              
+R24                             2512-STANDART-6332                2512-STANDART-6332              
+TP35                            TEST-POINTS-1                     TEST-POINTS-1                   
+TP31                            TEST-POINTS-1                     TEST-POINTS-1                   
+R20                             2512-STANDART-6332                2512-STANDART-6332              
+R25                             2512-STANDART-6332                2512-STANDART-6332              
+TP44                            TEST-POINTS-1                     TEST-POINTS-1                   
+D12                             DVB-R-PDSO-G12/G28                DVB-R-PDSO-G12/G28              
+R13                             2512-STANDART-6332                2512-STANDART-6332              
+K8                              RT-2-TE-YNIVERSAL                 RT-2-TE-YNIVERSAL               
+R110                            DPAK-PWR163-BOURNS                DPAK-PWR163-BOURNS              
+X13                             2Rx4K_ANGLE                       2Rx4K_ANGLE                     
+L23                             SRN5040_5mmX5mm                   SRN5040_5mmX5mm                 
+K10                             RT-2-TE-YNIVERSAL                 RT-2-TE-YNIVERSAL               
+X10                             2Rx4K_ANGLE                       2Rx4K_ANGLE                     
+K15                             RT-2-TE-YNIVERSAL                 RT-2-TE-YNIVERSAL               
+K14                             RT-2-TE-YNIVERSAL                 RT-2-TE-YNIVERSAL               
+TP22                            TEST-POINTS-1                     TEST-POINTS-1                   
+R8                              2512-STANDART-6332                2512-STANDART-6332              
+X11                             2Rx4K_ANGLE                       2Rx4K_ANGLE                     
+X21                             IDS-10-V-2,54                     IDS-10-V-2,54                   
+R17                             2512-STANDART-6332                2512-STANDART-6332              
+X2                              2Rx4K_ANGLE                       2Rx4K_ANGLE                     
+TP26                            TEST-POINTS-1                     TEST-POINTS-1                   
+R19                             2512-STANDART-6332                2512-STANDART-6332              
+R3                              2512-STANDART-6332                2512-STANDART-6332              
+K5                              RT-2-TE-YNIVERSAL                 RT-2-TE-YNIVERSAL               
+TP37                            TEST-POINTS-1                     TEST-POINTS-1                   
+R5                              2512-STANDART-6332                2512-STANDART-6332              
+
+
+---------------    Sun Mar 04 10:46:57 2018  ---------------
+
+
+
+
+---------------    Sun Mar 04 10:46:57 2018  ---------------
+
+

@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                        07:12 PM Wednesday, July 22, 2015
+      Job Name: D:\lib dx\Work\CellEditorFiles\SOT-23-TI\DBZ-R-PDSO-G3.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                        07:12 PM Wednesday, July 22, 2015
+      Job Name: D:\lib dx\Work\CellEditorFiles\SOT-23-TI\DBZ-R-PDSO-G3.pcb
+

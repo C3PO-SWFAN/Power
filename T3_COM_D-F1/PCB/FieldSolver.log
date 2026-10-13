@@ -1,0 +1,114 @@
+
+Illegal Trace Geometry ( Must be 1 or 2 grounds ):
+
+Units = Mils
+Number of Ground Planes = 0
+
+DIELECTRICS
+Number  Thickness     Constant
+        (Thd)         (Er)
+1        1.574803      1.000000     
+2        31.10236      4.700000     
+3        1.574803      1.000000     
+
+TRACES
+Number  Top Width     Bottom Width  Thickness     Dist from Gnd Dist from Cond
+        (Twt)         (Bwt)         (Th)          (Dg)          (Dc)
+1        9.842520      9.842520      1.574803      32.67717      10.00000     
+2        9.842520      9.842520      1.574803      32.67717      12.00000     
+
+
+Illegal Trace Geometry ( Must be 1 or 2 grounds ):
+
+Units = Mils
+Number of Ground Planes = 0
+
+DIELECTRICS
+Number  Thickness     Constant
+        (Thd)         (Er)
+1        1.574803      1.000000     
+2        31.10236      4.700000     
+3        1.574803      1.000000     
+
+TRACES
+Number  Top Width     Bottom Width  Thickness     Dist from Gnd Dist from Cond
+        (Twt)         (Bwt)         (Th)          (Dg)          (Dc)
+1        9.842520      9.842520      1.574803      32.67717      10.00000     
+2        9.842520      9.842520      1.574803      32.67717      14.50000     
+
+
+Illegal Trace Geometry ( Must be 1 or 2 grounds ):
+
+Units = Mils
+Number of Ground Planes = 0
+
+DIELECTRICS
+Number  Thickness     Constant
+        (Thd)         (Er)
+1        1.574803      1.000000     
+2        31.10236      4.700000     
+3        1.574803      1.000000     
+
+TRACES
+Number  Top Width     Bottom Width  Thickness     Dist from Gnd Dist from Cond
+        (Twt)         (Bwt)         (Th)          (Dg)          (Dc)
+1        9.842520      9.842520      1.574803      32.67717      10.00000     
+2        9.842520      9.842520      1.574803      32.67717      19.50000     
+
+
+Illegal Trace Geometry ( Must be 1 or 2 grounds ):
+
+Units = Mils
+Number of Ground Planes = 0
+
+DIELECTRICS
+Number  Thickness     Constant
+        (Thd)         (Er)
+1        1.574803      1.000000     
+2        31.10236      4.700000     
+3        1.574803      1.000000     
+
+TRACES
+Number  Top Width     Bottom Width  Thickness     Dist from Gnd Dist from Cond
+        (Twt)         (Bwt)         (Th)          (Dg)          (Dc)
+1        9.842520      9.842520      1.574803      32.67717      10.00000     
+2        9.842520      9.842520      1.574803      32.67717      29.00000     
+
+
+Illegal Trace Geometry ( Must be 1 or 2 grounds ):
+
+Units = Mils
+Number of Ground Planes = 0
+
+DIELECTRICS
+Number  Thickness     Constant
+        (Thd)         (Er)
+1        1.574803      1.000000     
+2        31.10236      4.700000     
+3        1.574803      1.000000     
+
+TRACES
+Number  Top Width     Bottom Width  Thickness     Dist from Gnd Dist from Cond
+        (Twt)         (Bwt)         (Th)          (Dg)          (Dc)
+1        9.842520      9.842520      1.574803      32.67717      10.00000     
+2        9.842520      9.842520      1.574803      32.67717      48.00000     
+
+
+Illegal Trace Geometry ( Must be 1 or 2 grounds ):
+
+Units = Mils
+Number of Ground Planes = 0
+
+DIELECTRICS
+Number  Thickness     Constant
+        (Thd)         (Er)
+1        1.574803      1.000000     
+2        31.10236      4.700000     
+3        1.574803      1.000000     
+
+TRACES
+Number  Top Width     Bottom Width  Thickness     Dist from Gnd Dist from Cond
+        (Twt)         (Bwt)         (Th)          (Dg)          (Dc)
+1        9.842520      9.842520      1.574803      32.67717      10.00000     
+2        9.842520      9.842520      1.574803      32.67717      88.00000     
+

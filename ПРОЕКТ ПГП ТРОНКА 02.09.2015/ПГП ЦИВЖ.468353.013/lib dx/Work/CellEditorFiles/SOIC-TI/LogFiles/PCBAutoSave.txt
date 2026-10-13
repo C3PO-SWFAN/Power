@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                         10:02 PM Thursday, May 28, 2015
+       Job Name: D:\lib dx\Work\CellEditorFiles\SOIC-TI\DW_R_PDSO_G16.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                         10:08 PM Thursday, May 28, 2015
+       Job Name: D:\lib dx\Work\CellEditorFiles\SOIC-TI\DW_R_PDSO_G16.pcb
+

@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                       10:54 PM Tuesday, January 27, 2015
+Job Name: D:\lib dx\Work\CellEditorFiles\TERMINAL BLOKS\14_h12_7_8K-PICH6_35.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                       11:03 PM Tuesday, January 27, 2015
+Job Name: D:\lib dx\Work\CellEditorFiles\TERMINAL BLOKS\14_h12_7_8K-PICH6_35.pcb
+

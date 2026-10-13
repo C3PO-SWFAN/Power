@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                         11:06 AM Friday, March 14, 2014
+       Job Name: D:\lib dx\Work\CellEditorFiles\QFN\PQFN-5x6mm-B-E-IR.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                         11:47 AM Friday, March 14, 2014
+       Job Name: D:\lib dx\Work\CellEditorFiles\QFN\PQFN-5x6mm-B-E-IR.pcb
+

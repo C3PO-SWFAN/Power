@@ -1,0 +1,5 @@
+Part Lister output for Board1
+Generated on Tuesday, November 26, 2013
+#   QTY   Part Number   Description                    Value      Ref Designator 
+---------------------------------------------------------------------------------
+ 1    2   ERJ-3GEY0R00V ,                              ,          R1,R2          

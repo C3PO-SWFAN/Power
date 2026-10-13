@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                          09:28 PM Friday, May 30, 2014
+    Job Name: D:\lib dx\Work\CellEditorFiles\PROVODA\MGSHV-1_5-D3_0xd1_5.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                          09:30 PM Friday, May 30, 2014
+    Job Name: D:\lib dx\Work\CellEditorFiles\PROVODA\MGSHV-1_5-D3_0xd1_5.pcb
+

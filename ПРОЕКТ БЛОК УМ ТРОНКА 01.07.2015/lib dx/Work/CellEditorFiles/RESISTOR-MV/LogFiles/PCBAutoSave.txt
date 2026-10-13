@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                         10:17 PM Saturday, May 11, 2013
+      Job Name: D:\lib dx\Work\CellEditorFiles\RESISTOR-MV\HP1-4-8M-11.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                         10:29 PM Saturday, May 11, 2013
+      Job Name: D:\lib dx\Work\CellEditorFiles\RESISTOR-MV\HP1-4-8M-11.pcb
+

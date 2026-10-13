@@ -1,0 +1,27 @@
+=======================================================================
+Expedition PCB - Pinnacle - Version 2013.0.540.971
+=======================================================================
+
+RELOAD CELLS
+
+Job Directory:  F:\TEXT  TEM\T3_COM_D-1\PCB\
+
+
+Design Units:(mm)
+
+Replace Cell Log:   repCellLog07.txt
+
+Sat Jan 20 21:32:32 2018
+
+Reference Designator            Cell Name                         New Cell Name
+===============================================================================
+
+
+---------------  RELOAD CELLS  Sat Jan 20 21:32:32 2018  ---------------
+
+
+
+
+---------------    Sat Jan 20 21:32:32 2018  ---------------
+
+

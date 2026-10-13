@@ -1,0 +1,12 @@
+
+                       Update Local Cell And Padstack DBs
+                       ----------------------------------
+
+                        06:22 PM Sunday, October 29, 2017
+              Job Name: F:\TEXT  TEM\BP_3_1_K\PCB\BOARD_2LAYER.pcb
+
+
+     Version:  99.01.00
+
+The Local Cell And Padstack DBs have been updated with no errors or warnings.
+Please proceed with your component Design.

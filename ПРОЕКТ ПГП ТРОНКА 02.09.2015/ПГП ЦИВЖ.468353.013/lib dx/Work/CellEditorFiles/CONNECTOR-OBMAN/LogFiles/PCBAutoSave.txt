@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                         12:10 PM Thursday, May 29, 2014
+      Job Name: D:\lib dx\Work\CellEditorFiles\CONNECTOR-OBMAN\30-OBMAN.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                         12:15 PM Thursday, May 29, 2014
+      Job Name: D:\lib dx\Work\CellEditorFiles\CONNECTOR-OBMAN\30-OBMAN.pcb
+

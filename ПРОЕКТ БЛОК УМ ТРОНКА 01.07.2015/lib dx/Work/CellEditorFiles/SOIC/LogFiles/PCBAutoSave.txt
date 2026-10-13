@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                         08:35 PM Sunday, July 13, 2014
+           Job Name: D:\lib dx\Work\CellEditorFiles\SOIC\SOIC-8-IR.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                         08:37 PM Sunday, July 13, 2014
+           Job Name: D:\lib dx\Work\CellEditorFiles\SOIC\SOIC-8-IR.pcb
+

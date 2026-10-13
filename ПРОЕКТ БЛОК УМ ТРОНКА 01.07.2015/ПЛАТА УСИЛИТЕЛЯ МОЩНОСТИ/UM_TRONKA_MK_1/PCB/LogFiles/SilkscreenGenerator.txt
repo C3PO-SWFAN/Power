@@ -1,0 +1,38 @@
+
+                              SILKSCREEN GENERATOR
+                              --------------------
+
+                        01:05 PM Saturday, June 27, 2015
+            Job Name: F:\TEXT TEM\UM_TRONKA_MK_1\PCB\BOARD_2LAYER.pcb
+
+
+    Silkscreen Side To Process           : BOTH
+
+    Process All Cell Types               : YES
+
+    Top Silkscreen For Selected Cells    : Silkscreen Reference Designator Top
+                                         : Silkscreen Outline Top
+
+    Bottom Silkscreen For Selected Cells : Silkscreen Reference Designator Bottom
+                                         : Silkscreen Outline Bottom
+
+    Break Silkscreen Using               : Conductive Pads
+
+    Break Graphics Pad Clearance         : 0mm
+
+    Break Graphics Via Clearance         : 0mm
+
+    Break Text Pad Clearance             : 0mm
+
+    Break Text Via Clearance             : 0mm
+
+    Broken Graphics Line Width           : 0.15mm
+
+    Broken Text Line Width               : 0.15mm
+    
+
+
+    TOP Silkscreen Data Created Successfully (3149 Geometries).
+
+
+    BOTTOM Silkscreen Data Created Successfully (544 Geometries).

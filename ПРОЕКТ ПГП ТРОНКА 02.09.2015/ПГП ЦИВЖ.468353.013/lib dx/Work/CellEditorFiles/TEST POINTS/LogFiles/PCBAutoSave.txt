@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                       12:37 PM Wednesday, April 23, 2014
+     Job Name: D:\lib dx\Work\CellEditorFiles\TEST POINTS\TEST-POINTS-1.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                       12:44 PM Wednesday, April 23, 2014
+     Job Name: D:\lib dx\Work\CellEditorFiles\TEST POINTS\TEST-POINTS-1.pcb
+

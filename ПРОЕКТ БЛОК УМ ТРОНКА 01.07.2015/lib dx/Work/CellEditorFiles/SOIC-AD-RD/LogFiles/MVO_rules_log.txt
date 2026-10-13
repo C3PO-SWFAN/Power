@@ -1,0 +1,6 @@
+
+Can not open Multiple Via Rules file. File doesn't exist:
+       'D:\lib dx\Work\CellEditorFiles\SOIC-AD-RD\Config\MultiViaRules.txt'
+
+Can not open Multiple Via Rules file. File doesn't exist:
+       'D:\lib dx\Work\CellEditorFiles\SOIC-AD-RD\Layout\MVO_Rules.txt'

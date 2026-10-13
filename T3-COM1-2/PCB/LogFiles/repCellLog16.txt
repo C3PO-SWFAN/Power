@@ -1,0 +1,69 @@
+=======================================================================
+Expedition PCB - Pinnacle - Version 2013.0.540.971
+=======================================================================
+
+RELOAD CELLS
+
+Job Directory:  F:\TEXT  TEM\T3-COM1-2\PCB\
+
+
+Design Units:(mm)
+
+Replace Cell Log:   repCellLog16.txt
+
+Fri Mar 02 15:31:12 2018
+
+Reference Designator            Cell Name                         New Cell Name
+===============================================================================
+
+
+---------------  RELOAD CELLS  Fri Mar 02 15:31:12 2018  ---------------
+
+
+
+
+---------------  RELOAD CELLS TMP  Fri Mar 02 15:31:12 2018  ---------------
+
+
+R6                              2512-STANDART-6332                2512-STANDART-6332              
+R7                              2512-STANDART-6332                2512-STANDART-6332              
+R29                             2512-STANDART-6332                2512-STANDART-6332              
+R20                             2512-STANDART-6332                2512-STANDART-6332              
+R31                             2512-STANDART-6332                2512-STANDART-6332              
+R32                             2512-STANDART-6332                2512-STANDART-6332              
+R15                             2512-STANDART-6332                2512-STANDART-6332              
+R3                              2512-STANDART-6332                2512-STANDART-6332              
+R8                              2512-STANDART-6332                2512-STANDART-6332              
+R23                             2512-STANDART-6332                2512-STANDART-6332              
+R2                              2512-STANDART-6332                2512-STANDART-6332              
+R11                             2512-STANDART-6332                2512-STANDART-6332              
+R19                             2512-STANDART-6332                2512-STANDART-6332              
+R4                              2512-STANDART-6332                2512-STANDART-6332              
+R10                             2512-STANDART-6332                2512-STANDART-6332              
+R26                             2512-STANDART-6332                2512-STANDART-6332              
+R24                             2512-STANDART-6332                2512-STANDART-6332              
+R16                             2512-STANDART-6332                2512-STANDART-6332              
+R1                              2512-STANDART-6332                2512-STANDART-6332              
+R18                             2512-STANDART-6332                2512-STANDART-6332              
+R21                             2512-STANDART-6332                2512-STANDART-6332              
+R14                             2512-STANDART-6332                2512-STANDART-6332              
+R12                             2512-STANDART-6332                2512-STANDART-6332              
+R17                             2512-STANDART-6332                2512-STANDART-6332              
+R28                             2512-STANDART-6332                2512-STANDART-6332              
+R13                             2512-STANDART-6332                2512-STANDART-6332              
+R22                             2512-STANDART-6332                2512-STANDART-6332              
+R5                              2512-STANDART-6332                2512-STANDART-6332              
+R30                             2512-STANDART-6332                2512-STANDART-6332              
+R25                             2512-STANDART-6332                2512-STANDART-6332              
+R27                             2512-STANDART-6332                2512-STANDART-6332              
+R9                              2512-STANDART-6332                2512-STANDART-6332              
+
+
+---------------    Fri Mar 02 15:31:13 2018  ---------------
+
+
+
+
+---------------    Fri Mar 02 15:31:13 2018  ---------------
+
+

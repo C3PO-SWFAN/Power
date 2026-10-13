@@ -1,0 +1,371 @@
+Importer Log Report
+Project : T3-COM1-2.PrjPcb
+
+Section : Analyze Document - H:\Барабаш\T3-COM1-2\T3-COM1-2.prj
+    File count      :         69 
+    Directory offset: $0000285C
+    File count       :          69
+    Data offset rel : $00006410
+    Data offset abs : $00008C6C
+    Directory Length : 00004500
+    ----
+    Data offset abs : $00008C6C
+    Data Size       : $00001474
+    File name       : \consdef
+    DbFilePos       : 0000286C
+    ----
+    Data offset abs : $0000A12C
+    Data Size       : $0000012F
+    File name       : \defconstratl.v
+    DbFilePos       : 0000296C
+    ----
+    Data offset abs : $0000A26C
+    Data Size       : $0000004F
+    File name       : \params
+    DbFilePos       : 00002A6C
+    ----
+    Data offset abs : $00072D6C
+    Data Size       : $0000ABB3
+    File name       : \s1\cdbcnfgs\2000000010000050.blk\cesatl.v
+    DbFilePos       : 00002B6C
+    ----
+    Data offset abs : $000BB6EC
+    Data Size       : $00000055
+    File name       : \pidb\pidb
+    DbFilePos       : 00002C6C
+    ----
+    Data offset abs : $0000A3AC
+    Data Size       : $00000BB0
+    File name       : \s1\cdbblks\2000000010000050.blk\blk_obj_state
+    DbFilePos       : 00002D6C
+    ----
+    Data offset abs : $0000AFAC
+    Data Size       : $00009176
+    File name       : \s1\cdbblks\2000000010000050.blk\blkatl.v
+    DbFilePos       : 00002E6C
+    ----
+    Data offset abs : $000BB7EC
+    Data Size       : $0000D9DB
+    File name       : \s1\uids
+    DbFilePos       : 00002F6C
+    ----
+    Data offset abs : $00071D6C
+    Data Size       : $00000E06
+    File name       : \s1\cdbcnfgs\2000000010000050.blk\ces_obj_state
+    DbFilePos       : 0000306C
+    ----
+    Data offset abs : $000B9B6C
+    Data Size       : $00001B34
+    File name       : \s1\cdbcatlg\grpobj
+    DbFilePos       : 0000316C
+    ----
+    Data offset abs : $000F22EC
+    Data Size       : $00000A5A
+    File name       : \s1\cdbcatlg\catlgatl.v
+    DbFilePos       : 0000326C
+    ----
+    Data offset abs : $0003F1EC
+    Data Size       : $00000BC6
+    File name       : \s1\cdbcmpcache\cmp_obj_state
+    DbFilePos       : 0000336C
+    ----
+    Data offset abs : $0003FDEC
+    Data Size       : $0000175A
+    File name       : \s1\cdbcmpcache\cmpatl.v
+    DbFilePos       : 0000346C
+    ----
+    Data offset abs : $0004156C
+    Data Size       : $000064CF
+    File name       : \s1\cdbcmpcache\dxdatl.v
+    DbFilePos       : 0000356C
+    ----
+    Data offset abs : $00047A6C
+    Data Size       : $000000C2
+    File name       : \s1\cdbcmps\cmpatl.v
+    DbFilePos       : 0000366C
+    ----
+    Data offset abs : $000C91EC
+    Data Size       : $000288A0
+    File name       : \s1\cdbblks\2000000010000050.blk\dxdatl.v
+    DbFilePos       : 0000376C
+    ----
+    Data offset abs : $000614AC
+    Data Size       : $00000008
+    File name       : \pidb\pibrddb
+    DbFilePos       : 0000386C
+    ----
+    Data offset abs : $0005356C
+    Data Size       : $000007BE
+    File name       : \s1\cdbcnfgs\2000000010000050.blk\cnfg_obj_state
+    DbFilePos       : 0000396C
+    ----
+    Data offset abs : $00053D6C
+    Data Size       : $0000D426
+    File name       : \s1\cdbcnfgs\2000000010000050.blk\cnfgatl.v
+    DbFilePos       : 00003A6C
+    ----
+    Data offset abs : $000611AC
+    Data Size       : $000001C4
+    File name       : \s1\cdbcnfgs\2000000010000050.blk\varatl.v
+    DbFilePos       : 00003B6C
+    ----
+    Data offset abs : $000F2D6C
+    Data Size       : $000001AC
+    File name       : \s1\cdbcatlg\grpatl.v
+    DbFilePos       : 00003C6C
+    ----
+    Data offset abs : $0008DA6C
+    Data Size       : $00000085
+    File name       : \s1\params
+    DbFilePos       : 00003D6C
+    ----
+    Data offset abs : $000F2F2C
+    Data Size       : $000000D9
+    File name       : \s1\dsgn_obj_state
+    DbFilePos       : 00003E6C
+    ----
+    Data offset abs : $0000AFAC
+    Data Size       : $00009176
+    File name       : \s2\cdbblks\2000000010000050.blk\blkatl.v
+    DbFilePos       : 00003F6C
+    ----
+    Data offset abs : $00052B6C
+    Data Size       : $0000D9EA
+    File name       : \s2\uids
+    DbFilePos       : 0000406C
+    ----
+    Data offset abs : $0003D46C
+    Data Size       : $000001BB
+    File name       : \s2\cdbcatlg\grpatl.v
+    DbFilePos       : 0000416C
+    ----
+    Data offset abs : $00070D6C
+    Data Size       : $000010ED
+    File name       : \s2\cdbcatlg\grpobj
+    DbFilePos       : 0000426C
+    ----
+    Data offset abs : $0003FDEC
+    Data Size       : $0000175A
+    File name       : \s2\cdbcmpcache\cmpatl.v
+    DbFilePos       : 0000436C
+    ----
+    Data offset abs : $00070AEC
+    Data Size       : $0000024B
+    File name       : \s2\cdbcmpcache\dxdatl.v
+    DbFilePos       : 0000446C
+    ----
+    Data offset abs : $00047A6C
+    Data Size       : $000000C2
+    File name       : \s2\cdbcmps\cmpatl.v
+    DbFilePos       : 0000456C
+    ----
+    Data offset abs : $0009B0AC
+    Data Size       : $00000146
+    File name       : \sids
+    DbFilePos       : 0000466C
+    ----
+    Data offset abs : $0006EF6C
+    Data Size       : $00000A68
+    File name       : \s2\cdbcatlg\catlgatl.v
+    DbFilePos       : 0000476C
+    ----
+    Data offset abs : $00053D6C
+    Data Size       : $0000D426
+    File name       : \s2\cdbcnfgs\2000000010000050.blk\cnfgatl.v
+    DbFilePos       : 0000486C
+    ----
+    Data offset abs : $000611AC
+    Data Size       : $000001C4
+    File name       : \s2\cdbcnfgs\2000000010000050.blk\varatl.v
+    DbFilePos       : 0000496C
+    ----
+    Data offset abs : $0008DA6C
+    Data Size       : $00000085
+    File name       : \s2\params
+    DbFilePos       : 00004A6C
+    ----
+    Data offset abs : $0008D9EC
+    Data Size       : $00000042
+    File name       : \s2\cdbcnfgs\2000000010000050.blk\ces_obj_state
+    DbFilePos       : 00004B6C
+    ----
+    Data offset abs : $0000AFAC
+    Data Size       : $00009176
+    File name       : \s3\cdbblks\2000000010000050.blk\blkatl.v
+    DbFilePos       : 00004C6C
+    ----
+    Data offset abs : $0006EF6C
+    Data Size       : $00000A68
+    File name       : \s3\cdbcatlg\catlgatl.v
+    DbFilePos       : 00004D6C
+    ----
+    Data offset abs : $0003D46C
+    Data Size       : $000001BB
+    File name       : \s3\cdbcatlg\grpatl.v
+    DbFilePos       : 00004E6C
+    ----
+    Data offset abs : $00070D6C
+    Data Size       : $000010ED
+    File name       : \s3\cdbcatlg\grpobj
+    DbFilePos       : 00004F6C
+    ----
+    Data offset abs : $0003FDEC
+    Data Size       : $0000175A
+    File name       : \s3\cdbcmpcache\cmpatl.v
+    DbFilePos       : 0000506C
+    ----
+    Data offset abs : $00070AEC
+    Data Size       : $0000024B
+    File name       : \s3\cdbcmpcache\dxdatl.v
+    DbFilePos       : 0000516C
+    ----
+    Data offset abs : $00047A6C
+    Data Size       : $000000C2
+    File name       : \s3\cdbcmps\cmpatl.v
+    DbFilePos       : 0000526C
+    ----
+    Data offset abs : $0008D9EC
+    Data Size       : $00000042
+    File name       : \s3\cdbcnfgs\2000000010000050.blk\ces_obj_state
+    DbFilePos       : 0000536C
+    ----
+    Data offset abs : $00047B6C
+    Data Size       : $0000ABC5
+    File name       : \s3\cdbcnfgs\2000000010000050.blk\cesatl.v
+    DbFilePos       : 0000546C
+    ----
+    Data offset abs : $00053D6C
+    Data Size       : $0000D426
+    File name       : \s3\cdbcnfgs\2000000010000050.blk\cnfgatl.v
+    DbFilePos       : 0000556C
+    ----
+    Data offset abs : $000611AC
+    Data Size       : $000001C4
+    File name       : \s3\cdbcnfgs\2000000010000050.blk\varatl.v
+    DbFilePos       : 0000566C
+    ----
+    Data offset abs : $0008DA6C
+    Data Size       : $00000085
+    File name       : \s3\params
+    DbFilePos       : 0000576C
+    ----
+    Data offset abs : $00052B6C
+    Data Size       : $0000D9EA
+    File name       : \s3\uids
+    DbFilePos       : 0000586C
+    ----
+    Data offset abs : $0000A3AC
+    Data Size       : $00000BB0
+    File name       : \s4\cdbblks\2000000010000050.blk\blk_obj_state
+    DbFilePos       : 0000596C
+    ----
+    Data offset abs : $0000AFAC
+    Data Size       : $00009176
+    File name       : \s4\cdbblks\2000000010000050.blk\blkatl.v
+    DbFilePos       : 00005A6C
+    ----
+    Data offset abs : $0001416C
+    Data Size       : $00028865
+    File name       : \s4\cdbblks\2000000010000050.blk\dxdatl.v
+    DbFilePos       : 00005B6C
+    ----
+    Data offset abs : $0003C9EC
+    Data Size       : $00000A68
+    File name       : \s4\cdbcatlg\catlgatl.v
+    DbFilePos       : 00005C6C
+    ----
+    Data offset abs : $0003D46C
+    Data Size       : $000001BB
+    File name       : \s4\cdbcatlg\grpatl.v
+    DbFilePos       : 00005D6C
+    ----
+    Data offset abs : $0003D66C
+    Data Size       : $00001B34
+    File name       : \s4\cdbcatlg\grpobj
+    DbFilePos       : 00005E6C
+    ----
+    Data offset abs : $0003F1EC
+    Data Size       : $00000BC6
+    File name       : \s4\cdbcmpcache\cmp_obj_state
+    DbFilePos       : 00005F6C
+    ----
+    Data offset abs : $0003FDEC
+    Data Size       : $0000175A
+    File name       : \s4\cdbcmpcache\cmpatl.v
+    DbFilePos       : 0000606C
+    ----
+    Data offset abs : $0004156C
+    Data Size       : $000064CF
+    File name       : \s4\cdbcmpcache\dxdatl.v
+    DbFilePos       : 0000616C
+    ----
+    Data offset abs : $00047A6C
+    Data Size       : $000000C2
+    File name       : \s4\cdbcmps\cmpatl.v
+    DbFilePos       : 0000626C
+    ----
+    Data offset abs : $00071D6C
+    Data Size       : $00000E06
+    File name       : \s4\cdbcnfgs\2000000010000050.blk\ces_obj_state
+    DbFilePos       : 0000636C
+    ----
+    Data offset abs : $00072D6C
+    Data Size       : $0000ABB3
+    File name       : \s4\cdbcnfgs\2000000010000050.blk\cesatl.v
+    DbFilePos       : 0000646C
+    ----
+    Data offset abs : $0005356C
+    Data Size       : $000007BE
+    File name       : \s4\cdbcnfgs\2000000010000050.blk\cnfg_obj_state
+    DbFilePos       : 0000656C
+    ----
+    Data offset abs : $00053D6C
+    Data Size       : $0000D426
+    File name       : \s4\cdbcnfgs\2000000010000050.blk\cnfgatl.v
+    DbFilePos       : 0000666C
+    ----
+    Data offset abs : $000611AC
+    Data Size       : $000001C4
+    File name       : \s4\cdbcnfgs\2000000010000050.blk\varatl.v
+    DbFilePos       : 0000676C
+    ----
+    Data offset abs : $000613AC
+    Data Size       : $000000DE
+    File name       : \s4\dsgn_obj_state
+    DbFilePos       : 0000686C
+    ----
+    Data offset abs : $0008DA6C
+    Data Size       : $00000085
+    File name       : \s4\params
+    DbFilePos       : 0000696C
+    ----
+    Data offset abs : $0006156C
+    Data Size       : $0000D9E1
+    File name       : \s4\uids
+    DbFilePos       : 00006A6C
+    ----
+    Data offset abs : $00089E6C
+    Data Size       : $00003B61
+    File name       : \seslog
+    DbFilePos       : 00006B6C
+    ----
+    Data offset abs : $00047B6C
+    Data Size       : $0000ABC5
+    File name       : \s2\cdbcnfgs\2000000010000050.blk\cesatl.v
+    DbFilePos       : 00006C6C
+EndSection
+
+Section : Import Document - H:\Барабаш\T3-COM1-2\T3-COM1-2.prj
+    Multi-part: D35 (4)
+    Multi-part designator `D35`, index: 0, DesignItemId|Designator: IC OPAMP VFB 130MHZ RRO 14SOIC|D35
+    Multi-part designator `D35`, index: 1, DesignItemId|Designator: IC OPAMP VFB 130MHZ RRO 14SOIC|D35
+    Multi-part designator `D35`, index: 2, DesignItemId|Designator: IC OPAMP VFB 130MHZ RRO 14SOIC|D35
+    Multi-part designator `D35`, index: 3, DesignItemId|Designator: IC OPAMP VFB 130MHZ RRO 14SOIC|D35
+    Multi-part: D17 (4)
+    Multi-part designator `D17`, index: 0, DesignItemId|Designator: IC OPAMP VFB 130MHZ RRO 14SOIC|D17
+    Multi-part designator `D17`, index: 1, DesignItemId|Designator: IC OPAMP VFB 130MHZ RRO 14SOIC|D17
+    Multi-part designator `D17`, index: 2, DesignItemId|Designator: IC OPAMP VFB 130MHZ RRO 14SOIC|D17
+    Multi-part designator `D17`, index: 3, DesignItemId|Designator: IC OPAMP VFB 130MHZ RRO 14SOIC|D17
+    Multi-part unique designator: D171
+    Multi-part unique designator: D351
+EndSection

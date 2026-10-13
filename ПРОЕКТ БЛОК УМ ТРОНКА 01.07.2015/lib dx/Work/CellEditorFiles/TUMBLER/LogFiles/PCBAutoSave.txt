@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                        03:47 PM Saturday, July 13, 2013
+          Job Name: D:\lib dx\Work\CellEditorFiles\TUMBLER\T1-2P-2N.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                        03:50 PM Saturday, July 13, 2013
+          Job Name: D:\lib dx\Work\CellEditorFiles\TUMBLER\T1-2P-2N.pcb
+

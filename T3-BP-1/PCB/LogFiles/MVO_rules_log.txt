@@ -1,0 +1,6 @@
+
+Can not open Multiple Via Rules file. File doesn't exist:
+       'C:\Users\Work\Desktop\Барабаш\T3-BP-1\PCB\Config\MultiViaRules.txt'
+
+Can not open Multiple Via Rules file. File doesn't exist:
+       'C:\Users\Work\Desktop\Барабаш\T3-BP-1\PCB\Layout\MVO_Rules.txt'

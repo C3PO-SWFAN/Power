@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                        01:29 PM Tuesday, August 26, 2014
+        Job Name: D:\lib dx\Work\CellEditorFiles\LED\VERT-2,5-D5xH8,6.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                        01:37 PM Tuesday, August 26, 2014
+        Job Name: D:\lib dx\Work\CellEditorFiles\LED\VERT-2,5-D5xH8,6.pcb
+

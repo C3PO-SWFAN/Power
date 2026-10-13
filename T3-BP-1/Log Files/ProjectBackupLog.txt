@@ -1,0 +1,73 @@
+[2013-11-26 13.44.38] -------------------- CREATE --------------------
+[2013-11-26 13.44.38] Creating Project Backup infrastructure for project [F:\TEXT  TEM\BOARD_2LAYER\BOARD_2LAYER.prj].
+[2013-11-26 13.44.40] Successfully created [AutoSave] backup [2013-11-26 13.44.40 - auto.zip] requested by [VOLODYMYR:V1].
+[2014-02-16 20.12.33] Successfully created [AutoSave] backup [2014-02-16 20.12.33 - auto.zip] requested by [VOLODYMYR:V1].
+[2014-06-22 13.25.11] Successfully created [AutoSave] backup [2014-06-22 13.25.07 - auto.zip] requested by [VOLODYMYR:V1].
+[2014-10-21 19.59.06] Successfully created [AutoSave] backup [2014-10-21 19.59.05 - auto.zip] requested by [VOLODYMYR:V1].
+[2014-10-21 19.59.06] Removing excessive [AutoSave] backup file [F:\TEXT  TEM\BOARD_2LAYER\ProjectBackup\backups\2013-11-26 13.44.40 - auto.zip].
+[2014-10-21 19.59.06] [AutoSave] backup file [BOARD_2LAYER\ProjectBackup\backups\2013-11-26 13.44.40 - auto.zip] removed.
+[2014-11-01 11.12.45] Successfully created [AutoSave] backup [2014-11-01 11.12.45 - auto.zip] requested by [VOLODYMYR:V1].
+[2014-11-01 11.12.46] Removing excessive [AutoSave] backup file [F:\TEXT  TEM\BOARD_2LAYER\ProjectBackup\backups\2014-02-16 20.12.33 - auto.zip].
+[2014-11-01 11.12.46] [AutoSave] backup file [BOARD_2LAYER\ProjectBackup\backups\2014-02-16 20.12.33 - auto.zip] removed.
+[2014-12-09 21.00.58] Successfully created [AutoSave] backup [2014-12-09 21.00.56 - auto.zip] requested by [VOLODYMYR:V1].
+[2014-12-09 21.00.58] Removing excessive [AutoSave] backup file [F:\TEXT  TEM\BOARD_2LAYER\ProjectBackup\backups\2014-06-22 13.25.07 - auto.zip].
+[2014-12-09 21.00.58] [AutoSave] backup file [BOARD_2LAYER\ProjectBackup\backups\2014-06-22 13.25.07 - auto.zip] removed.
+[2014-12-15 20.26.50] Successfully created [AutoSave] backup [2014-12-15 20.26.49 - auto.zip] requested by [VOLODYMYR:V1].
+[2014-12-15 20.26.50] Removing excessive [AutoSave] backup file [F:\TEXT  TEM\BOARD_2LAYER\ProjectBackup\backups\2014-10-21 19.59.05 - auto.zip].
+[2014-12-15 20.26.50] [AutoSave] backup file [BOARD_2LAYER\ProjectBackup\backups\2014-10-21 19.59.05 - auto.zip] removed.
+[2014-12-19 22.29.15] Successfully created [AutoSave] backup [2014-12-19 22.29.15 - auto.zip] requested by [VOLODYMYR:V1].
+[2014-12-19 22.29.15] Removing excessive [AutoSave] backup file [F:\TEXT  TEM\BOARD_2LAYER\ProjectBackup\backups\2014-11-01 11.12.45 - auto.zip].
+[2014-12-19 22.29.15] [AutoSave] backup file [BOARD_2LAYER\ProjectBackup\backups\2014-11-01 11.12.45 - auto.zip] removed.
+[2014-12-22 20.43.40] Successfully created [AutoSave] backup [2014-12-22 20.43.39 - auto.zip] requested by [VOLODYMYR:V1].
+[2014-12-22 20.43.40] Removing excessive [AutoSave] backup file [F:\TEXT  TEM\BOARD_2LAYER\ProjectBackup\backups\2014-12-09 21.00.56 - auto.zip].
+[2014-12-22 20.43.40] [AutoSave] backup file [BOARD_2LAYER\ProjectBackup\backups\2014-12-09 21.00.56 - auto.zip] removed.
+[2015-02-22 17.10.13] Successfully created [AutoSave] backup [2015-02-22 17.10.10 - auto.zip] requested by [VOLODYMYR:V1].
+[2015-02-22 17.10.13] Removing excessive [AutoSave] backup file [F:\TEXT  TEM\BOARD_2LAYER\ProjectBackup\backups\2014-12-15 20.26.49 - auto.zip].
+[2015-02-22 17.10.13] [AutoSave] backup file [BOARD_2LAYER\ProjectBackup\backups\2014-12-15 20.26.49 - auto.zip] removed.
+[2015-05-30 17.58.12] Successfully created [AutoSave] backup [2015-05-30 17.58.11 - auto.zip] requested by [VOLODYMYR:V1].
+[2015-05-30 17.58.12] Removing excessive [AutoSave] backup file [F:\TEXT  TEM\BOARD_2LAYER\ProjectBackup\backups\2014-12-19 22.29.15 - auto.zip].
+[2015-05-30 17.58.12] [AutoSave] backup file [BOARD_2LAYER\ProjectBackup\backups\2014-12-19 22.29.15 - auto.zip] removed.
+[2016-01-18 20.24.29] Successfully created [AutoSave] backup [2016-01-18 20.24.28 - auto.zip] requested by [VOLODYMYR:V1].
+[2016-01-18 20.24.29] Removing excessive [AutoSave] backup file [F:\TEXT  TEM\BOARD_2LAYER\ProjectBackup\backups\2014-12-22 20.43.39 - auto.zip].
+[2016-01-18 20.24.29] [AutoSave] backup file [BOARD_2LAYER\ProjectBackup\backups\2014-12-22 20.43.39 - auto.zip] removed.
+[2016-08-07 11.19.43] Successfully created [AutoSave] backup [2016-08-07 11.19.42 - auto.zip] requested by [VOLODYMYR:V1].
+[2016-08-07 11.19.43] Removing excessive [AutoSave] backup file [F:\TEXT  TEM\BOARD_2LAYER\ProjectBackup\backups\2015-02-22 17.10.10 - auto.zip].
+[2016-08-07 11.19.43] [AutoSave] backup file [BOARD_2LAYER\ProjectBackup\backups\2015-02-22 17.10.10 - auto.zip] removed.
+[2017-04-06 22.09.13] Successfully created [Constraints Definition Upgrade] backup [2017-04-06 22.09.13 - consDefUpgr.zip] requested by [BUM-PC:BUM].
+[2017-04-06 22.09.13] Migrated iCDB content backup file [cdbback\2017-04-06 22.09.13-1492.zip] removed.
+[2017-04-08 08.27.59] Successfully created [AutoSave] backup [2017-04-08 08.27.59 - auto.zip] requested by [BUM-PC:BUM].
+[2017-04-08 08.27.59] Removing excessive [AutoSave] backup file [F:\TEXT  TEM\BOARD_2LAYER\ProjectBackup\backups\2015-05-30 17.58.11 - auto.zip].
+[2017-04-08 08.27.59] [AutoSave] backup file [BOARD_2LAYER\ProjectBackup\backups\2015-05-30 17.58.11 - auto.zip] removed.
+[2017-05-29 19.04.10] Successfully created [AutoSave] backup [2017-05-29 19.04.10 - auto.zip] requested by [BUM-PC:BUM].
+[2017-05-29 19.04.10] Removing excessive [AutoSave] backup file [F:\TEXT  TEM\BOARD_2LAYER\ProjectBackup\backups\2016-01-18 20.24.28 - auto.zip].
+[2017-05-29 19.04.10] [AutoSave] backup file [BOARD_2LAYER\ProjectBackup\backups\2016-01-18 20.24.28 - auto.zip] removed.
+[2017-11-25 14.37.41] Successfully created [AutoSave] backup [2017-11-25 14.37.41 - auto.zip] requested by [BUM-PC:BUM].
+[2017-11-25 14.37.41] Removing excessive [AutoSave] backup file [F:\TEXT  TEM\BOARD_2LAYER\ProjectBackup\backups\2016-08-07 11.19.42 - auto.zip].
+[2017-11-25 14.37.41] [AutoSave] backup file [BOARD_2LAYER\ProjectBackup\backups\2016-08-07 11.19.42 - auto.zip] removed.
+[2017-12-16 08.42.46] Successfully created [AutoSave] backup [2017-12-16 08.42.46 - auto.zip] requested by [BUM-PC:BUM].
+[2017-12-16 08.42.46] Removing excessive [AutoSave] backup file [F:\TEXT  TEM\T3-BP-1\ProjectBackup\backups\2017-04-08 08.27.59 - auto.zip].
+[2017-12-16 08.42.46] [AutoSave] backup file [T3-BP-1\ProjectBackup\backups\2017-04-08 08.27.59 - auto.zip] removed.
+[2017-12-16 13.35.43] Successfully created [AutoSave] backup [2017-12-16 13.35.43 - auto.zip] requested by [BUM-PC:BUM].
+[2017-12-16 13.35.43] Removing excessive [AutoSave] backup file [F:\TEXT  TEM\T3-BP-1\ProjectBackup\backups\2017-05-29 19.04.10 - auto.zip].
+[2017-12-16 13.35.43] [AutoSave] backup file [T3-BP-1\ProjectBackup\backups\2017-05-29 19.04.10 - auto.zip] removed.
+[2017-12-16 17.35.43] Successfully created [AutoSave] backup [2017-12-16 17.35.43 - auto.zip] requested by [BUM-PC:BUM].
+[2017-12-16 17.35.43] Removing excessive [AutoSave] backup file [F:\TEXT  TEM\T3-BP-1\ProjectBackup\backups\2017-11-25 14.37.41 - auto.zip].
+[2017-12-16 17.35.43] [AutoSave] backup file [T3-BP-1\ProjectBackup\backups\2017-11-25 14.37.41 - auto.zip] removed.
+[2017-12-16 21.35.43] Successfully created [AutoSave] backup [2017-12-16 21.35.43 - auto.zip] requested by [BUM-PC:BUM].
+[2017-12-16 21.35.43] Removing excessive [AutoSave] backup file [F:\TEXT  TEM\T3-BP-1\ProjectBackup\backups\2017-12-16 08.42.46 - auto.zip].
+[2017-12-16 21.35.43] [AutoSave] backup file [T3-BP-1\ProjectBackup\backups\2017-12-16 08.42.46 - auto.zip] removed.
+[2017-12-18 08.52.11] Successfully created [Constraints Definition Upgrade] backup [2017-12-18 08.52.11 - consDefUpgr.zip] requested by [NIO13_PC1:User].
+[2017-12-18 08.52.11] Removing excessive [Constraints Definition Upgrade] backup file [F:\TEXT  TEM\T3-BP-1\ProjectBackup\backups\2017-04-06 22.09.13 - consDefUpgr.zip].
+[2017-12-18 08.52.11] [Constraints Definition Upgrade] backup file [T3-BP-1\ProjectBackup\backups\2017-04-06 22.09.13 - consDefUpgr.zip] removed.
+[2017-12-18 08.52.11] Migrated iCDB content backup file [cdbback\2017-12-18 08.52.10-1928.zip] removed.
+[2017-12-18 08.54.46] Successfully created [AutoSave] backup [2017-12-18 08.54.46 - auto.zip] requested by [NIO13_PC1:User].
+[2017-12-18 08.54.46] Removing excessive [AutoSave] backup file [F:\TEXT  TEM\T3-BP-1\ProjectBackup\backups\2017-12-16 13.35.43 - auto.zip].
+[2017-12-18 08.54.46] [AutoSave] backup file [T3-BP-1\ProjectBackup\backups\2017-12-16 13.35.43 - auto.zip] removed.
+[2018-03-04 12.19.00] Successfully created [Constraints Definition Upgrade] backup [2018-03-04 12.19.00 - consDefUpgr.zip] requested by [BUM-PC:BUM].
+[2018-03-04 12.19.00] Removing excessive [Constraints Definition Upgrade] backup file [F:\TT18\GA\TRONCA-3\T3-BP-1\ProjectBackup\backups\2017-12-18 08.52.11 - consDefUpgr.zip].
+[2018-03-04 12.19.00] [Constraints Definition Upgrade] backup file [T3-BP-1\ProjectBackup\backups\2017-12-18 08.52.11 - consDefUpgr.zip] removed.
+[2018-03-04 12.19.00] Migrated iCDB content backup file [cdbback\2018-03-04 12.19.00-5652.zip] removed.
+[2018-03-05 10.01.56] Successfully created [Constraints Definition Upgrade] backup [2018-03-05 10.01.56 - consDefUpgr.zip] requested by [NIO13_PC1:User].
+[2018-03-05 10.01.56] Removing excessive [Constraints Definition Upgrade] backup file [F:\TT18\GA\TRONCA-3\T3-BP-1\ProjectBackup\backups\2018-03-04 12.19.00 - consDefUpgr.zip].
+[2018-03-05 10.01.56] [Constraints Definition Upgrade] backup file [T3-BP-1\ProjectBackup\backups\2018-03-04 12.19.00 - consDefUpgr.zip] removed.
+[2018-03-05 10.01.56] Migrated iCDB content backup file [cdbback\2018-03-05 10.01.55-3992.zip] removed.

@@ -1,0 +1,149 @@
+Prop name:Fixes
+Prop name:Group2Prps
+Flags    :$00000001
+       6
+       1
+       0
+       0
+       0
+       0
+       0
+       6
+       7
+       0
+       0
+       0
+       0
+       0
+       6
+       D
+       0
+       0
+       0
+       0
+       0
+       6
+      13
+       0
+       0
+       0
+       0
+       0
+Prop name:GroupContentsType
+Flags    :$00000001
+       8
+FFFFFFFF
+FFFFFFFF
+FFFFFFFF
+FFFFFFFF
+FFFFFFFF
+FFFFFFFF
+FFFFFFFF
+FFFFFFFF
+       8
+FFFFFFFF
+FFFFFFFF
+FFFFFFFF
+FFFFFFFF
+FFFFFFFF
+FFFFFFFF
+FFFFFFFF
+FFFFFFFF
+       8
+FFFFFFFF
+FFFFFFFF
+FFFFFFFF
+FFFFFFFF
+FFFFFFFF
+FFFFFFFF
+FFFFFFFF
+FFFFFFFF
+       8
+FFFFFFFF
+FFFFFFFF
+FFFFFFFF
+FFFFFFFF
+FFFFFFFF
+FFFFFFFF
+FFFFFFFF
+FFFFFFFF
+Prop name:GroupObjects
+Prop name:GroupSubGroups
+Prop name:GrpVersion
+Flags    :$00000001
+     1F8
+Prop name:PrpAttr
+Flags    :$00002001
+       0
+Repeat
+       4
+Prop name:PrpBit
+Flags    :$00000001
+FFFFFFFF
+Repeat
+      16
+Prop name:PrpId
+Flags    :$00000001
+    2001
+    2002
+    2003
+    2004
+    2005
+    2006
+    2001
+    2002
+    2004
+    2005
+    2006
+    2003
+    2001
+    2002
+    2004
+    2005
+    2006
+    2003
+    2001
+    2002
+    2004
+    2005
+    2006
+    2003
+Prop name:PrpNam
+Flags    :$00000000
+Removed
+00002001
+$$Internal_Resolution
+$$Internal_ID
+$$Internal___BlkDate
+$$Internal_LastIdUsed
+$$Internal_LastSegmentIdUsed
+$$Internal_LastJointIdUsed
+Prop name:PrpOrder
+Prop name:PrpStr
+Flags    :$00000000
+Removed
+00000001
+00001mm
+1
+7:31:22_5-27-19
+9268
+48827
+60197
+00001mm
+2
+9890
+41391
+50525
+7:31:32_5-27-19
+00001mm
+3
+9341
+53762
+65612
+7:31:38_5-27-19
+00001mm
+4
+2611
+39718
+48209
+7:31:45_5-27-19

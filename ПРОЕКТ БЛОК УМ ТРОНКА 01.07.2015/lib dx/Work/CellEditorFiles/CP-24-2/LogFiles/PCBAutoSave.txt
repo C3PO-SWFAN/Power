@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                       10:09 PM Tuesday, October 29, 2013
+         Job Name: D:\lib dx\Work\CellEditorFiles\CP-24-2\CP-24-2-1.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                       10:11 PM Tuesday, October 29, 2013
+         Job Name: D:\lib dx\Work\CellEditorFiles\CP-24-2\CP-24-2-1.pcb
+

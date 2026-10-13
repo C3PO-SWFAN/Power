@@ -1,0 +1,11 @@
+
+                                   IDF Export
+                                   ----------
+
+                        06:36 PM Sunday, October 29, 2017
+              Job Name: F:\TEXT  TEM\BP_3_1_K\PCB\BOARD_2LAYER.pcb
+
+    Creating IDF 3.0 file.    
+    ----------------------    
+        
+    Successfully created IDF file with no warnings.

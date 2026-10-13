@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                         04:28 PM Monday, June 10, 2013
+   Job Name: D:\lib dx\Work\CellEditorFiles\DIPLEXER\DPX205850DT-9038A1-H.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                         04:39 PM Monday, June 10, 2013
+   Job Name: D:\lib dx\Work\CellEditorFiles\DIPLEXER\DPX205850DT-9038A1-H.pcb
+

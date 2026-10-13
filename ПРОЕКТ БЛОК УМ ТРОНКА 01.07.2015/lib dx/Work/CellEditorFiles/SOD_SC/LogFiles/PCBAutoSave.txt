@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                      08:40 PM Saturday, December 20, 2014
+        Job Name: D:\lib dx\Work\CellEditorFiles\SOD_SC\SOD323F_SC90.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                      08:40 PM Saturday, December 20, 2014
+        Job Name: D:\lib dx\Work\CellEditorFiles\SOD_SC\SOD323F_SC90.pcb
+

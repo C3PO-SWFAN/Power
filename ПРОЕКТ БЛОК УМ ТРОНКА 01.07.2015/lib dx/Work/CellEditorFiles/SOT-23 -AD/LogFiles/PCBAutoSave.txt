@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                         02:21 PM Saturday, May 30, 2015
+     Job Name: D:\lib dx\Work\CellEditorFiles\SOT-23 -AD\SOT-23-RT-3-AD.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                         02:21 PM Saturday, May 30, 2015
+     Job Name: D:\lib dx\Work\CellEditorFiles\SOT-23 -AD\SOT-23-RT-3-AD.pcb
+

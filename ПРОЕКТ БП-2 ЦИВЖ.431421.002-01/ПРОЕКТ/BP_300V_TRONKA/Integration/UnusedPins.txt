@@ -1,0 +1,73 @@
+
+Schematic unused pins from : Packager  6-Feb-2016  15:45
+
+------------------------------------------------------------------------
+            Part/Reference             |          Unused pins
+                                       |  (G) - Gate, (P) - Partial Gate
+------------------------------------------------------------------------
+ Part ADM1087AKSZ-REEL7                |
+ Part APT2012CGCK                      |
+ Part APT2012SRCPRV                    |
+ Part B32672L8102J                     |
+ Part B43305A9108M                     |
+ Part CMR5H-06 TR13                    |
+ Part CRCW251215K0JNEG                 |
+ Part CRCW251275K0JNEG                 |
+ Part C3216X5R1E106M085AC              |
+ Part C3225X7S1H106M250AB              |
+ Part C3225X7T2J104K160AC              |
+ Part C5750X6S2W225K250KA              |
+ Part DXT13003DG-13                    |
+ Part EEU-FR1V222B                     |
+ Part ERJ-3GEYJ472V                    |
+ Part ERJ-3GEYJ681V                    |
+ Part ERJ-3GEY0R00V                    |
+ Part ERJ-6ENF1432V                    |
+ Part ERJ-6ENF6040V                    |
+ Part ERJ-6GEYJ152V                    |
+ Part ERJ-6GEYJ433V                    |
+ Part ERJ-6GEYJ471V                    |
+ Part ERJ-8GEYJ2R2V                    |
+ Part ERJ-8GEYJ100V                    |
+ Part ERJ-8GEYJ103V                    |
+ Part ERJ-8GEYJ302V                    |
+ Part ERJ-8GEY0R00V                    |
+ Part ERJ-14NF9762U                    |
+ Part FQD3P50TM                        |
+ Part GRM31MR71C225KA35L               |
+ Part GRM188R71H104KA93D               |
+ Part GRM2165C1H222JA01D               |
+ Part KDZTR12B                         |
+ Part LM1117IMP-5.0/NOPB               |
+ Part MCR25JZHJ000                     |
+ Part MGSHV-0_35-D1_9xd0.8             |
+ Part MMZ1608A182B                     |
+ Part MOCD207R2M                       |
+ Part MP1004G-G                        |
+ Part MURS160-13-F                     |
+ Part NSS1C201LT1G                     |
+ Part PTVS5V0P1UP,115                  |
+ Part PTVS36VP1UP,115                  |
+ Part RTD34012-UNIVERSAL               |
+ Part R463R447000M2M                   |
+ Part SMBJP6KE440A-TP                  |
+ Part SN74LVC1G00DBVR                  |
+ Part SN74LVC1G02DBVR                  |
+ Part SN74LVC1G08DBVR                  |
+ Part SPC02SVJN-RC-3POS                |
+ Part T_TRONKA_300V_1                  |
+ Part UDZSTE-173.0B                    |
+ Part UHE1C102MPD                      |
+ Part VLF10040T-6R8N4R5                |
+ Part W04M-BP                          |
+ Part 1N4148W-7-F                      |
+ Part 2-1879022-9                      |
+ Part 5-1879022-3                      |
+ Part 8-1879021-1                      |
+ Part 5010                             |
+ Part 5011                             |
+ Part 5500.2015                        |
+ Part 0039301040                       |
+ Part 0039301062                       |
+ Part 0039301081                       |
+  X4                                   | (P)  6 7

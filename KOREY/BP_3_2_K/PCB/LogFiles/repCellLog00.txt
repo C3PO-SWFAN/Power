@@ -1,0 +1,131 @@
+=======================================================================
+Expedition PCB - Pinnacle - Version 2013.0.540.971
+=======================================================================
+
+RELOAD CELLS
+
+Job Directory:  F:\TT18\KOREY\BP_3_2_K\PCB\
+
+
+Design Units:(mm)
+
+Replace Cell Log:   repCellLog00.txt
+
+Thu Apr 12 12:50:50 2018
+
+Reference Designator            Cell Name                         New Cell Name
+===============================================================================
+
+
+---------------  RELOAD CELLS  Thu Apr 12 12:50:50 2018  ---------------
+
+
+
+
+---------------  RELOAD CELLS TMP  Thu Apr 12 12:50:50 2018  ---------------
+
+
+D1                              RAC20-05S                         RAC20-05S                       
+D3                              RAC20-05S                         RAC20-05S                       
+D2                              RAC20-05S                         RAC20-05S                       
+R19                             1210-STANDART-3225                1210-STANDART-3225              
+R18                             1210-STANDART-3225                1210-STANDART-3225              
+C24                             1206-STANDART-3216                1206-STANDART-3216              
+KW9                             MGSHV-0_5-D2_2xd0_9_d2_3          MGSHV-0_5-D2_2xd0_9_d2_3        
+KW8                             MGSHV-0_5-D2_2xd0_9_d2_3          MGSHV-0_5-D2_2xd0_9_d2_3        
+TP7                             TEST-POINTS-1                     TEST-POINTS-1                   
+TP4                             TEST-POINTS-1                     TEST-POINTS-1                   
+R7                              0805-STANDART-2012                0805-STANDART-2012              
+R8                              0805-STANDART-2012                0805-STANDART-2012              
+H4                              0805-STANDART-2012-SVET           0805-STANDART-2012-SVET         
+H3                              0805-STANDART-2012-SVET           0805-STANDART-2012-SVET         
+R10                             0805-STANDART-2012                0805-STANDART-2012              
+TP3                             TEST-POINTS-1                     TEST-POINTS-1                   
+C12                             0603-STANDART-1608                0603-STANDART-1608              
+R4                              1206-STANDART-3216                1206-STANDART-3216              
+V3                              RTVSxP1UP                         RTVSxP1UP                       
+R13                             1210-STANDART-3225                1210-STANDART-3225              
+C11                             0603-STANDART-1608                0603-STANDART-1608              
+C20                             1210-STANDART-3225                1210-STANDART-3225              
+C19                             1210-STANDART-3225                1210-STANDART-3225              
+C18                             1210-STANDART-3225                1210-STANDART-3225              
+L4                              VLF10040-10,5x10,5-TDK            VLF10040-10,5x10,5-TDK          
+C13                             0603-STANDART-1608                0603-STANDART-1608              
+C21                             1210-STANDART-3225                1210-STANDART-3225              
+C22                             1210-STANDART-3225                1210-STANDART-3225              
+C23                             1210-STANDART-3225                1210-STANDART-3225              
+R11                             0805-STANDART-2012                0805-STANDART-2012              
+R14                             1210-STANDART-3225                1210-STANDART-3225              
+KW5                             MGSHV-0_5-D2_2xd0_9_d2_3          MGSHV-0_5-D2_2xd0_9_d2_3        
+KW4                             MGSHV-0_5-D2_2xd0_9_d2_3          MGSHV-0_5-D2_2xd0_9_d2_3        
+KW3                             MGSHV-0_5-D2_2xd0_9_d2_3          MGSHV-0_5-D2_2xd0_9_d2_3        
+R12                             1210-STANDART-3225                1210-STANDART-3225              
+TP6                             TEST-POINTS-1                     TEST-POINTS-1                   
+KW2                             MGSHV-0_5-D2_2xd0_9_d2_3          MGSHV-0_5-D2_2xd0_9_d2_3        
+KW1                             MGSHV-0_5-D2_2xd0_9_d2_3          MGSHV-0_5-D2_2xd0_9_d2_3        
+V4                              RTVSxP1UP                         RTVSxP1UP                       
+R5                              1206-STANDART-3216                1206-STANDART-3216              
+C14                             0603-STANDART-1608                0603-STANDART-1608              
+L6                              VLF10040-10,5x10,5-TDK            VLF10040-10,5x10,5-TDK          
+R9                              0805-STANDART-2012                0805-STANDART-2012              
+TP2                             TEST-POINTS-1                     TEST-POINTS-1                   
+R3                              1206-STANDART-3216                1206-STANDART-3216              
+C10                             0603-STANDART-1608                0603-STANDART-1608              
+V2                              RTVSxP1UP                         RTVSxP1UP                       
+L2                              VLF10040-10,5x10,5-TDK            VLF10040-10,5x10,5-TDK          
+C9                              0603-STANDART-1608                0603-STANDART-1608              
+R6                              0805-STANDART-2012                0805-STANDART-2012              
+H2                              0805-STANDART-2012-SVET           0805-STANDART-2012-SVET         
+C16                             1210-STANDART-3225                1210-STANDART-3225              
+C17                             1210-STANDART-3225                1210-STANDART-3225              
+C15                             1210-STANDART-3225                1210-STANDART-3225              
+X3                              M80-VERT-J-TEK-16                 M80-VERT-J-TEK-16               
+KW11                            MGSHV-0_2-D1_6xd0_62_d1_7         MGSHV-0_2-D1_6xd0_62_d1_7       
+KW10                            MGSHV-0_2-D1_6xd0_62_d1_7         MGSHV-0_2-D1_6xd0_62_d1_7       
+KW12                            MGSHV-0_2-D1_6xd0_62_d1_7         MGSHV-0_2-D1_6xd0_62_d1_7       
+R15                             1210-STANDART-3225                1210-STANDART-3225              
+R17                             1210-STANDART-3225                1210-STANDART-3225              
+R16                             1210-STANDART-3225                1210-STANDART-3225              
+KW6                             MGSHV-0_5-D2_2xd0_9_d2_3          MGSHV-0_5-D2_2xd0_9_d2_3        
+TP5                             TEST-POINTS-1                     TEST-POINTS-1                   
+TP1                             TEST-POINTS-1                     TEST-POINTS-1                   
+H1                              0805-STANDART-2012-SVET           0805-STANDART-2012-SVET         
+V1                              SOD123-DIODES                     SOD123-DIODES                   
+KW7                             MGSHV-0_5-D2_2xd0_9_d2_3          MGSHV-0_5-D2_2xd0_9_d2_3        
+V5                              SMB-DIODES_1                      SMB-DIODES_1                    
+C8                              1808-STANDART-4520                1808-STANDART-4520              
+R1                              2512-STANDART-6332                2512-STANDART-6332              
+R2                              2512-STANDART-6332                2512-STANDART-6332              
+C4                              CAP_PP_L15mm_UNIVER               CAP_PP_L15mm_UNIVER             
+L5                              VLF10040-10,5x10,5-TDK            VLF10040-10,5x10,5-TDK          
+L1                              VLF10040-10,5x10,5-TDK            VLF10040-10,5x10,5-TDK          
+C5                              1808-STANDART-4520                1808-STANDART-4520              
+C7                              1808-STANDART-4520                1808-STANDART-4520              
+C6                              1808-STANDART-4520                1808-STANDART-4520              
+C3                              CAP_PP_L15mm_UNIVER               CAP_PP_L15mm_UNIVER             
+C2                              CAP_PP_L15mm_UNIVER               CAP_PP_L15mm_UNIVER             
+C1                              CAP_PP_L15mm_UNIVER               CAP_PP_L15mm_UNIVER             
+X5                              2Rx4K_ANGLE                       2Rx4K_ANGLE                     
+L3                              VLF10040-10,5x10,5-TDK            VLF10040-10,5x10,5-TDK          
+X4                              M80-VERT-J-TEK-12                 M80-VERT-J-TEK-12               
+X2                              2Rx20K_ANGLE                      2Rx20K_ANGLE                    
+
+
+---------------    Thu Apr 12 12:50:51 2018  ---------------
+
+
+
+
+---------------    Thu Apr 12 12:50:51 2018  ---------------
+
+
+
+
+---------------  RELOAD CELLS  Thu Apr 12 12:59:55 2018  ---------------
+
+
+
+
+---------------    Thu Apr 12 12:59:55 2018  ---------------
+
+

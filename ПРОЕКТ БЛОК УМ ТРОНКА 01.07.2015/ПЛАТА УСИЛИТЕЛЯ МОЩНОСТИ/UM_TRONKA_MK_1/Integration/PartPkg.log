@@ -1,0 +1,281 @@
+
+                                    Packager
+                                    --------
+
+                        12:26 PM Saturday, June 27, 2015
+             Job Name: F:\TEXT TEM\UM_TRONKA_MK_1\UM_TRONKA_MK_1.prj
+
+
+     Packager     Version: 020806.00
+
+        Commandline is: "C:\MentorGraphics\7.9.4EE\SDD_HOME\wg\win32\bin\package.exe -j"F:\TEXT TEM\UM_TRONKA_MK_1\UM_TRONKA_MK_1.prj" -nBoard1 -i -k -a -CleanBuild"
+
+     The Common Database is at "F:\TEXT TEM\UM_TRONKA_MK_1\database".
+
+     The Root of this design is "Schematic1".
+
+     The Front End Snapshot of this design is "DxD".
+
+     The PCB Design Path of this design is at "F:\TEXT TEM\UM_TRONKA_MK_1\PCB\BOARD_2LAYER.pcb".
+
+     The Central Library is at "D:\lib dx\lib dx.lmc".
+
+     Unable to determine the Disable Repackage status.
+     !Repackaging will be allowed!
+
+     A new Target PDB will be created from the Central Library to satisfy the parts
+      requirements of the iCDB.
+
+     The AllowAlphaRefDes status indicates that reference
+      designators containing all alpha characters should be respected.
+
+     All existing reference designators and frozen properties will be ignored
+      during packaging except for those on symbols within Reusable Blocks.
+      Only the Room and Cluster symbol properties will be read for the purpose
+      of user designated packaging.  Use with the -y option if back annotation
+      to the Common DataBase is not desired.
+
+     The cross mapping of symbol pin names to Part Number pin
+      numbers will be checked for packaged symbols and mapped correctly
+      for unpackaged symbols.
+
+     Properties that have been checked off in the Property Definition Editor
+      found at Library Manager/Common Properties will be checked for value
+      differences between the PartsDB and the non-null properties on symbols.
+     Those properties checked off will be transferred from the PartsDB to all
+      symbols, both packaged and unpackaged.  However, the property values
+      transferred will be limited to the precision specified in the Notation
+      Settings dialog.
+     The following properties were checked off in the Property Definition Editor:
+       "Pkg Group"
+       "EPFIXEDWIDTH"
+       "EPFIXEDLENGTH"
+       "Term"
+       "SIM_MODEL"
+       "SIM_MODEL_FILE"
+       "Array Component"
+       "ICX_PART_MODEL"
+       "Use Verilog"
+       "Order"
+       "Parametric"
+       "Value2"
+       "Tech"
+       "Manufacturer"
+       "IBIS"
+       "Part Label"
+       "VHDL Model"
+       "Verilog Model"
+       "Tolerance"
+       "Part Number"
+       "Value"
+       "Part Name"
+
+	Checking for errors in the ICDB...
+
+	No errors found.  Proceeding with packaging...
+
+
+
+     Common Data Base has been read
+
+     Target PDB Name: Integration\LocalPartsDB.pdb
+
+     Number of Part Numbers: 135
+          Part Numb: ACPL-247-500E -> Vend Part: ACPL-247-500E 
+          Part Numb: ADG719BRTZ-REEL7 -> Vend Part: ADG719BRTZ-REEL7 
+          Part Numb: ADG736BRMZ-REEL7 -> Vend Part: ADG736BRMZ-REEL7 
+          Part Numb: ADM1086AKSZ-REEL7 -> Vend Part: ADM1086AKSZ-REEL7 
+          Part Numb: ADM1087AKSZ-REEL7 -> Vend Part: ADM1087AKSZ-REEL7 
+          Part Numb: APT2012CGCK -> Vend Part: APT2012CGCK 
+          Part Numb: APT2012SRCPRV -> Vend Part: APT2012SRCPRV 
+          Part Numb: BA00DD0WHFP-TR -> Vend Part: BA00DD0WHFP-TR 
+          Part Numb: CDBC580-G -> Vend Part: CDBC580-G 
+          Part Numb: CD4041UBM -> Vend Part: CD4041UBM 
+          Part Numb: CMR5H-06 TR13 -> Vend Part: CMR5H-06 TR13 
+          Part Numb: CRCW251275K0JNEG -> Vend Part: CRCW251275K0JNEG 
+          Part Numb: CRCW2512160KJNEG -> Vend Part: CRCW2512160KJNEG 
+          Part Numb: C2220C102JZGACTU -> Vend Part: C2220C102JZGACTU 
+          Part Numb: C3216X5R1E106M085AC -> Vend Part: C3216X5R1E106M085AC 
+          Part Numb: C3216X5R1E476M160AC -> Vend Part: C3216X5R1E476M160AC 
+          Part Numb: C3216X7R1H334M160AA -> Vend Part: C3216X7R1H334M160AA 
+          Part Numb: C3216X7T2W104M160AE -> Vend Part: C3216X7T2W104M160AE 
+          Part Numb: C3225X7S1H106M250AB -> Vend Part: C3225X7S1H106M250AB 
+          Part Numb: C3225X7T2J104K160AC -> Vend Part: C3225X7T2J104K160AC 
+          Part Numb: C5750X6S2W225K250KA -> Vend Part: C5750X6S2W225K250KA 
+          Part Numb: D26d8H13 -> Vend Part: D26d8H13 
+          Part Numb: ERJ-3GEYJ472V -> Vend Part: ERJ-3GEYJ472V 
+          Part Numb: ERJ-6ENF28R7V -> Vend Part: ERJ-6ENF28R7V 
+          Part Numb: ERJ-6ENF1302V -> Vend Part: ERJ-6ENF1302V 
+          Part Numb: ERJ-6ENF1472V -> Vend Part: ERJ-6ENF1472V 
+          Part Numb: ERJ-6ENF1690V -> Vend Part: ERJ-6ENF1690V 
+          Part Numb: ERJ-6ENF1962V -> Vend Part: ERJ-6ENF1962V 
+          Part Numb: ERJ-6ENF2000V -> Vend Part: ERJ-6ENF2000V 
+          Part Numb: ERJ-6ENF2001V -> Vend Part: ERJ-6ENF2001V 
+          Part Numb: ERJ-6ENF2101V -> Vend Part: ERJ-6ENF2101V 
+          Part Numb: ERJ-6ENF2401V -> Vend Part: ERJ-6ENF2401V 
+          Part Numb: ERJ-6ENF2671V -> Vend Part: ERJ-6ENF2671V 
+          Part Numb: ERJ-6ENF2872V -> Vend Part: ERJ-6ENF2872V 
+          Part Numb: ERJ-6ENF2873V -> Vend Part: ERJ-6ENF2873V 
+          Part Numb: ERJ-6ENF3901V -> Vend Part: ERJ-6ENF3901V 
+          Part Numb: ERJ-6ENF4221V -> Vend Part: ERJ-6ENF4221V 
+          Part Numb: ERJ-6ENF4321V -> Vend Part: ERJ-6ENF4321V 
+          Part Numb: ERJ-6ENF4322V -> Vend Part: ERJ-6ENF4322V 
+          Part Numb: ERJ-6ENF4530V -> Vend Part: ERJ-6ENF4530V 
+          Part Numb: ERJ-6ENF4531V -> Vend Part: ERJ-6ENF4531V 
+          Part Numb: ERJ-6ENF6040V -> Vend Part: ERJ-6ENF6040V 
+          Part Numb: ERJ-6ENF6651V -> Vend Part: ERJ-6ENF6651V 
+          Part Numb: ERJ-6ENF7681V -> Vend Part: ERJ-6ENF7681V 
+          Part Numb: ERJ-6ENF7871V -> Vend Part: ERJ-6ENF7871V 
+          Part Numb: ERJ-6GEYJ152V -> Vend Part: ERJ-6GEYJ152V 
+          Part Numb: ERJ-6GEYJ161V -> Vend Part: ERJ-6GEYJ161V 
+          Part Numb: ERJ-6GEYJ203V -> Vend Part: ERJ-6GEYJ203V 
+          Part Numb: ERJ-6GEYJ301V -> Vend Part: ERJ-6GEYJ301V 
+          Part Numb: ERJ-6GEYJ471V -> Vend Part: ERJ-6GEYJ471V 
+          Part Numb: ERJ-6GEYJ472V -> Vend Part: ERJ-6GEYJ472V 
+          Part Numb: ERJ-6GEYJ622V -> Vend Part: ERJ-6GEYJ622V 
+          Part Numb: ERJ-6GEY0R00V -> Vend Part: ERJ-6GEY0R00V 
+          Part Numb: ERJ-8ENF3000V -> Vend Part: ERJ-8ENF3000V 
+          Part Numb: ERJ-8ENF3480V -> Vend Part: ERJ-8ENF3480V 
+          Part Numb: ERJ-8ENF5100V -> Vend Part: ERJ-8ENF5100V 
+          Part Numb: ERJ-8ENF9762V -> Vend Part: ERJ-8ENF9762V 
+          Part Numb: ERJ-8GEYJ2R2V -> Vend Part: ERJ-8GEYJ2R2V 
+          Part Numb: ERJ-8GEYJ100V -> Vend Part: ERJ-8GEYJ100V 
+          Part Numb: ERJ-8GEYJ182V -> Vend Part: ERJ-8GEYJ182V 
+          Part Numb: ERJ-8GEYJ330V -> Vend Part: ERJ-8GEYJ330V 
+          Part Numb: ERJ-8GEYJ331V -> Vend Part: ERJ-8GEYJ331V 
+          Part Numb: ERJ-8GEYJ472V -> Vend Part: ERJ-8GEYJ472V 
+          Part Numb: ERJ-8GEY0R00V -> Vend Part: ERJ-8GEY0R00V 
+          Part Numb: ERJ-8RQJ4R7V -> Vend Part: ERJ-8RQJ4R7V 
+          Part Numb: ERJ-14NF33R2U -> Vend Part: ERJ-14NF33R2U 
+          Part Numb: ERJ-14NF1691U -> Vend Part: ERJ-14NF1691U 
+          Part Numb: ERJ-14NF2870U -> Vend Part: ERJ-14NF2870U 
+          Part Numb: ERJ-14NF6650U -> Vend Part: ERJ-14NF6650U 
+          Part Numb: ERJ-14NF6980U -> Vend Part: ERJ-14NF6980U 
+          Part Numb: ERJ-14YJ200U -> Vend Part: ERJ-14YJ200U 
+          Part Numb: ERJ-14YJ514U -> Vend Part: ERJ-14YJ514U 
+          Part Numb: GRM31CR71H105KA61L -> Vend Part: GRM31CR71H105KA61L 
+          Part Numb: GRM31CR71H225KA88L -> Vend Part: GRM31CR71H225KA88L 
+          Part Numb: GRM31MR71C225KA35L -> Vend Part: GRM31MR71C225KA35L 
+          Part Numb: GRM32DR71E106KA12L -> Vend Part: GRM32DR71E106KA12L 
+          Part Numb: GRM32ER71E226KE15L -> Vend Part: GRM32ER71E226KE15L 
+          Part Numb: GRM188R71H104KA93D -> Vend Part: GRM188R71H104KA93D 
+          Part Numb: GRM188R71H272KA01D -> Vend Part: GRM188R71H272KA01D 
+          Part Numb: GRM216R71H103KA01D -> Vend Part: GRM216R71H103KA01D 
+          Part Numb: GRM216R71H223KA01D -> Vend Part: GRM216R71H223KA01D 
+          Part Numb: GRM1885C1H100JA01D -> Vend Part: GRM1885C1H100JA01D 
+          Part Numb: GRM1885C1H471JA01D -> Vend Part: GRM1885C1H471JA01D 
+          Part Numb: GRM2165C1H222JA01D -> Vend Part: GRM2165C1H222JA01D 
+          Part Numb: IRGP30B120KD-EP -> Vend Part: IRGP30B120KD-EP 
+          Part Numb: IR2114SSPBF -> Vend Part: IR2114SSPBF 
+          Part Numb: KDZTR10B -> Vend Part: KDZTR10B 
+          Part Numb: KDZTR20B -> Vend Part: KDZTR20B 
+          Part Numb: LM1117IMP-5.0/NOPB -> Vend Part: LM1117IMP-5.0/NOPB 
+          Part Numb: LTC2913IMS-2#PBF -> Vend Part: LTC2913IMS-2#PBF 
+          Part Numb: MAL214658471E3 -> Vend Part: MAL214658471E3 
+          Part Numb: MB2S -> Vend Part: MB2S 
+          Part Numb: MCR25JZHJ000 -> Vend Part: MCR25JZHJ000 
+          Part Numb: MEE1S1509DC -> Vend Part: MEE1S1509DC 
+          Part Numb: MEJ2S1509SC -> Vend Part: MEJ2S1509SC 
+          Part Numb: MGSHV-0_2-D1_6xd0.62 -> Vend Part: MGSHV-0_2-D1_6xd0.62 
+          Part Numb: MMZ1608A182B -> Vend Part: MMZ1608A182B 
+          Part Numb: MMZ1608S102A -> Vend Part: MMZ1608S102A 
+          Part Numb: MMZ1608Y601B -> Vend Part: MMZ1608Y601B 
+          Part Numb: MOCD207R2M -> Vend Part: MOCD207R2M 
+          Part Numb: MPZ1608S221A_1 -> Vend Part: MPZ1608S221A_1 
+          Part Numb: MURS160-13-F -> Vend Part: MURS160-13-F 
+          Part Numb: NLFV32T-4R7M-EF -> Vend Part: NLFV32T-4R7M-EF 
+          Part Numb: PTVS16VP1UP,115 -> Vend Part: PTVS16VP1UP,115 
+          Part Numb: P6SMB400CA -> Vend Part: P6SMB400CA 
+          Part Numb: R73TR2470SE00J -> Vend Part: R73TR2470SE00J 
+          Part Numb: SN74ABT245BNSR -> Vend Part: SN74ABT245BNSR 
+          Part Numb: SN74HC00DR -> Vend Part: SN74HC00DR 
+          Part Numb: SN74HC21DR -> Vend Part: SN74HC21DR 
+          Part Numb: SN74LVC1G00DBVR -> Vend Part: SN74LVC1G00DBVR 
+          Part Numb: SN74LVC1G08DBVR -> Vend Part: SN74LVC1G08DBVR 
+          Part Numb: SN74LVC2G08DCTR -> Vend Part: SN74LVC2G08DCTR 
+          Part Numb: SPM15-150-Q12P-C -> Vend Part: SPM15-150-Q12P-C 
+          Part Numb: TLP2160(F) -> Vend Part: TLP2160(F) 
+          Part Numb: TPSE476M035R0200 -> Vend Part: TPSE476M035R0200 
+          Part Numb: TRONKA_L_1 -> Vend Part: TRONKA_L_1 
+          Part Numb: TRONKA_T_2 -> Vend Part: TRONKA_T_2 
+          Part Numb: UDZSTE-173.0B -> Vend Part: UDZSTE-173.0B 
+          Part Numb: UDZSTE-175.6B -> Vend Part: UDZSTE-175.6B 
+          Part Numb: VLF10040T-100M3R8 -> Vend Part: VLF10040T-100M3R8 
+          Part Numb: 1-1879022-9 -> Vend Part: 1-1879022-9 
+          Part Numb: 1N4148W-7-F -> Vend Part: 1N4148W-7-F 
+          Part Numb: 3-1437646-3 -> Vend Part: 3-1437646-3 
+          Part Numb: 3-1437646-9 -> Vend Part: 3-1437646-9 
+          Part Numb: 5-1879022-3 -> Vend Part: 5-1879022-3 
+          Part Numb: 5005 -> Vend Part: 5005 
+          Part Numb: 5006 -> Vend Part: 5006 
+          Part Numb: 5008 -> Vend Part: 5008 
+          Part Numb: 5010 -> Vend Part: 5010 
+          Part Numb: 5011 -> Vend Part: 5011 
+          Part Numb: 5126 -> Vend Part: 5126 
+          Part Numb: 7914G-1-000E -> Vend Part: 7914G-1-000E 
+          Part Numb: 0039281043 -> Vend Part: 0039281043 
+          Part Numb: 0039281063 -> Vend Part: 0039281063 
+          Part Numb: 09063486901 -> Vend Part: 09063486901 
+
+     Number of Part Names: 0
+
+     Number of Part Labels: 0
+
+
+     Checking for value differences between non-null symbol properties and PartsDB properties,
+      but only for those properties checked off in the Property Definition Editor
+
+     Checking the validity of the packaging of prepackaged schematic
+      symbols.  Only the first error in symbols having the same
+      Reference Designator will be reported.
+
+     The packaging of all prepackaged schematic symbols is consistent
+      with the Parts DataBase data for the cross mapping of
+      symbol pin names to Part Number pin numbers.
+      Symbols that were not prepackaged will now be packaged correctly.
+      
+     No errors in Existing Schematic Packaging.
+
+     The Common DataBase has been read and will be packaged.
+     Clustering 474 Symbols:
+             474  ***********************
+             450  **************************************************
+             400  **************************************************
+             350  **************************************************
+             300  **************************************************
+             250  **************************************************
+             200  **************************************************
+             150  **************************************************
+             100  **************************************************
+              50  **************************************************
+     Clustering is Complete
+
+     Packager Assignments successfully completed
+
+
+
+     276 nets were found containing 1242 pins
+     474 components were found
+
+     Parsed netlist - Augmenting..
+
+     Augmented - Adding phantom pins....
+
+     Numbering Nets....
+
+     Checking Pins....
+
+     Packaging has been successfully tested with no errors or warnings.
+
+     Updating the Common DataBase
+
+     A BAM WasIs List: Integration\CDBBackAnno.bam has been created.
+
+The Common DataBase has been successfully updated.
+
+     Packager finished successfully.
+     !THE iCDB IS UP-TO-DATE!
+     
+     An unused pin and gate report has been written to Integration\UnusedPins.txt
+     An unused gate report for gates not in schematic has been written to Integration\UnusedGates.txt
+     An augmented pin report has been written to Integration\AugmentedPins.txt.

@@ -1,0 +1,177 @@
+
+                               Forward Annotation
+                               ------------------
+
+                         11:51 AM Tuesday, June 09, 2015
+            Job Name: F:\TEXT TEM\CB_TRONKA_MK_1\PCB\BOARD_2LAYER.pcb
+
+
+Version:  01.01.00
+
+     The PDBs listed in the project file will be searched to satisfy the parts
+      requirements of the iCDB only for parts not already found in the
+      Target PDB.
+
+     The schematic source is a Common Data Base.
+
+     The AllowAlphaRefDes status indicates that reference
+      designators containing all alpha characters should be deleted
+      and the relevant symbols repackaged.
+
+
+
+     Common Data Base has been read
+
+     Target PDB Name: Work\Layout_Temp\PartsDB.pdb
+
+     Number of Part Numbers: 34
+          Part Numb: APT2012CGCK -> Vend Part: APT2012CGCK 
+          Part Numb: APT2012SRCPRV -> Vend Part: APT2012SRCPRV 
+          Part Numb: B43508A9108M -> Vend Part: B43508A9108M 
+          Part Numb: CDBC580-G -> Vend Part: CDBC580-G 
+          Part Numb: CMR5H-06 TR13 -> Vend Part: CMR5H-06 TR13 
+          Part Numb: CRCW251275K0JNEG -> Vend Part: CRCW251275K0JNEG 
+          Part Numb: C3216X5R1E106M085AC -> Vend Part: C3216X5R1E106M085AC 
+          Part Numb: C3225X7S1H106M250AB -> Vend Part: C3225X7S1H106M250AB 
+          Part Numb: C3225X7T2J104K160AC -> Vend Part: C3225X7T2J104K160AC 
+          Part Numb: C5750X6S2W225K250KA -> Vend Part: C5750X6S2W225K250KA 
+          Part Numb: ERJ-3EKF2000V -> Vend Part: ERJ-3EKF2000V 
+          Part Numb: ERJ-6GEYJ152V -> Vend Part: ERJ-6GEYJ152V 
+          Part Numb: ERJ-6GEYJ161V -> Vend Part: ERJ-6GEYJ161V 
+          Part Numb: ERJ-6GEY0R00V -> Vend Part: ERJ-6GEY0R00V 
+          Part Numb: ERJ-8GEYJ103V -> Vend Part: ERJ-8GEYJ103V 
+          Part Numb: GRM188R71H104KA93D -> Vend Part: GRM188R71H104KA93D 
+          Part Numb: MAL214658471E3 -> Vend Part: MAL214658471E3 
+          Part Numb: MCR25JZHJ000 -> Vend Part: MCR25JZHJ000 
+          Part Numb: MMZ1608S102A -> Vend Part: MMZ1608S102A 
+          Part Numb: M80-8531842 -> Vend Part: M80-8531842 
+          Part Numb: R463R447000M2M -> Vend Part: R463R447000M2M 
+          Part Numb: SBH11-PBPC-D17-ST-BK -> Vend Part: SBH11-PBPC-D17-ST-BK 
+          Part Numb: SRF0905-202Y -> Vend Part: SRF0905-202Y 
+          Part Numb: VLF10040T-6R8N4R5 -> Vend Part: VLF10040T-6R8N4R5 
+          Part Numb: 3-1437646-3 -> Vend Part: 3-1437646-3 
+          Part Numb: 5-1879022-3 -> Vend Part: 5-1879022-3 
+          Part Numb: 5010 -> Vend Part: 5010 
+          Part Numb: 5011 -> Vend Part: 5011 
+          Part Numb: 7914G-1-000E -> Vend Part: 7914G-1-000E 
+          Part Numb: 0039281063 -> Vend Part: 0039281063 
+          Part Numb: 0039281083 -> Vend Part: 0039281083 
+          Part Numb: 0039281123 -> Vend Part: 0039281123 
+          Part Numb: 0039281143 -> Vend Part: 0039281143 
+          Part Numb: 09062486833_MIN -> Vend Part: 09062486833_MIN 
+
+     Number of Part Names: 0
+
+     Number of Part Labels: 0
+
+
+     Checking for value differences between symbol properties and PartsDB properties
+
+     Checking the validity of the packaging of prepackaged schematic
+      symbols.  Only the first error in symbols having the same
+      Reference Designator will be reported.
+
+     The packaging of all prepackaged schematic symbols is consistent
+      with the Parts DataBase data for the cross mapping of
+      symbol pin names to Part Number pin numbers.
+      Symbols that were not prepackaged will now be packaged correctly.
+      
+     No errors in Existing Schematic Packaging.
+
+     The Common DataBase has been read and will be packaged.
+     Clustering 111 Symbols:
+             111  **********
+             100  **************************************************
+              50  **************************************************
+     Clustering is Complete
+
+     Packager Assignments successfully completed
+
+
+
+     91 nets were found containing 336 pins
+     111 components were found
+
+     Creating a formatted Schematic Netlist (LogFiles\SchematicNetlist.txt)...
+     A formatted Schematic Netlist has been created.
+
+     The Logic DataBase has been compiled from the Schematic Design.
+      Use Netload to bring the Component Design into sync.
+
+     Logic Data has been successfully Compiled with no errors or warnings.
+      Please proceed with your component Design.
+                                     NetLoad
+                                     -------
+
+                         11:51 AM Tuesday, June 09, 2015
+            Job Name: F:\TEXT TEM\CB_TRONKA_MK_1\PCB\BOARD_2LAYER.pcb
+
+
+Version:  02.11.12
+
+	Netloading the Layout.  Unused components will be changed to spares.
+
+	Unconnected pins will be set to net "(Net0)".
+
+	Schematic reference designator changes will be forward annotated.
+
+
+	WARNING:  "C24" is being forward annotated to "C26".
+
+	WARNING:  "C26" is being forward annotated to "C28".
+
+	WARNING:  "C25" is being forward annotated to "C27".
+
+	WARNING:  "C27" is being forward annotated to "C29".
+
+     The following 8 components have not been placed:
+
+        C24
+        C25
+        C30
+        C31
+        C32
+        FB1
+        H3
+        R58
+
+     Netload completed successfully with 4 warning(s).
+     
+     Back Annotating...
+
+  Updating Logic Database...
+
+     Version:  99.00.05
+
+     No changes made to Existing Schematic Packaging.
+
+
+     There is no symbol data to be back annotated to the schematic source.
+
+
+     The Logic DataBase has been updated and the Common DataBase has
+      automatically been brought into sync with the Logic DataBase.
+      Please proceed with your design.
+
+     Finished updating the Logic Database.
+
+     Creating a formatted Schematic Netlist (LogFiles\AfterBakAnnoNetlist.txt)...
+     A formatted Schematic Netlist has been created.
+
+     Creating a new netlist text file (LogFiles\KeyinNetList.txt)
+      from the Logic Database (Work\Layout_Temp\LogicDB.lgc)...
+  A new netlist text file has been generated.
+
+
+
+                 Beginning Netload on the Layout Design.
+           ---------------------------------------------------
+	Assigned net $1N4400 to a trace which was originally on net +5V_OPTO.
+	Broke back a trace from the point (223000000, 23400000).
+	Broke back a trace from the point (245500000, 14000000).
+
+Forward-Annotation on the Layout Design has been successfully completed.
+
+There were 1 reassignments of nets.
+There were 2 traces broken back.
+There were 0 nets removed from the Layout Design.

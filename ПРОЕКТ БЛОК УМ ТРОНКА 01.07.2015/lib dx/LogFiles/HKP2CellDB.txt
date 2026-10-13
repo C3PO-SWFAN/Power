@@ -1,0 +1,16 @@
+
+                       PCB Design Data to Cell Library Log
+                       -----------------------------------
+
+                      05:28 PM Tuesday, September 17, 2013
+                     Job Name: D:\lib dx\Work\data file.lmc
+
+Error: Bad constant value <PADSTACK_LIBRARY>
+   in keyword <.FILETYPE> at line # 1
+Error: Expected <1> arguments
+   in keyword <.FILETYPE> above line # 1
+
+This file is not a Cell Library Design Data file.
+
+3 errors were encountered.  The CellDB file will not be saved.
+

@@ -1,0 +1,18 @@
+Mon Jan 28 15:03:01 2013
+
+Project path: D:\lib dx\Templates\Layout\4 Layer Template\keyin.icdb
+
+Loaded cns info: C:\MentorGraphics\7.9.3EE\SDD_HOME\standard\ce_ee.cns=7.10.23;C:\modeltech_6.5b\2007.7EE\SDD_HOME\standard\user.cns=6474-9b1c-925f-1929-a618-560f-6185-6050-d051-e36f-5c0d-af59;C:\WDIR\user.cns=d91a-0357-5918-73e7-a618-560f-6185-6050-d051-e36f-5c0d-af59
+Before global upgrade from version: 7.10.22 to version: 7.10.23
+
+BeforeGlobalUpgrade took 0ms, 0s
+
+Upgrade snapshot PCB
+UpgradeSnapshot took 0ms, 0s
+
+Upgrade snapshot PCB_Layout_Temp
+UpgradeSnapshot took 0ms, 0s
+
+After global upgrade
+AfterGlobalUpgrade took 0ms, 0s
+

@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                         09:08 PM Monday, July 28, 2014
+        Job Name: D:\lib dx\Work\CellEditorFiles\BATTERY\103_KEYSTONE.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                         09:38 PM Monday, July 28, 2014
+        Job Name: D:\lib dx\Work\CellEditorFiles\BATTERY\103_KEYSTONE.pcb
+

@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                      08:50 PM Wednesday, December 11, 2013
+     Job Name: D:\lib dx\Work\CellEditorFiles\PER-RESISTOR\3364-W-BOURNS.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                      09:14 PM Wednesday, December 11, 2013
+     Job Name: D:\lib dx\Work\CellEditorFiles\PER-RESISTOR\3364-W-BOURNS.pcb
+

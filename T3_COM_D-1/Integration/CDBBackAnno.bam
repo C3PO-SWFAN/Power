@@ -1,0 +1,1107 @@
+
+/* Sym: 58802712  Path 1: Schematic1  Page 1: Schematic1(1) */
+CHANGE 'Schematic1(1)' 	INSTANCE
+  SELECT COMP $1I6798                 /* Reference Desig is X18 */
+    PARAM 'Part Name' = 'CONN HEADER 4POS 4.2MM R/A TIN' 
+    PARAM 'Part Label' = '4K/ANGLE' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I5243                 /* Reference Desig is L9 */
+    PARAM 'Part Name' = 'FIXED IND 33UH 10.7A 44 MOHM SMD' 
+    PARAM 'Part Label' = '33uH/10A' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I5215                 /* Reference Desig is L8 */
+    PARAM 'Part Name' = 'FIXED IND 33UH 10.7A 44 MOHM SMD' 
+    PARAM 'Part Label' = '33uH/10A' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I5214                 /* Reference Desig is L7 */
+    PARAM 'Part Name' = 'FIXED IND 33UH 10.7A 44 MOHM SMD' 
+    PARAM 'Part Label' = '33uH/10A' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I5213                 /* Reference Desig is L6 */
+    PARAM 'Part Name' = 'FIXED IND 33UH 10.7A 44 MOHM SMD' 
+    PARAM 'Part Label' = '33uH/10A' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I5212                 /* Reference Desig is L5 */
+    PARAM 'Part Name' = 'FIXED IND 33UH 10.7A 44 MOHM SMD' 
+    PARAM 'Part Label' = '33uH/10A' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I5202                 /* Reference Desig is L4 */
+    PARAM 'Part Name' = 'FIXED IND 33UH 10.7A 44 MOHM SMD' 
+    PARAM 'Part Label' = '33uH/10A' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I5195                 /* Reference Desig is L3 */
+    PARAM 'Part Name' = 'FIXED IND 33UH 10.7A 44 MOHM SMD' 
+    PARAM 'Part Label' = '33uH/10A' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I5188                 /* Reference Desig is L2 */
+    PARAM 'Part Name' = 'FIXED IND 33UH 10.7A 44 MOHM SMD' 
+    PARAM 'Part Label' = '33uH/10A' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I5337                 /* Reference Desig is L22 */
+    PARAM 'Part Name' = 'FIXED IND 33UH 10.7A 44 MOHM SMD' 
+    PARAM 'Part Label' = '33uH/10A' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I6807                 /* Reference Desig is X19 */
+    PARAM 'Part Name' = 'CONN HEADER 4POS 4.2MM R/A TIN' 
+    PARAM 'Part Label' = '4K/ANGLE' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I5336                 /* Reference Desig is L21 */
+    PARAM 'Part Name' = 'FIXED IND 33UH 10.7A 44 MOHM SMD' 
+    PARAM 'Part Label' = '33uH/10A' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I5308                 /* Reference Desig is L20 */
+    PARAM 'Part Name' = 'FIXED IND 33UH 10.7A 44 MOHM SMD' 
+    PARAM 'Part Label' = '33uH/10A' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I5307                 /* Reference Desig is L19 */
+    PARAM 'Part Name' = 'FIXED IND 33UH 10.7A 44 MOHM SMD' 
+    PARAM 'Part Label' = '33uH/10A' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I5306                 /* Reference Desig is L18 */
+    PARAM 'Part Name' = 'FIXED IND 33UH 10.7A 44 MOHM SMD' 
+    PARAM 'Part Label' = '33uH/10A' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I5305                 /* Reference Desig is L17 */
+    PARAM 'Part Name' = 'FIXED IND 33UH 10.7A 44 MOHM SMD' 
+    PARAM 'Part Label' = '33uH/10A' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I5277                 /* Reference Desig is L16 */
+    PARAM 'Part Name' = 'FIXED IND 33UH 10.7A 44 MOHM SMD' 
+    PARAM 'Part Label' = '33uH/10A' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I5276                 /* Reference Desig is L15 */
+    PARAM 'Part Name' = 'FIXED IND 33UH 10.7A 44 MOHM SMD' 
+    PARAM 'Part Label' = '33uH/10A' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I5275                 /* Reference Desig is L14 */
+    PARAM 'Part Name' = 'FIXED IND 33UH 10.7A 44 MOHM SMD' 
+    PARAM 'Part Label' = '33uH/10A' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I5274                 /* Reference Desig is L13 */
+    PARAM 'Part Name' = 'FIXED IND 33UH 10.7A 44 MOHM SMD' 
+    PARAM 'Part Label' = '33uH/10A' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I5246                 /* Reference Desig is L12 */
+    PARAM 'Part Name' = 'FIXED IND 33UH 10.7A 44 MOHM SMD' 
+    PARAM 'Part Label' = '33uH/10A' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I5245                 /* Reference Desig is L11 */
+    PARAM 'Part Name' = 'FIXED IND 33UH 10.7A 44 MOHM SMD' 
+    PARAM 'Part Label' = '33uH/10A' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I5244                 /* Reference Desig is L10 */
+    PARAM 'Part Name' = 'FIXED IND 33UH 10.7A 44 MOHM SMD' 
+    PARAM 'Part Label' = '33uH/10A' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I362                 /* Reference Desig is R1 */
+    PARAM 'Part Name' = 'RES 10.0 OHM 3W 5% SMD' 
+    PARAM 'Part Label' = '10R/3W' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I3691                 /* Reference Desig is L66 */
+    PARAM 'Part Name' = 'FIXED IND 22UH 2.5A 133 MOHM SMD' 
+    PARAM 'Part Label' = '22uH/2A' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I6816                 /* Reference Desig is X20 */
+    PARAM 'Part Name' = 'CONN HEADER 4POS 4.2MM R/A TIN' 
+    PARAM 'Part Label' = '4K/ANGLE' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I5429                 /* Reference Desig is L33 */
+    PARAM 'Part Name' = 'FIXED IND 33UH 10.7A 44 MOHM SMD' 
+    PARAM 'Part Label' = '33uH/10A' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I5401                 /* Reference Desig is L32 */
+    PARAM 'Part Name' = 'FIXED IND 33UH 10.7A 44 MOHM SMD' 
+    PARAM 'Part Label' = '33uH/10A' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I5400                 /* Reference Desig is L31 */
+    PARAM 'Part Name' = 'FIXED IND 33UH 10.7A 44 MOHM SMD' 
+    PARAM 'Part Label' = '33uH/10A' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I5399                 /* Reference Desig is L30 */
+    PARAM 'Part Name' = 'FIXED IND 33UH 10.7A 44 MOHM SMD' 
+    PARAM 'Part Label' = '33uH/10A' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I5181                 /* Reference Desig is L1 */
+    PARAM 'Part Name' = 'FIXED IND 33UH 10.7A 44 MOHM SMD' 
+    PARAM 'Part Label' = '33uH/10A' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I5398                 /* Reference Desig is L29 */
+    PARAM 'Part Name' = 'FIXED IND 33UH 10.7A 44 MOHM SMD' 
+    PARAM 'Part Label' = '33uH/10A' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I5370                 /* Reference Desig is L28 */
+    PARAM 'Part Name' = 'FIXED IND 33UH 10.7A 44 MOHM SMD' 
+    PARAM 'Part Label' = '33uH/10A' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I5369                 /* Reference Desig is L27 */
+    PARAM 'Part Name' = 'FIXED IND 33UH 10.7A 44 MOHM SMD' 
+    PARAM 'Part Label' = '33uH/10A' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I5368                 /* Reference Desig is L26 */
+    PARAM 'Part Name' = 'FIXED IND 33UH 10.7A 44 MOHM SMD' 
+    PARAM 'Part Label' = '33uH/10A' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I5367                 /* Reference Desig is L25 */
+    PARAM 'Part Name' = 'FIXED IND 33UH 10.7A 44 MOHM SMD' 
+    PARAM 'Part Label' = '33uH/10A' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I5339                 /* Reference Desig is L24 */
+    PARAM 'Part Name' = 'FIXED IND 33UH 10.7A 44 MOHM SMD' 
+    PARAM 'Part Label' = '33uH/10A' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I5338                 /* Reference Desig is L23 */
+    PARAM 'Part Name' = 'FIXED IND 33UH 10.7A 44 MOHM SMD' 
+    PARAM 'Part Label' = '33uH/10A' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I5492                 /* Reference Desig is L42 */
+    PARAM 'Part Name' = 'FIXED IND 33UH 10.7A 44 MOHM SMD' 
+    PARAM 'Part Label' = '33uH/10A' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I5491                 /* Reference Desig is L41 */
+    PARAM 'Part Name' = 'FIXED IND 33UH 10.7A 44 MOHM SMD' 
+    PARAM 'Part Label' = '33uH/10A' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I5463                 /* Reference Desig is L40 */
+    PARAM 'Part Name' = 'FIXED IND 33UH 10.7A 44 MOHM SMD' 
+    PARAM 'Part Label' = '33uH/10A' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I5462                 /* Reference Desig is L39 */
+    PARAM 'Part Name' = 'FIXED IND 33UH 10.7A 44 MOHM SMD' 
+    PARAM 'Part Label' = '33uH/10A' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I5461                 /* Reference Desig is L38 */
+    PARAM 'Part Name' = 'FIXED IND 33UH 10.7A 44 MOHM SMD' 
+    PARAM 'Part Label' = '33uH/10A' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I5460                 /* Reference Desig is L37 */
+    PARAM 'Part Name' = 'FIXED IND 33UH 10.7A 44 MOHM SMD' 
+    PARAM 'Part Label' = '33uH/10A' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I5432                 /* Reference Desig is L36 */
+    PARAM 'Part Name' = 'FIXED IND 33UH 10.7A 44 MOHM SMD' 
+    PARAM 'Part Label' = '33uH/10A' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I5431                 /* Reference Desig is L35 */
+    PARAM 'Part Name' = 'FIXED IND 33UH 10.7A 44 MOHM SMD' 
+    PARAM 'Part Label' = '33uH/10A' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I5430                 /* Reference Desig is L34 */
+    PARAM 'Part Name' = 'FIXED IND 33UH 10.7A 44 MOHM SMD' 
+    PARAM 'Part Label' = '33uH/10A' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I381                 /* Reference Desig is TP17 */
+    PARAM 'Part Name' = 'TEST POINT PC MULTIPURPOSE BRWN' 
+    PARAM 'Part Label' = ' ' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I4700                 /* Reference Desig is R34 */
+    PARAM 'Part Name' = 'RES 0.1 OHM 1% 2W 2512' 
+    PARAM 'Part Label' = '0.1R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I420                 /* Reference Desig is X1 */
+    PARAM 'Part Name' = 'CONN HEADER 4POS 4.2MM R/A TIN' 
+    PARAM 'Part Label' = '4K/ANGLE' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I378                 /* Reference Desig is TP1 */
+    PARAM 'Part Name' = 'TEST POINT PC MULTI PURPOSE ORG' 
+    PARAM 'Part Label' = ' ' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I7323                 /* Reference Desig is R17 */
+    PARAM 'Part Name' = 'RES 0.0 OHM 1/4W JUMP 1210 SMD' 
+    PARAM 'Part Label' = '0R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I5586                 /* Reference Desig is L55 */
+    PARAM 'Part Name' = 'FIXED IND 33UH 10.7A 44 MOHM SMD' 
+    PARAM 'Part Label' = '33uH/10A' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I5585                 /* Reference Desig is L54 */
+    PARAM 'Part Name' = 'FIXED IND 33UH 10.7A 44 MOHM SMD' 
+    PARAM 'Part Label' = '33uH/10A' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I5584                 /* Reference Desig is L53 */
+    PARAM 'Part Name' = 'FIXED IND 33UH 10.7A 44 MOHM SMD' 
+    PARAM 'Part Label' = '33uH/10A' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I5556                 /* Reference Desig is L52 */
+    PARAM 'Part Name' = 'FIXED IND 33UH 10.7A 44 MOHM SMD' 
+    PARAM 'Part Label' = '33uH/10A' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I5555                 /* Reference Desig is L51 */
+    PARAM 'Part Name' = 'FIXED IND 33UH 10.7A 44 MOHM SMD' 
+    PARAM 'Part Label' = '33uH/10A' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I5554                 /* Reference Desig is L50 */
+    PARAM 'Part Name' = 'FIXED IND 33UH 10.7A 44 MOHM SMD' 
+    PARAM 'Part Label' = '33uH/10A' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I5553                 /* Reference Desig is L49 */
+    PARAM 'Part Name' = 'FIXED IND 33UH 10.7A 44 MOHM SMD' 
+    PARAM 'Part Label' = '33uH/10A' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I5525                 /* Reference Desig is L48 */
+    PARAM 'Part Name' = 'FIXED IND 33UH 10.7A 44 MOHM SMD' 
+    PARAM 'Part Label' = '33uH/10A' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I5524                 /* Reference Desig is L47 */
+    PARAM 'Part Name' = 'FIXED IND 33UH 10.7A 44 MOHM SMD' 
+    PARAM 'Part Label' = '33uH/10A' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I6825                 /* Reference Desig is X21 */
+    PARAM 'Part Name' = 'CONN HEADER 4POS 4.2MM R/A TIN' 
+    PARAM 'Part Label' = '4K/ANGLE' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I5523                 /* Reference Desig is L46 */
+    PARAM 'Part Name' = 'FIXED IND 33UH 10.7A 44 MOHM SMD' 
+    PARAM 'Part Label' = '33uH/10A' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I5522                 /* Reference Desig is L45 */
+    PARAM 'Part Name' = 'FIXED IND 33UH 10.7A 44 MOHM SMD' 
+    PARAM 'Part Label' = '33uH/10A' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I5494                 /* Reference Desig is L44 */
+    PARAM 'Part Name' = 'FIXED IND 33UH 10.7A 44 MOHM SMD' 
+    PARAM 'Part Label' = '33uH/10A' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I5493                 /* Reference Desig is L43 */
+    PARAM 'Part Name' = 'FIXED IND 33UH 10.7A 44 MOHM SMD' 
+    PARAM 'Part Label' = '33uH/10A' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I5688                 /* Reference Desig is C17 */
+    PARAM 'Part Name' = 'CAP CER 1000PF 2KV NP0 1812' 
+    PARAM 'Part Label' = '1000pF/1kV' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I6540                 /* Reference Desig is C2 */
+    PARAM 'Part Name' = 'CAP FILM 1000PF 5% 2KVDC RADIAL' 
+    PARAM 'Part Label' = '1nF/2000V' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I6533                 /* Reference Desig is C1 */
+    PARAM 'Part Name' = 'CAP FILM 1000PF 5% 2KVDC RADIAL' 
+    PARAM 'Part Label' = '1nF/2000V' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I5649                 /* Reference Desig is L64 */
+    PARAM 'Part Name' = 'FIXED IND 33UH 10.7A 44 MOHM SMD' 
+    PARAM 'Part Label' = '33uH/10A' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I5648                 /* Reference Desig is L63 */
+    PARAM 'Part Name' = 'FIXED IND 33UH 10.7A 44 MOHM SMD' 
+    PARAM 'Part Label' = '33uH/10A' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I5647                 /* Reference Desig is L62 */
+    PARAM 'Part Name' = 'FIXED IND 33UH 10.7A 44 MOHM SMD' 
+    PARAM 'Part Label' = '33uH/10A' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I5646                 /* Reference Desig is L61 */
+    PARAM 'Part Name' = 'FIXED IND 33UH 10.7A 44 MOHM SMD' 
+    PARAM 'Part Label' = '33uH/10A' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I5618                 /* Reference Desig is L60 */
+    PARAM 'Part Name' = 'FIXED IND 33UH 10.7A 44 MOHM SMD' 
+    PARAM 'Part Label' = '33uH/10A' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I6834                 /* Reference Desig is X22 */
+    PARAM 'Part Name' = 'CONN HEADER 4POS 4.2MM R/A TIN' 
+    PARAM 'Part Label' = '4K/ANGLE' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I5617                 /* Reference Desig is L59 */
+    PARAM 'Part Name' = 'FIXED IND 33UH 10.7A 44 MOHM SMD' 
+    PARAM 'Part Label' = '33uH/10A' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I5616                 /* Reference Desig is L58 */
+    PARAM 'Part Name' = 'FIXED IND 33UH 10.7A 44 MOHM SMD' 
+    PARAM 'Part Label' = '33uH/10A' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I5615                 /* Reference Desig is L57 */
+    PARAM 'Part Name' = 'FIXED IND 33UH 10.7A 44 MOHM SMD' 
+    PARAM 'Part Label' = '33uH/10A' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I5587                 /* Reference Desig is L56 */
+    PARAM 'Part Name' = 'FIXED IND 33UH 10.7A 44 MOHM SMD' 
+    PARAM 'Part Label' = '33uH/10A' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I3705                 /* Reference Desig is L68 */
+    PARAM 'Part Name' = 'FIXED IND 22UH 2.5A 133 MOHM SMD' 
+    PARAM 'Part Label' = '22uH/2A' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I1834                 /* Reference Desig is TP20 */
+    PARAM 'Part Name' = 'TEST POINT PC MULTIPURPOSE BRWN' 
+    PARAM 'Part Label' = ' ' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I7330                 /* Reference Desig is R18 */
+    PARAM 'Part Name' = 'RES 0.0 OHM 1/4W JUMP 1210 SMD' 
+    PARAM 'Part Label' = '0R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I6852                 /* Reference Desig is X24 */
+    PARAM 'Part Name' = 'CONN HEADER 4POS 4.2MM R/A TIN' 
+    PARAM 'Part Label' = '4K/ANGLE' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I1828                 /* Reference Desig is X2 */
+    PARAM 'Part Name' = 'CONN HEADER 4POS 4.2MM R/A TIN' 
+    PARAM 'Part Label' = '4K/ANGLE' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I1827                 /* Reference Desig is TP19 */
+    PARAM 'Part Name' = 'TEST POINT PC MULTIPURPOSE BRWN' 
+    PARAM 'Part Label' = ' ' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I4709                 /* Reference Desig is R35 */
+    PARAM 'Part Name' = 'RES 0.1 OHM 1% 2W 2512' 
+    PARAM 'Part Label' = '0.1R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I1825                 /* Reference Desig is TP2 */
+    PARAM 'Part Name' = 'TEST POINT PC MULTI PURPOSE ORG' 
+    PARAM 'Part Label' = ' ' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I6547                 /* Reference Desig is C3 */
+    PARAM 'Part Name' = 'CAP FILM 1000PF 5% 2KVDC RADIAL' 
+    PARAM 'Part Label' = '1nF/2000V' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I1822                 /* Reference Desig is R2 */
+    PARAM 'Part Name' = 'RES 10.0 OHM 3W 5% SMD' 
+    PARAM 'Part Label' = '10R/3W' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I3698                 /* Reference Desig is L67 */
+    PARAM 'Part Name' = 'FIXED IND 22UH 2.5A 133 MOHM SMD' 
+    PARAM 'Part Label' = '22uH/2A' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I1813                 /* Reference Desig is TP18 */
+    PARAM 'Part Name' = 'TEST POINT PC MULTIPURPOSE BRWN' 
+    PARAM 'Part Label' = ' ' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I6843                 /* Reference Desig is X23 */
+    PARAM 'Part Name' = 'CONN HEADER 4POS 4.2MM R/A TIN' 
+    PARAM 'Part Label' = '4K/ANGLE' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I6428                 /* Reference Desig is C34 */
+    PARAM 'Part Name' = 'CAP FILM 4700PF 5% 2KVDC RADIAL' 
+    PARAM 'Part Label' = '4,7nF/2000V' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I1960                 /* Reference Desig is TP24 */
+    PARAM 'Part Name' = 'TEST POINT PC MULTIPURPOSE BRWN' 
+    PARAM 'Part Label' = ' ' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I1954                 /* Reference Desig is X4 */
+    PARAM 'Part Name' = 'CONN HEADER 4POS 4.2MM R/A TIN' 
+    PARAM 'Part Label' = '4K/ANGLE' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I1953                 /* Reference Desig is TP23 */
+    PARAM 'Part Name' = 'TEST POINT PC MULTIPURPOSE BRWN' 
+    PARAM 'Part Label' = ' ' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I4723                 /* Reference Desig is R37 */
+    PARAM 'Part Name' = 'RES 0.1 OHM 1% 2W 2512' 
+    PARAM 'Part Label' = '0.1R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I1951                 /* Reference Desig is TP4 */
+    PARAM 'Part Name' = 'TEST POINT PC MULTI PURPOSE ORG' 
+    PARAM 'Part Label' = ' ' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I5701                 /* Reference Desig is C18 */
+    PARAM 'Part Name' = 'CAP CER 1000PF 2KV NP0 1812' 
+    PARAM 'Part Label' = '1000pF/1kV' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I1948                 /* Reference Desig is R4 */
+    PARAM 'Part Name' = 'RES 10.0 OHM 3W 5% SMD' 
+    PARAM 'Part Label' = '10R/3W' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I3712                 /* Reference Desig is L69 */
+    PARAM 'Part Name' = 'FIXED IND 22UH 2.5A 133 MOHM SMD' 
+    PARAM 'Part Label' = '22uH/2A' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I1897                 /* Reference Desig is TP22 */
+    PARAM 'Part Name' = 'TEST POINT PC MULTIPURPOSE BRWN' 
+    PARAM 'Part Label' = ' ' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I1891                 /* Reference Desig is X3 */
+    PARAM 'Part Name' = 'CONN HEADER 4POS 4.2MM R/A TIN' 
+    PARAM 'Part Label' = '4K/ANGLE' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I1890                 /* Reference Desig is TP21 */
+    PARAM 'Part Name' = 'TEST POINT PC MULTIPURPOSE BRWN' 
+    PARAM 'Part Label' = ' ' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I4710                 /* Reference Desig is R36 */
+    PARAM 'Part Name' = 'RES 0.1 OHM 1% 2W 2512' 
+    PARAM 'Part Label' = '0.1R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I1888                 /* Reference Desig is TP3 */
+    PARAM 'Part Name' = 'TEST POINT PC MULTI PURPOSE ORG' 
+    PARAM 'Part Label' = ' ' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I7337                 /* Reference Desig is R19 */
+    PARAM 'Part Name' = 'RES 0.0 OHM 1/4W JUMP 1210 SMD' 
+    PARAM 'Part Label' = '0R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I1885                 /* Reference Desig is R3 */
+    PARAM 'Part Name' = 'RES 10.0 OHM 3W 5% SMD' 
+    PARAM 'Part Label' = '10R/3W' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I2032                 /* Reference Desig is X6 */
+    PARAM 'Part Name' = 'CONN HEADER 4POS 4.2MM R/A TIN' 
+    PARAM 'Part Label' = '4K/ANGLE' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I2031                 /* Reference Desig is TP27 */
+    PARAM 'Part Name' = 'TEST POINT PC MULTIPURPOSE BRWN' 
+    PARAM 'Part Label' = ' ' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I4737                 /* Reference Desig is R39 */
+    PARAM 'Part Name' = 'RES 0.1 OHM 1% 2W 2512' 
+    PARAM 'Part Label' = '0.1R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I2029                 /* Reference Desig is TP6 */
+    PARAM 'Part Name' = 'TEST POINT PC MULTI PURPOSE ORG' 
+    PARAM 'Part Label' = ' ' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I6554                 /* Reference Desig is C4 */
+    PARAM 'Part Name' = 'CAP FILM 1000PF 5% 2KVDC RADIAL' 
+    PARAM 'Part Label' = '1nF/2000V' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I2026                 /* Reference Desig is R6 */
+    PARAM 'Part Name' = 'RES 10.0 OHM 3W 5% SMD' 
+    PARAM 'Part Label' = '10R/3W' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I3726                 /* Reference Desig is L71 */
+    PARAM 'Part Name' = 'FIXED IND 22UH 2.5A 133 MOHM SMD' 
+    PARAM 'Part Label' = '22uH/2A' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I2023                 /* Reference Desig is TP26 */
+    PARAM 'Part Name' = 'TEST POINT PC MULTIPURPOSE BRWN' 
+    PARAM 'Part Label' = ' ' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I2017                 /* Reference Desig is X5 */
+    PARAM 'Part Name' = 'CONN HEADER 4POS 4.2MM R/A TIN' 
+    PARAM 'Part Label' = '4K/ANGLE' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I2016                 /* Reference Desig is TP25 */
+    PARAM 'Part Name' = 'TEST POINT PC MULTIPURPOSE BRWN' 
+    PARAM 'Part Label' = ' ' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I4724                 /* Reference Desig is R38 */
+    PARAM 'Part Name' = 'RES 0.1 OHM 1% 2W 2512' 
+    PARAM 'Part Label' = '0.1R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I2014                 /* Reference Desig is TP5 */
+    PARAM 'Part Name' = 'TEST POINT PC MULTI PURPOSE ORG' 
+    PARAM 'Part Label' = ' ' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I6435                 /* Reference Desig is C35 */
+    PARAM 'Part Name' = 'CAP FILM 4700PF 5% 2KVDC RADIAL' 
+    PARAM 'Part Label' = '4,7nF/2000V' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I2011                 /* Reference Desig is R5 */
+    PARAM 'Part Name' = 'RES 10.0 OHM 3W 5% SMD' 
+    PARAM 'Part Label' = '10R/3W' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I3719                 /* Reference Desig is L70 */
+    PARAM 'Part Name' = 'FIXED IND 22UH 2.5A 133 MOHM SMD' 
+    PARAM 'Part Label' = '22uH/2A' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I7351                 /* Reference Desig is R21 */
+    PARAM 'Part Name' = 'RES 0.0 OHM 1/4W JUMP 1210 SMD' 
+    PARAM 'Part Label' = '0R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I6561                 /* Reference Desig is C5 */
+    PARAM 'Part Name' = 'CAP FILM 1000PF 5% 2KVDC RADIAL' 
+    PARAM 'Part Label' = '1nF/2000V' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I6442                 /* Reference Desig is C36 */
+    PARAM 'Part Name' = 'CAP FILM 4700PF 5% 2KVDC RADIAL' 
+    PARAM 'Part Label' = '4,7nF/2000V' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I2056                 /* Reference Desig is R8 */
+    PARAM 'Part Name' = 'RES 10.0 OHM 3W 5% SMD' 
+    PARAM 'Part Label' = '10R/3W' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I3740                 /* Reference Desig is L73 */
+    PARAM 'Part Name' = 'FIXED IND 22UH 2.5A 133 MOHM SMD' 
+    PARAM 'Part Label' = '22uH/2A' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I2049                 /* Reference Desig is TP30 */
+    PARAM 'Part Name' = 'TEST POINT PC MULTIPURPOSE BRWN' 
+    PARAM 'Part Label' = ' ' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I2047                 /* Reference Desig is X7 */
+    PARAM 'Part Name' = 'CONN HEADER 4POS 4.2MM R/A TIN' 
+    PARAM 'Part Label' = '4K/ANGLE' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I2046                 /* Reference Desig is TP29 */
+    PARAM 'Part Name' = 'TEST POINT PC MULTIPURPOSE BRWN' 
+    PARAM 'Part Label' = ' ' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I4738                 /* Reference Desig is R40 */
+    PARAM 'Part Name' = 'RES 0.1 OHM 1% 2W 2512' 
+    PARAM 'Part Label' = '0.1R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I2044                 /* Reference Desig is TP7 */
+    PARAM 'Part Name' = 'TEST POINT PC MULTI PURPOSE ORG' 
+    PARAM 'Part Label' = ' ' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I7344                 /* Reference Desig is R20 */
+    PARAM 'Part Name' = 'RES 0.0 OHM 1/4W JUMP 1210 SMD' 
+    PARAM 'Part Label' = '0R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I2041                 /* Reference Desig is R7 */
+    PARAM 'Part Name' = 'RES 10.0 OHM 3W 5% SMD' 
+    PARAM 'Part Label' = '10R/3W' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I3733                 /* Reference Desig is L72 */
+    PARAM 'Part Name' = 'FIXED IND 22UH 2.5A 133 MOHM SMD' 
+    PARAM 'Part Label' = '22uH/2A' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I2034                 /* Reference Desig is TP28 */
+    PARAM 'Part Name' = 'TEST POINT PC MULTIPURPOSE BRWN' 
+    PARAM 'Part Label' = ' ' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I7393                 /* Reference Desig is R27 */
+    PARAM 'Part Name' = 'RES 0.0 OHM 1/4W JUMP 1210 SMD' 
+    PARAM 'Part Label' = '0R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I7386                 /* Reference Desig is R26 */
+    PARAM 'Part Name' = 'RES 0.0 OHM 1/4W JUMP 1210 SMD' 
+    PARAM 'Part Label' = '0R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I6575                 /* Reference Desig is C7 */
+    PARAM 'Part Name' = 'CAP FILM 1000PF 5% 2KVDC RADIAL' 
+    PARAM 'Part Label' = '1nF/2000V' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I6456                 /* Reference Desig is C38 */
+    PARAM 'Part Name' = 'CAP FILM 4700PF 5% 2KVDC RADIAL' 
+    PARAM 'Part Label' = '4,7nF/2000V' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I5779                 /* Reference Desig is C20 */
+    PARAM 'Part Name' = 'CAP CER 1000PF 2KV NP0 1812' 
+    PARAM 'Part Label' = '1000pF/1kV' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I7379                 /* Reference Desig is R25 */
+    PARAM 'Part Name' = 'RES 0.0 OHM 1/4W JUMP 1210 SMD' 
+    PARAM 'Part Label' = '0R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I7372                 /* Reference Desig is R24 */
+    PARAM 'Part Name' = 'RES 0.0 OHM 1/4W JUMP 1210 SMD' 
+    PARAM 'Part Label' = '0R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I6568                 /* Reference Desig is C6 */
+    PARAM 'Part Name' = 'CAP FILM 1000PF 5% 2KVDC RADIAL' 
+    PARAM 'Part Label' = '1nF/2000V' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I6449                 /* Reference Desig is C37 */
+    PARAM 'Part Name' = 'CAP FILM 4700PF 5% 2KVDC RADIAL' 
+    PARAM 'Part Label' = '4,7nF/2000V' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I7365                 /* Reference Desig is R23 */
+    PARAM 'Part Name' = 'RES 0.0 OHM 1/4W JUMP 1210 SMD' 
+    PARAM 'Part Label' = '0R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I5740                 /* Reference Desig is C19 */
+    PARAM 'Part Name' = 'CAP CER 1000PF 2KV NP0 1812' 
+    PARAM 'Part Label' = '1000pF/1kV' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I7358                 /* Reference Desig is R22 */
+    PARAM 'Part Name' = 'RES 0.0 OHM 1/4W JUMP 1210 SMD' 
+    PARAM 'Part Label' = '0R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I6477                 /* Reference Desig is C41 */
+    PARAM 'Part Name' = 'CAP FILM 4700PF 5% 2KVDC RADIAL' 
+    PARAM 'Part Label' = '4,7nF/2000V' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I5830                 /* Reference Desig is C23 */
+    PARAM 'Part Name' = 'CAP CER 1000PF 2KV NP0 1812' 
+    PARAM 'Part Label' = '1000pF/1kV' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I7421                 /* Reference Desig is R31 */
+    PARAM 'Part Name' = 'RES 0.0 OHM 1/4W JUMP 1210 SMD' 
+    PARAM 'Part Label' = '0R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I7414                 /* Reference Desig is R30 */
+    PARAM 'Part Name' = 'RES 0.0 OHM 1/4W JUMP 1210 SMD' 
+    PARAM 'Part Label' = '0R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I6589                 /* Reference Desig is C9 */
+    PARAM 'Part Name' = 'CAP FILM 1000PF 5% 2KVDC RADIAL' 
+    PARAM 'Part Label' = '1nF/2000V' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I6470                 /* Reference Desig is C40 */
+    PARAM 'Part Name' = 'CAP FILM 4700PF 5% 2KVDC RADIAL' 
+    PARAM 'Part Label' = '4,7nF/2000V' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I5824                 /* Reference Desig is C22 */
+    PARAM 'Part Name' = 'CAP CER 1000PF 2KV NP0 1812' 
+    PARAM 'Part Label' = '1000pF/1kV' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I7407                 /* Reference Desig is R29 */
+    PARAM 'Part Name' = 'RES 0.0 OHM 1/4W JUMP 1210 SMD' 
+    PARAM 'Part Label' = '0R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I7400                 /* Reference Desig is R28 */
+    PARAM 'Part Name' = 'RES 0.0 OHM 1/4W JUMP 1210 SMD' 
+    PARAM 'Part Label' = '0R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I6582                 /* Reference Desig is C8 */
+    PARAM 'Part Name' = 'CAP FILM 1000PF 5% 2KVDC RADIAL' 
+    PARAM 'Part Label' = '1nF/2000V' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I6463                 /* Reference Desig is C39 */
+    PARAM 'Part Name' = 'CAP FILM 4700PF 5% 2KVDC RADIAL' 
+    PARAM 'Part Label' = '4,7nF/2000V' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I5818                 /* Reference Desig is C21 */
+    PARAM 'Part Name' = 'CAP CER 1000PF 2KV NP0 1812' 
+    PARAM 'Part Label' = '1000pF/1kV' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I6498                 /* Reference Desig is C44 */
+    PARAM 'Part Name' = 'CAP FILM 4700PF 5% 2KVDC RADIAL' 
+    PARAM 'Part Label' = '4,7nF/2000V' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I5969                 /* Reference Desig is C26 */
+    PARAM 'Part Name' = 'CAP CER 1000PF 2KV NP0 1812' 
+    PARAM 'Part Label' = '1000pF/1kV' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I6610                 /* Reference Desig is C12 */
+    PARAM 'Part Name' = 'CAP FILM 1000PF 5% 2KVDC RADIAL' 
+    PARAM 'Part Label' = '1nF/2000V' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I6491                 /* Reference Desig is C43 */
+    PARAM 'Part Name' = 'CAP FILM 4700PF 5% 2KVDC RADIAL' 
+    PARAM 'Part Label' = '4,7nF/2000V' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I5963                 /* Reference Desig is C25 */
+    PARAM 'Part Name' = 'CAP CER 1000PF 2KV NP0 1812' 
+    PARAM 'Part Label' = '1000pF/1kV' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I6603                 /* Reference Desig is C11 */
+    PARAM 'Part Name' = 'CAP FILM 1000PF 5% 2KVDC RADIAL' 
+    PARAM 'Part Label' = '1nF/2000V' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I6484                 /* Reference Desig is C42 */
+    PARAM 'Part Name' = 'CAP FILM 4700PF 5% 2KVDC RADIAL' 
+    PARAM 'Part Label' = '4,7nF/2000V' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I5837                 /* Reference Desig is C24 */
+    PARAM 'Part Name' = 'CAP CER 1000PF 2KV NP0 1812' 
+    PARAM 'Part Label' = '1000pF/1kV' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I7428                 /* Reference Desig is R32 */
+    PARAM 'Part Name' = 'RES 0.0 OHM 1/4W JUMP 1210 SMD' 
+    PARAM 'Part Label' = '0R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I6596                 /* Reference Desig is C10 */
+    PARAM 'Part Name' = 'CAP FILM 1000PF 5% 2KVDC RADIAL' 
+    PARAM 'Part Label' = '1nF/2000V' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I3782                 /* Reference Desig is L79 */
+    PARAM 'Part Name' = 'FIXED IND 22UH 2.5A 133 MOHM SMD' 
+    PARAM 'Part Label' = '22uH/2A' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I3775                 /* Reference Desig is L78 */
+    PARAM 'Part Name' = 'FIXED IND 22UH 2.5A 133 MOHM SMD' 
+    PARAM 'Part Label' = '22uH/2A' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I3768                 /* Reference Desig is L77 */
+    PARAM 'Part Name' = 'FIXED IND 22UH 2.5A 133 MOHM SMD' 
+    PARAM 'Part Label' = '22uH/2A' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I3761                 /* Reference Desig is L76 */
+    PARAM 'Part Name' = 'FIXED IND 22UH 2.5A 133 MOHM SMD' 
+    PARAM 'Part Label' = '22uH/2A' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I3754                 /* Reference Desig is L75 */
+    PARAM 'Part Name' = 'FIXED IND 22UH 2.5A 133 MOHM SMD' 
+    PARAM 'Part Label' = '22uH/2A' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I3747                 /* Reference Desig is L74 */
+    PARAM 'Part Name' = 'FIXED IND 22UH 2.5A 133 MOHM SMD' 
+    PARAM 'Part Label' = '22uH/2A' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I3684                 /* Reference Desig is L65 */
+    PARAM 'Part Name' = 'FIXED IND 22UH 2.5A 133 MOHM SMD' 
+    PARAM 'Part Label' = '22uH/2A' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I5982                 /* Reference Desig is C28 */
+    PARAM 'Part Name' = 'CAP CER 1000PF 2KV NP0 1812' 
+    PARAM 'Part Label' = '1000pF/1kV' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I6624                 /* Reference Desig is C14 */
+    PARAM 'Part Name' = 'CAP FILM 1000PF 5% 2KVDC RADIAL' 
+    PARAM 'Part Label' = '1nF/2000V' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I6505                 /* Reference Desig is C45 */
+    PARAM 'Part Name' = 'CAP FILM 4700PF 5% 2KVDC RADIAL' 
+    PARAM 'Part Label' = '4,7nF/2000V' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I5975                 /* Reference Desig is C27 */
+    PARAM 'Part Name' = 'CAP CER 1000PF 2KV NP0 1812' 
+    PARAM 'Part Label' = '1000pF/1kV' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I6617                 /* Reference Desig is C13 */
+    PARAM 'Part Name' = 'CAP FILM 1000PF 5% 2KVDC RADIAL' 
+    PARAM 'Part Label' = '1nF/2000V' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I2278                 /* Reference Desig is R10 */
+    PARAM 'Part Name' = 'RES 10.0 OHM 3W 5% SMD' 
+    PARAM 'Part Label' = '10R/3W' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I2275                 /* Reference Desig is TP34 */
+    PARAM 'Part Name' = 'TEST POINT PC MULTIPURPOSE BRWN' 
+    PARAM 'Part Label' = ' ' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I2269                 /* Reference Desig is X9 */
+    PARAM 'Part Name' = 'CONN HEADER 4POS 4.2MM R/A TIN' 
+    PARAM 'Part Label' = '4K/ANGLE' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I2268                 /* Reference Desig is TP33 */
+    PARAM 'Part Name' = 'TEST POINT PC MULTIPURPOSE BRWN' 
+    PARAM 'Part Label' = ' ' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I4752                 /* Reference Desig is R42 */
+    PARAM 'Part Name' = 'RES 0.1 OHM 1% 2W 2512' 
+    PARAM 'Part Label' = '0.1R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I2266                 /* Reference Desig is TP9 */
+    PARAM 'Part Name' = 'TEST POINT PC MULTI PURPOSE ORG' 
+    PARAM 'Part Label' = ' ' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I6631                 /* Reference Desig is C15 */
+    PARAM 'Part Name' = 'CAP FILM 1000PF 5% 2KVDC RADIAL' 
+    PARAM 'Part Label' = '1nF/2000V' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I2263                 /* Reference Desig is R9 */
+    PARAM 'Part Name' = 'RES 10.0 OHM 3W 5% SMD' 
+    PARAM 'Part Label' = '10R/3W' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I3789                 /* Reference Desig is L80 */
+    PARAM 'Part Name' = 'FIXED IND 22UH 2.5A 133 MOHM SMD' 
+    PARAM 'Part Label' = '22uH/2A' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I2064                 /* Reference Desig is TP32 */
+    PARAM 'Part Name' = 'TEST POINT PC MULTIPURPOSE BRWN' 
+    PARAM 'Part Label' = ' ' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I2062                 /* Reference Desig is X8 */
+    PARAM 'Part Name' = 'CONN HEADER 4POS 4.2MM R/A TIN' 
+    PARAM 'Part Label' = '4K/ANGLE' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I2061                 /* Reference Desig is TP31 */
+    PARAM 'Part Name' = 'TEST POINT PC MULTIPURPOSE BRWN' 
+    PARAM 'Part Label' = ' ' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I4751                 /* Reference Desig is R41 */
+    PARAM 'Part Name' = 'RES 0.1 OHM 1% 2W 2512' 
+    PARAM 'Part Label' = '0.1R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I2059                 /* Reference Desig is TP8 */
+    PARAM 'Part Name' = 'TEST POINT PC MULTI PURPOSE ORG' 
+    PARAM 'Part Label' = ' ' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I6512                 /* Reference Desig is C46 */
+    PARAM 'Part Name' = 'CAP FILM 4700PF 5% 2KVDC RADIAL' 
+    PARAM 'Part Label' = '4,7nF/2000V' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I6638                 /* Reference Desig is C16 */
+    PARAM 'Part Name' = 'CAP FILM 1000PF 5% 2KVDC RADIAL' 
+    PARAM 'Part Label' = '1nF/2000V' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I2301                 /* Reference Desig is TP38 */
+    PARAM 'Part Name' = 'TEST POINT PC MULTIPURPOSE BRWN' 
+    PARAM 'Part Label' = ' ' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I2299                 /* Reference Desig is X11 */
+    PARAM 'Part Name' = 'CONN HEADER 4POS 4.2MM R/A TIN' 
+    PARAM 'Part Label' = '4K/ANGLE' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I2298                 /* Reference Desig is TP37 */
+    PARAM 'Part Name' = 'TEST POINT PC MULTIPURPOSE BRWN' 
+    PARAM 'Part Label' = ' ' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I4766                 /* Reference Desig is R44 */
+    PARAM 'Part Name' = 'RES 0.1 OHM 1% 2W 2512' 
+    PARAM 'Part Label' = '0.1R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I2296                 /* Reference Desig is TP11 */
+    PARAM 'Part Name' = 'TEST POINT PC MULTI PURPOSE ORG' 
+    PARAM 'Part Label' = ' ' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I6519                 /* Reference Desig is C47 */
+    PARAM 'Part Name' = 'CAP FILM 4700PF 5% 2KVDC RADIAL' 
+    PARAM 'Part Label' = '4,7nF/2000V' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I2293                 /* Reference Desig is R11 */
+    PARAM 'Part Name' = 'RES 10.0 OHM 3W 5% SMD' 
+    PARAM 'Part Label' = '10R/3W' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I6108                 /* Reference Desig is C29 */
+    PARAM 'Part Name' = 'CAP CER 1000PF 2KV NP0 1812' 
+    PARAM 'Part Label' = '1000pF/1kV' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I2286                 /* Reference Desig is TP36 */
+    PARAM 'Part Name' = 'TEST POINT PC MULTIPURPOSE BRWN' 
+    PARAM 'Part Label' = ' ' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I2284                 /* Reference Desig is X10 */
+    PARAM 'Part Name' = 'CONN HEADER 4POS 4.2MM R/A TIN' 
+    PARAM 'Part Label' = '4K/ANGLE' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I2283                 /* Reference Desig is TP35 */
+    PARAM 'Part Name' = 'TEST POINT PC MULTIPURPOSE BRWN' 
+    PARAM 'Part Label' = ' ' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I4765                 /* Reference Desig is R43 */
+    PARAM 'Part Name' = 'RES 0.1 OHM 1% 2W 2512' 
+    PARAM 'Part Label' = '0.1R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I2281                 /* Reference Desig is TP10 */
+    PARAM 'Part Name' = 'TEST POINT PC MULTI PURPOSE ORG' 
+    PARAM 'Part Label' = ' ' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I6526                 /* Reference Desig is C48 */
+    PARAM 'Part Name' = 'CAP FILM 4700PF 5% 2KVDC RADIAL' 
+    PARAM 'Part Label' = '4,7nF/2000V' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I2333                 /* Reference Desig is R14 */
+    PARAM 'Part Name' = 'RES 10.0 OHM 3W 5% SMD' 
+    PARAM 'Part Label' = '10R/3W' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I2331                 /* Reference Desig is TP42 */
+    PARAM 'Part Name' = 'TEST POINT PC MULTIPURPOSE BRWN' 
+    PARAM 'Part Label' = ' ' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I2329                 /* Reference Desig is X13 */
+    PARAM 'Part Name' = 'CONN HEADER 4POS 4.2MM R/A TIN' 
+    PARAM 'Part Label' = '4K/ANGLE' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I2328                 /* Reference Desig is TP41 */
+    PARAM 'Part Name' = 'TEST POINT PC MULTIPURPOSE BRWN' 
+    PARAM 'Part Label' = ' ' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I4780                 /* Reference Desig is R46 */
+    PARAM 'Part Name' = 'RES 0.1 OHM 1% 2W 2512' 
+    PARAM 'Part Label' = '0.1R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I2326                 /* Reference Desig is TP13 */
+    PARAM 'Part Name' = 'TEST POINT PC MULTI PURPOSE ORG' 
+    PARAM 'Part Label' = ' ' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I6114                 /* Reference Desig is C30 */
+    PARAM 'Part Name' = 'CAP CER 1000PF 2KV NP0 1812' 
+    PARAM 'Part Label' = '1000pF/1kV' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I2323                 /* Reference Desig is R13 */
+    PARAM 'Part Name' = 'RES 10.0 OHM 3W 5% SMD' 
+    PARAM 'Part Label' = '10R/3W' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I2316                 /* Reference Desig is TP40 */
+    PARAM 'Part Name' = 'TEST POINT PC MULTIPURPOSE BRWN' 
+    PARAM 'Part Label' = ' ' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I2314                 /* Reference Desig is X12 */
+    PARAM 'Part Name' = 'CONN HEADER 4POS 4.2MM R/A TIN' 
+    PARAM 'Part Label' = '4K/ANGLE' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I2313                 /* Reference Desig is TP39 */
+    PARAM 'Part Name' = 'TEST POINT PC MULTIPURPOSE BRWN' 
+    PARAM 'Part Label' = ' ' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I4779                 /* Reference Desig is R45 */
+    PARAM 'Part Name' = 'RES 0.1 OHM 1% 2W 2512' 
+    PARAM 'Part Label' = '0.1R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I2311                 /* Reference Desig is TP12 */
+    PARAM 'Part Name' = 'TEST POINT PC MULTI PURPOSE ORG' 
+    PARAM 'Part Label' = ' ' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I2308                 /* Reference Desig is R12 */
+    PARAM 'Part Name' = 'RES 10.0 OHM 3W 5% SMD' 
+    PARAM 'Part Label' = '10R/3W' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I2356                 /* Reference Desig is TP16 */
+    PARAM 'Part Name' = 'TEST POINT PC MULTI PURPOSE ORG' 
+    PARAM 'Part Label' = ' ' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I6120                 /* Reference Desig is C31 */
+    PARAM 'Part Name' = 'CAP CER 1000PF 2KV NP0 1812' 
+    PARAM 'Part Label' = '1000pF/1kV' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I2353                 /* Reference Desig is R16 */
+    PARAM 'Part Name' = 'RES 10.0 OHM 3W 5% SMD' 
+    PARAM 'Part Label' = '10R/3W' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I2351                 /* Reference Desig is TP46 */
+    PARAM 'Part Name' = 'TEST POINT PC MULTIPURPOSE BRWN' 
+    PARAM 'Part Label' = ' ' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I2349                 /* Reference Desig is X15 */
+    PARAM 'Part Name' = 'CONN HEADER 4POS 4.2MM R/A TIN' 
+    PARAM 'Part Label' = '4K/ANGLE' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I2348                 /* Reference Desig is TP45 */
+    PARAM 'Part Name' = 'TEST POINT PC MULTIPURPOSE BRWN' 
+    PARAM 'Part Label' = ' ' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I4794                 /* Reference Desig is R48 */
+    PARAM 'Part Name' = 'RES 0.1 OHM 1% 2W 2512' 
+    PARAM 'Part Label' = '0.1R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I2346                 /* Reference Desig is TP15 */
+    PARAM 'Part Name' = 'TEST POINT PC MULTI PURPOSE ORG' 
+    PARAM 'Part Label' = ' ' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I2343                 /* Reference Desig is R15 */
+    PARAM 'Part Name' = 'RES 10.0 OHM 3W 5% SMD' 
+    PARAM 'Part Label' = '10R/3W' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I6861                 /* Reference Desig is X25 */
+    PARAM 'Part Name' = 'CONN HEADER 4POS 4.2MM R/A TIN' 
+    PARAM 'Part Label' = '4K/ANGLE' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I2341                 /* Reference Desig is TP44 */
+    PARAM 'Part Name' = 'TEST POINT PC MULTIPURPOSE BRWN' 
+    PARAM 'Part Label' = ' ' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I2339                 /* Reference Desig is X14 */
+    PARAM 'Part Name' = 'CONN HEADER 4POS 4.2MM R/A TIN' 
+    PARAM 'Part Label' = '4K/ANGLE' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I2338                 /* Reference Desig is TP43 */
+    PARAM 'Part Name' = 'TEST POINT PC MULTIPURPOSE BRWN' 
+    PARAM 'Part Label' = ' ' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I4793                 /* Reference Desig is R47 */
+    PARAM 'Part Name' = 'RES 0.1 OHM 1% 2W 2512' 
+    PARAM 'Part Label' = '0.1R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I2336                 /* Reference Desig is TP14 */
+    PARAM 'Part Name' = 'TEST POINT PC MULTI PURPOSE ORG' 
+    PARAM 'Part Label' = ' ' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I6924                 /* Reference Desig is X32 */
+    PARAM 'Part Name' = 'CONN HEADER 4POS 4.2MM R/A TIN' 
+    PARAM 'Part Label' = '4K/ANGLE' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I6915                 /* Reference Desig is X31 */
+    PARAM 'Part Name' = 'CONN HEADER 4POS 4.2MM R/A TIN' 
+    PARAM 'Part Label' = '4K/ANGLE' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I6906                 /* Reference Desig is X30 */
+    PARAM 'Part Name' = 'CONN HEADER 4POS 4.2MM R/A TIN' 
+    PARAM 'Part Label' = '4K/ANGLE' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I6897                 /* Reference Desig is X29 */
+    PARAM 'Part Name' = 'CONN HEADER 4POS 4.2MM R/A TIN' 
+    PARAM 'Part Label' = '4K/ANGLE' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I6888                 /* Reference Desig is X28 */
+    PARAM 'Part Name' = 'CONN HEADER 4POS 4.2MM R/A TIN' 
+    PARAM 'Part Label' = '4K/ANGLE' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I6127                 /* Reference Desig is C32 */
+    PARAM 'Part Name' = 'CAP CER 1000PF 2KV NP0 1812' 
+    PARAM 'Part Label' = '1000pF/1kV' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I6879                 /* Reference Desig is X27 */
+    PARAM 'Part Name' = 'CONN HEADER 4POS 4.2MM R/A TIN' 
+    PARAM 'Part Label' = '4K/ANGLE' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I6870                 /* Reference Desig is X26 */
+    PARAM 'Part Name' = 'CONN HEADER 4POS 4.2MM R/A TIN' 
+    PARAM 'Part Label' = '4K/ANGLE' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I2361                 /* Reference Desig is TP48 */
+    PARAM 'Part Name' = 'TEST POINT PC MULTIPURPOSE BRWN' 
+    PARAM 'Part Label' = ' ' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I2359                 /* Reference Desig is X16 */
+    PARAM 'Part Name' = 'CONN HEADER 4POS 4.2MM R/A TIN' 
+    PARAM 'Part Label' = '4K/ANGLE' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I2358                 /* Reference Desig is TP47 */
+    PARAM 'Part Name' = 'TEST POINT PC MULTIPURPOSE BRWN' 
+    PARAM 'Part Label' = ' ' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I4807                 /* Reference Desig is R49 */
+    PARAM 'Part Name' = 'RES 0.1 OHM 1% 2W 2512' 
+    PARAM 'Part Label' = '0.1R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I4864                 /* Reference Desig is R58 */
+    PARAM 'Part Name' = 'RES 0.1 OHM 1% 2W 2512' 
+    PARAM 'Part Label' = '0.1R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I4863                 /* Reference Desig is R57 */
+    PARAM 'Part Name' = 'RES 0.1 OHM 1% 2W 2512' 
+    PARAM 'Part Label' = '0.1R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I4850                 /* Reference Desig is R56 */
+    PARAM 'Part Name' = 'RES 0.1 OHM 1% 2W 2512' 
+    PARAM 'Part Label' = '0.1R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I4849                 /* Reference Desig is R55 */
+    PARAM 'Part Name' = 'RES 0.1 OHM 1% 2W 2512' 
+    PARAM 'Part Label' = '0.1R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I4836                 /* Reference Desig is R54 */
+    PARAM 'Part Name' = 'RES 0.1 OHM 1% 2W 2512' 
+    PARAM 'Part Label' = '0.1R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I4835                 /* Reference Desig is R53 */
+    PARAM 'Part Name' = 'RES 0.1 OHM 1% 2W 2512' 
+    PARAM 'Part Label' = '0.1R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I4822                 /* Reference Desig is R52 */
+    PARAM 'Part Name' = 'RES 0.1 OHM 1% 2W 2512' 
+    PARAM 'Part Label' = '0.1R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I4821                 /* Reference Desig is R51 */
+    PARAM 'Part Name' = 'RES 0.1 OHM 1% 2W 2512' 
+    PARAM 'Part Label' = '0.1R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I4808                 /* Reference Desig is R50 */
+    PARAM 'Part Name' = 'RES 0.1 OHM 1% 2W 2512' 
+    PARAM 'Part Label' = '0.1R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I4693                 /* Reference Desig is R33 */
+    PARAM 'Part Name' = 'RES 0.1 OHM 1% 2W 2512' 
+    PARAM 'Part Label' = '0.1R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I4684                 /* Reference Desig is TP52 */
+    PARAM 'Part Name' = 'TEST POINT PC MULTI PURPOSE BLK' 
+    PARAM 'Part Label' = ' ' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I4679                 /* Reference Desig is TP51 */
+    PARAM 'Part Name' = 'TEST POINT PC MULTI PURPOSE BLK' 
+    PARAM 'Part Label' = ' ' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I4674                 /* Reference Desig is TP50 */
+    PARAM 'Part Name' = 'TEST POINT PC MULTI PURPOSE BLK' 
+    PARAM 'Part Label' = ' ' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I4669                 /* Reference Desig is TP49 */
+    PARAM 'Part Name' = 'TEST POINT PC MULTI PURPOSE BLK' 
+    PARAM 'Part Label' = ' ' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I6393                 /* Reference Desig is C33 */
+    PARAM 'Part Name' = 'CAP FILM 4700PF 5% 2KVDC RADIAL' 
+    PARAM 'Part Label' = '4,7nF/2000V' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I6789                 /* Reference Desig is X17 */
+    PARAM 'Part Name' = 'CONN HEADER 4POS 4.2MM R/A TIN' 
+    PARAM 'Part Label' = '4K/ANGLE' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I4906                 /* Reference Desig is R64 */
+    PARAM 'Part Name' = 'RES 0.1 OHM 1% 2W 2512' 
+    PARAM 'Part Label' = '0.1R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I4905                 /* Reference Desig is R63 */
+    PARAM 'Part Name' = 'RES 0.1 OHM 1% 2W 2512' 
+    PARAM 'Part Label' = '0.1R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I4892                 /* Reference Desig is R62 */
+    PARAM 'Part Name' = 'RES 0.1 OHM 1% 2W 2512' 
+    PARAM 'Part Label' = '0.1R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I4891                 /* Reference Desig is R61 */
+    PARAM 'Part Name' = 'RES 0.1 OHM 1% 2W 2512' 
+    PARAM 'Part Label' = '0.1R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I4878                 /* Reference Desig is R60 */
+    PARAM 'Part Name' = 'RES 0.1 OHM 1% 2W 2512' 
+    PARAM 'Part Label' = '0.1R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP $1I4877                 /* Reference Desig is R59 */
+    PARAM 'Part Name' = 'RES 0.1 OHM 1% 2W 2512' 
+    PARAM 'Part Label' = '0.1R' 
+    PARAM 23 = DELETE                    /* Component Fix flag */

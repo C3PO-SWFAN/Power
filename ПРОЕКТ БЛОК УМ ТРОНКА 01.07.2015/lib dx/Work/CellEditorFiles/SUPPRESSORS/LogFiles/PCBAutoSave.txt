@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                        02:50 PM Tuesday, April 30, 2013
+       Job Name: D:\lib dx\Work\CellEditorFiles\SUPPRESSORS\RTVSxP1UP.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                        02:51 PM Tuesday, April 30, 2013
+       Job Name: D:\lib dx\Work\CellEditorFiles\SUPPRESSORS\RTVSxP1UP.pcb
+

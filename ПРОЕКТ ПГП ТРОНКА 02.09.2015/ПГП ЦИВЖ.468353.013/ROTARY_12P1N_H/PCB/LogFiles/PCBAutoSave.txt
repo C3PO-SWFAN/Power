@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                         04:13 PM Tuesday, July 28, 2026
+Job Name: C:\Users\Work\Desktop\Барабаш\ПРОЕКТ ПГП ТРОНКА 02.09.2015\ПГП ЦИВЖ.468353.013\ROTARY_12P1N_H\PCB\BOARD_2LAYER.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                         04:14 PM Tuesday, July 28, 2026
+Job Name: C:\Users\Work\Desktop\Барабаш\ПРОЕКТ ПГП ТРОНКА 02.09.2015\ПГП ЦИВЖ.468353.013\ROTARY_12P1N_H\PCB\BOARD_2LAYER.pcb
+

@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                         01:14 PM Saturday, May 30, 2015
+        Job Name: D:\lib dx\Work\CellEditorFiles\DD-PAK\DPAK-1B_2K_3E.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                         01:17 PM Saturday, May 30, 2015
+        Job Name: D:\lib dx\Work\CellEditorFiles\DD-PAK\DPAK-1B_2K_3E.pcb
+

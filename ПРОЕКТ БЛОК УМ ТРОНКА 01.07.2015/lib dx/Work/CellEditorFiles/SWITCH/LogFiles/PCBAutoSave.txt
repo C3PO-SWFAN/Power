@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                         10:01 PM Tuesday, May 26, 2015
+           Job Name: D:\lib dx\Work\CellEditorFiles\SWITCH\SPDTx2.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                         10:27 PM Tuesday, May 26, 2015
+           Job Name: D:\lib dx\Work\CellEditorFiles\SWITCH\SPDTx2.pcb
+

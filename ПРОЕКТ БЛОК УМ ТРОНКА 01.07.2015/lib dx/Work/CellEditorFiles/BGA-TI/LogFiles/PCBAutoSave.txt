@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                         03:35 PM Tuesday, June 18, 2013
+       Job Name: D:\lib dx\Work\CellEditorFiles\BGA-TI\YFF-R-XBGA-N20.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                         03:41 PM Tuesday, June 18, 2013
+       Job Name: D:\lib dx\Work\CellEditorFiles\BGA-TI\YFF-R-XBGA-N20.pcb
+

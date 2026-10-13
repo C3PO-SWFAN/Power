@@ -1,0 +1,15 @@
+Cell Editor Version: 2012.0.514.029
+
+
+
+Environment Variables:
+----------------------
+VALOR_ENV_FILE = "C:\MentorGraphics\7.9.4EE\SDD_HOME\Valor_NPI\env"
+HOMEDRIVE = "D:"
+HOMEPATH = "\Documents and Settings\Admin"
+MGC_HOME = "C:\MentorGraphics\7.9.4EE\MGC_HOME.ixn"
+OS = "Windows_NT"
+PATH = "D:\Program Files\Python26\;C:\MentorGraphics\7.9.4EE\SDD_HOME\common\win32\bin;C:\MentorGraphics\7.9.4EE\SDD_HOME\common\win32\lib;D:\cygwin-1.7.9DMS\bin;C:\MentorGraphics\7.9.4EE\MGC_HOME.ixn\bin;C:\MentorGraphics\7.9.4EE\MGC_HOME.ixn\lib;D:\Inprise\vbroker\bin;D:\PROGRA~1\Borland\CBUILD~1\Bin;D:\PROGRA~1\Borland\CBUILD~1\Projects\Bpl;D:\WINDOWS\system32;D:\WINDOWS;D:\WINDOWS\System32\Wbem;D:\Program Files\Common Files\Autodesk Shared\;C:\PCAD\EXE;;C:\BP\BIN;C:\PROGRA~1\COMMON~1\MUVEET~1\030625;C:\BP\BIN\"
+SDD_HOME = "C:\MentorGraphics\7.9.4EE\SDD_HOME"
+TEMP = "D:\DOCUME~1\Admin\LOCALS~1\Temp"
+TMP = "D:\DOCUME~1\Admin\LOCALS~1\Temp"

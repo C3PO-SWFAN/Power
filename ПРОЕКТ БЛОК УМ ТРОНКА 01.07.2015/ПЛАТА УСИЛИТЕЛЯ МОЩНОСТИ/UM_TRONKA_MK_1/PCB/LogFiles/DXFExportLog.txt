@@ -1,0 +1,117 @@
+
+                                   DXF Export
+                                   ----------
+
+                        01:05 PM Saturday, June 27, 2015
+            Job Name: F:\TEXT TEM\UM_TRONKA_MK_1\PCB\BOARD_2LAYER.pcb
+
+
+
+    DXF File: F:\TEXT TEM\UM_TRONKA_MK_1\PCB\Output\UM_TRONKA.dxf
+
+
+    Total - Export Element
+    ----------------------------------------------------------------------
+
+       124 - Assembly Outlines Btm
+
+       511 - Assembly Outlines Top
+
+        70 - Assembly Part Numbers Btm
+
+       404 - Assembly Part Numbers Top
+
+        70 - Assembly Ref Des Btm
+
+       404 - Assembly Ref Des Top
+
+         1 - Board Origin
+
+         1 - Board Outline
+
+       759 - Drill Drawing
+
+         1 - Etched Text Layer 1
+
+       544 - Generated Silkscreen Btm
+
+      3149 - Generated Silkscreen Top
+
+         1 - Manufacturing Outlines
+
+        29 - Mounting Hole Pads Layer 1
+
+        29 - Mounting Hole Pads Layer 2
+
+        65 - Mounting Holes Layer 1
+
+        65 - Mounting Holes Layer 2
+
+         1 - NC Drill Origin
+
+       149 - Part Holes Layer 1
+
+       149 - Part Holes Layer 2
+
+       149 - Part Pads Layer 1
+
+       149 - Part Pads Layer 2
+
+       120 - Part Pads SMD Btm
+
+       994 - Part Pads SMD Top
+
+      1263 - Pin Numbers Btm
+
+      1263 - Pin Numbers Top
+
+        72 - Placement Outlines Btm
+
+       404 - Placement Outlines Top
+
+       269 - Plane Data Layer 1
+
+       273 - Plane Data Layer 2
+
+       169 - Plane Shapes Layer 1
+
+       160 - Plane Shapes Layer 2
+
+         1 - Route Border
+
+       111 - Silkscreen Outlines Btm
+
+       480 - Silkscreen Outlines Top
+
+        70 - Silkscreen Ref Des Btm
+
+       404 - Silkscreen Ref Des Top
+
+       290 - Soldermask Pads Btm
+
+      1164 - Soldermask Pads Top
+
+       120 - Solderpaste Pads Btm
+
+       994 - Solderpaste Pads Top
+
+         4 - Testpnt Obstructs Layer 1
+
+      1051 - Traces Layer 1
+
+       238 - Traces Layer 2
+
+       444 - Via Holes Layer 1
+
+       444 - Via Holes Layer 2
+
+       444 - Via Pads Layer 1
+
+       444 - Via Pads Layer 2
+
+
+    Successful Completion.
+
+
+
+                        01:05 PM Saturday, June 27, 2015

@@ -1,0 +1,12 @@
+
+                       Update Local Cell And Padstack DBs
+                       ----------------------------------
+
+                         08:40 AM Tuesday, June 23, 2015
+            Job Name: F:\TEXT TEM\CB_TRONKA_MK_1\PCB\BOARD_2LAYER.pcb
+
+
+     Version:  99.01.00
+
+The Local Cell And Padstack DBs have been updated with no errors or warnings.
+Please proceed with your component Design.

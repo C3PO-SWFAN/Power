@@ -1,0 +1,45 @@
+=======================================================================
+Expedition PCB - Pinnacle - Version 2013.0.540.971
+=======================================================================
+
+RELOAD CELLS
+
+Job Directory:  F:\TEXT TEM\CB_TRONKA_MK_1\PCB\
+
+
+Design Units:(mm)
+
+Replace Cell Log:   repCellLog27.txt
+
+Tue Jun 23 08:40:18 2015
+
+Reference Designator            Cell Name                         New Cell Name
+===============================================================================
+
+
+---------------  RELOAD CELLS  Tue Jun 23 08:40:18 2015  ---------------
+
+
+
+
+---------------  RELOAD CELLS TMP  Tue Jun 23 08:40:18 2015  ---------------
+
+
+C13                             CAP-EPCOS-L10-D35-H50             CAP-EPCOS-L10-D35-H50           
+C18                             CAP-EPCOS-L10-D35-H50             CAP-EPCOS-L10-D35-H50           
+C16                             CAP-EPCOS-L10-D35-H50             CAP-EPCOS-L10-D35-H50           
+C14                             CAP-EPCOS-L10-D35-H50             CAP-EPCOS-L10-D35-H50           
+C19                             CAP-EPCOS-L10-D35-H50             CAP-EPCOS-L10-D35-H50           
+C15                             CAP-EPCOS-L10-D35-H50             CAP-EPCOS-L10-D35-H50           
+C12                             CAP-EPCOS-L10-D35-H50             CAP-EPCOS-L10-D35-H50           
+C17                             CAP-EPCOS-L10-D35-H50             CAP-EPCOS-L10-D35-H50           
+
+
+---------------    Tue Jun 23 08:40:18 2015  ---------------
+
+
+
+
+---------------    Tue Jun 23 08:40:18 2015  ---------------
+
+

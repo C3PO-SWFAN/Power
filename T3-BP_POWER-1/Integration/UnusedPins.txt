@@ -1,0 +1,190 @@
+
+Schematic unused pins from : Packager  18-Jul-2018  10:20
+
+------------------------------------------------------------------------
+            Part/Reference             |          Unused pins
+                                       |  (G) - Gate, (P) - Partial Gate
+------------------------------------------------------------------------
+ Part ACPL-247-500E                    |
+ Part ACS711ELCTR-12AB-T               |
+ Part ACS730KLCTR-40AB-T               |
+ Part ADG736BRMZ-REEL7                 |
+  D10                                  | (P)  2 7
+  D11                                  | (P)  2 7
+  D12                                  | (P)  2 7
+  D13                                  | (P)  2 7
+  D14                                  | (P)  2 7
+ Part ADM1085AKSZ-REEL7                |
+ Part ADM1087AKSZ-REEL7                |
+ Part AD1582BRTZ-REEL7                 |
+ Part AD8628AUJZ-R2                    |
+ Part APHCM2012QBC/D-F01               |
+ Part APT2012CGCK                      |
+ Part APT2012SRCPRV                    |
+ Part BAT54A-G                         |
+ Part BTB04-600SL                      |
+ Part B32021A3103M                     |
+ Part B32671P4105K                     |
+ Part B43305A9108M                     |
+ Part CC0805KKX7R7BB105                |
+ Part CL10B104KB8SFNC                  |
+ Part CL10C010BB8NNNC                  |
+ Part CL21A475KBQNNNE                  |
+ Part CL21B106KOQNNNE                  |
+ Part CL21B225KOFNNNE                  |
+ Part CL43C102JIHNNNE                  |
+ Part CPC1008NTR                       |
+ Part CRCW251233R0JNEG                 |
+ Part CRCW251275K0JNEG                 |
+ Part CRCW2512100KJNEG                 |
+ Part C0805C103K5RACTU                 |
+ Part C0805C822K5RACTU                 |
+ Part C1206C104K1RACTU                 |
+ Part C3225X7T2J104K160AC              |
+ Part ERJ-3EKF10R0V                    |
+ Part ERJ-3EKF10R7V                    |
+ Part ERJ-3EKF71R5V                    |
+ Part ERJ-3EKF1004V                    |
+ Part ERJ-3EKF1022V                    |
+ Part ERJ-3EKF1023V                    |
+ Part ERJ-3EKF1053V                    |
+ Part ERJ-3EKF1213V                    |
+ Part ERJ-3EKF1542V                    |
+ Part ERJ-3EKF2000V                    |
+ Part ERJ-3EKF2052V                    |
+ Part ERJ-3EKF2100V                    |
+ Part ERJ-3EKF2101V                    |
+ Part ERJ-3EKF2211V                    |
+ Part ERJ-3EKF2431V                    |
+ Part ERJ-3EKF2671V                    |
+ Part ERJ-3EKF3403V                    |
+ Part ERJ-3EKF3922V                    |
+ Part ERJ-3EKF3923V                    |
+ Part ERJ-3EKF4021V                    |
+ Part ERJ-3EKF4701V                    |
+ Part ERJ-3EKF5112V                    |
+ Part ERJ-3EKF6200V                    |
+ Part ERJ-3EKF6811V                    |
+ Part ERJ-3EKF8062V                    |
+ Part ERJ-3EKF8870V                    |
+ Part ERJ-3GEY0R00V                    |
+ Part ERJ-6ENF10R0V                    |
+ Part ERJ-6ENF10R7V                    |
+ Part ERJ-6ENF1002V                    |
+ Part ERJ-6ENF1002V_1                  |
+ Part ERJ-6ENF1471V                    |
+ Part ERJ-6ENF2000V                    |
+ Part ERJ-6ENF2401V                    |
+ Part ERJ-6ENF2432V                    |
+ Part ERJ-6GEYJ181V                    |
+ Part ERJ-6GEYJ751V                    |
+ Part ERJ-6RQJ4R7V                     |
+ Part ERJ-8ENF6201V                    |
+ Part ERJ-8GEYJ103V                    |
+ Part ERJ-8GEYJ203V                    |
+ Part ERJ-8GEYJ301V                    |
+ Part ERJ-8GEYJ750V                    |
+ Part ERJ-8RQJ4R7V                     |
+ Part ERJ-14NF10R0U                    |
+ Part ERJ-14NF51R1U                    |
+ Part GRM21BR71H224KA01L               |
+ Part GRM31CR71H225KA88L               |
+ Part GRM32DR71E106KA12L               |
+ Part GRM216R71H103KA01D               |
+ Part GRM219R71E683KA01D               |
+ Part GRM1885C1H100JA01D               |
+ Part GRM1885C1H101JA01D               |
+ Part GRM1885C1H102JA01D               |
+ Part IRF9530NPBF                      |
+ Part IXTP10P50P                       |
+ Part IXTP96P085T                      |
+ Part KDZTR10B                         |
+ Part KDZTR12B                         |
+ Part LMH6644MAX/NOPB                  |
+ Part LMH6644MAX/NOPB_1                |
+ Part LMH6644MAX/NOPB_2                |
+ Part LMH6644MAX/NOPB_3                |
+ Part LM317MABDTG                      |
+ Part LTC6993IS6-2#TRMPBF              |
+ Part MAL205858332E3                   |
+ Part MAL214258222E3                   |
+ Part MCR25JZHFLR200                   |
+ Part MCR25JZHJ000                     |
+ Part MC79M05CDTRKG                    |
+ Part MGSHV-0_2-D1_6xd0.62             |
+ Part MMZ1608A182B                     |
+ Part MMZ1608S102A                     |
+ Part MOCD207R2M                       |
+ Part MOC3063S-TA1                     |
+  D38                                  | (P)  5 3
+ Part MPZ1608S221A_1                   |
+ Part MP930-25.0-1%                    |
+ Part MP930-50.0-1%                    |
+ Part MP1004G-G                        |
+ Part M80-5001605                      |
+ Part M80-5100842                      |
+ Part M80-5101042                      |
+ Part M80-5101242                      |
+ Part NCP5501DT50RKG                   |
+ Part NLFV32T-4R7M-EF                  |
+ Part PWR163S-25-R100FE                |
+ Part P6SMB400CA                       |
+ Part QBLP631-IW                       |
+ Part RT314005                         |
+  K17                                  | (P)  22 12
+ Part R46KI21004001K1                  |
+ Part R46KI22200001K1                  |
+ Part SBH11-PBPC-D08-ST-BK             |
+  X17                                  | (P)  5 7 6 8 13 15 14
+ Part SC-10-20JH                       |
+ Part SI4497DY-T1-GE3                  |
+ Part SI8620EC-B-IS                    |
+ Part SMBJP6KE62A-TP                   |
+ Part SMBJP6KE440A-TP                  |
+ Part SN74ABT640PWR                    |
+ Part SN74AHCT1G00DBVR                 |
+ Part SN74HC20DR                       |
+  D73                                  | (P)  3 11
+ Part SN74HC148DR                      |
+ Part SN74HC175DR                      |
+  D82                                  | (P)  3 6 11 14 15
+  D83                                  | (P)  3 6 11 14 15
+ Part SN74LVC1G08DBVR                  |
+ Part SN74LVC1G10DBVR                  |
+ Part SN74LVC1G32DBVR                  |
+ Part SN74LVC2G02DCTR                  |
+ Part SN74LVC2G32DCTR                  |
+ Part SN74LVC138ADR                    |
+ Part SPC02SVJN-RC-3POS                |
+ Part SRP1265A-6R8M                    |
+ Part SRP1770TA-330M                   |
+ Part SS11VL-R30009                    |
+ Part TLV3701QDBVRG4Q1                 |
+ Part TMP36GT9Z                        |
+ Part TP-1_OSC_OSC                     |
+ Part TPS73033DBVR                     |
+  D65                                  | (P)  3
+ Part UHE1C102MPD                      |
+ Part ULN2003ADR                       |
+  D31                                  | (P)  1 5 2 4 3 12 13 14 15 16
+ Part VCR20D361K                       |
+ Part W04M-BP                          |
+ Part 1N4148W-7-F                      |
+ Part 35F0121-1SR-10                   |
+ Part 74HC4002D,653                    |
+  D69                                  | (P)  6 8
+ Part 1210PC102KAT1A                   |
+ Part 5010                             |
+ Part 5011                             |
+ Part 5013                             |
+ Part 5125                             |
+ Part 7914G-1-000E                     |
+ Part 8730                             |
+ Part 0039281043                       |
+ Part 0039281063                       |
+ Part 0039281083                       |
+ Part 0039281103                       |
+ Part 0039281123                       |
+ Part 0039281143                       |
+ Part 0039281203                       |
+ Part 0436500215                       |

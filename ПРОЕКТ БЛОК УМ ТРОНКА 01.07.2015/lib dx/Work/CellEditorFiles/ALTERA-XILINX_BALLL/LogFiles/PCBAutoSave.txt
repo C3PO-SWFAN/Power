@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                       06:19 PM Sunday, December 21, 2014
+Job Name: D:\lib dx\Work\CellEditorFiles\ALTERA-XILINX_BALLL\LGA-141-LT-BALL.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                       06:22 PM Sunday, December 21, 2014
+Job Name: D:\lib dx\Work\CellEditorFiles\ALTERA-XILINX_BALLL\LGA-141-LT-BALL.pcb
+

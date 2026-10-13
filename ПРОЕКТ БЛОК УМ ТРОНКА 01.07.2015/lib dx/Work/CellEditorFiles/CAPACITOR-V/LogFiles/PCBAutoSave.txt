@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                         09:37 PM Monday, June 22, 2015
+ Job Name: D:\lib dx\Work\CellEditorFiles\CAPACITOR-V\CAP-EPCOS-L10-D35-H50.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                         09:39 PM Monday, June 22, 2015
+ Job Name: D:\lib dx\Work\CellEditorFiles\CAPACITOR-V\CAP-EPCOS-L10-D35-H50.pcb
+

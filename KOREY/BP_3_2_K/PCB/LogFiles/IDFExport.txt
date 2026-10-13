@@ -1,0 +1,11 @@
+
+                                   IDF Export
+                                   ----------
+
+                       10:09 AM Wednesday, April 18, 2018
+              Job Name: F:\TT18\KOREY\BP_3_2_K\PCB\BOARD_2LAYER.pcb
+
+    Creating IDF 3.0 file.    
+    ----------------------    
+        
+    Successfully created IDF file with no warnings.

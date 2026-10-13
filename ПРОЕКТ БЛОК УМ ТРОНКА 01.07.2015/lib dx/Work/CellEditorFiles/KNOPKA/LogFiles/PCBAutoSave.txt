@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                          01:22 PM Monday, May 27, 2013
+            Job Name: D:\lib dx\Work\CellEditorFiles\KNOPKA\7914G.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                          01:31 PM Monday, May 27, 2013
+            Job Name: D:\lib dx\Work\CellEditorFiles\KNOPKA\7914G.pcb
+

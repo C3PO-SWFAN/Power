@@ -1,0 +1,43 @@
+[2013-11-26 13.44.38] -------------------- CREATE --------------------
+[2013-11-26 13.44.38] Creating Project Backup infrastructure for project [F:\TEXT  TEM\BOARD_2LAYER\BOARD_2LAYER.prj].
+[2013-11-26 13.44.40] Successfully created [AutoSave] backup [2013-11-26 13.44.40 - auto.zip] requested by [VOLODYMYR:V1].
+[2014-02-16 20.12.33] Successfully created [AutoSave] backup [2014-02-16 20.12.33 - auto.zip] requested by [VOLODYMYR:V1].
+[2014-09-04 13.39.32] Successfully created [Constraints Definition Upgrade] backup [2014-09-04 13.39.32 - consDefUpgr.zip] requested by [NIO13_PC1:User].
+[2014-09-04 13.39.32] Migrated iCDB content backup file [cdbback\2014-09-04 13.39.32-3260.zip] removed.
+[2014-09-04 13.40.02] Successfully created [AutoSave] backup [2014-09-04 13.40.02 - auto.zip] requested by [NIO13_PC1:User].
+[2015-02-18 15.13.17] Successfully created [AutoSave] backup [2015-02-18 15.13.17 - auto.zip] requested by [NIO13_PC1:User].
+[2015-02-18 15.13.17] Removing excessive [AutoSave] backup file [F:\TEXT TEM\BOARD_2LAYER\ProjectBackup\backups\2013-11-26 13.44.40 - auto.zip].
+[2015-02-18 15.13.17] [AutoSave] backup file [BOARD_2LAYER\ProjectBackup\backups\2013-11-26 13.44.40 - auto.zip] removed.
+[2015-02-19 08.42.04] Successfully created [AutoSave] backup [2015-02-19 08.42.04 - auto.zip] requested by [NIO13_PC1:User].
+[2015-02-19 08.42.04] Removing excessive [AutoSave] backup file [F:\TEXT TEM\BOARD_2LAYER\ProjectBackup\backups\2014-02-16 20.12.33 - auto.zip].
+[2015-02-19 08.42.04] [AutoSave] backup file [BOARD_2LAYER\ProjectBackup\backups\2014-02-16 20.12.33 - auto.zip] removed.
+[2015-03-26 12.10.04] Successfully created [AutoSave] backup [2015-03-26 12.10.04 - auto.zip] requested by [NIO13_PC1:User].
+[2015-03-26 12.10.04] Removing excessive [AutoSave] backup file [F:\TEXT TEM\BOARD_2LAYER\ProjectBackup\backups\2014-09-04 13.40.02 - auto.zip].
+[2015-03-26 12.10.04] [AutoSave] backup file [BOARD_2LAYER\ProjectBackup\backups\2014-09-04 13.40.02 - auto.zip] removed.
+[2015-07-16 13.34.58] Successfully created [AutoSave] backup [2015-07-16 13.34.55 - auto.zip] requested by [NIO13_PC1:User].
+[2015-07-16 13.34.58] Removing excessive [AutoSave] backup file [F:\TEXT TEM\BOARD_2LAYER\ProjectBackup\backups\2015-02-18 15.13.17 - auto.zip].
+[2015-07-16 13.34.58] [AutoSave] backup file [BOARD_2LAYER\ProjectBackup\backups\2015-02-18 15.13.17 - auto.zip] removed.
+[2015-07-17 10.29.09] Successfully created [AutoSave] backup [2015-07-17 10.29.06 - auto.zip] requested by [NIO13_PC1:User].
+[2015-07-17 10.29.09] Removing excessive [AutoSave] backup file [F:\TEXT TEM\BOARD_2LAYER\ProjectBackup\backups\2015-02-19 08.42.04 - auto.zip].
+[2015-07-17 10.29.09] [AutoSave] backup file [BOARD_2LAYER\ProjectBackup\backups\2015-02-19 08.42.04 - auto.zip] removed.
+[2015-07-20 10.50.49] Successfully created [AutoSave] backup [2015-07-20 10.50.49 - auto.zip] requested by [NIO13_PC1:User].
+[2015-07-20 10.50.49] Removing excessive [AutoSave] backup file [F:\TEXT TEM\ROTARY_12P1N\ProjectBackup\backups\2015-03-26 12.10.04 - auto.zip].
+[2015-07-20 10.50.49] [AutoSave] backup file [ROTARY_12P1N\ProjectBackup\backups\2015-03-26 12.10.04 - auto.zip] removed.
+[2015-07-20 14.50.49] Successfully created [AutoSave] backup [2015-07-20 14.50.49 - auto.zip] requested by [NIO13_PC1:User].
+[2015-07-20 14.50.50] Removing excessive [AutoSave] backup file [F:\TEXT TEM\ROTARY_12P1N\ProjectBackup\backups\2015-07-16 13.34.55 - auto.zip].
+[2015-07-20 14.50.50] [AutoSave] backup file [ROTARY_12P1N\ProjectBackup\backups\2015-07-16 13.34.55 - auto.zip] removed.
+[2015-07-21 14.04.35] Successfully created [AutoSave] backup [2015-07-21 14.04.35 - auto.zip] requested by [NIO13_PC1:User].
+[2015-07-21 14.04.35] Removing excessive [AutoSave] backup file [F:\TEXT TEM\ROTARY_12P1N\ProjectBackup\backups\2015-07-17 10.29.06 - auto.zip].
+[2015-07-21 14.04.35] [AutoSave] backup file [ROTARY_12P1N\ProjectBackup\backups\2015-07-17 10.29.06 - auto.zip] removed.
+[2015-07-22 14.35.25] Successfully created [AutoSave] backup [2015-07-22 14.35.23 - auto.zip] requested by [NIO13_PC1:User].
+[2015-07-22 14.35.25] Removing excessive [AutoSave] backup file [F:\TEXT TEM\ROTARY_12P1N\ProjectBackup\backups\2015-07-20 10.50.49 - auto.zip].
+[2015-07-22 14.35.25] [AutoSave] backup file [ROTARY_12P1N\ProjectBackup\backups\2015-07-20 10.50.49 - auto.zip] removed.
+[2015-07-23 09.31.48] Successfully created [AutoSave] backup [2015-07-23 09.31.48 - auto.zip] requested by [NIO13_PC1:User].
+[2015-07-23 09.31.48] Removing excessive [AutoSave] backup file [F:\TEXT TEM\ROTARY_12P1N\ProjectBackup\backups\2015-07-20 14.50.49 - auto.zip].
+[2015-07-23 09.31.48] [AutoSave] backup file [ROTARY_12P1N\ProjectBackup\backups\2015-07-20 14.50.49 - auto.zip] removed.
+[2015-07-24 14.25.56] Successfully created [AutoSave] backup [2015-07-24 14.25.54 - auto.zip] requested by [NIO13_PC1:User].
+[2015-07-24 14.25.56] Removing excessive [AutoSave] backup file [F:\TEXT TEM\ROTARY_12P1N\ProjectBackup\backups\2015-07-21 14.04.35 - auto.zip].
+[2015-07-24 14.25.56] [AutoSave] backup file [ROTARY_12P1N\ProjectBackup\backups\2015-07-21 14.04.35 - auto.zip] removed.
+[2015-09-02 11.18.10] Successfully created [AutoSave] backup [2015-09-02 11.18.10 - auto.zip] requested by [NIO13_PC1:User].
+[2015-09-02 11.18.10] Removing excessive [AutoSave] backup file [F:\TEXT TEM\ROTARY_12P1N\ProjectBackup\backups\2015-07-22 14.35.23 - auto.zip].
+[2015-09-02 11.18.10] [AutoSave] backup file [ROTARY_12P1N\ProjectBackup\backups\2015-07-22 14.35.23 - auto.zip] removed.

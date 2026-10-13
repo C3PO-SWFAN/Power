@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                       12:03 PM Monday, February 10, 2014
+         Job Name: D:\lib dx\Work\CellEditorFiles\SSOP-IR\SSOP-24-IR.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                       12:03 PM Monday, February 10, 2014
+         Job Name: D:\lib dx\Work\CellEditorFiles\SSOP-IR\SSOP-24-IR.pcb
+

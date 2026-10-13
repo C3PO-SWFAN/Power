@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                        12:41 PM Wednesday, May 28, 2014
+        Job Name: D:\lib dx\Work\CellEditorFiles\THERMISTOR\ERT-D2FEL.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                        12:41 PM Wednesday, May 28, 2014
+        Job Name: D:\lib dx\Work\CellEditorFiles\THERMISTOR\ERT-D2FEL.pcb
+

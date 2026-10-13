@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                       09:14 AM Friday, February 14, 2014
+     Job Name: D:\lib dx\Work\CellEditorFiles\STABILITRON_SMD\SOD-123FL.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                       09:26 AM Friday, February 14, 2014
+     Job Name: D:\lib dx\Work\CellEditorFiles\STABILITRON_SMD\SOD-123FL.pcb
+

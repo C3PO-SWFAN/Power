@@ -1,0 +1,161 @@
+[2015.06.12 08:53:35] [0000m.00s.031ms] [0] WELCOME
+[2015.06.12 08:53:35] [0000m.00s.062ms] [1] iCDB Server ver.1.094, vt40T8RtWJOG2cE2Nlvc5A, build:535943 created 2013-01-08 09:09:26, sources stamp:vt40T8RtWJOG2cE2Nlvc5A
+[2015.06.12 08:53:35] [0000m.00s.062ms] [1] Copyright 2013 Mentor Graphics Corporation. All Rights Reserved.
+[2015.06.12 08:53:35] [0000m.00s.062ms] [1] Base flow version [7.9.4]
+[2015.06.12 08:53:35] [0000m.00s.062ms] [1] GBS Install Id [26418], Flow Id [EE7.9.4], Full Flow Name [Expedition Enterprise Flow], Exact Access Date [Jun 1 2012]
+[2015.06.12 08:53:35] [0000m.00s.062ms] [1] UPDATE Install Info, GBS Install Id [29518], UPDATE Name [Expedition Enterprise Flow - Update 9 for EE7.9.4]
+[2015.06.12 08:53:35] [0000m.00s.062ms] [1] Machine [NIO13_PC1]  User [User]  PID [2384]
+[2015.06.12 08:53:35] [0000m.00s.062ms] [1] Operating system [Microsoft Windows XP Professional Service Pack 3 (build 2600)]
+[2015.06.12 08:53:35] [0000m.00s.062ms] [1] Current working dir [F:\TEXT TEM\SUM_TRONKA_MK_!]
+[2015.06.12 08:53:35] [0000m.00s.062ms] [1] PATH [C:\MentorGraphics\7.9.4EE\MGC_HOME.ixn\bin;C:\MentorGraphics\7.9.4EE\MGC_HOME.ixn\lib;C:\MentorGraphics\7.9.4EE\SDD_HOME\wv\win32\bin;C:\MentorGraphics\7.9.4EE\SDD_HOME\common\win32\bin;C:\MentorGraphics\7.9.4EE\SDD_HOME\common\win32\lib;C:\cygwin-1.7.9DMS\bin;C:\MentorGraphics\7.9.4EE\MGC_HOME.ixn\bin;C:\MentorGraphics\7.9.4EE\MGC_HOME.ixn\lib;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS.XP\system32;C:\WINDOWS.XP;C:\WINDOWS.XP\System32\Wbem;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\PCAD\EXE;;C:\BP\BIN;C:\PROGRA~1\COMMON~1\MUVEET~1\030625;C:\BP\BIN\]
+[2015.06.12 08:53:35] [0000m.00s.062ms] [1] SDD_HOME [C:\MentorGraphics\7.9.4EE\SDD_HOME] on file system [NTFS]
+[2015.06.12 08:53:35] [0000m.00s.062ms] [1] SDD_PLATFORM [win32]
+[2015.06.12 08:53:35] [0000m.00s.062ms] [1] WDIR [D:\WDIR;C:\MentorGraphics\7.9.4EE\SDD_HOME\standard]
+[2015.06.12 08:53:35] [0000m.00s.062ms] [1] Local iCDB working dir [D:\WDIR\iCDB] on file system [NTFS]
+[2015.06.12 08:53:35] [0000m.00s.062ms] [2] S: Loading config files
+[2015.06.12 08:53:35] [0000m.00s.062ms] [1] Config file [F:\TEXT TEM\SUM_TRONKA_MK_!\database\cdbsvr\Server.cfg] not found
+[2015.06.12 08:53:35] [0000m.00s.062ms] [3] S: Config loaded
+[2015.06.12 08:53:35] [0000m.00s.062ms] [0] S: Project path [F:\TEXT TEM\SUM_TRONKA_MK_!\database] on file system [NTFS]
+[2015.06.12 08:53:35] [0000m.00s.062ms] [0] S: Project file (.prj) path [F:\TEXT TEM\SUM_TRONKA_MK_!\SUM_TRONKA_MK_!.prj] on file system [NTFS]
+[2015.06.12 08:53:35] [0000m.00s.062ms] [1] S: WARNING: Database auto-repair support DISABLED
+[2015.06.12 08:53:35] [0000m.00s.062ms] [0] S: Single-user mode (auto)
+[2015.06.12 08:53:35] [0000m.00s.062ms] [0] S: Event polling mode autodetection
+[2015.06.12 08:53:35] [0000m.00s.078ms] [0] S: Started up automatically by iCDB Client: NIO13_PC1:User:1884
+[2015.06.12 08:53:35] [0000m.00s.078ms] [0] S: Auto close mode
+[2015.06.12 08:53:35] [0000m.00s.078ms] [0] S: Database ID [cf70-84c9-7a52-da4f-785c-d35c-85cd-3550-6601-a07c-7c3c-8dfb]
+[2015.06.12 08:53:35] [0000m.00s.078ms] [0] PathTranslator: BEGIN dumping
+[2015.06.12 08:53:35] [0000m.00s.078ms] [0] PathTranslator: Local -> global path prefix list
+[2015.06.12 08:53:35] [0000m.00s.078ms] [0] PathTranslator: Global -> local path prefix list
+[2015.06.12 08:53:35] [0000m.00s.078ms] [0] PathTranslator: END dumping
+[2015.06.12 08:53:35] [0000m.00s.078ms] [0] S: START
+[2015.06.12 08:53:35] [0000m.00s.078ms] [0] S: Server startup lock file created
+[2015.06.12 08:53:35] [0000m.00s.078ms] [0] S: Listening for client connections on port [10001]
+[2015.06.12 08:53:35] [0000m.00s.078ms] [0] S: Server network ID [nio13_pc1:192.168.0.180,nio13_pc1:10001]
+[2015.06.12 08:53:35] [0000m.00s.078ms] [0] S: Server GUID [1a66-50e1-1d28-c006-fd37-a754-e37a-7550-e190-a06c-4c3c-8dfb]
+[2015.06.12 08:53:35] [0000m.00s.078ms] [0] S: Project GUID [cf70-84c9-7a52-da4f-785c-d35c-85cd-3550-6601-a07c-7c3c-8dfb]
+[2015.06.12 08:53:35] [0000m.00s.078ms] [0] S: Wrote data to server address file
+[2015.06.12 08:53:35] [0000m.00s.078ms] [0] S: Server startup lock file removed
+[2015.06.12 08:53:35] [0000m.00s.078ms] [1] ProjectBackupManager: Setting project file (.prj) path: [F:\TEXT TEM\SUM_TRONKA_MK_!\SUM_TRONKA_MK_!.prj]
+[2015.06.12 08:53:35] [0000m.00s.296ms] [0] S: Plugins loaded: [PIM] [ENetGen70] 
+[2015.06.12 08:53:35] [0000m.00s.296ms] [0] S: Local disc access time: 23 us
+[2015.06.12 08:53:35] [0000m.00s.296ms] [0] S: File server access time: 24 us
+[2015.06.12 08:53:35] [0000m.00s.312ms] [0] Single file [F:\TEXT TEM\SUM_TRONKA_MK_!\database\icdb.dat] size [61168 (59.7 kB)]
+[2015.06.12 08:53:35] [0000m.00s.312ms] [1] Single file [F:\TEXT TEM\SUM_TRONKA_MK_!\database\icdb.dat] opened in read-write mode
+[2015.06.12 08:53:35] [0000m.00s.312ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2015.06.12 08:53:35] [0000m.00s.312ms] [0] Database GUARD OK: [61168]
+[2015.06.12 08:53:35] [0000m.00s.312ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2015.06.12 08:53:35] [0000m.00s.312ms] [0] Database GUARD OK: [61168]
+[2015.06.12 08:53:35] [0000m.00s.312ms] [0] SingleFile: [9edd-f882-8c5c-9d9b] SFI version check [1009] [1009]
+[2015.06.12 08:53:35] [0000m.00s.312ms] [0] SingleFile: [9edd-f882-8c5c-9d9b] Database SFI header has been read in [500us]
+[2015.06.12 08:53:35] [0000m.00s.312ms] [0] iCDB Server PI: Server & plugin session [21]
+[2015.06.12 08:53:35] [0000m.00s.312ms] [0] iCDB Server PI: Opening database [F:\TEXT TEM\SUM_TRONKA_MK_!\database]
+[2015.06.12 08:53:35] [0000m.00s.312ms] [0] iCDB Server PI: Database [F:\TEXT TEM\SUM_TRONKA_MK_!\database] opened
+[2015.06.12 08:53:36] [0000m.00s.343ms] [0] iCDB Database: Checking existence of constraint definitions
+[2015.06.12 08:53:36] [0000m.00s.343ms] [0] iCDB Database: Checking constraint definitions version
+[2015.06.12 08:53:36] [0000m.00s.421ms] [1] iCDB Database: Constraint definitions version [ce_ee.cns=7.10.24;user.cns=23bc-5dbe-811f-e7e3-e487-7e23-5877-e250-e2f7-9777-77e2-03e2] up to date
+[2015.06.12 08:53:36] [0000m.00s.656ms] [0] iCDB Server PI: Initializing plugins
+[2015.06.12 08:53:36] [0000m.00s.656ms] [0] iCDB Server PI: Plugins initialized
+[2015.06.12 08:53:36] [0000m.00s.656ms] [0] S: iCDB database loaded
+[2015.06.12 08:53:36] [0000m.00s.656ms] [0] S: Starting threads
+[2015.06.12 08:53:36] [0000m.00s.656ms] [1] CMT: There are no clients - waiting [10 seconds]
+[2015.06.12 08:53:36] [0000m.00s.656ms] [0] IT: Session [22] for host [nio13_pc1] user [User] with process ID [1884] created
+[2015.06.12 08:53:36] [0000m.00s.656ms] [0] BT: Listening for broadcast messages on port [10000]
+[2015.06.12 08:53:36] [0000m.00s.656ms] [1] SC[22]: Registered sub-client [DxD] with ID [1] for session ID [22] host [nio13_pc1] user [User] process ID [1884]
+[2015.06.12 08:53:36] [0000m.00s.687ms] [1] SC[22]: Registered sub-client [TransactionRollbackSubClient] with ID [2] for session ID [22] host [nio13_pc1] user [User] process ID [1884]
+[2015.06.12 08:53:36] [0000m.00s.703ms] [1] SC[22]: Registered sub-client [xprob] with ID [3] for session ID [22] host [nio13_pc1] user [User] process ID [1884]
+[2015.06.12 08:53:36] [0000m.00s.750ms] [1] CMT: There are [1] clients now: 22
+[2015.06.12 08:53:36] [0000m.00s.812ms] [1] SC[22]: Registered sub-client [SelectionHolder] with ID [4] for session ID [22] host [nio13_pc1] user [User] process ID [1884]
+[2015.06.12 08:53:36] [0000m.00s.828ms] [1] SC[22]: Registered sub-client [SymbolEditor] with ID [5] for session ID [22] host [nio13_pc1] user [User] process ID [1884]
+[2015.06.12 08:53:36] [0000m.00s.843ms] [1] SC[22]: Registered sub-client [EEVM_EEVM_428280340] with ID [6] for session ID [22] host [nio13_pc1] user [User] process ID [1884]
+[2015.06.12 08:53:36] [0000m.00s.843ms] [1] SC[22]: UnRegistered sub-client [EEVM_EEVM_428280340] with ID [6] for session ID [22] host [nio13_pc1] user [User] process ID [1884]
+[2015.06.12 08:53:36] [0000m.00s.843ms] [1] SC[22]: Registered sub-client [EEVM_EEVM_428280340] with ID [7] for session ID [22] host [nio13_pc1] user [User] process ID [1884]
+[2015.06.12 08:53:36] [0000m.00s.843ms] [1] SC[22]: UnRegistered sub-client [EEVM_EEVM_428280340] with ID [7] for session ID [22] host [nio13_pc1] user [User] process ID [1884]
+[2015.06.12 08:53:36] [0000m.00s.843ms] [1] SC[22]: Registered sub-client [EEVM_EEVM_428280340] with ID [8] for session ID [22] host [nio13_pc1] user [User] process ID [1884]
+[2015.06.12 08:53:36] [0000m.00s.843ms] [1] SC[22]: UnRegistered sub-client [EEVM_EEVM_428280340] with ID [8] for session ID [22] host [nio13_pc1] user [User] process ID [1884]
+[2015.06.12 08:53:36] [0000m.00s.859ms] [1] SC[22]: Registered sub-client [EEVM_EEVM_428280340] with ID [9] for session ID [22] host [nio13_pc1] user [User] process ID [1884]
+[2015.06.12 08:53:36] [0000m.00s.859ms] [1] SC[22]: UnRegistered sub-client [EEVM_EEVM_428280340] with ID [9] for session ID [22] host [nio13_pc1] user [User] process ID [1884]
+[2015.06.12 08:53:37] [0000m.01s.609ms] [1] SC[22]: Registered sub-client [HdlProject] with ID [10] for session ID [22] host [nio13_pc1] user [User] process ID [1884]
+[2015.06.12 08:53:37] [0000m.01s.625ms] [1] SC[22]: Registered sub-client [Navigator] with ID [11] for session ID [22] host [nio13_pc1] user [User] process ID [1884]
+[2015.06.12 08:53:37] [0000m.01s.625ms] [1] SC[22]: Registered sub-client [OutputWindow] with ID [12] for session ID [22] host [nio13_pc1] user [User] process ID [1884]
+[2015.06.12 08:53:37] [0000m.01s.640ms] [1] SC[22]: Registered sub-client [PlaceDevice] with ID [13] for session ID [22] host [nio13_pc1] user [User] process ID [1884]
+[2015.06.12 08:53:37] [0000m.01s.921ms] [1] SC[22]: Registered sub-client [SAE] with ID [14] for session ID [22] host [nio13_pc1] user [User] process ID [1884]
+[2015.06.12 08:53:37] [0000m.01s.921ms] [1] SC[22]: Registered sub-client [CCZAddin] with ID [15] for session ID [22] host [nio13_pc1] user [User] process ID [1884]
+[2015.06.12 08:53:37] [0000m.01s.921ms] [1] SC[22]: Registered sub-client [DxThumbnails] with ID [16] for session ID [22] host [nio13_pc1] user [User] process ID [1884]
+[2015.06.12 08:53:37] [0000m.01s.921ms] [1] SC[22]: Registered sub-client [DxSim] with ID [17] for session ID [22] host [nio13_pc1] user [User] process ID [1884]
+[2015.06.12 08:53:37] [0000m.02s.062ms] [1] SC[22]: Registered sub-client [SheetConnectorsCacheDxD:1434088417] with ID [18] for session ID [22] host [nio13_pc1] user [User] process ID [1884]
+[2015.06.12 08:53:37] [0000m.02s.093ms] [1] SC[22]: Registered sub-client [NetsNamesCollectorDxD:1434088417] with ID [19] for session ID [22] host [nio13_pc1] user [User] process ID [1884]
+[2015.06.12 08:53:37] [0000m.02s.140ms] [1] SC[22]: Registered sub-client [ObjectHolder_447107136] with ID [20] for session ID [22] host [nio13_pc1] user [User] process ID [1884]
+[2015.06.12 08:53:37] [0000m.02s.156ms] [1] SC[22]: Registered sub-client [BlockCacheDxD:447104848] with ID [21] for session ID [22] host [nio13_pc1] user [User] process ID [1884]
+[2015.06.12 08:53:37] [0000m.02s.156ms] [1] SC[22]: Registered sub-client [GlobalNetAliasUpdater_447114864] with ID [22] for session ID [22] host [nio13_pc1] user [User] process ID [1884]
+[2015.06.12 08:53:37] [0000m.02s.156ms] [1] SC[22]: Registered sub-client [IcdbNetProcessorSubClientDxD:446744560] with ID [23] for session ID [22] host [nio13_pc1] user [User] process ID [1884]
+[2015.06.12 08:53:38] [0000m.02s.421ms] [1] SC[22]: Registered sub-client [DxDbSearch] with ID [24] for session ID [22] host [nio13_pc1] user [User] process ID [1884]
+[2015.06.12 08:53:56] [0000m.21s.078ms] [0] DFAMT: File server access time: 32 us
+[2015.06.12 09:06:36] [0013m.00s.609ms] [1] PrjBackupMgr: Successfully created Project Backup [F:\TEXT TEM\SUM_TRONKA_MK_!\ProjectBackup\backups\2015-06-12 09.06.36 - auto.zip] with GUID [5ece-08ab-9fd8-172e-ce67-a751-f67a-7550-6121-a06c-4c3c-8dfb]
+[2015.06.12 09:06:36] [0013m.00s.609ms] [0] PrjBackupMgr: Removing excessive backup:  BackupGUID[0f78-3bb4-4357-1c47-b63e-d350-73ed-3550-ad60-a07c-7c3c-8dfb] CreationTime[Monday, April 27, 2015 07:21:15] Type[Autosave] Creator[iCDB Server (2015-04-27 09.16.09-2272)] ApplicationName[iCDB Server (2015-04-27 09.16.09-2272)] UserName[User] MachineName[NIO13_PC1] Description[Autosave] FullFlowName[Expedition Enterprise Flow; Expedition Enterprise Flow - Update 9 for EE7.9.4] FlowId[EE7.9.4] GBSInstallId[26418; 29518] GBSBuildId[535943] IcdbVersion[2709] ReferenceLogFilePath[] BackupFilePath[F:\TEXT TEM\SUM_TRONKA_MK_!\ProjectBackup\backups\2015-04-27 10.21.15 - auto.zip] BackupFileSize[45463] Persistent[FALSE]
+[2015.06.12 09:06:36] [0013m.00s.625ms] [0] PrjBackupMgr: Project Backup file [F:\TEXT TEM\SUM_TRONKA_MK_!\ProjectBackup\backups\2015-04-27 10.21.15 - auto.zip] with GUID [0f78-3bb4-4357-1c47-b63e-d350-73ed-3550-ad60-a07c-7c3c-8dfb] removed
+[2015.06.12 09:06:36] [0013m.00s.625ms] [0] PrjBackupEngine: Successfully created backup:  BackupGUID[5ece-08ab-9fd8-172e-ce67-a751-f67a-7550-6121-a06c-4c3c-8dfb] CreationTime[Friday, June 12, 2015 06:06:36] Type[Autosave] Creator[iCDB Server (2015-06-12 08.53.35-2384)] ApplicationName[iCDB Server (2015-06-12 08.53.35-2384)] UserName[User] MachineName[NIO13_PC1] Description[Autosave] FullFlowName[Expedition Enterprise Flow; Expedition Enterprise Flow - Update 9 for EE7.9.4] FlowId[EE7.9.4] GBSInstallId[26418; 29518] GBSBuildId[535943] IcdbVersion[2709] ReferenceLogFilePath[] BackupFilePath[F:\TEXT TEM\SUM_TRONKA_MK_!\ProjectBackup\backups\2015-06-12 09.06.36 - auto.zip] BackupFileSize[59331] Persistent[FALSE]
+[2015.06.12 09:17:39] [0024m.03s.890ms] [0] IT: Session [23] for host [nio13_pc1] user [User] with process ID [2956] created
+[2015.06.12 09:17:39] [0024m.03s.890ms] [1] SC[23]: Registered sub-client [DxPDFDialogClient] with ID [1] for session ID [23] host [nio13_pc1] user [User] process ID [2956]
+[2015.06.12 09:17:39] [0024m.03s.890ms] [1] SC[23]: UnRegistered sub-client [DxPDFDialogClient] with ID [1] for session ID [23] host [nio13_pc1] user [User] process ID [2956]
+[2015.06.12 09:17:39] [0024m.03s.906ms] [1] CMT: There are [2] clients now: 22, 23
+[2015.06.12 09:17:39] [0024m.03s.906ms] [1] CMT: Removed client [23]
+[2015.06.12 09:17:39] [0024m.03s.906ms] [1] CMT: There are [1] clients now: 22
+[2015.06.12 09:17:43] [0024m.07s.375ms] [0] IT: Session [24] for host [nio13_pc1] user [User] with process ID [2280] created
+[2015.06.12 09:17:43] [0024m.07s.375ms] [1] SC[24]: Registered sub-client [Sch2PdfClient] with ID [1] for session ID [24] host [nio13_pc1] user [User] process ID [2280]
+[2015.06.12 09:17:43] [0024m.07s.406ms] [1] SC[24]: Registered sub-client [SheetConnectorsCacheDxD:1434089863] with ID [2] for session ID [24] host [nio13_pc1] user [User] process ID [2280]
+[2015.06.12 09:17:43] [0024m.07s.437ms] [1] CMT: There are [2] clients now: 22, 24
+[2015.06.12 09:17:43] [0024m.07s.453ms] [1] SC[24]: Registered sub-client [ICE_ICTIND] with ID [3] for session ID [24] host [nio13_pc1] user [User] process ID [2280]
+[2015.06.12 09:17:43] [0024m.07s.671ms] [1] SC[24]: UnRegistered sub-client [SheetConnectorsCacheDxD:1434089863] with ID [2] for session ID [24] host [nio13_pc1] user [User] process ID [2280]
+[2015.06.12 09:17:43] [0024m.07s.671ms] [1] SC[24]: UnRegistered sub-client [Sch2PdfClient] with ID [1] for session ID [24] host [nio13_pc1] user [User] process ID [2280]
+[2015.06.12 09:17:43] [0024m.07s.671ms] [1] SC[24]: UnRegistered sub-client [ICE_ICTIND] with ID [3] for session ID [24] host [nio13_pc1] user [User] process ID [2280]
+[2015.06.12 09:17:43] [0024m.07s.734ms] [1] CMT: Removed client [24]
+[2015.06.12 09:17:43] [0024m.07s.734ms] [1] CMT: There are [1] clients now: 22
+[2015.06.12 09:19:22] [0025m.46s.718ms] [1] SC[22]: UnRegistered sub-client [Navigator] with ID [11] for session ID [22] host [nio13_pc1] user [User] process ID [1884]
+[2015.06.12 09:19:22] [0025m.46s.734ms] [1] SC[22]: UnRegistered sub-client [OutputWindow] with ID [12] for session ID [22] host [nio13_pc1] user [User] process ID [1884]
+[2015.06.12 09:19:22] [0025m.46s.734ms] [1] SC[22]: UnRegistered sub-client [PlaceDevice] with ID [13] for session ID [22] host [nio13_pc1] user [User] process ID [1884]
+[2015.06.12 09:19:22] [0025m.46s.750ms] [1] SC[22]: UnRegistered sub-client [DxDbSearch] with ID [24] for session ID [22] host [nio13_pc1] user [User] process ID [1884]
+[2015.06.12 09:19:22] [0025m.46s.750ms] [1] SC[22]: UnRegistered sub-client [SAE] with ID [14] for session ID [22] host [nio13_pc1] user [User] process ID [1884]
+[2015.06.12 09:19:22] [0025m.46s.750ms] [1] SC[22]: UnRegistered sub-client [CCZAddin] with ID [15] for session ID [22] host [nio13_pc1] user [User] process ID [1884]
+[2015.06.12 09:19:22] [0025m.46s.750ms] [1] SC[22]: UnRegistered sub-client [DxThumbnails] with ID [16] for session ID [22] host [nio13_pc1] user [User] process ID [1884]
+[2015.06.12 09:19:22] [0025m.46s.750ms] [1] SC[22]: UnRegistered sub-client [DxSim] with ID [17] for session ID [22] host [nio13_pc1] user [User] process ID [1884]
+[2015.06.12 09:19:22] [0025m.46s.750ms] [1] SC[22]: UnRegistered sub-client [HdlProject] with ID [10] for session ID [22] host [nio13_pc1] user [User] process ID [1884]
+[2015.06.12 09:19:22] [0025m.46s.765ms] [1] SC[22]: UnRegistered sub-client [GlobalNetAliasUpdater_447114864] with ID [22] for session ID [22] host [nio13_pc1] user [User] process ID [1884]
+[2015.06.12 09:19:22] [0025m.46s.765ms] [1] SC[22]: UnRegistered sub-client [BlockCacheDxD:447104848] with ID [21] for session ID [22] host [nio13_pc1] user [User] process ID [1884]
+[2015.06.12 09:19:22] [0025m.46s.765ms] [1] SC[22]: UnRegistered sub-client [ObjectHolder_447107136] with ID [20] for session ID [22] host [nio13_pc1] user [User] process ID [1884]
+[2015.06.12 09:19:22] [0025m.46s.765ms] [1] SC[22]: UnRegistered sub-client [IcdbNetProcessorSubClientDxD:446744560] with ID [23] for session ID [22] host [nio13_pc1] user [User] process ID [1884]
+[2015.06.12 09:19:22] [0025m.46s.765ms] [1] SC[22]: UnRegistered sub-client [SelectionHolder] with ID [4] for session ID [22] host [nio13_pc1] user [User] process ID [1884]
+[2015.06.12 09:19:22] [0025m.46s.765ms] [1] SC[22]: UnRegistered sub-client [SheetConnectorsCacheDxD:1434088417] with ID [18] for session ID [22] host [nio13_pc1] user [User] process ID [1884]
+[2015.06.12 09:19:22] [0025m.46s.765ms] [1] SC[22]: UnRegistered sub-client [NetsNamesCollectorDxD:1434088417] with ID [19] for session ID [22] host [nio13_pc1] user [User] process ID [1884]
+[2015.06.12 09:19:22] [0025m.46s.812ms] [1] SC[22]: UnRegistered sub-client [TransactionRollbackSubClient] with ID [2] for session ID [22] host [nio13_pc1] user [User] process ID [1884]
+[2015.06.12 09:19:22] [0025m.46s.812ms] [1] SC[22]: UnRegistered sub-client [DxD] with ID [1] for session ID [22] host [nio13_pc1] user [User] process ID [1884]
+[2015.06.12 09:19:22] [0025m.46s.828ms] [1] SC[22]: UnRegistered sub-client [xprob] with ID [3] for session ID [22] host [nio13_pc1] user [User] process ID [1884]
+[2015.06.12 09:19:22] [0025m.46s.828ms] [1] SC[22]: UnRegistered sub-client [SymbolEditor] with ID [5] for session ID [22] host [nio13_pc1] user [User] process ID [1884]
+[2015.06.12 09:19:22] [0025m.46s.921ms] [1] CMT: Removed client [22]
+[2015.06.12 09:19:22] [0025m.46s.921ms] [1] CMT: There are no clients left - waiting [1 seconds]
+[2015.06.12 09:19:24] [0025m.48s.343ms] [0] CMT: Starting server auto-close
+[2015.06.12 09:19:24] [0025m.48s.343ms] [0] S: Closing server
+[2015.06.12 09:19:24] [0025m.48s.453ms] [0] iCDB Server PI: Closing plugins
+[2015.06.12 09:19:24] [0025m.48s.453ms] [0] iCDB Server PI: Plugins closed
+[2015.06.12 09:19:24] [0025m.48s.453ms] [0] iCDB Server PI: Unloading database
+[2015.06.12 09:19:24] [0025m.48s.453ms] [0] iCDB Server PI: Saving storage
+[2015.06.12 09:19:24] [0025m.48s.453ms] [0] iCDB Server PI: Closing database
+[2015.06.12 09:19:24] [0025m.48s.515ms] [1] iCDB Server PI: Stats: Database defragmentation: max[1] avg[1] holes[76%] data[75%]
+[2015.06.12 09:19:24] [0025m.48s.515ms] [1] iCDB Server PI: Stats: Database file size [87056 (85.0 kB)]
+[2015.06.12 09:19:24] [0025m.48s.546ms] [1] iCDB Server PI: WARNING: Database needs defragmentation!
+[2015.06.12 09:19:24] [0025m.48s.578ms] [0] iCDB Server PI: Database closed
+[2015.06.12 09:19:24] [0025m.48s.578ms] [0] iCDB Server PI: Defragmenting database
+[2015.06.12 09:19:24] [0025m.48s.578ms] [0] iCDB Server PI: Creating database [F:\TEXT TEM\SUM_TRONKA_MK_!\database] backup to file [F:\TEXT TEM\SUM_TRONKA_MK_!\database\cdbback\2015-06-12 09.19.24-2384-d.zip]
+[2015.06.12 09:19:24] [0025m.48s.593ms] [0] iCDB Server PI: Database backup: DONE
+[2015.06.12 09:19:24] [0025m.48s.656ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2015.06.12 09:19:24] [0025m.48s.656ms] [0] Database GUARD OK: [87056]
+[2015.06.12 09:19:24] [0025m.48s.656ms] [0] SingleFile: [9edd-f882-8c5c-9d9b] SFI version check [1009] [1009]
+[2015.06.12 09:19:24] [0025m.48s.656ms] [0] SingleFile: [9edd-f882-8c5c-9d9b] Database SFI header has been read in [663us]
+[2015.06.12 09:19:24] [0025m.48s.875ms] [1] iCDB Server PI: Stats: Database file sizes: before[87056 (85.0 kB)], after[61424 (60.0 kB)], gain[25632 (25.0 kB)]
+[2015.06.12 09:19:24] [0025m.48s.906ms] [0] Single file [F:\TEXT TEM\SUM_TRONKA_MK_!\database\icdb.dat] closed with size [61424 (60.0 kB)]
+[2015.06.12 09:19:24] [0025m.48s.906ms] [0] iCDB Server PI: Database defragmentation completed successfully
+[2015.06.12 09:19:24] [0025m.48s.906ms] [1] BackupTransaction: Removing database backup [F:\TEXT TEM\SUM_TRONKA_MK_!\database\cdbback\2015-06-12 09.19.24-2384-d.zip]
+[2015.06.12 09:19:24] [0025m.48s.906ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [66510] ticks
+[2015.06.12 09:19:24] [0025m.48s.906ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [18580] microseconds
+[2015.06.12 09:19:24] [0025m.48s.906ms] [1] iCDB Server PI: Stats: Total iCDB commands count: [180]
+[2015.06.12 09:19:24] [0025m.48s.906ms] [1] iCDB Server PI: Stats: Average iCDB speed:        [9687] commands per second
+[2015.06.12 09:19:24] [0025m.48s.953ms] [0] S: STOP

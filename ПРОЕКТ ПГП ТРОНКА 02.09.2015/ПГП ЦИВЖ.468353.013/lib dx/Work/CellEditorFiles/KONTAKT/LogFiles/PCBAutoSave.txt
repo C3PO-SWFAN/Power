@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                         09:28 PM Sunday, June 28, 2015
+         Job Name: D:\lib dx\Work\CellEditorFiles\KONTAKT\d4,4xd7,4.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                         09:30 PM Sunday, June 28, 2015
+         Job Name: D:\lib dx\Work\CellEditorFiles\KONTAKT\d4,4xd7,4.pcb
+

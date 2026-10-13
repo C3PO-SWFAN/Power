@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                       08:26 PM Tuesday, October 21, 2014
+    Job Name: D:\lib dx\Work\CellEditorFiles\SENSORS\SOT-23-ALLEGRO-HOLL.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                       08:30 PM Tuesday, October 21, 2014
+    Job Name: D:\lib dx\Work\CellEditorFiles\SENSORS\SOT-23-ALLEGRO-HOLL.pcb
+

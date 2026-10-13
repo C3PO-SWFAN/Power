@@ -1,0 +1,26 @@
+Cell Status
+
+Cell Type:        Package Cell
+Cell Name:        SOT-23-JFET
+Cell Description: 
+Number Of Layers: 2
+Units:            mm
+
+Package Group:    IC - SOIC
+Mount Type:       Surface
+Number of Pins:   3
+        Placed:   3
+Height:           0
+Underside Space:  0
+
+Pin Padstack Names:
+        (3)  RR1,0x0,8
+
+Electronic Objects Used:
+        Assembly Outline       Mount Side
+        Assembly Part Number
+        Assembly Ref. Des.
+        Placement Outline
+        Silkscreen Outline       Mount Side
+        Silkscreen Ref. Des.     Mount Side
+

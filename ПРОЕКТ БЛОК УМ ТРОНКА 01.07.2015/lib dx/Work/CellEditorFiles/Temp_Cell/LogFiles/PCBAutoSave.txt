@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                        04:45 PM Friday, October 05, 2012
+          Job Name: D:\lib dx\Work\CellEditorFiles\Temp_Cell\MSOP8.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                        04:45 PM Friday, October 05, 2012
+          Job Name: D:\lib dx\Work\CellEditorFiles\Temp_Cell\MSOP8.pcb
+

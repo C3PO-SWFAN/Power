@@ -1,0 +1,47 @@
+ ----------------------------
+|      Drill Engine Log      |
+|          Started           |
+|  Wed Apr 18 10:04:54 2018  |
+ ----------------------------
+
+Removing Output/NCDrill/ThruHoleNonPlated.ncd
+Removing Output/NCDrill/ThruHolePlated.ncd
+
+Created drill file "F:\TT18\KOREY\BP_3_2_K\PCB\Output\NCDrill\ThruHolePlated.ncd" for span from 1 to 2
+Total holes, contours in this file 263, 0
+
+    Tool   Size (MM)    Tolerance (MM)     Plated   Count
+    ----   ---------   -----------------   ------   -----
+     09     0.3500                          YES     150
+     04     0.8000                          YES     28
+     02     0.9000                          YES     6
+     08     1.0000                          YES     3
+     06     1.3000                          YES     9
+     05     1.4000                          YES     20
+     07     1.6000                          YES     7
+     03     1.8000                          YES     24
+     17     2.3000                          YES     4
+     01     3.3000                          YES     2
+     12     3.6000                          YES     6
+     15     4.6000                          YES     1
+     13     4.8000                          YES     3
+
+
+Created drill file "F:\TT18\KOREY\BP_3_2_K\PCB\Output\NCDrill\ThruHoleNonPlated.ncd" for span from 1 to 2
+Total holes, contours in this file 34, 0
+
+    Tool   Size (MM)    Tolerance (MM)     Plated   Count
+    ----   ---------   -----------------   ------   -----
+     10     1.5000                          NO      6
+     19     1.7000                          NO      3
+     18     2.3000                          NO      9
+     16     3.1000                          NO      3
+     11     3.6000                          NO      8
+     14     10.0000                          NO      5
+
+
+ ----------------------------
+|      Drill Engine Log      |
+|          Finished          |
+|  Wed Apr 18 10:04:55 2018  |
+ ----------------------------

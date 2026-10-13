@@ -1,0 +1,27 @@
+Prop name:CmpPins
+Prop name:CmpPrps
+Prop name:Fixes
+Flags    :$0000005D
+       2
+Removed
+      60
+       2
+Removed
+      6A
+       2
+Prop name:Pin2Prps
+Prop name:PinArrayWidth
+Prop name:PinLibUID
+Prop name:PinNam
+Prop name:PinTyp
+Prop name:PinUID
+Prop name:PrpAttr
+Prop name:PrpBit
+Prop name:PrpId
+Prop name:PrpNam
+Prop name:PrpOrder
+Prop name:PrpStr
+Prop name:PrpUID
+Prop name:Version
+Flags    :$00000001
+     1F8

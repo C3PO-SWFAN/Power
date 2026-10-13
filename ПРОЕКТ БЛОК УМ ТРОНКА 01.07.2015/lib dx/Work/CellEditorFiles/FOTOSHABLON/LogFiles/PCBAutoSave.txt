@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                       02:20 PM Sunday, February 22, 2015
+        Job Name: D:\lib dx\Work\CellEditorFiles\FOTOSHABLON\KARAT-2.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                       02:23 PM Sunday, February 22, 2015
+        Job Name: D:\lib dx\Work\CellEditorFiles\FOTOSHABLON\KARAT-2.pcb
+

@@ -1,0 +1,97 @@
+
+                                   DXF Export
+                                   ----------
+
+                       10:06 AM Wednesday, April 18, 2018
+              Job Name: F:\TT18\KOREY\BP_3_2_K\PCB\BOARD_2LAYER.pcb
+
+
+
+    DXF File: F:\TT18\KOREY\BP_3_2_K\PCB\Output\BP-3-2-K.dxf
+
+
+    Total - Export Element
+    ----------------------------------------------------------------------
+
+       125 - Assembly Outlines Top
+
+        87 - Assembly Part Numbers Top
+
+        87 - Assembly Ref Des Top
+
+         1 - Board Origin
+
+         1 - Board Outline
+
+       422 - Drill Drawing
+
+         1 - Etched Text Layer 1
+
+       472 - Generated Silkscreen Top
+
+         1 - Manufacturing Outlines
+
+        14 - Mounting Hole Pads Layer 1
+
+        14 - Mounting Hole Pads Layer 2
+
+        48 - Mounting Holes Layer 1
+
+        48 - Mounting Holes Layer 2
+
+         1 - NC Drill Origin
+
+        99 - Part Holes Layer 1
+
+        99 - Part Holes Layer 2
+
+        91 - Part Pads Layer 1
+
+        91 - Part Pads Layer 2
+
+         8 - Part Pads SMD Btm
+
+       120 - Part Pads SMD Top
+
+       211 - Pin Numbers Top
+
+        87 - Placement Outlines Top
+
+       256 - Plane Data Layer 1
+
+       196 - Plane Data Layer 2
+
+        86 - Plane Shapes Layer 1
+
+        93 - Plane Shapes Layer 2
+
+         1 - Route Border
+
+       105 - Silkscreen Outlines Top
+
+        87 - Silkscreen Ref Des Top
+
+       100 - Soldermask Pads Btm
+
+       212 - Soldermask Pads Top
+
+       112 - Solderpaste Pads Top
+
+       133 - Traces Layer 1
+
+        15 - Traces Layer 2
+
+       150 - Via Holes Layer 1
+
+       150 - Via Holes Layer 2
+
+       150 - Via Pads Layer 1
+
+       150 - Via Pads Layer 2
+
+
+    Successful Completion.
+
+
+
+                        10:06 AM Wednesday, April 18, 2018

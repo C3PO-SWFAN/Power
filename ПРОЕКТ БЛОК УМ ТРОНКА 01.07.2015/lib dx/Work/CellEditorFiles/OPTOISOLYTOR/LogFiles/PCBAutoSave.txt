@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                         10:57 PM Thursday, May 28, 2015
+   Job Name: D:\lib dx\Work\CellEditorFiles\OPTOISOLYTOR\8_SOIC_2_54_AVAGO.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                         11:03 PM Thursday, May 28, 2015
+   Job Name: D:\lib dx\Work\CellEditorFiles\OPTOISOLYTOR\8_SOIC_2_54_AVAGO.pcb
+

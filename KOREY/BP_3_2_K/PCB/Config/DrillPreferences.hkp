@@ -1,0 +1,97 @@
+.FILETYPE NC_DRILL_PREFERENCES
+.VERSION "WG2004"
+.CREATOR "Mentor Graphics Corporation"
+.DATE "Wednesday April 18 10:04:51 2018"
+
+.Units mm
+
+.DrillOutputDir  "F:\\TT18\\KOREY\\BP_3_2_K\\PCB\\Output\\NCDrill\\"
+
+.SelectMillingLayer NO
+
+.DataOffset (0, 0)
+
+.StepAndRepeat
+  ..DataCopies   (1, 1)
+  ..OriginOffset (0, 0)
+
+.Optimize
+  ..SweepAxis HORIZONTAL
+  ..BandWidth 2.54
+  ..SortByBoard NO
+
+.PreDrill OFF
+  ..HoleSize 0
+
+.OutputFiles
+  ..MachineFormat  "Sys: DrillMetric.dff"
+  ..MachineFileExt ".ncd"
+
+.DrillSymbols
+  ..AutoAssign PREFER_CHARACTERS
+
+.DrillCharts
+  ..ChartUnits MM
+  ..Columns SYMBOL DIAMETER TOLERANCE PLATED PUNCHED HOLENAME QUANTITY
+  ..DisplayAs "Symbol" "Diameter" "Tolerance" "Plated" "Punched" "HoleName" "Quantity"
+  ..Alignment CENTER CENTER CENTER CENTER CENTER CENTER CENTER
+  ..FontName         "VeriBest Gerber 0"
+  ..FontSize          1.2
+  ..LineSpacing       1.2
+  ..PenWidth          0.12
+  ..PosTolerance      -1
+  ..NegTolerance      1
+  ..Precision         1, 4
+  ..SingleChart       0
+  ..SeparateLayers    0
+  ..HorizontalLSep    0
+  ..VerticalLSep      0
+  ..UpperCaseText     0
+  ..IncludeContours   1
+
+
+
+  ..FCFFontName "MentorGDT"
+
+  ..FCFData
+   ...HoleFCF "Rnd 0,35"
+    ....valFCF "" "" "" "" ""
+   ...HoleFCF "Rnd 0,8"
+    ....valFCF "" "" "" "" ""
+   ...HoleFCF "Rnd 0,9"
+    ....valFCF "" "" "" "" ""
+   ...HoleFCF "Rnd 1"
+    ....valFCF "" "" "" "" ""
+   ...HoleFCF "Rnd 1,3"
+    ....valFCF "" "" "" "" ""
+   ...HoleFCF "Rnd 1,5 Non-Plated"
+    ....valFCF "" "" "" "" ""
+   ...HoleFCF "Rnd 1,6"
+    ....valFCF "" "" "" "" ""
+   ...HoleFCF "Rnd 1,7 Non-Plated"
+    ....valFCF "" "" "" "" ""
+   ...HoleFCF "Rnd 1,8"
+    ....valFCF "" "" "" "" ""
+   ...HoleFCF "Rnd 1.4"
+    ....valFCF "" "" "" "" ""
+   ...HoleFCF "Rnd 10 Non-Plated"
+    ....valFCF "" "" "" "" ""
+   ...HoleFCF "Rnd 2,3"
+    ....valFCF "" "" "" "" ""
+   ...HoleFCF "Rnd 2,3 Non-Plated"
+    ....valFCF "" "" "" "" ""
+   ...HoleFCF "Rnd 3,1 Non-Plated"
+    ....valFCF "" "" "" "" ""
+   ...HoleFCF "Rnd 3,3"
+    ....valFCF "" "" "" "" ""
+   ...HoleFCF "Rnd 3,6"
+    ....valFCF "" "" "" "" ""
+   ...HoleFCF "Rnd 3,6 Non-Plated"
+    ....valFCF "" "" "" "" ""
+   ...HoleFCF "Rnd 4.6"
+    ....valFCF "" "" "" "" ""
+   ...HoleFCF "Rnd 4.8"
+    ....valFCF "" "" "" "" ""
+.SymbolScheme    "Default"
+.SchemeLocation    "Loc"
+

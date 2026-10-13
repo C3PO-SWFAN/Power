@@ -1,0 +1,115 @@
+
+                                   DXF Export
+                                   ----------
+
+                        11:18 AM Wednesday, July 01, 2015
+            Job Name: F:\TEXT TEM\CB_TRONKA_MK_1\PCB\BOARD_2LAYER.pcb
+
+
+
+    DXF File: F:\TEXT TEM\CB_TRONKA_MK_1\PCB\Output\CB_TRONKA.dxf
+
+
+    Total - Export Element
+    ----------------------------------------------------------------------
+
+       128 - Assembly Outlines Btm
+
+        41 - Assembly Outlines Top
+
+        98 - Assembly Part Numbers Btm
+
+        13 - Assembly Part Numbers Top
+
+        98 - Assembly Ref Des Btm
+
+        13 - Assembly Ref Des Top
+
+         1 - Board Origin
+
+         1 - Board Outline
+
+       343 - Drill Drawing
+
+         1 - Etched Text Layer 1
+
+       630 - Generated Silkscreen Btm
+
+       114 - Generated Silkscreen Top
+
+         1 - Manufacturing Outlines
+
+        35 - Mounting Hole Pads Layer 1
+
+        35 - Mounting Hole Pads Layer 2
+
+        63 - Mounting Holes Layer 1
+
+        63 - Mounting Holes Layer 2
+
+         1 - NC Drill Origin
+
+       168 - Part Holes Layer 1
+
+       168 - Part Holes Layer 2
+
+       168 - Part Pads Layer 1
+
+       168 - Part Pads Layer 2
+
+       174 - Part Pads SMD Btm
+
+         6 - Part Pads SMD Top
+
+       348 - Pin Numbers Btm
+
+       348 - Pin Numbers Top
+
+        98 - Placement Outlines Btm
+
+        13 - Placement Outlines Top
+
+       132 - Plane Data Layer 1
+
+       148 - Plane Data Layer 2
+
+       110 - Plane Shapes Layer 1
+
+        95 - Plane Shapes Layer 2
+
+         1 - Route Border
+
+       124 - Silkscreen Outlines Btm
+
+        46 - Silkscreen Outlines Top
+
+        98 - Silkscreen Ref Des Btm
+
+        13 - Silkscreen Ref Des Top
+
+       348 - Soldermask Pads Btm
+
+       180 - Soldermask Pads Top
+
+       174 - Solderpaste Pads Btm
+
+         6 - Solderpaste Pads Top
+
+        32 - Traces Layer 1
+
+       196 - Traces Layer 2
+
+        35 - Via Holes Layer 1
+
+        35 - Via Holes Layer 2
+
+        35 - Via Pads Layer 1
+
+        35 - Via Pads Layer 2
+
+
+    Successful Completion.
+
+
+
+                        11:18 AM Wednesday, July 01, 2015

@@ -1,0 +1,30 @@
+[2018.01.09 10:18:15] [0000m.15s.468ms] [0] WELCOME
+[2018.01.09 10:18:15] [0000m.15s.484ms] [1] iCDB Database ver.1.094, vt40T8RtWJOG2cE2Nlvc5A, build:535943 created 2013-01-08 09:09:26, sources stamp:vt40T8RtWJOG2cE2Nlvc5A
+[2018.01.09 10:18:15] [0000m.15s.484ms] [1] Copyright 2013 Mentor Graphics Corporation. All Rights Reserved.
+[2018.01.09 10:18:15] [0000m.15s.484ms] [1] Base flow version [7.9.4]
+[2018.01.09 10:18:15] [0000m.15s.500ms] [1] GBS Install Id [26418], Flow Id [EE7.9.4], Full Flow Name [Expedition Enterprise Flow], Exact Access Date [Jun 1 2012]
+[2018.01.09 10:18:15] [0000m.15s.500ms] [1] UPDATE Install Info, GBS Install Id [29518], UPDATE Name [Expedition Enterprise Flow - Update 9 for EE7.9.4]
+[2018.01.09 10:18:15] [0000m.15s.500ms] [1] Machine [NIO13_PC1]  User [User]  PID [2300]
+[2018.01.09 10:18:15] [0000m.15s.500ms] [1] Operating system [Microsoft Windows XP Professional Service Pack 3 (build 2600)]
+[2018.01.09 10:18:15] [0000m.15s.500ms] [1] Current working dir [F:\TEXT  TEM\T3-BP_POWER-1]
+[2018.01.09 10:18:15] [0000m.15s.500ms] [1] PATH [C:\MentorGraphics\7.9.4EE\SDD_HOME\wv\win32\bin;C:\MentorGraphics\7.9.4EE\SDD_HOME\common\win32\bin;C:\MentorGraphics\7.9.4EE\SDD_HOME\common\win32\lib;C:\cygwin-1.7.9DMS\bin;C:\MentorGraphics\7.9.4EE\MGC_HOME.ixn\bin;C:\MentorGraphics\7.9.4EE\MGC_HOME.ixn\lib;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS.XP\system32;C:\WINDOWS.XP;C:\WINDOWS.XP\System32\Wbem;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\PCAD\EXE;;C:\BP\BIN;C:\PROGRA~1\COMMON~1\MUVEET~1\030625;C:\BP\BIN\]
+[2018.01.09 10:18:15] [0000m.15s.500ms] [1] SDD_HOME [C:\MentorGraphics\7.9.4EE\SDD_HOME] on file system [NTFS]
+[2018.01.09 10:18:15] [0000m.15s.500ms] [1] SDD_PLATFORM [win32]
+[2018.01.09 10:18:15] [0000m.15s.500ms] [1] WDIR [D:\WDIR;C:\MentorGraphics\7.9.4EE\SDD_HOME\standard]
+[2018.01.09 10:18:15] [0000m.15s.500ms] [1] Local iCDB working dir [D:\WDIR\iCDB] on file system [NTFS]
+[2018.01.09 10:18:15] [0000m.15s.500ms] [3] WARNING: Database [F:\TEXT  TEM\T3-BP_POWER-1\database\icdb.dat] was manually copied
+[2018.01.09 10:18:15] [0000m.15s.500ms] [3] File change time:        [2018-01-09 08.49.22]
+[2018.01.09 10:18:15] [0000m.15s.500ms] [3] File modification time:  [2018-01-08 15.09.06]
+[2018.01.09 10:18:15] [0000m.15s.500ms] [3] Last change time:        [2018-01-08 15.09.06]
+[2018.01.09 10:18:15] [0000m.15s.500ms] [3] Last database open information:
+[2018.01.09 10:18:15] [0000m.15s.500ms] [3] Time:             [2018-01-08 09.44.58]
+[2018.01.09 10:18:15] [0000m.15s.500ms] [3] Location:         [F:\TEXT  TEM\T3-BP_POWER-1\database\icdb.dat]
+[2018.01.09 10:18:15] [0000m.15s.500ms] [3] Machine:          [BUM-PC]
+[2018.01.09 10:18:15] [0000m.15s.500ms] [3] User:             [BUM]
+[2018.01.09 10:18:15] [0000m.15s.500ms] [3] PID:              [4320]
+[2018.01.09 10:18:15] [0000m.15s.500ms] [3] Application:      [iCDB Server]
+[2018.01.09 10:18:15] [0000m.15s.500ms] [3] Operating system: [Microsoft Windows 7 Business Edition, 64-bit Service Pack 1 (build 7601)]
+[2018.01.09 10:18:15] [0000m.15s.500ms] [3] WARNING: Regenerating database GUID
+[2018.01.09 10:18:15] [0000m.15s.500ms] [3] Previous database GUID [fa6d-fd52-ceac-1df1-c30b-f4a1-40bf-4a50-ef50-ae98-1b7a-86c5]
+[2018.01.09 10:18:15] [0000m.15s.500ms] [3] Current database GUID  [0c1b-20a9-2384-dbfc-7ca7-45ac-ca74-5a50-e311-a03c-5c3c-8dfb]
+[2018.01.09 10:18:15] [0000m.15s.500ms] [0] .

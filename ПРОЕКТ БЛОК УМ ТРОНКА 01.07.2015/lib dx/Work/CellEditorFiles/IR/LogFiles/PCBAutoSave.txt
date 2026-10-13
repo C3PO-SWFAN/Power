@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                         02:44 PM Monday, June 24, 2013
+         Job Name: D:\lib dx\Work\CellEditorFiles\IR\PQFN-17-6x5-IR.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                         04:49 PM Monday, June 24, 2013
+         Job Name: D:\lib dx\Work\CellEditorFiles\IR\PQFN-17-6x5-IR.pcb
+

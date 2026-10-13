@@ -1,0 +1,6 @@
+
+Can not open Multiple Via Rules file. File doesn't exist:
+       'C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр ао-2 жхбф.431421.002-01\опнейр\BP_300V_TRONKA\PCB\Config\MultiViaRules.txt'
+
+Can not open Multiple Via Rules file. File doesn't exist:
+       'C:\Users\Work\Desktop\аЮПЮАЮЬ\опнейр ао-2 жхбф.431421.002-01\опнейр\BP_300V_TRONKA\PCB\Layout\MVO_Rules.txt'

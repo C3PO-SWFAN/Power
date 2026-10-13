@@ -1,0 +1,275 @@
+[2017.10.21 11:05:46] [0000m.00s.054ms] [0] WELCOME
+[2017.10.21 11:05:46] [0000m.00s.087ms] [1] iCDB Server ver.1.094, vt40T8RtWJOG2cE2Nlvc5A, build:535943 created 2013-01-08 09:09:26, sources stamp:vt40T8RtWJOG2cE2Nlvc5A
+[2017.10.21 11:05:46] [0000m.00s.087ms] [1] Copyright 2013 Mentor Graphics Corporation. All Rights Reserved.
+[2017.10.21 11:05:46] [0000m.00s.087ms] [1] Base flow version [7.9.4]
+[2017.10.21 11:05:46] [0000m.00s.087ms] [1] GBS Install Id [26418], Flow Id [EE7.9.4], Full Flow Name [Expedition Enterprise Flow], Exact Access Date [Jun 1 2012]
+[2017.10.21 11:05:46] [0000m.00s.087ms] [1] UPDATE Install Info, GBS Install Id [29518], UPDATE Name [Expedition Enterprise Flow - Update 9 for EE7.9.4]
+[2017.10.21 11:05:46] [0000m.00s.087ms] [1] Machine [BUM-PC]  User [BUM]  PID [832]
+[2017.10.21 11:05:46] [0000m.00s.088ms] [1] Operating system [Microsoft Windows 7 Business Edition, 64-bit Service Pack 1 (build 7601)]
+[2017.10.21 11:05:46] [0000m.00s.088ms] [1] Current working dir [F:\TEXT  TEM\BP_3_1_K]
+[2017.10.21 11:05:46] [0000m.00s.088ms] [1] PATH [C:\MentorGraphics\7.9.4EE\MGC_HOME.ixn\bin;C:\MentorGraphics\7.9.4EE\MGC_HOME.ixn\lib;C:\MentorGraphics\7.9.4EE\SDD_HOME\wv\win32\bin;C:\MentorGraphics\7.9.4EE\SDD_HOME\common\win32\bin;C:\MentorGraphics\7.9.4EE\SDD_HOME\common\win32\lib;C:\cygwin-1.7.9DMS\bin;C:\MentorGraphics\7.9.4EE\MGC_HOME.ixn\bin;C:\MentorGraphics\7.9.4EE\MGC_HOME.ixn\lib;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\]
+[2017.10.21 11:05:46] [0000m.00s.088ms] [1] SDD_HOME [C:\MentorGraphics\7.9.4EE\SDD_HOME] on file system [NTFS]
+[2017.10.21 11:05:46] [0000m.00s.088ms] [1] SDD_PLATFORM [win32]
+[2017.10.21 11:05:46] [0000m.00s.088ms] [1] WDIR [D:\WDIR;C:\MentorGraphics\7.9.4EE\SDD_HOME\standard]
+[2017.10.21 11:05:46] [0000m.00s.088ms] [1] Local iCDB working dir [D:\WDIR\iCDB] on file system [NTFS]
+[2017.10.21 11:05:46] [0000m.00s.088ms] [2] S: Loading config files
+[2017.10.21 11:05:46] [0000m.00s.092ms] [1] Config file [F:\TEXT  TEM\BP_3_1_K\database\cdbsvr\Server.cfg] not found
+[2017.10.21 11:05:46] [0000m.00s.093ms] [3] S: Config loaded
+[2017.10.21 11:05:46] [0000m.00s.097ms] [0] S: Project path [F:\TEXT  TEM\BP_3_1_K\database] on file system [NTFS]
+[2017.10.21 11:05:46] [0000m.00s.097ms] [0] S: Project file (.prj) path [F:\TEXT  TEM\BP_3_1_K\BP_3-1_K.prj] on file system [NTFS]
+[2017.10.21 11:05:46] [0000m.00s.097ms] [1] S: WARNING: Database auto-repair support DISABLED
+[2017.10.21 11:05:46] [0000m.00s.098ms] [0] S: Single-user mode (auto)
+[2017.10.21 11:05:46] [0000m.00s.098ms] [0] S: Event polling mode autodetection
+[2017.10.21 11:05:46] [0000m.00s.103ms] [0] S: Started up automatically by iCDB Client: BUM-PC:BUM:1768
+[2017.10.21 11:05:46] [0000m.00s.103ms] [0] S: Auto close mode
+[2017.10.21 11:05:46] [0000m.00s.103ms] [0] S: Database ID [edff-d312-8b5d-9234-c599-1e91-6991-e950-ed1f-8e98-1b7a-86c5]
+[2017.10.21 11:05:46] [0000m.00s.103ms] [0] PathTranslator: BEGIN dumping
+[2017.10.21 11:05:46] [0000m.00s.103ms] [0] PathTranslator: Local -> global path prefix list
+[2017.10.21 11:05:46] [0000m.00s.103ms] [0] PathTranslator: Global -> local path prefix list
+[2017.10.21 11:05:46] [0000m.00s.103ms] [0] PathTranslator: END dumping
+[2017.10.21 11:05:46] [0000m.00s.103ms] [0] S: START
+[2017.10.21 11:05:46] [0000m.00s.104ms] [0] S: Server startup lock file created
+[2017.10.21 11:05:46] [0000m.00s.104ms] [0] S: Listening for client connections on port [10000]
+[2017.10.21 11:05:46] [0000m.00s.105ms] [0] S: Server network ID [BUM-PC:192.168.1.2,BUM-PC:10000]
+[2017.10.21 11:05:46] [0000m.00s.105ms] [0] S: Server GUID [441f-8e08-2eec-8cbd-adff-ae9f-dffa-e950-af6f-8e98-1b7a-86c5]
+[2017.10.21 11:05:46] [0000m.00s.105ms] [0] S: Project GUID [edff-d312-8b5d-9234-c599-1e91-6991-e950-ed1f-8e98-1b7a-86c5]
+[2017.10.21 11:05:46] [0000m.00s.107ms] [0] S: Wrote data to server address file
+[2017.10.21 11:05:46] [0000m.00s.107ms] [0] S: Server startup lock file removed
+[2017.10.21 11:05:46] [0000m.00s.107ms] [1] ProjectBackupManager: Setting project file (.prj) path: [F:\TEXT  TEM\BP_3_1_K\BP_3-1_K.prj]
+[2017.10.21 11:05:46] [0000m.00s.223ms] [0] S: Plugins loaded: [PIM] [ENetGen70] 
+[2017.10.21 11:05:46] [0000m.00s.223ms] [0] S: Local disc access time: 37 us
+[2017.10.21 11:05:46] [0000m.00s.223ms] [0] S: File server access time: 39 us
+[2017.10.21 11:05:46] [0000m.00s.248ms] [0] Single file [F:\TEXT  TEM\BP_3_1_K\database\icdb.dat] size [124088 (121.2 kB)]
+[2017.10.21 11:05:46] [0000m.00s.248ms] [1] Single file [F:\TEXT  TEM\BP_3_1_K\database\icdb.dat] opened in read-write mode
+[2017.10.21 11:05:46] [0000m.00s.248ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2017.10.21 11:05:46] [0000m.00s.248ms] [0] Database GUARD OK: [124088]
+[2017.10.21 11:05:46] [0000m.00s.249ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2017.10.21 11:05:46] [0000m.00s.249ms] [0] Database GUARD OK: [124088]
+[2017.10.21 11:05:46] [0000m.00s.249ms] [0] SingleFile: [81b8-805c-ff69-035a] SFI version check [1009] [1009]
+[2017.10.21 11:05:46] [0000m.00s.252ms] [0] SingleFile: [81b8-805c-ff69-035a] Database SFI header has been read in [3ms 485us]
+[2017.10.21 11:05:46] [0000m.00s.256ms] [0] iCDB Server PI: Server & plugin session [376]
+[2017.10.21 11:05:46] [0000m.00s.256ms] [0] iCDB Server PI: Opening database [F:\TEXT  TEM\BP_3_1_K\database]
+[2017.10.21 11:05:46] [0000m.00s.256ms] [0] iCDB Server PI: Database [F:\TEXT  TEM\BP_3_1_K\database] opened
+[2017.10.21 11:05:46] [0000m.00s.270ms] [0] iCDB Database: Checking existence of constraint definitions
+[2017.10.21 11:05:46] [0000m.00s.270ms] [0] iCDB Database: Checking constraint definitions version
+[2017.10.21 11:05:47] [0000m.00s.348ms] [1] iCDB Database: Constraint definitions version [ce_ee.cns=7.10.24;user.cns=1ed2-5ac3-44b7-cb35-1c4e-2986-c4e2-9850-47b8-48b5-0817-03e2] up to date
+[2017.10.21 11:05:47] [0000m.00s.356ms] [0] iCDB Server PI: Initializing plugins
+[2017.10.21 11:05:47] [0000m.00s.357ms] [0] iCDB Server PI: Plugins initialized
+[2017.10.21 11:05:47] [0000m.00s.357ms] [0] S: iCDB database loaded
+[2017.10.21 11:05:47] [0000m.00s.358ms] [0] S: Starting threads
+[2017.10.21 11:05:47] [0000m.00s.359ms] [0] BT: Listening for broadcast messages on port [10000]
+[2017.10.21 11:05:47] [0000m.00s.361ms] [0] IT: Session [377] for host [BUM-PC] user [BUM] with process ID [1768] created
+[2017.10.21 11:05:47] [0000m.00s.361ms] [1] CMT: There are [1] clients now: 377
+[2017.10.21 11:05:47] [0000m.00s.363ms] [1] SC[377]: Registered sub-client [DxD] with ID [1] for session ID [377] host [BUM-PC] user [BUM] process ID [1768]
+[2017.10.21 11:05:47] [0000m.00s.395ms] [1] SC[377]: Registered sub-client [TransactionRollbackSubClient] with ID [2] for session ID [377] host [BUM-PC] user [BUM] process ID [1768]
+[2017.10.21 11:05:47] [0000m.00s.399ms] [1] SC[377]: Registered sub-client [xprob] with ID [3] for session ID [377] host [BUM-PC] user [BUM] process ID [1768]
+[2017.10.21 11:05:48] [0000m.02s.026ms] [1] SC[377]: Registered sub-client [SelectionHolder] with ID [4] for session ID [377] host [BUM-PC] user [BUM] process ID [1768]
+[2017.10.21 11:05:48] [0000m.02s.056ms] [1] SC[377]: Registered sub-client [SymbolEditor] with ID [5] for session ID [377] host [BUM-PC] user [BUM] process ID [1768]
+[2017.10.21 11:05:48] [0000m.02s.062ms] [1] SC[377]: Registered sub-client [EEVM_EEVM_226508924] with ID [6] for session ID [377] host [BUM-PC] user [BUM] process ID [1768]
+[2017.10.21 11:05:48] [0000m.02s.063ms] [1] SC[377]: UnRegistered sub-client [EEVM_EEVM_226508924] with ID [6] for session ID [377] host [BUM-PC] user [BUM] process ID [1768]
+[2017.10.21 11:05:48] [0000m.02s.067ms] [1] SC[377]: Registered sub-client [EEVM_EEVM_226508924] with ID [7] for session ID [377] host [BUM-PC] user [BUM] process ID [1768]
+[2017.10.21 11:05:48] [0000m.02s.080ms] [1] SC[377]: UnRegistered sub-client [EEVM_EEVM_226508924] with ID [7] for session ID [377] host [BUM-PC] user [BUM] process ID [1768]
+[2017.10.21 11:05:48] [0000m.02s.083ms] [1] SC[377]: Registered sub-client [EEVM_EEVM_226508924] with ID [8] for session ID [377] host [BUM-PC] user [BUM] process ID [1768]
+[2017.10.21 11:05:48] [0000m.02s.099ms] [1] SC[377]: UnRegistered sub-client [EEVM_EEVM_226508924] with ID [8] for session ID [377] host [BUM-PC] user [BUM] process ID [1768]
+[2017.10.21 11:05:48] [0000m.02s.102ms] [1] SC[377]: Registered sub-client [EEVM_EEVM_226508924] with ID [9] for session ID [377] host [BUM-PC] user [BUM] process ID [1768]
+[2017.10.21 11:05:48] [0000m.02s.114ms] [1] SC[377]: UnRegistered sub-client [EEVM_EEVM_226508924] with ID [9] for session ID [377] host [BUM-PC] user [BUM] process ID [1768]
+[2017.10.21 11:05:49] [0000m.02s.963ms] [1] SC[377]: Registered sub-client [HdlProject] with ID [10] for session ID [377] host [BUM-PC] user [BUM] process ID [1768]
+[2017.10.21 11:05:49] [0000m.02s.977ms] [1] SC[377]: Registered sub-client [Navigator] with ID [11] for session ID [377] host [BUM-PC] user [BUM] process ID [1768]
+[2017.10.21 11:05:49] [0000m.02s.995ms] [1] SC[377]: Registered sub-client [OutputWindow] with ID [12] for session ID [377] host [BUM-PC] user [BUM] process ID [1768]
+[2017.10.21 11:05:49] [0000m.03s.000ms] [1] SC[377]: Registered sub-client [PlaceDevice] with ID [13] for session ID [377] host [BUM-PC] user [BUM] process ID [1768]
+[2017.10.21 11:05:50] [0000m.03s.465ms] [1] SC[377]: Registered sub-client [SAE] with ID [14] for session ID [377] host [BUM-PC] user [BUM] process ID [1768]
+[2017.10.21 11:05:50] [0000m.03s.468ms] [1] SC[377]: Registered sub-client [CCZAddin] with ID [15] for session ID [377] host [BUM-PC] user [BUM] process ID [1768]
+[2017.10.21 11:05:50] [0000m.03s.471ms] [1] SC[377]: Registered sub-client [DxThumbnails] with ID [16] for session ID [377] host [BUM-PC] user [BUM] process ID [1768]
+[2017.10.21 11:05:50] [0000m.03s.475ms] [1] SC[377]: Registered sub-client [DxSim] with ID [17] for session ID [377] host [BUM-PC] user [BUM] process ID [1768]
+[2017.10.21 11:05:50] [0000m.03s.582ms] [1] SC[377]: Registered sub-client [SheetConnectorsCacheDxD:1508573150] with ID [18] for session ID [377] host [BUM-PC] user [BUM] process ID [1768]
+[2017.10.21 11:05:50] [0000m.03s.618ms] [1] SC[377]: Registered sub-client [NetsNamesCollectorDxD:1508573150] with ID [19] for session ID [377] host [BUM-PC] user [BUM] process ID [1768]
+[2017.10.21 11:05:50] [0000m.03s.729ms] [1] SC[377]: Registered sub-client [ObjectHolder_171136336] with ID [20] for session ID [377] host [BUM-PC] user [BUM] process ID [1768]
+[2017.10.21 11:05:50] [0000m.03s.733ms] [1] SC[377]: Registered sub-client [BlockCacheDxD:404373704] with ID [21] for session ID [377] host [BUM-PC] user [BUM] process ID [1768]
+[2017.10.21 11:05:50] [0000m.03s.736ms] [1] SC[377]: Registered sub-client [GlobalNetAliasUpdater_171136512] with ID [22] for session ID [377] host [BUM-PC] user [BUM] process ID [1768]
+[2017.10.21 11:05:50] [0000m.03s.739ms] [1] SC[377]: Registered sub-client [IcdbNetProcessorSubClientDxD:374012600] with ID [23] for session ID [377] host [BUM-PC] user [BUM] process ID [1768]
+[2017.10.21 11:05:51] [0000m.04s.355ms] [1] SC[377]: Registered sub-client [DxDbSearch] with ID [24] for session ID [377] host [BUM-PC] user [BUM] process ID [1768]
+[2017.10.21 11:06:06] [0000m.19s.423ms] [0] DFAMT: File server access time: 54 us
+[2017.10.21 11:06:17] [0000m.30s.865ms] [1] PrjBackupMgr: Successfully created Project Backup [F:\TEXT  TEM\BP_3_1_K\ProjectBackup\backups\2017-10-21 11.06.17 - auto.zip] with GUID [3cf5-67e1-6de1-e27c-9fff-ae9e-fffa-e950-2520-9e98-1b7a-86c5]
+[2017.10.21 11:06:17] [0000m.30s.866ms] [0] PrjBackupMgr: Removing excessive backup:  BackupGUID[d151-9122-6b14-3787-9e5c-4d9e-e5c4-d950-eb01-a01c-9c3c-8dfb] CreationTime[Wednesday, October 04, 2017 11:28:41] Type[Autosave] Creator[iCDB Server (2017-10-04 14.15.39-5420)] ApplicationName[iCDB Server (2017-10-04 14.15.39-5420)] UserName[User] MachineName[NIO13_PC1] Description[Autosave] FullFlowName[Expedition Enterprise Flow; Expedition Enterprise Flow - Update 9 for EE7.9.4] FlowId[EE7.9.4] GBSInstallId[26418; 29518] GBSBuildId[535943] IcdbVersion[2709] ReferenceLogFilePath[] BackupFilePath[F:\TEXT  TEM\BP_3_1_K\ProjectBackup\backups\2017-10-04 14.28.41 - auto.zip] BackupFileSize[358468] Persistent[FALSE]
+[2017.10.21 11:06:17] [0000m.30s.866ms] [0] PrjBackupMgr: Project Backup file [F:\TEXT  TEM\BP_3_1_K\ProjectBackup\backups\2017-10-04 14.28.41 - auto.zip] with GUID [d151-9122-6b14-3787-9e5c-4d9e-e5c4-d950-eb01-a01c-9c3c-8dfb] removed
+[2017.10.21 11:06:17] [0000m.30s.867ms] [0] PrjBackupEngine: Successfully created backup:  BackupGUID[3cf5-67e1-6de1-e27c-9fff-ae9e-fffa-e950-2520-9e98-1b7a-86c5] CreationTime[Saturday, October 21, 2017 08:06:17] Type[Autosave] Creator[iCDB Server (2017-10-21 11.05.46-832)] ApplicationName[iCDB Server (2017-10-21 11.05.46-832)] UserName[BUM] MachineName[BUM-PC] Description[Autosave] FullFlowName[Expedition Enterprise Flow; Expedition Enterprise Flow - Update 9 for EE7.9.4] FlowId[EE7.9.4] GBSInstallId[26418; 29518] GBSBuildId[535943] IcdbVersion[2709] ReferenceLogFilePath[] BackupFilePath[F:\TEXT  TEM\BP_3_1_K\ProjectBackup\backups\2017-10-21 11.06.17 - auto.zip] BackupFileSize[366316] Persistent[FALSE]
+[2017.10.21 11:44:24] [0038m.37s.642ms] [0] IT: Session [378] for host [BUM-PC] user [BUM] with process ID [3292] created
+[2017.10.21 11:44:24] [0038m.37s.642ms] [1] SC[378]: Registered sub-client [DxPDFDialogClient] with ID [1] for session ID [378] host [BUM-PC] user [BUM] process ID [3292]
+[2017.10.21 11:44:24] [0038m.37s.656ms] [1] SC[378]: UnRegistered sub-client [DxPDFDialogClient] with ID [1] for session ID [378] host [BUM-PC] user [BUM] process ID [3292]
+[2017.10.21 11:44:24] [0038m.37s.669ms] [1] CMT: There are [2] clients now: 377, 378
+[2017.10.21 11:44:24] [0038m.37s.669ms] [1] CMT: Removed client [378]
+[2017.10.21 11:44:24] [0038m.37s.669ms] [1] CMT: There are [1] clients now: 377
+[2017.10.21 11:44:29] [0038m.42s.770ms] [0] IT: Session [379] for host [BUM-PC] user [BUM] with process ID [3868] created
+[2017.10.21 11:44:29] [0038m.42s.771ms] [1] SC[379]: Registered sub-client [Sch2PdfClient] with ID [1] for session ID [379] host [BUM-PC] user [BUM] process ID [3868]
+[2017.10.21 11:44:29] [0038m.42s.806ms] [1] SC[379]: Registered sub-client [SheetConnectorsCacheDxD:1508575469] with ID [2] for session ID [379] host [BUM-PC] user [BUM] process ID [3868]
+[2017.10.21 11:44:29] [0038m.42s.827ms] [1] CMT: There are [2] clients now: 377, 379
+[2017.10.21 11:44:29] [0038m.42s.846ms] [1] SC[379]: Registered sub-client [ICE_ICTIND] with ID [3] for session ID [379] host [BUM-PC] user [BUM] process ID [3868]
+[2017.10.21 11:44:29] [0038m.43s.305ms] [1] SC[379]: UnRegistered sub-client [SheetConnectorsCacheDxD:1508575469] with ID [2] for session ID [379] host [BUM-PC] user [BUM] process ID [3868]
+[2017.10.21 11:44:29] [0038m.43s.305ms] [1] SC[379]: UnRegistered sub-client [Sch2PdfClient] with ID [1] for session ID [379] host [BUM-PC] user [BUM] process ID [3868]
+[2017.10.21 11:44:29] [0038m.43s.310ms] [1] SC[379]: UnRegistered sub-client [ICE_ICTIND] with ID [3] for session ID [379] host [BUM-PC] user [BUM] process ID [3868]
+[2017.10.21 11:44:29] [0038m.43s.328ms] [1] CMT: Removed client [379]
+[2017.10.21 11:44:29] [0038m.43s.328ms] [1] CMT: There are [1] clients now: 377
+[2017.10.21 12:11:01] [0065m.15s.295ms] [0] IT: Session [380] for host [BUM-PC] user [BUM] with process ID [4224] created
+[2017.10.21 12:11:01] [0065m.15s.296ms] [1] SC[380]: Registered sub-client [DxPDFDialogClient] with ID [1] for session ID [380] host [BUM-PC] user [BUM] process ID [4224]
+[2017.10.21 12:11:01] [0065m.15s.303ms] [1] CMT: There are [2] clients now: 377, 380
+[2017.10.21 12:11:01] [0065m.15s.308ms] [1] SC[380]: UnRegistered sub-client [DxPDFDialogClient] with ID [1] for session ID [380] host [BUM-PC] user [BUM] process ID [4224]
+[2017.10.21 12:11:02] [0065m.15s.403ms] [1] CMT: Removed client [380]
+[2017.10.21 12:11:02] [0065m.15s.403ms] [1] CMT: There are [1] clients now: 377
+[2017.10.21 12:11:06] [0065m.20s.240ms] [0] IT: Session [381] for host [BUM-PC] user [BUM] with process ID [3472] created
+[2017.10.21 12:11:06] [0065m.20s.241ms] [1] SC[381]: Registered sub-client [Sch2PdfClient] with ID [1] for session ID [381] host [BUM-PC] user [BUM] process ID [3472]
+[2017.10.21 12:11:06] [0065m.20s.264ms] [1] SC[381]: Registered sub-client [SheetConnectorsCacheDxD:1508577066] with ID [2] for session ID [381] host [BUM-PC] user [BUM] process ID [3472]
+[2017.10.21 12:11:06] [0065m.20s.315ms] [1] SC[381]: Registered sub-client [ICE_ICTIND] with ID [3] for session ID [381] host [BUM-PC] user [BUM] process ID [3472]
+[2017.10.21 12:11:07] [0065m.20s.340ms] [1] CMT: There are [2] clients now: 377, 381
+[2017.10.21 12:11:07] [0065m.20s.680ms] [1] SC[381]: UnRegistered sub-client [SheetConnectorsCacheDxD:1508577066] with ID [2] for session ID [381] host [BUM-PC] user [BUM] process ID [3472]
+[2017.10.21 12:11:07] [0065m.20s.680ms] [1] SC[381]: UnRegistered sub-client [Sch2PdfClient] with ID [1] for session ID [381] host [BUM-PC] user [BUM] process ID [3472]
+[2017.10.21 12:11:07] [0065m.20s.680ms] [1] SC[381]: UnRegistered sub-client [ICE_ICTIND] with ID [3] for session ID [381] host [BUM-PC] user [BUM] process ID [3472]
+[2017.10.21 12:11:07] [0065m.20s.822ms] [1] CMT: Removed client [381]
+[2017.10.21 12:11:07] [0065m.20s.822ms] [1] CMT: There are [1] clients now: 377
+[2017.10.21 12:16:24] [0070m.38s.167ms] [0] IT: Session [382] for host [BUM-PC] user [BUM] with process ID [4660] created
+[2017.10.21 12:16:24] [0070m.38s.167ms] [1] SC[382]: Registered sub-client [CDBPackagerGUI] with ID [1] for session ID [382] host [BUM-PC] user [BUM] process ID [4660]
+[2017.10.21 12:16:24] [0070m.38s.181ms] [1] SC[382]: UnRegistered sub-client [CDBPackagerGUI] with ID [1] for session ID [382] host [BUM-PC] user [BUM] process ID [4660]
+[2017.10.21 12:16:24] [0070m.38s.183ms] [1] CMT: There are [2] clients now: 377, 382
+[2017.10.21 12:16:24] [0070m.38s.183ms] [1] CMT: Removed client [382]
+[2017.10.21 12:16:24] [0070m.38s.183ms] [1] CMT: There are [1] clients now: 377
+[2017.10.21 12:16:27] [0070m.41s.298ms] [0] IT: Session [383] for host [BUM-PC] user [BUM] with process ID [3532] created
+[2017.10.21 12:16:27] [0070m.41s.299ms] [1] SC[383]: Registered sub-client [Packager_13062088] with ID [1] for session ID [383] host [BUM-PC] user [BUM] process ID [3532]
+[2017.10.21 12:16:28] [0070m.41s.387ms] [1] CMT: There are [2] clients now: 377, 383
+[2017.10.21 12:16:29] [0070m.42s.870ms] [1] SC[383]: UnRegistered sub-client [Packager_13062088] with ID [1] for session ID [383] host [BUM-PC] user [BUM] process ID [3532]
+[2017.10.21 12:16:29] [0070m.42s.941ms] [1] CMT: Removed client [383]
+[2017.10.21 12:16:29] [0070m.42s.941ms] [1] CMT: There are [1] clients now: 377
+[2017.10.21 12:16:45] [0070m.58s.395ms] [0] IT: Session [384] for host [BUM-PC] user [BUM] with process ID [3192] created
+[2017.10.21 12:16:45] [0070m.58s.397ms] [1] SC[384]: Registered sub-client [Expedition PCB_13079186] with ID [1] for session ID [384] host [BUM-PC] user [BUM] process ID [3192]
+[2017.10.21 12:16:45] [0070m.58s.413ms] [1] CMT: There are [2] clients now: 377, 384
+[2017.10.21 12:16:45] [0070m.58s.461ms] [1] SC[384]: Registered sub-client [EEVM_EEVM_325553916] with ID [2] for session ID [384] host [BUM-PC] user [BUM] process ID [3192]
+[2017.10.21 12:16:45] [0070m.58s.471ms] [1] SC[384]: UnRegistered sub-client [EEVM_EEVM_325553916] with ID [2] for session ID [384] host [BUM-PC] user [BUM] process ID [3192]
+[2017.10.21 12:16:45] [0070m.58s.475ms] [1] SC[384]: Registered sub-client [EEVM_EEVM_325553916] with ID [3] for session ID [384] host [BUM-PC] user [BUM] process ID [3192]
+[2017.10.21 12:16:45] [0070m.58s.487ms] [1] SC[384]: UnRegistered sub-client [EEVM_EEVM_325553916] with ID [3] for session ID [384] host [BUM-PC] user [BUM] process ID [3192]
+[2017.10.21 12:16:49] [0071m.03s.296ms] [1] SC[384]: Registered sub-client [ExpeditionCrossProber] with ID [4] for session ID [384] host [BUM-PC] user [BUM] process ID [3192]
+[2017.10.21 12:16:50] [0071m.03s.799ms] [1] SC[384]: Registered sub-client [JobPrefsDBPI_13084630] with ID [5] for session ID [384] host [BUM-PC] user [BUM] process ID [3192]
+[2017.10.21 12:16:50] [0071m.03s.803ms] [1] SC[384]: UnRegistered sub-client [JobPrefsDBPI_13084630] with ID [5] for session ID [384] host [BUM-PC] user [BUM] process ID [3192]
+[2017.10.21 12:16:56] [0071m.10s.200ms] [1] SC[384]: Registered sub-client [JobPrefsDBPI_13091026] with ID [6] for session ID [384] host [BUM-PC] user [BUM] process ID [3192]
+[2017.10.21 12:16:56] [0071m.10s.220ms] [1] SC[384]: UnRegistered sub-client [JobPrefsDBPI_13091026] with ID [6] for session ID [384] host [BUM-PC] user [BUM] process ID [3192]
+[2017.10.21 12:16:56] [0071m.10s.230ms] [1] SC[384]: UnRegistered sub-client [ExpeditionCrossProber] with ID [4] for session ID [384] host [BUM-PC] user [BUM] process ID [3192]
+[2017.10.21 12:16:56] [0071m.10s.238ms] [1] SC[384]: Registered sub-client [EEVM_EEVM_1633988] with ID [7] for session ID [384] host [BUM-PC] user [BUM] process ID [3192]
+[2017.10.21 12:16:56] [0071m.10s.239ms] [1] SC[384]: UnRegistered sub-client [EEVM_EEVM_1633988] with ID [7] for session ID [384] host [BUM-PC] user [BUM] process ID [3192]
+[2017.10.21 12:16:57] [0071m.10s.366ms] [1] SC[384]: Registered sub-client [JobPrefsDBPI_13091198] with ID [8] for session ID [384] host [BUM-PC] user [BUM] process ID [3192]
+[2017.10.21 12:16:57] [0071m.10s.386ms] [1] SC[384]: UnRegistered sub-client [JobPrefsDBPI_13091198] with ID [8] for session ID [384] host [BUM-PC] user [BUM] process ID [3192]
+[2017.10.21 12:16:57] [0071m.10s.446ms] [1] SC[384]: Registered sub-client [JobPrefsDBPI_13091276] with ID [9] for session ID [384] host [BUM-PC] user [BUM] process ID [3192]
+[2017.10.21 12:16:57] [0071m.10s.467ms] [1] SC[384]: UnRegistered sub-client [JobPrefsDBPI_13091276] with ID [9] for session ID [384] host [BUM-PC] user [BUM] process ID [3192]
+[2017.10.21 12:16:57] [0071m.10s.703ms] [0] IT: Session [385] for host [BUM-PC] user [BUM] with process ID [4352] created
+[2017.10.21 12:16:57] [0071m.10s.705ms] [1] SC[385]: Registered sub-client [Packager_13091479] with ID [1] for session ID [385] host [BUM-PC] user [BUM] process ID [4352]
+[2017.10.21 12:16:57] [0071m.10s.736ms] [1] CMT: There are [3] clients now: 377, 384, 385
+[2017.10.21 12:16:58] [0071m.12s.185ms] [1] SC[385]: UnRegistered sub-client [Packager_13091479] with ID [1] for session ID [385] host [BUM-PC] user [BUM] process ID [4352]
+[2017.10.21 12:16:58] [0071m.12s.238ms] [1] CMT: Removed client [385]
+[2017.10.21 12:16:58] [0071m.12s.238ms] [1] CMT: There are [2] clients now: 377, 384
+[2017.10.21 12:16:59] [0071m.12s.605ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [F:\TEXT  TEM\BP_3_1_K\database\s2\cdbcatlg\grpobj] - auto-saving it
+[2017.10.21 12:16:59] [0071m.13s.034ms] [0] IT: Session [386] for host [BUM-PC] user [BUM] with process ID [3960] created
+[2017.10.21 12:16:59] [0071m.13s.035ms] [1] SC[386]: Registered sub-client [Expedition_13093819] with ID [1] for session ID [386] host [BUM-PC] user [BUM] process ID [3960]
+[2017.10.21 12:16:59] [0071m.13s.038ms] [1] CMT: There are [3] clients now: 377, 384, 386
+[2017.10.21 12:16:59] [0071m.13s.101ms] [1] SC[386]: UnRegistered sub-client [Expedition_13093819] with ID [1] for session ID [386] host [BUM-PC] user [BUM] process ID [3960]
+[2017.10.21 12:16:59] [0071m.13s.138ms] [1] CMT: Removed client [386]
+[2017.10.21 12:16:59] [0071m.13s.138ms] [1] CMT: There are [2] clients now: 377, 384
+[2017.10.21 12:17:01] [0071m.15s.067ms] [0] IT: Session [387] for host [BUM-PC] user [BUM] with process ID [3960] created
+[2017.10.21 12:17:01] [0071m.15s.067ms] [1] SC[387]: Registered sub-client [JobPrefsDBPI_13095847] with ID [1] for session ID [387] host [BUM-PC] user [BUM] process ID [3960]
+[2017.10.21 12:17:01] [0071m.15s.094ms] [1] SC[387]: UnRegistered sub-client [JobPrefsDBPI_13095847] with ID [1] for session ID [387] host [BUM-PC] user [BUM] process ID [3960]
+[2017.10.21 12:17:01] [0071m.15s.139ms] [1] CMT: There are [3] clients now: 377, 384, 387
+[2017.10.21 12:17:01] [0071m.15s.139ms] [1] CMT: Removed client [387]
+[2017.10.21 12:17:01] [0071m.15s.139ms] [1] CMT: There are [2] clients now: 377, 384
+[2017.10.21 12:17:02] [0071m.15s.670ms] [0] IT: Session [388] for host [BUM-PC] user [BUM] with process ID [3960] created
+[2017.10.21 12:17:02] [0071m.15s.671ms] [1] SC[388]: Registered sub-client [JobPrefsDBPI_13096455] with ID [1] for session ID [388] host [BUM-PC] user [BUM] process ID [3960]
+[2017.10.21 12:17:02] [0071m.15s.744ms] [1] CMT: There are [3] clients now: 377, 384, 388
+[2017.10.21 12:17:05] [0071m.18s.462ms] [1] SC[388]: UnRegistered sub-client [JobPrefsDBPI_13096455] with ID [1] for session ID [388] host [BUM-PC] user [BUM] process ID [3960]
+[2017.10.21 12:17:05] [0071m.18s.467ms] [1] CMT: Removed client [388]
+[2017.10.21 12:17:05] [0071m.18s.467ms] [1] CMT: There are [2] clients now: 377, 384
+[2017.10.21 12:17:05] [0071m.19s.154ms] [0] IT: Session [389] for host [BUM-PC] user [BUM] with process ID [4700] created
+[2017.10.21 12:17:05] [0071m.19s.156ms] [1] SC[389]: Registered sub-client [JobPrefsDBPI_13099934] with ID [1] for session ID [389] host [BUM-PC] user [BUM] process ID [4700]
+[2017.10.21 12:17:05] [0071m.19s.183ms] [1] CMT: There are [3] clients now: 377, 384, 389
+[2017.10.21 12:17:05] [0071m.19s.184ms] [1] SC[389]: Registered sub-client [Expedition_13100012] with ID [2] for session ID [389] host [BUM-PC] user [BUM] process ID [4700]
+[2017.10.21 12:17:05] [0071m.19s.206ms] [1] SC[389]: UnRegistered sub-client [JobPrefsDBPI_13099934] with ID [1] for session ID [389] host [BUM-PC] user [BUM] process ID [4700]
+[2017.10.21 12:17:05] [0071m.19s.240ms] [1] SC[389]: UnRegistered sub-client [Expedition_13100012] with ID [2] for session ID [389] host [BUM-PC] user [BUM] process ID [4700]
+[2017.10.21 12:17:05] [0071m.19s.283ms] [1] CMT: Removed client [389]
+[2017.10.21 12:17:05] [0071m.19s.283ms] [1] CMT: There are [2] clients now: 377, 384
+[2017.10.21 12:17:06] [0071m.19s.861ms] [1] SC[384]: Registered sub-client [EEVM_EEVM_325560780] with ID [10] for session ID [384] host [BUM-PC] user [BUM] process ID [3192]
+[2017.10.21 12:17:06] [0071m.19s.874ms] [1] SC[384]: UnRegistered sub-client [EEVM_EEVM_325560780] with ID [10] for session ID [384] host [BUM-PC] user [BUM] process ID [3192]
+[2017.10.21 12:17:06] [0071m.19s.878ms] [1] SC[384]: Registered sub-client [EEVM_EEVM_325560780] with ID [11] for session ID [384] host [BUM-PC] user [BUM] process ID [3192]
+[2017.10.21 12:17:06] [0071m.19s.879ms] [1] SC[384]: UnRegistered sub-client [EEVM_EEVM_325560780] with ID [11] for session ID [384] host [BUM-PC] user [BUM] process ID [3192]
+[2017.10.21 12:17:06] [0071m.19s.883ms] [1] SC[384]: Registered sub-client [EEVM_EEVM_325560780] with ID [12] for session ID [384] host [BUM-PC] user [BUM] process ID [3192]
+[2017.10.21 12:17:06] [0071m.19s.912ms] [1] SC[384]: UnRegistered sub-client [EEVM_EEVM_325560780] with ID [12] for session ID [384] host [BUM-PC] user [BUM] process ID [3192]
+[2017.10.21 12:17:07] [0071m.20s.336ms] [1] SC[384]: UnRegistered sub-client [Expedition PCB_13079186] with ID [1] for session ID [384] host [BUM-PC] user [BUM] process ID [3192]
+[2017.10.21 12:17:07] [0071m.20s.391ms] [1] CMT: Removed client [384]
+[2017.10.21 12:17:07] [0071m.20s.391ms] [1] CMT: There are [1] clients now: 377
+[2017.10.21 12:17:07] [0071m.20s.533ms] [0] IT: Session [390] for host [BUM-PC] user [BUM] with process ID [3192] created
+[2017.10.21 12:17:07] [0071m.20s.535ms] [1] SC[390]: Registered sub-client [Expedition PCB_13101307] with ID [1] for session ID [390] host [BUM-PC] user [BUM] process ID [3192]
+[2017.10.21 12:17:07] [0071m.20s.599ms] [1] CMT: There are [2] clients now: 377, 390
+[2017.10.21 12:17:07] [0071m.21s.094ms] [1] SC[390]: Registered sub-client [JobPrefsDBPI_13101931] with ID [2] for session ID [390] host [BUM-PC] user [BUM] process ID [3192]
+[2017.10.21 12:17:07] [0071m.21s.097ms] [1] SC[390]: UnRegistered sub-client [JobPrefsDBPI_13101931] with ID [2] for session ID [390] host [BUM-PC] user [BUM] process ID [3192]
+[2017.10.21 12:17:07] [0071m.21s.177ms] [1] SC[390]: Registered sub-client [JobPrefsDBPI_13102009] with ID [3] for session ID [390] host [BUM-PC] user [BUM] process ID [3192]
+[2017.10.21 12:17:07] [0071m.21s.182ms] [1] SC[390]: UnRegistered sub-client [JobPrefsDBPI_13102009] with ID [3] for session ID [390] host [BUM-PC] user [BUM] process ID [3192]
+[2017.10.21 12:17:07] [0071m.21s.196ms] [1] SC[390]: Registered sub-client [ExpeditionCrossProber] with ID [4] for session ID [390] host [BUM-PC] user [BUM] process ID [3192]
+[2017.10.21 12:42:17] [0096m.30s.770ms] [1] SC[390]: UnRegistered sub-client [ExpeditionCrossProber] with ID [4] for session ID [390] host [BUM-PC] user [BUM] process ID [3192]
+[2017.10.21 12:42:17] [0096m.30s.877ms] [1] SC[390]: UnRegistered sub-client [Expedition PCB_13101307] with ID [1] for session ID [390] host [BUM-PC] user [BUM] process ID [3192]
+[2017.10.21 12:42:17] [0096m.30s.955ms] [1] CMT: Removed client [390]
+[2017.10.21 12:42:17] [0096m.30s.955ms] [1] CMT: There are [1] clients now: 377
+[2017.10.21 12:42:35] [0096m.48s.944ms] [0] IT: Session [391] for host [BUM-PC] user [BUM] with process ID [3104] created
+[2017.10.21 12:42:35] [0096m.48s.946ms] [1] SC[391]: Registered sub-client [Expedition PCB_14629664] with ID [1] for session ID [391] host [BUM-PC] user [BUM] process ID [3104]
+[2017.10.21 12:42:35] [0096m.48s.978ms] [1] SC[391]: Registered sub-client [EEVM_EEVM_315426404] with ID [2] for session ID [391] host [BUM-PC] user [BUM] process ID [3104]
+[2017.10.21 12:42:35] [0096m.48s.988ms] [1] SC[391]: UnRegistered sub-client [EEVM_EEVM_315426404] with ID [2] for session ID [391] host [BUM-PC] user [BUM] process ID [3104]
+[2017.10.21 12:42:35] [0096m.48s.992ms] [1] SC[391]: Registered sub-client [EEVM_EEVM_315426404] with ID [3] for session ID [391] host [BUM-PC] user [BUM] process ID [3104]
+[2017.10.21 12:42:35] [0096m.49s.004ms] [1] SC[391]: UnRegistered sub-client [EEVM_EEVM_315426404] with ID [3] for session ID [391] host [BUM-PC] user [BUM] process ID [3104]
+[2017.10.21 12:42:35] [0096m.49s.031ms] [1] CMT: There are [2] clients now: 377, 391
+[2017.10.21 12:42:36] [0096m.49s.740ms] [1] SC[391]: Registered sub-client [ExpeditionCrossProber] with ID [4] for session ID [391] host [BUM-PC] user [BUM] process ID [3104]
+[2017.10.21 12:42:36] [0096m.50s.128ms] [1] SC[391]: Registered sub-client [JobPrefsDBPI_14630959] with ID [5] for session ID [391] host [BUM-PC] user [BUM] process ID [3104]
+[2017.10.21 12:42:36] [0096m.50s.132ms] [1] SC[391]: UnRegistered sub-client [JobPrefsDBPI_14630959] with ID [5] for session ID [391] host [BUM-PC] user [BUM] process ID [3104]
+[2017.10.21 12:44:40] [0098m.53s.704ms] [1] SC[391]: UnRegistered sub-client [ExpeditionCrossProber] with ID [4] for session ID [391] host [BUM-PC] user [BUM] process ID [3104]
+[2017.10.21 12:44:40] [0098m.53s.997ms] [1] SC[391]: UnRegistered sub-client [Expedition PCB_14629664] with ID [1] for session ID [391] host [BUM-PC] user [BUM] process ID [3104]
+[2017.10.21 12:44:40] [0098m.54s.016ms] [1] CMT: Removed client [391]
+[2017.10.21 12:44:40] [0098m.54s.016ms] [1] CMT: There are [1] clients now: 377
+[2017.10.21 12:52:06] [0106m.19s.590ms] [1] SC[377]: UnRegistered sub-client [GlobalNetAliasUpdater_171136512] with ID [22] for session ID [377] host [BUM-PC] user [BUM] process ID [1768]
+[2017.10.21 12:52:06] [0106m.19s.591ms] [1] SC[377]: UnRegistered sub-client [BlockCacheDxD:404373704] with ID [21] for session ID [377] host [BUM-PC] user [BUM] process ID [1768]
+[2017.10.21 12:52:06] [0106m.19s.591ms] [1] SC[377]: UnRegistered sub-client [ObjectHolder_171136336] with ID [20] for session ID [377] host [BUM-PC] user [BUM] process ID [1768]
+[2017.10.21 12:52:06] [0106m.19s.592ms] [1] SC[377]: UnRegistered sub-client [IcdbNetProcessorSubClientDxD:374012600] with ID [23] for session ID [377] host [BUM-PC] user [BUM] process ID [1768]
+[2017.10.21 12:52:06] [0106m.19s.597ms] [1] SC[377]: UnRegistered sub-client [SelectionHolder] with ID [4] for session ID [377] host [BUM-PC] user [BUM] process ID [1768]
+[2017.10.21 12:52:06] [0106m.19s.598ms] [1] SC[377]: UnRegistered sub-client [SheetConnectorsCacheDxD:1508573150] with ID [18] for session ID [377] host [BUM-PC] user [BUM] process ID [1768]
+[2017.10.21 12:52:06] [0106m.19s.598ms] [1] SC[377]: UnRegistered sub-client [NetsNamesCollectorDxD:1508573150] with ID [19] for session ID [377] host [BUM-PC] user [BUM] process ID [1768]
+[2017.10.21 12:52:06] [0106m.19s.600ms] [1] SC[377]: UnRegistered sub-client [TransactionRollbackSubClient] with ID [2] for session ID [377] host [BUM-PC] user [BUM] process ID [1768]
+[2017.10.21 12:52:06] [0106m.19s.601ms] [1] SC[377]: UnRegistered sub-client [DxD] with ID [1] for session ID [377] host [BUM-PC] user [BUM] process ID [1768]
+[2017.10.21 12:52:06] [0106m.19s.610ms] [1] SC[377]: UnRegistered sub-client [xprob] with ID [3] for session ID [377] host [BUM-PC] user [BUM] process ID [1768]
+[2017.10.21 12:52:06] [0106m.19s.610ms] [1] SC[377]: UnRegistered sub-client [SymbolEditor] with ID [5] for session ID [377] host [BUM-PC] user [BUM] process ID [1768]
+[2017.10.21 12:52:06] [0106m.19s.612ms] [1] SC[377]: UnRegistered sub-client [Navigator] with ID [11] for session ID [377] host [BUM-PC] user [BUM] process ID [1768]
+[2017.10.21 12:52:06] [0106m.19s.613ms] [1] SC[377]: UnRegistered sub-client [OutputWindow] with ID [12] for session ID [377] host [BUM-PC] user [BUM] process ID [1768]
+[2017.10.21 12:52:06] [0106m.19s.617ms] [1] SC[377]: UnRegistered sub-client [DxDbSearch] with ID [24] for session ID [377] host [BUM-PC] user [BUM] process ID [1768]
+[2017.10.21 12:52:06] [0106m.19s.621ms] [1] SC[377]: UnRegistered sub-client [SAE] with ID [14] for session ID [377] host [BUM-PC] user [BUM] process ID [1768]
+[2017.10.21 12:52:06] [0106m.19s.625ms] [1] SC[377]: UnRegistered sub-client [CCZAddin] with ID [15] for session ID [377] host [BUM-PC] user [BUM] process ID [1768]
+[2017.10.21 12:52:06] [0106m.19s.626ms] [1] SC[377]: UnRegistered sub-client [DxThumbnails] with ID [16] for session ID [377] host [BUM-PC] user [BUM] process ID [1768]
+[2017.10.21 12:52:06] [0106m.19s.638ms] [1] SC[377]: UnRegistered sub-client [DxSim] with ID [17] for session ID [377] host [BUM-PC] user [BUM] process ID [1768]
+[2017.10.21 12:52:06] [0106m.19s.954ms] [1] SC[377]: UnRegistered sub-client [PlaceDevice] with ID [13] for session ID [377] host [BUM-PC] user [BUM] process ID [1768]
+[2017.10.21 12:52:06] [0106m.19s.991ms] [1] SC[377]: UnRegistered sub-client [HdlProject] with ID [10] for session ID [377] host [BUM-PC] user [BUM] process ID [1768]
+[2017.10.21 12:52:06] [0106m.20s.101ms] [1] CMT: Removed client [377]
+[2017.10.21 12:52:06] [0106m.20s.101ms] [1] CMT: There are no clients left - waiting [1 seconds]
+[2017.10.21 12:52:08] [0106m.21s.401ms] [0] CMT: Starting server auto-close
+[2017.10.21 12:52:08] [0106m.21s.491ms] [0] S: Closing server
+[2017.10.21 12:52:08] [0106m.21s.631ms] [0] iCDB Server PI: Closing plugins
+[2017.10.21 12:52:08] [0106m.21s.631ms] [0] iCDB Server PI: Plugins closed
+[2017.10.21 12:52:08] [0106m.21s.631ms] [0] iCDB Server PI: Unloading database
+[2017.10.21 12:52:08] [0106m.21s.641ms] [0] iCDB Server PI: Saving storage
+[2017.10.21 12:52:08] [0106m.21s.641ms] [0] iCDB Server PI: Closing database
+[2017.10.21 12:52:08] [0106m.21s.641ms] [1] iCDB Server PI: Stats: Database defragmentation: max[1] avg[1] holes[22%] data[69%]
+[2017.10.21 12:52:08] [0106m.21s.641ms] [1] iCDB Server PI: Stats: Database file size [176184 (172.1 kB)]
+[2017.10.21 12:52:08] [0106m.21s.641ms] [1] iCDB Server PI: WARNING: Database needs defragmentation!
+[2017.10.21 12:52:08] [0106m.21s.681ms] [0] iCDB Server PI: Database closed
+[2017.10.21 12:52:08] [0106m.21s.681ms] [0] iCDB Server PI: Defragmenting database
+[2017.10.21 12:52:08] [0106m.21s.691ms] [0] iCDB Server PI: Creating database [F:\TEXT  TEM\BP_3_1_K\database] backup to file [F:\TEXT  TEM\BP_3_1_K\database\cdbback\2017-10-21 12.52.08-832-d.zip]
+[2017.10.21 12:52:08] [0106m.21s.741ms] [0] iCDB Server PI: Database backup: DONE
+[2017.10.21 12:52:08] [0106m.21s.741ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2017.10.21 12:52:08] [0106m.21s.741ms] [0] Database GUARD OK: [176184]
+[2017.10.21 12:52:08] [0106m.21s.741ms] [0] SingleFile: [81b8-805c-ff69-035a] SFI version check [1009] [1009]
+[2017.10.21 12:52:08] [0106m.21s.751ms] [0] SingleFile: [81b8-805c-ff69-035a] Database SFI header has been read in [5ms 64us]
+[2017.10.21 12:52:08] [0106m.21s.771ms] [1] iCDB Server PI: Stats: Database file sizes: before[176184 (172.1 kB)], after[104880 (102.4 kB)], gain[71304 (69.6 kB)]
+[2017.10.21 12:52:08] [0106m.21s.781ms] [0] Single file [F:\TEXT  TEM\BP_3_1_K\database\icdb.dat] closed with size [104880 (102.4 kB)]
+[2017.10.21 12:52:08] [0106m.21s.781ms] [0] iCDB Server PI: Database defragmentation completed successfully
+[2017.10.21 12:52:08] [0106m.21s.781ms] [1] BackupTransaction: Removing database backup [F:\TEXT  TEM\BP_3_1_K\database\cdbback\2017-10-21 12.52.08-832-d.zip]
+[2017.10.21 12:52:08] [0106m.21s.781ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [599937] ticks
+[2017.10.21 12:52:08] [0106m.21s.781ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [293196] microseconds
+[2017.10.21 12:52:08] [0106m.21s.781ms] [1] iCDB Server PI: Stats: Total iCDB commands count: [874]
+[2017.10.21 12:52:08] [0106m.21s.781ms] [1] iCDB Server PI: Stats: Average iCDB speed:        [2980] commands per second
+[2017.10.21 12:52:08] [0106m.21s.891ms] [0] S: STOP

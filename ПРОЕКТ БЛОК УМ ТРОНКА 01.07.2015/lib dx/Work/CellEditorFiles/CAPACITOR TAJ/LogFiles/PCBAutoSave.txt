@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                        02:47 PM Friday, August 23, 2013
+   Job Name: D:\lib dx\Work\CellEditorFiles\CAPACITOR TAJ\L-6032-19-KEMET.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                        03:02 PM Friday, August 23, 2013
+   Job Name: D:\lib dx\Work\CellEditorFiles\CAPACITOR TAJ\L-6032-19-KEMET.pcb
+

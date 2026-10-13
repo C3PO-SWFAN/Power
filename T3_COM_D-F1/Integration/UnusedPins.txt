@@ -1,0 +1,19 @@
+
+Schematic unused pins from : Packager  14-Mar-2018  14:16
+
+------------------------------------------------------------------------
+            Part/Reference             |          Unused pins
+                                       |  (G) - Gate, (P) - Partial Gate
+------------------------------------------------------------------------
+ Part CL43C102JIHNNNE                  |
+ Part CRM2512-FX-R100ELF               |
+ Part MCR25JZHJ000                     |
+ Part R76UI1100SE30J_UNIVER            |
+ Part R76UI14704040J_UNIVER            |
+ Part SRP1770TA-330M                   |
+ Part SRP6540-220M                     |
+ Part 4-1879021-9                      |
+ Part 5011                             |
+ Part 5013                             |
+ Part 5125                             |
+ Part 0039301040                       |

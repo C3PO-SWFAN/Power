@@ -1,0 +1,151 @@
+
+                                   DXF Export
+                                   ----------
+
+                      10:50 AM Wednesday, January 16, 2019
+           Job Name: F:\TT18\GA\TRONCA-3\T3_UM-1\PCB\BOARD_4LAYER.pcb
+
+
+
+    DXF File: F:\TT18\GA\TRONCA-3\T3_UM-1\PCB\Output\T3_UM.dxf
+
+
+    Total - Export Element
+    ----------------------------------------------------------------------
+
+       995 - Assembly Outlines Btm
+
+       901 - Assembly Outlines Top
+
+       881 - Assembly Part Numbers Btm
+
+       651 - Assembly Part Numbers Top
+
+       881 - Assembly Ref Des Btm
+
+       651 - Assembly Ref Des Top
+
+         1 - Board Origin
+
+         1 - Board Outline
+
+      2180 - Drill Drawing
+
+         1 - Etched Text Layer 1
+
+      7215 - Generated Silkscreen Btm
+
+      5278 - Generated Silkscreen Top
+
+         1 - Manufacturing Outlines
+
+        89 - Mounting Hole Pads Layer 1
+
+        89 - Mounting Hole Pads Layer 2
+
+        89 - Mounting Hole Pads Layer 3
+
+        89 - Mounting Hole Pads Layer 4
+
+       274 - Mounting Holes Layer 1
+
+       274 - Mounting Holes Layer 2
+
+       274 - Mounting Holes Layer 3
+
+       274 - Mounting Holes Layer 4
+
+         1 - NC Drill Origin
+
+       507 - Part Holes Layer 1
+
+       507 - Part Holes Layer 2
+
+       507 - Part Holes Layer 3
+
+       507 - Part Holes Layer 4
+
+       507 - Part Pads Layer 1
+
+       507 - Part Pads Layer 2
+
+       507 - Part Pads Layer 3
+
+       507 - Part Pads Layer 4
+
+      2026 - Part Pads SMD Btm
+
+      1298 - Part Pads SMD Top
+
+      3831 - Pin Numbers Btm
+
+      3831 - Pin Numbers Top
+
+       883 - Placement Outlines Btm
+
+       651 - Placement Outlines Top
+
+       914 - Plane Data Layer 1
+
+       863 - Plane Data Layer 2
+
+       865 - Plane Data Layer 3
+
+      1273 - Plane Data Layer 4
+
+       224 - Plane Shapes Layer 1
+
+       123 - Plane Shapes Layer 2
+
+       123 - Plane Shapes Layer 3
+
+       183 - Plane Shapes Layer 4
+
+         1 - Route Border
+
+       966 - Silkscreen Outlines Btm
+
+       763 - Silkscreen Outlines Top
+
+       861 - Silkscreen Ref Des Btm
+
+       645 - Silkscreen Ref Des Top
+
+      2611 - Soldermask Pads Btm
+
+      1883 - Soldermask Pads Top
+
+      2027 - Solderpaste Pads Btm
+
+      1299 - Solderpaste Pads Top
+
+      1280 - Traces Layer 1
+
+        78 - Traces Layer 2
+
+        71 - Traces Layer 3
+
+      2064 - Traces Layer 4
+
+      1286 - Via Holes Layer 1
+
+      1286 - Via Holes Layer 2
+
+      1286 - Via Holes Layer 3
+
+      1286 - Via Holes Layer 4
+
+      1286 - Via Pads Layer 1
+
+      1286 - Via Pads Layer 2
+
+      1286 - Via Pads Layer 3
+
+      1286 - Via Pads Layer 4
+
+
+    Successful Completion.
+
+
+
+                        10:51 AM Wednesday, January 16, 2019

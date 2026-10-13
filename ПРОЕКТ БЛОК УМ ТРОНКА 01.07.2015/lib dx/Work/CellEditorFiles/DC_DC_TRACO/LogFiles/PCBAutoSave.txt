@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                       11:36 AM Wednesday, March 25, 2015
+         Job Name: D:\lib dx\Work\CellEditorFiles\DC_DC_TRACO\THN-30.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                       11:36 AM Wednesday, March 25, 2015
+         Job Name: D:\lib dx\Work\CellEditorFiles\DC_DC_TRACO\THN-30.pcb
+

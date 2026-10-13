@@ -1,0 +1,274 @@
+[2026.07.28 16:18:10] [0000m.00s.015ms] [0] WELCOME
+[2026.07.28 16:18:10] [0000m.00s.015ms] [1] iCDB Server ver.2.211, Xoetbt//r2sGE9TmsNJ3zA, build:20123704 created 2022-02-01 11:52:52, sources stamp:Xoetbt//r2sGE9TmsNJ3zA
+[2026.07.28 16:18:10] [0000m.00s.015ms] [1] Unpublished work. Copyright 2022 Siemens\r\n\r\nThis material contains trade secrets or otherwise confidential\r\ninformation owned by Siemens Industry Software Inc.\r\nor its affiliates (collectively, 'SISW'), or its licensors.\r\nAccess to and use of this information is strictly limited\r\nas set forth in the Customer's applicable agreements with SISW.
+[2026.07.28 16:18:10] [0000m.00s.016ms] [1] Base flow version [VX.2.11]
+[2026.07.28 16:18:10] [0000m.00s.016ms] [1] Install Id [2431697], Flow Id [X-ENTP VX.2.11], Full Flow Name [Xpedition Enterprise X-ENTP VX.2.11], Exact Access Date [2022/02/01]
+[2026.07.28 16:18:10] [0000m.00s.021ms] [1] Machine [R2D2]  IP [127.0.0.1,172.16.123.7]  User [Work]  PID [27140]
+[2026.07.28 16:18:10] [0000m.00s.022ms] [1] Operating system [Microsoft Windows 10 Business Edition, 64-bit (build 26200)]
+[2026.07.28 16:18:10] [0000m.00s.022ms] [1] Current working dir [C:\Users\Work\Desktop\拎疣徉鳿闲闻室 了问 犹 倚瓮世 01.07.2015\了问 犹\SUM_TRONKA_MK_!]
+[2026.07.28 16:18:10] [0000m.00s.022ms] [1] PATH [C:\MentorGraphics\EEVX.2.11\SDD_HOME\sim\systemvision\win32\adms\vx2.11\ixw\bin;C:\MentorGraphics\EEVX.2.11\SDD_HOME\sim\systemvision\win32\adms\vx2.11\ixw\lib;C:\MentorGraphics\EEVX.2.11\SDD_HOME\sim\systemvision\win32\adms\vx2.11\questasim\v10.7a_1\tcl\lib_save;C:\MentorGraphics\EEVX.2.11\SDD_HOME\sim\systemvision\win32\adms\vx2.11\questasim\v10.7a_1\win64;%SV_HOME%\sim\systemvision\win32\adms\vx2.11\ixw\bin;%SV_HOME%\sim\systemvision\win32\adms\vx2.11\ixw\lib;%SV_HOME%\sim\systemvision\win32\adms\vx2.11\questasim\v10.7a_1\tcl\lib_save;%SV_HOME%\sim\systemvision\win32\adms\vx2.11\questasim\v10.7a_1\win64;C:\MentorGraphics\EEVX.2.11\SDD_HOME\common\win64\bin;C:\MentorGraphics\EEVX.2.11\SDD_HOME\common\win64\lib;C:\MentorGraphics\EEVX.2.11\SDD_HOME\common3D\win64\lib;C:\MentorGraphics\EEVX.2.11\SDD_HOME\common\win32\lib;C:\MentorGraphics\EEVX.2.11\SDD_HOME\common\win64\jre\default\bin;C:\MentorGraphics\EEVX.2.11\MGC_HOME.ixw\bin;C:\MentorGraphics\EEVX.2.11\MGC_HOME.ixw\lib;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\MATLAB\R2025b\runtime\win64;C:\Program Files\MATLAB\R2025b\bin;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\WINDOWS\system32\config\systemprofile\AppData\Local\Muse Hub\lib;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\Bin\;C:\Program Files\IVI Foundation\VISA\Win64\Bin\;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\Bin;C:\Program Files\Microchip\xc8\v3.10\bin;C:\Program Files\Microchip\xc-dsc\v3.31\bin;C:\Program Files\Microchip\xc16\v2.10\bin;C:\Program Files\Microchip\xc32\v5.10\bin;C:\Program Files (x86)\P-CAD 2006 Viewer\;C:\Program Files (x86)\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\DTS\Binn\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Users\Work\AppData\Local\Microsoft\WindowsApps;C:\Users\Work\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Work\AppData\Local\Python\bin;C:\Users\Work\AppData\Local\Muse Hub\lib;C:\altera\13.1\modelsim_ase\win32aloem;C:\altera\13.1\modelsim_ae\win32aloem;C:\altera_lite\25.1std\questa_fse\win64;C:\altera\13.0sp1\modelsim_ase\win32aloem;C:\altera\13.0sp1\modelsim_ae\win32aloem;%SV_HOME%\sim\systemvision\win32\adms\vx2.11\bin;C:\MentorGraphics\EEVX.2.11\SDD_HOME\sim\systemvision\win32\adms\vx2.11\bin]
+[2026.07.28 16:18:10] [0000m.00s.022ms] [1] SDD_HOME [C:\MentorGraphics\EEVX.2.11\SDD_HOME] on file system [NTFS]
+[2026.07.28 16:18:10] [0000m.00s.022ms] [1] SDD_PLATFORM [win64]
+[2026.07.28 16:18:10] [0000m.00s.022ms] [1] WDIR [C:\WDIR\EEVX.2.11;C:\MentorGraphics\EEVX.2.11\SDD_HOME\standard;]
+[2026.07.28 16:18:10] [0000m.00s.022ms] [1] Local iCDB working dir [C:\WDIR\EEVX.2.11\iCDB] on file system [NTFS]
+[2026.07.28 16:18:10] [0000m.00s.022ms] [2] S: Loading config files
+[2026.07.28 16:18:10] [0000m.00s.023ms] [1] Config file [C:\Users\Work\Desktop\拎疣徉鳿闲闻室 了问 犹 倚瓮世 01.07.2015\了问 犹\SUM_TRONKA_MK_!\database\cdbsvr\Server.cfg] not found
+[2026.07.28 16:18:10] [0000m.00s.024ms] [3] S: Config loaded
+[2026.07.28 16:18:10] [0000m.00s.024ms] [0] S: Project path [C:\Users\Work\Desktop\拎疣徉鳿闲闻室 了问 犹 倚瓮世 01.07.2015\了问 犹\SUM_TRONKA_MK_!\database] on file system [NTFS]
+[2026.07.28 16:18:10] [0000m.00s.024ms] [0] S: Project file (.prj) path [C:\Users\Work\Desktop\拎疣徉鳿闲闻室 了问 犹 倚瓮世 01.07.2015\了问 犹\SUM_TRONKA_MK_!\SUM_TRONKA_MK_!.prj] on file system [NTFS]
+[2026.07.28 16:18:10] [0000m.00s.024ms] [1] S: WARNING: Database auto-repair support DISABLED
+[2026.07.28 16:18:10] [0000m.00s.024ms] [0] S: Single-user mode (auto)
+[2026.07.28 16:18:10] [0000m.00s.024ms] [0] S: Event polling mode autodetection
+[2026.07.28 16:18:10] [0000m.00s.025ms] [0] S: Started up automatically by iCDB Client: R2D2:Work:19284
+[2026.07.28 16:18:10] [0000m.00s.025ms] [0] S: Auto close mode
+[2026.07.28 16:18:10] [0000m.00s.025ms] [0] S: Database ID [958c-8158-57be-af20-21ca-86a8-1ca8-6a60-b491-cd5c-1646-e5f5]
+[2026.07.28 16:18:10] [0000m.00s.025ms] [0] PathTranslator: BEGIN dumping
+[2026.07.28 16:18:10] [0000m.00s.025ms] [0] PathTranslator: Local -> global path prefix list
+[2026.07.28 16:18:10] [0000m.00s.025ms] [0] PathTranslator: Global -> local path prefix list
+[2026.07.28 16:18:10] [0000m.00s.025ms] [0] PathTranslator: END dumping
+[2026.07.28 16:18:10] [0000m.00s.025ms] [0] S: START
+[2026.07.28 16:18:10] [0000m.00s.025ms] [0] S: Server startup lock file created
+[2026.07.28 16:18:10] [0000m.00s.025ms] [0] S: Listening for client connections on port [10003]
+[2026.07.28 16:18:10] [0000m.00s.026ms] [0] S: Server network ID [R2D2:172.16.123.7,R2D2:10003]
+[2026.07.28 16:18:10] [0000m.00s.026ms] [0] S: Server GUID [bcce-592b-4a26-73f0-21ca-86a8-1ca8-6a60-3182-cd5c-1646-e5f5]
+[2026.07.28 16:18:10] [0000m.00s.026ms] [0] S: Project GUID [958c-8158-57be-af20-21ca-86a8-1ca8-6a60-b491-cd5c-1646-e5f5]
+[2026.07.28 16:18:10] [0000m.00s.027ms] [0] S: Wrote data to server address file
+[2026.07.28 16:18:10] [0000m.00s.027ms] [0] S: Server startup lock file removed
+[2026.07.28 16:18:10] [0000m.00s.027ms] [1] ProjectBackupManager: Setting project file (.prj) path: [C:\Users\Work\Desktop\拎疣徉鳿闲闻室 了问 犹 倚瓮世 01.07.2015\了问 犹\SUM_TRONKA_MK_!\SUM_TRONKA_MK_!.prj]
+[2026.07.28 16:18:10] [0000m.00s.106ms] [0] S: Plugins loaded: [PIM] [ENetGen70] 
+[2026.07.28 16:18:10] [0000m.00s.106ms] [1] ServerToolkit: INFO: Plugin not found in SDD_ICDB_BIN [C:\MentorGraphics\EEVX.2.11\SDD_HOME\iCDB\win64\bin]
+[2026.07.28 16:18:10] [0000m.00s.106ms] [1] ServerToolkit: INFO: Plugin not found in SDD_COMMON_BIN [C:\MentorGraphics\EEVX.2.11\SDD_HOME\common\win64\bin]
+[2026.07.28 16:18:10] [0000m.00s.107ms] [1] ServerToolkit: INFO: Plugin not found in PATH
+[2026.07.28 16:18:10] [0000m.00s.107ms] [1] ServerToolkit: INFO: Plugin not found in CWD
+[2026.07.28 16:18:10] [0000m.00s.107ms] [1] ServerToolkit: INFO: returning just plugin exe name!
+[2026.07.28 16:18:10] [0000m.00s.107ms] [0] S: Local disc access time: 6 us
+[2026.07.28 16:18:10] [0000m.00s.107ms] [0] S: File server access time: 7 us
+[2026.07.28 16:18:10] [0000m.00s.128ms] [0] Single file [C:\Users\Work\Desktop\拎疣徉鳿闲闻室 了问 犹 倚瓮世 01.07.2015\了问 犹\SUM_TRONKA_MK_!\database\icdb.dat] size [61552 (60.1 kB)]
+[2026.07.28 16:18:10] [0000m.00s.128ms] [1] Single file [C:\Users\Work\Desktop\拎疣徉鳿闲闻室 了问 犹 倚瓮世 01.07.2015\了问 犹\SUM_TRONKA_MK_!\database\icdb.dat] opened in read-write mode
+[2026.07.28 16:18:10] [0000m.00s.128ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2026.07.28 16:18:10] [0000m.00s.128ms] [0] Database GUARD OK: [61552]
+[2026.07.28 16:18:10] [0000m.00s.129ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2026.07.28 16:18:10] [0000m.00s.130ms] [0] Database GUARD OK: [61552]
+[2026.07.28 16:18:10] [0000m.00s.130ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2026.07.28 16:18:10] [0000m.00s.130ms] [0] Database GUARD OK: [61552]
+[2026.07.28 16:18:10] [0000m.00s.130ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2026.07.28 16:18:10] [0000m.00s.130ms] [0] Database GUARD OK: [61552]
+[2026.07.28 16:18:10] [0000m.00s.130ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2026.07.28 16:18:10] [0000m.00s.130ms] [0] Database GUARD OK: [61552]
+[2026.07.28 16:18:10] [0000m.00s.130ms] [0] SingleFile: [35a3-8ff3-1f96-2262] SFI version check [1009] [1009]
+[2026.07.28 16:18:10] [0000m.00s.130ms] [0] SingleFile: [35a3-8ff3-1f96-2262] Database SFI header has been read in [246us]
+[2026.07.28 16:18:10] [0000m.00s.131ms] [0] iCDB Server PI: Server & plugin session [29]
+[2026.07.28 16:18:10] [0000m.00s.131ms] [0] iCDB Server PI: Opening database [C:\Users\Work\Desktop\拎疣徉鳿闲闻室 了问 犹 倚瓮世 01.07.2015\了问 犹\SUM_TRONKA_MK_!\database]
+[2026.07.28 16:18:10] [0000m.00s.131ms] [0] iCDB Server PI: Database [C:\Users\Work\Desktop\拎疣徉鳿闲闻室 了问 犹 倚瓮世 01.07.2015\了问 犹\SUM_TRONKA_MK_!\database] opened
+[2026.07.28 16:18:10] [0000m.00s.149ms] [0] iCDB Database: Checking existence of constraint definitions
+[2026.07.28 16:18:10] [0000m.00s.149ms] [0] iCDB Database: Checking constraint definitions version
+[2026.07.28 16:18:10] [0000m.00s.171ms] [0] iCDB Database: Creating database content backup before upgrade
+[2026.07.28 16:18:10] [0000m.00s.171ms] [1] iCDB Storage Server: Database backup: ProjectPath[C:\Users\Work\Desktop\拎疣徉鳿闲闻室 了问 犹 倚瓮世 01.07.2015\了问 犹\SUM_TRONKA_MK_!\database]
+[2026.07.28 16:18:10] [0000m.00s.172ms] [0] iCDB Storage Server Backup Thread: Database backup: BackupPath[C:\Users\Work\Desktop\拎疣徉鳿闲闻室 了问 犹 倚瓮世 01.07.2015\了问 犹\SUM_TRONKA_MK_!\database\cdbback\2026-07-28 16.18.10-27140.zip]
+[2026.07.28 16:18:10] [0000m.00s.173ms] [0] iCDB Storage Server Backup Thread: Backup database DONE: Result[ Succeeded[TRUE]] BackupPath[C:\Users\Work\Desktop\拎疣徉鳿闲闻室 了问 犹 倚瓮世 01.07.2015\了问 犹\SUM_TRONKA_MK_!\database\cdbback\2026-07-28 16.18.10-27140.zip]
+[2026.07.28 16:18:10] [0000m.00s.173ms] [0] iCDB Database: Database content backed up to [C:\Users\Work\Desktop\拎疣徉鳿闲闻室 了问 犹 倚瓮世 01.07.2015\了问 犹\SUM_TRONKA_MK_!\database\cdbback\2026-07-28 16.18.10-27140.zip] of size [26 104 bytes (25.5 kB)]  in [2ms 307us]
+[2026.07.28 16:18:10] [0000m.00s.175ms] [0] iCDB Database: Upgrading constraint definitions from version [ce_ee.cns=7.10.24;user.cns=23bc-5dbe-811f-e7e3-e487-7e23-5877-e250-e2f7-9777-77e2-03e2]
+[2026.07.28 16:18:10] [0000m.00s.180ms] [0] iCDB Database: Upgrading snapshot [1:DxD] from version [2709]
+[2026.07.28 16:18:10] [0000m.00s.181ms] [1] CORE: Applying a fix no 121 stage [fsAtlasLoaded] to atlas [C:\Users\Work\Desktop\拎疣徉鳿闲闻室 了问 犹 倚瓮世 01.07.2015\了问 犹\SUM_TRONKA_MK_!\database\s1\cdbcatlg\grpatl]
+[2026.07.28 16:18:10] [0000m.00s.181ms] [1] CORE: Atlas fixed stage [fsAtlasLoaded] successfully [C:\Users\Work\Desktop\拎疣徉鳿闲闻室 了问 犹 倚瓮世 01.07.2015\了问 犹\SUM_TRONKA_MK_!\database\s1\cdbcatlg\grpatl]
+[2026.07.28 16:18:10] [0000m.00s.181ms] [1] CORE: Upgrade atlas from version 511 [C:\Users\Work\Desktop\拎疣徉鳿闲闻室 了问 犹 倚瓮世 01.07.2015\了问 犹\SUM_TRONKA_MK_!\database\s1\cdbblks\2000000010000050.blk\blkatl]
+[2026.07.28 16:18:10] [0000m.00s.181ms] [1] CORE: Upgrade atlas from version 512 [C:\Users\Work\Desktop\拎疣徉鳿闲闻室 了问 犹 倚瓮世 01.07.2015\了问 犹\SUM_TRONKA_MK_!\database\s1\cdbblks\2000000010000050.blk\blkatl]
+[2026.07.28 16:18:10] [0000m.00s.181ms] [1] CORE: Upgrade atlas from version 511 to 513 completed successfully [C:\Users\Work\Desktop\拎疣徉鳿闲闻室 了问 犹 倚瓮世 01.07.2015\了问 犹\SUM_TRONKA_MK_!\database\s1\cdbblks\2000000010000050.blk\blkatl]
+[2026.07.28 16:18:10] [0000m.00s.181ms] [1] CORE: Applying a fix no 140 stage [fsAtlasLoaded] to atlas [C:\Users\Work\Desktop\拎疣徉鳿闲闻室 了问 犹 倚瓮世 01.07.2015\了问 犹\SUM_TRONKA_MK_!\database\s1\cdbblks\2000000010000050.blk\blkatl]
+[2026.07.28 16:18:10] [0000m.00s.181ms] [1] CORE: Atlas fixed stage [fsAtlasLoaded] successfully [C:\Users\Work\Desktop\拎疣徉鳿闲闻室 了问 犹 倚瓮世 01.07.2015\了问 犹\SUM_TRONKA_MK_!\database\s1\cdbblks\2000000010000050.blk\blkatl]
+[2026.07.28 16:18:10] [0000m.00s.182ms] [1] CORE: Upgrade atlas from version 507 [C:\Users\Work\Desktop\拎疣徉鳿闲闻室 了问 犹 倚瓮世 01.07.2015\了问 犹\SUM_TRONKA_MK_!\database\s1\cdbblks\2000000010000050.blk\dxdatl]
+[2026.07.28 16:18:10] [0000m.00s.182ms] [1] CORE: Upgrade atlas from version 517 [C:\Users\Work\Desktop\拎疣徉鳿闲闻室 了问 犹 倚瓮世 01.07.2015\了问 犹\SUM_TRONKA_MK_!\database\s1\cdbblks\2000000010000050.blk\dxdatl]
+[2026.07.28 16:18:10] [0000m.00s.182ms] [1] CORE: Upgrade atlas from version 517 to 518 completed successfully [C:\Users\Work\Desktop\拎疣徉鳿闲闻室 了问 犹 倚瓮世 01.07.2015\了问 犹\SUM_TRONKA_MK_!\database\s1\cdbblks\2000000010000050.blk\dxdatl]
+[2026.07.28 16:18:10] [0000m.00s.182ms] [1] CORE: Applying a fix no 131 stage [fsAtlasLoaded] to atlas [C:\Users\Work\Desktop\拎疣徉鳿闲闻室 了问 犹 倚瓮世 01.07.2015\了问 犹\SUM_TRONKA_MK_!\database\s1\cdbblks\2000000010000050.blk\dxdatl]
+[2026.07.28 16:18:10] [0000m.00s.182ms] [1] CORE: Atlas fixed stage [fsAtlasLoaded] successfully [C:\Users\Work\Desktop\拎疣徉鳿闲闻室 了问 犹 倚瓮世 01.07.2015\了问 犹\SUM_TRONKA_MK_!\database\s1\cdbblks\2000000010000050.blk\dxdatl]
+[2026.07.28 16:18:10] [0000m.00s.182ms] [1] CORE: Upgrade atlas from version 641 [C:\Users\Work\Desktop\拎疣徉鳿闲闻室 了问 犹 倚瓮世 01.07.2015\了问 犹\SUM_TRONKA_MK_!\database\s1\cdbcnfgs\2000000010000050.blk\cesatl]
+[2026.07.28 16:18:10] [0000m.00s.182ms] [1] CORE: Upgrade atlas from version 641 to 642 completed successfully [C:\Users\Work\Desktop\拎疣徉鳿闲闻室 了问 犹 倚瓮世 01.07.2015\了问 犹\SUM_TRONKA_MK_!\database\s1\cdbcnfgs\2000000010000050.blk\cesatl]
+[2026.07.28 16:18:10] [0000m.00s.182ms] [1] CORE: Applying a fix no 122 stage [fsAtlasLoaded] to atlas [C:\Users\Work\Desktop\拎疣徉鳿闲闻室 了问 犹 倚瓮世 01.07.2015\了问 犹\SUM_TRONKA_MK_!\database\s1\cdbcnfgs\2000000010000050.blk\cesatl]
+[2026.07.28 16:18:10] [0000m.00s.182ms] [1] CORE: Applying a fix no 123 stage [fsAtlasLoaded] to atlas [C:\Users\Work\Desktop\拎疣徉鳿闲闻室 了问 犹 倚瓮世 01.07.2015\了问 犹\SUM_TRONKA_MK_!\database\s1\cdbcnfgs\2000000010000050.blk\cesatl]
+[2026.07.28 16:18:10] [0000m.00s.182ms] [1] CORE: Applying a fix no 130 stage [fsAtlasLoaded] to atlas [C:\Users\Work\Desktop\拎疣徉鳿闲闻室 了问 犹 倚瓮世 01.07.2015\了问 犹\SUM_TRONKA_MK_!\database\s1\cdbcnfgs\2000000010000050.blk\cesatl]
+[2026.07.28 16:18:10] [0000m.00s.182ms] [1] CORE: Applying a fix no 132 stage [fsAtlasLoaded] to atlas [C:\Users\Work\Desktop\拎疣徉鳿闲闻室 了问 犹 倚瓮世 01.07.2015\了问 犹\SUM_TRONKA_MK_!\database\s1\cdbcnfgs\2000000010000050.blk\cesatl]
+[2026.07.28 16:18:10] [0000m.00s.182ms] [1] CORE: Add missing minimal scheme CesConstraint : definition (29-85-72) object: [2] type: [41]  {[CesConstraint] [29-1-22] [28] } 
+[2026.07.28 16:18:10] [0000m.00s.182ms] [1] CORE: Add missing minimal scheme CesConstraint : definition (29-86-72) object: [2] type: [41]  {[CesConstraint] [29-2-22] [29] } 
+[2026.07.28 16:18:10] [0000m.00s.182ms] [1] CORE: Add missing minimal scheme CesConstraint : definition (29-87-72) object: [2] type: [41]  {[CesConstraint] [29-3-22] [30] } 
+[2026.07.28 16:18:10] [0000m.00s.182ms] [1] CORE: Add missing minimal scheme CesConstraint : definition (29-88-72) object: [2] type: [41]  {[CesConstraint] [29-4-22] [31] } 
+[2026.07.28 16:18:10] [0000m.00s.182ms] [1] CORE: Add missing minimal scheme CesConstraint : definition (29-89-72) object: [2] type: [41]  {[CesConstraint] [29-5-22] [32] } 
+[2026.07.28 16:18:10] [0000m.00s.182ms] [1] CORE: Add missing minimal scheme CesConstraint : definition (29-90-72) object: [2] type: [41]  {[CesConstraint] [29-6-22] [33] } 
+[2026.07.28 16:18:10] [0000m.00s.182ms] [1] CORE: Add missing minimal scheme CesConstraint : definition (29-76-72) object: [2] type: [38]  {[CesConstraint] [29-7-22] [34] } 
+[2026.07.28 16:18:10] [0000m.00s.182ms] [1] CORE: Applying a fix no 133 stage [fsAtlasLoaded] to atlas [C:\Users\Work\Desktop\拎疣徉鳿闲闻室 了问 犹 倚瓮世 01.07.2015\了问 犹\SUM_TRONKA_MK_!\database\s1\cdbcnfgs\2000000010000050.blk\cesatl]
+[2026.07.28 16:18:10] [0000m.00s.182ms] [1] CORE: Applying a fix no 134 stage [fsAtlasLoaded] to atlas [C:\Users\Work\Desktop\拎疣徉鳿闲闻室 了问 犹 倚瓮世 01.07.2015\了问 犹\SUM_TRONKA_MK_!\database\s1\cdbcnfgs\2000000010000050.blk\cesatl]
+[2026.07.28 16:18:10] [0000m.00s.182ms] [1] CORE: Applying a fix no 151 stage [fsAtlasLoaded] to atlas [C:\Users\Work\Desktop\拎疣徉鳿闲闻室 了问 犹 倚瓮世 01.07.2015\了问 犹\SUM_TRONKA_MK_!\database\s1\cdbcnfgs\2000000010000050.blk\cesatl]
+[2026.07.28 16:18:10] [0000m.00s.182ms] [1] CORE: Applying a fix no 152 stage [fsAtlasLoaded] to atlas [C:\Users\Work\Desktop\拎疣徉鳿闲闻室 了问 犹 倚瓮世 01.07.2015\了问 犹\SUM_TRONKA_MK_!\database\s1\cdbcnfgs\2000000010000050.blk\cesatl]
+[2026.07.28 16:18:10] [0000m.00s.182ms] [1] CORE: Applying a fix no 153 stage [fsAtlasLoaded] to atlas [C:\Users\Work\Desktop\拎疣徉鳿闲闻室 了问 犹 倚瓮世 01.07.2015\了问 犹\SUM_TRONKA_MK_!\database\s1\cdbcnfgs\2000000010000050.blk\cesatl]
+[2026.07.28 16:18:10] [0000m.00s.182ms] [1] CORE: Applying a fix no 154 stage [fsAtlasLoaded] to atlas [C:\Users\Work\Desktop\拎疣徉鳿闲闻室 了问 犹 倚瓮世 01.07.2015\了问 犹\SUM_TRONKA_MK_!\database\s1\cdbcnfgs\2000000010000050.blk\cesatl]
+[2026.07.28 16:18:10] [0000m.00s.182ms] [1] CORE: Atlas fixed stage [fsAtlasLoaded] successfully [C:\Users\Work\Desktop\拎疣徉鳿闲闻室 了问 犹 倚瓮世 01.07.2015\了问 犹\SUM_TRONKA_MK_!\database\s1\cdbcnfgs\2000000010000050.blk\cesatl]
+[2026.07.28 16:18:10] [0000m.00s.182ms] [1] CORE: Applying a fix no 120 stage [fsAtlasLoaded] to atlas [varatl]
+[2026.07.28 16:18:10] [0000m.00s.182ms] [1] CORE: Applying a fix no 141 stage [fsAtlasLoaded] to atlas [varatl]
+[2026.07.28 16:18:10] [0000m.00s.182ms] [1] CORE: Atlas fixed stage [fsAtlasLoaded] successfully [varatl]
+[2026.07.28 16:18:10] [0000m.00s.182ms] [1] CORE: Upgrade snapshot DxD completed successfully.
+[2026.07.28 16:18:10] [0000m.00s.183ms] [1] CORE: Applying a fix no 150 stage [fsSnapshotLoaded] to atlas [C:\Users\Work\Desktop\拎疣徉鳿闲闻室 了问 犹 倚瓮世 01.07.2015\了问 犹\SUM_TRONKA_MK_!\database\s1\cdbcatlg\catlgatl]
+[2026.07.28 16:18:10] [0000m.00s.183ms] [1] CORE: Atlas fixed stage [fsSnapshotLoaded] successfully [C:\Users\Work\Desktop\拎疣徉鳿闲闻室 了问 犹 倚瓮世 01.07.2015\了问 犹\SUM_TRONKA_MK_!\database\s1\cdbcatlg\catlgatl]
+[2026.07.28 16:18:10] [0000m.00s.183ms] [0] iCDB Database: Snapshot [1:DxD] upgraded to version [4100] in [2ms 372us]
+[2026.07.28 16:18:10] [0000m.00s.183ms] [0] iCDB Database: Upgrading MinimalScheme constraints for snapshot [1:DxD]
+[2026.07.28 16:18:10] [0000m.00s.183ms] [0] iCDB Database: MinimalScheme constraints for snapshot [1:DxD] upgraded in [79us]
+[2026.07.28 16:18:10] [0000m.00s.183ms] [0] iCDB Database: Upgrading constraint definitions for snapshot [1:DxD]
+[2026.07.28 16:18:10] [0000m.00s.184ms] [0] iCDB Database: Constraint definitions for snapshot [1:DxD] upgraded in [1ms 345us]
+[2026.07.28 16:18:10] [0000m.00s.184ms] [0] iCDB Database: Saving upgraded snapshot [1:DxD]
+[2026.07.28 16:18:10] [0000m.00s.186ms] [0] iCDB Database: Upgraded snapshot [1:DxD] saved in [2ms 114us]
+[2026.07.28 16:18:10] [0000m.00s.188ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [C:\Users\Work\Desktop\拎疣徉鳿闲闻室 了问 犹 倚瓮世 01.07.2015\了问 犹\SUM_TRONKA_MK_!\database\s1\cdbblks\2000000010000050.blk\blkatl.v] - auto-saving it
+[2026.07.28 16:18:10] [0000m.00s.188ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [C:\Users\Work\Desktop\拎疣徉鳿闲闻室 了问 犹 倚瓮世 01.07.2015\了问 犹\SUM_TRONKA_MK_!\database\s1\cdbblks\2000000010000050.blk\dxdatl.v] - auto-saving it
+[2026.07.28 16:18:10] [0000m.00s.188ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [C:\Users\Work\Desktop\拎疣徉鳿闲闻室 了问 犹 倚瓮世 01.07.2015\了问 犹\SUM_TRONKA_MK_!\database\s1\cdbcatlg\catlgatl.v] - auto-saving it
+[2026.07.28 16:18:10] [0000m.00s.188ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [C:\Users\Work\Desktop\拎疣徉鳿闲闻室 了问 犹 倚瓮世 01.07.2015\了问 犹\SUM_TRONKA_MK_!\database\s1\cdbcatlg\grpatl.v] - auto-saving it
+[2026.07.28 16:18:10] [0000m.00s.188ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [C:\Users\Work\Desktop\拎疣徉鳿闲闻室 了问 犹 倚瓮世 01.07.2015\了问 犹\SUM_TRONKA_MK_!\database\s1\cdbcatlg\grpobj] - auto-saving it
+[2026.07.28 16:18:10] [0000m.00s.188ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [C:\Users\Work\Desktop\拎疣徉鳿闲闻室 了问 犹 倚瓮世 01.07.2015\了问 犹\SUM_TRONKA_MK_!\database\s1\cdbcnfgs\2000000010000050.blk\cesatl.v] - auto-saving it
+[2026.07.28 16:18:10] [0000m.00s.188ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [C:\Users\Work\Desktop\拎疣徉鳿闲闻室 了问 犹 倚瓮世 01.07.2015\了问 犹\SUM_TRONKA_MK_!\database\s1\cdbcnfgs\2000000010000050.blk\varatl.v] - auto-saving it
+[2026.07.28 16:18:10] [0000m.00s.189ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [C:\Users\Work\Desktop\拎疣徉鳿闲闻室 了问 犹 倚瓮世 01.07.2015\了问 犹\SUM_TRONKA_MK_!\database\s1\oryg] - auto-saving it
+[2026.07.28 16:18:10] [0000m.00s.189ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [C:\Users\Work\Desktop\拎疣徉鳿闲闻室 了问 犹 倚瓮世 01.07.2015\了问 犹\SUM_TRONKA_MK_!\database\s1\params] - auto-saving it
+[2026.07.28 16:18:10] [0000m.00s.189ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [C:\Users\Work\Desktop\拎疣徉鳿闲闻室 了问 犹 倚瓮世 01.07.2015\了问 犹\SUM_TRONKA_MK_!\database\s1\uids] - auto-saving it
+[2026.07.28 16:18:10] [0000m.00s.189ms] [0] iCDB Database: Constraint definitions upgraded to version [ce_ee.cns=7.10.77;user.cns=ad32-be84-ecce-3282-d1d6-76a3-2d67-6a60-b511-cd5c-1646-e5f5]
+[2026.07.28 16:18:10] [0000m.00s.198ms] [0] iCDB Server PI: Initializing plugins
+[2026.07.28 16:18:10] [0000m.00s.198ms] [0] iCDB Server PI: Plugins initialized
+[2026.07.28 16:18:10] [0000m.00s.198ms] [0] S: iCDB database loaded
+[2026.07.28 16:18:10] [0000m.00s.212ms] [1] PrjBackupMgr: Successfully created Project Backup [C:\Users\Work\Desktop\拎疣徉鳿闲闻室 了问 犹 倚瓮世 01.07.2015\了问 犹\SUM_TRONKA_MK_!\ProjectBackup\backups\2026-07-28 16.18.10 - upgrade.zip] with GUID [9f31-4d07-e6fb-3d43-21ca-86a8-1ca8-6a60-3182-cd5c-1646-e5f5]
+[2026.07.28 16:18:10] [0000m.00s.212ms] [1] PrjBackupMgr: Migrated iCDB content backup file [C:\Users\Work\Desktop\拎疣徉鳿闲闻室 了问 犹 倚瓮世 01.07.2015\了问 犹\SUM_TRONKA_MK_!\database\cdbback\2026-07-28 16.18.10-27140.zip] removed
+[2026.07.28 16:18:10] [0000m.00s.213ms] [0] S: Starting threads
+[2026.07.28 16:18:10] [0000m.00s.213ms] [0] BT: Listening for broadcast messages on port [10000]
+[2026.07.28 16:18:10] [0000m.00s.214ms] [0] IT: Session [30] for host [R2D2] user [Work] client type[0] clsvrPluginID[0] with process ID [19284] created
+[2026.07.28 16:18:10] [0000m.00s.214ms] [1] CMT: There are [1] clients now: 30
+[2026.07.28 16:18:10] [0000m.00s.217ms] [1] SC[30]: Registered sub-client [DxD] with ID [1] for session ID [30] host [R2D2] user [Work] process ID [19284]
+[2026.07.28 16:18:10] [0000m.00s.217ms] [0] MWT: WindowProc: WM_NCCREATE
+[2026.07.28 16:18:10] [0000m.00s.221ms] [0] IT: iCDB Server Monitor session [1] for host [R2D2] user [Work] with process ID [12740] created
+[2026.07.28 16:18:10] [0000m.00s.221ms] [1] DMT: There are [1] iCDB Server Monitor connected now
+[2026.07.28 16:18:10] [0000m.00s.228ms] [1] SC[30]: Registered sub-client [TransactionRollbackSubClient] with ID [2] for session ID [30] host [R2D2] user [Work] process ID [19284]
+[2026.07.28 16:18:10] [0000m.00s.241ms] [1] SC[30]: Registered sub-client [SymbolEditor] with ID [3] for session ID [30] host [R2D2] user [Work] process ID [19284]
+[2026.07.28 16:18:10] [0000m.00s.245ms] [1] SC[30]: Registered sub-client [SelectionHolder] with ID [4] for session ID [30] host [R2D2] user [Work] process ID [19284]
+[2026.07.28 16:18:10] [0000m.00s.263ms] [1] SC[30]: Registered sub-client [EEVM_EEVM_901364064] with ID [5] for session ID [30] host [R2D2] user [Work] process ID [19284]
+[2026.07.28 16:18:10] [0000m.00s.263ms] [1] SC[30]: UnRegistered sub-client [EEVM_EEVM_901364064] with ID [5] for session ID [30] host [R2D2] user [Work] process ID [19284]
+[2026.07.28 16:18:10] [0000m.00s.265ms] [1] SC[30]: Registered sub-client [EEVM_EEVM_901364064] with ID [6] for session ID [30] host [R2D2] user [Work] process ID [19284]
+[2026.07.28 16:18:10] [0000m.00s.266ms] [1] SC[30]: UnRegistered sub-client [EEVM_EEVM_901364064] with ID [6] for session ID [30] host [R2D2] user [Work] process ID [19284]
+[2026.07.28 16:18:10] [0000m.00s.268ms] [1] SC[30]: Registered sub-client [BlockCacheDxD:676581488] with ID [7] for session ID [30] host [R2D2] user [Work] process ID [19284]
+[2026.07.28 16:18:10] [0000m.00s.280ms] [1] SC[30]: Registered sub-client [ObjectHolder_752973376] with ID [8] for session ID [30] host [R2D2] user [Work] process ID [19284]
+[2026.07.28 16:18:10] [0000m.00s.284ms] [1] SC[30]: Registered sub-client [GlobalNetAliasUpdater_298344560] with ID [9] for session ID [30] host [R2D2] user [Work] process ID [19284]
+[2026.07.28 16:18:10] [0000m.00s.286ms] [1] SC[30]: Registered sub-client [IcdbNetProcessorSubClientDxD:846588336] with ID [10] for session ID [30] host [R2D2] user [Work] process ID [19284]
+[2026.07.28 16:18:10] [0000m.00s.288ms] [1] SC[30]: UnRegistered sub-client [GlobalNetAliasUpdater_298344560] with ID [9] for session ID [30] host [R2D2] user [Work] process ID [19284]
+[2026.07.28 16:18:10] [0000m.00s.288ms] [1] SC[30]: UnRegistered sub-client [ObjectHolder_752973376] with ID [8] for session ID [30] host [R2D2] user [Work] process ID [19284]
+[2026.07.28 16:18:10] [0000m.00s.288ms] [1] SC[30]: UnRegistered sub-client [IcdbNetProcessorSubClientDxD:846588336] with ID [10] for session ID [30] host [R2D2] user [Work] process ID [19284]
+[2026.07.28 16:18:10] [0000m.00s.289ms] [1] SC[30]: UnRegistered sub-client [BlockCacheDxD:676581488] with ID [7] for session ID [30] host [R2D2] user [Work] process ID [19284]
+[2026.07.28 16:18:10] [0000m.00s.295ms] [1] SC[30]: Registered sub-client [ObjectHolder_752973792] with ID [11] for session ID [30] host [R2D2] user [Work] process ID [19284]
+[2026.07.28 16:18:10] [0000m.00s.296ms] [1] SC[30]: Registered sub-client [BlockCacheDxD:676613408] with ID [12] for session ID [30] host [R2D2] user [Work] process ID [19284]
+[2026.07.28 16:18:10] [0000m.00s.298ms] [1] SC[30]: Registered sub-client [GlobalNetAliasUpdater_298362416] with ID [13] for session ID [30] host [R2D2] user [Work] process ID [19284]
+[2026.07.28 16:18:10] [0000m.00s.300ms] [1] SC[30]: Registered sub-client [IcdbNetProcessorSubClientDxD:846599200] with ID [14] for session ID [30] host [R2D2] user [Work] process ID [19284]
+[2026.07.28 16:18:10] [0000m.00s.301ms] [1] SC[30]: UnRegistered sub-client [GlobalNetAliasUpdater_298362416] with ID [13] for session ID [30] host [R2D2] user [Work] process ID [19284]
+[2026.07.28 16:18:10] [0000m.00s.301ms] [1] SC[30]: UnRegistered sub-client [BlockCacheDxD:676613408] with ID [12] for session ID [30] host [R2D2] user [Work] process ID [19284]
+[2026.07.28 16:18:10] [0000m.00s.301ms] [1] SC[30]: UnRegistered sub-client [ObjectHolder_752973792] with ID [11] for session ID [30] host [R2D2] user [Work] process ID [19284]
+[2026.07.28 16:18:10] [0000m.00s.302ms] [1] SC[30]: UnRegistered sub-client [IcdbNetProcessorSubClientDxD:846599200] with ID [14] for session ID [30] host [R2D2] user [Work] process ID [19284]
+[2026.07.28 16:18:10] [0000m.00s.308ms] [1] SC[30]: Registered sub-client [Core::DesignListener-676595888-4] with ID [15] for session ID [30] host [R2D2] user [Work] process ID [19284]
+[2026.07.28 16:18:10] [0000m.00s.309ms] [1] SC[30]: Registered sub-client [BlockCacheDxD:676599088] with ID [16] for session ID [30] host [R2D2] user [Work] process ID [19284]
+[2026.07.28 16:18:10] [0000m.00s.311ms] [1] SC[30]: Registered sub-client [Core::NetFlatData-9588] with ID [17] for session ID [30] host [R2D2] user [Work] process ID [19284]
+[2026.07.28 16:18:10] [0000m.00s.315ms] [1] SC[30]: Registered sub-client [SystemDesignDll] with ID [18] for session ID [30] host [R2D2] user [Work] process ID [19284]
+[2026.07.28 16:18:10] [0000m.00s.317ms] [1] SC[30]: UnRegistered sub-client [SystemDesignDll] with ID [18] for session ID [30] host [R2D2] user [Work] process ID [19284]
+[2026.07.28 16:18:10] [0000m.00s.320ms] [1] SC[30]: Registered sub-client [SystemDesignDll] with ID [19] for session ID [30] host [R2D2] user [Work] process ID [19284]
+[2026.07.28 16:18:10] [0000m.00s.387ms] [1] PrjBackupMgr: Successfully created Project Backup [C:\Users\Work\Desktop\拎疣徉鳿闲闻室 了问 犹 倚瓮世 01.07.2015\了问 犹\SUM_TRONKA_MK_!\ProjectBackup\backups\2026-07-28 16.18.10 - auto.zip] with GUID [e6f1-4c7d-a22a-b7ca-21ca-86a8-1ca8-6a60-b0c0-cd5c-1646-e5f5]
+[2026.07.28 16:18:10] [0000m.00s.388ms] [0] PrjBackupMgr: Removing excessive backup:  BackupGUID[fc7f-9452-6ab9-8b21-bab1-e350-bb1e-3550-ad60-a07c-7c3c-8dfb] CreationTime[Monday, April 27, 2015 11:21:15] Type[Autosave] Creator[iCDB Server (2015-04-27 09.16.09-2272)] ApplicationName[iCDB Server (2015-04-27 09.16.09-2272)] UserName[User] MachineName[NIO13_PC1] Description[Autosave] FullFlowName[Expedition Enterprise Flow; Expedition Enterprise Flow - Update 9 for EE7.9.4] FlowId[EE7.9.4] GBSInstallId[26418; 29518] GBSBuildId[535943] IcdbVersion[2709] ReferenceLogFilePath[] BackupFilePath[C:\Users\Work\Desktop\拎疣徉鳿闲闻室 了问 犹 倚瓮世 01.07.2015\了问 犹\SUM_TRONKA_MK_!\ProjectBackup\backups\2015-04-27 14.21.15 - auto.zip] BackupFileSize[46087] Persistent[FALSE]
+[2026.07.28 16:18:10] [0000m.00s.388ms] [0] PrjBackupMgr: Project Backup file [C:\Users\Work\Desktop\拎疣徉鳿闲闻室 了问 犹 倚瓮世 01.07.2015\了问 犹\SUM_TRONKA_MK_!\ProjectBackup\backups\2015-04-27 14.21.15 - auto.zip] with GUID [fc7f-9452-6ab9-8b21-bab1-e350-bb1e-3550-ad60-a07c-7c3c-8dfb] removed
+[2026.07.28 16:18:10] [0000m.00s.388ms] [0] PrjBackupEngine: Successfully created backup:  BackupGUID[e6f1-4c7d-a22a-b7ca-21ca-86a8-1ca8-6a60-b0c0-cd5c-1646-e5f5] CreationTime[Tuesday, July 28, 2026 13:18:10] Type[Autosave] Creator[iCDB Server (2026-07-28 16.18.10-27140)] ApplicationName[iCDB Server (2026-07-28 16.18.10-27140)] UserName[Work] MachineName[R2D2] Description[Autosave] FullFlowName[Xpedition Enterprise X-ENTP VX.2.11] FlowId[EEVX.2.11] GBSInstallId[2431697] GBSBuildId[20123704] IcdbVersion[4100] ReferenceLogFilePath[] BackupFilePath[C:\Users\Work\Desktop\拎疣徉鳿闲闻室 了问 犹 倚瓮世 01.07.2015\了问 犹\SUM_TRONKA_MK_!\ProjectBackup\backups\2026-07-28 16.18.10 - auto.zip] BackupFileSize[79013] Persistent[FALSE]
+[2026.07.28 16:18:10] [0000m.00s.469ms] [1] SC[30]: Registered sub-client [DesignSearcher2] with ID [20] for session ID [30] host [R2D2] user [Work] process ID [19284]
+[2026.07.28 16:18:10] [0000m.00s.473ms] [1] SC[30]: Registered sub-client [HdlProject] with ID [21] for session ID [30] host [R2D2] user [Work] process ID [19284]
+[2026.07.28 16:18:10] [0000m.00s.475ms] [1] SC[30]: Registered sub-client [IBDInstanceDialog] with ID [22] for session ID [30] host [R2D2] user [Work] process ID [19284]
+[2026.07.28 16:18:10] [0000m.00s.477ms] [1] SC[30]: Registered sub-client [ProjectIntegrationIcdbCacheDxD:657770720] with ID [23] for session ID [30] host [R2D2] user [Work] process ID [19284]
+[2026.07.28 16:18:10] [0000m.00s.511ms] [1] SC[30]: Registered sub-client [SheetConnectorsCacheDxD:1785244690] with ID [24] for session ID [30] host [R2D2] user [Work] process ID [19284]
+[2026.07.28 16:18:10] [0000m.00s.516ms] [1] SC[30]: Registered sub-client [NetsNamesCollectorDxD:1785244690] with ID [25] for session ID [30] host [R2D2] user [Work] process ID [19284]
+[2026.07.28 16:18:10] [0000m.00s.526ms] [1] SC[30]: Registered sub-client [PartReplaceUtils] with ID [26] for session ID [30] host [R2D2] user [Work] process ID [19284]
+[2026.07.28 16:18:10] [0000m.00s.527ms] [1] SC[30]: Registered sub-client [PartReplaceUtilsSelectionListener] with ID [27] for session ID [30] host [R2D2] user [Work] process ID [19284]
+[2026.07.28 16:18:10] [0000m.00s.532ms] [1] SC[30]: Registered sub-client [xprob] with ID [28] for session ID [30] host [R2D2] user [Work] process ID [19284]
+[2026.07.28 16:18:11] [0000m.00s.574ms] [1] SC[30]: Registered sub-client [StartServerClient4a34] with ID [29] for session ID [30] host [R2D2] user [Work] process ID [19284]
+[2026.07.28 16:18:11] [0000m.00s.575ms] [1] SC[30]: UnRegistered sub-client [StartServerClient4a34] with ID [29] for session ID [30] host [R2D2] user [Work] process ID [19284]
+[2026.07.28 16:18:13] [0000m.03s.152ms] [1] SC[30]: Registered sub-client [Navigator] with ID [30] for session ID [30] host [R2D2] user [Work] process ID [19284]
+[2026.07.28 16:18:13] [0000m.03s.158ms] [1] SC[30]: Registered sub-client [OutputWindow] with ID [31] for session ID [30] host [R2D2] user [Work] process ID [19284]
+[2026.07.28 16:18:13] [0000m.03s.160ms] [1] SC[30]: Registered sub-client [PlaceDevice] with ID [32] for session ID [30] host [R2D2] user [Work] process ID [19284]
+[2026.07.28 16:18:13] [0000m.03s.199ms] [1] SC[30]: Registered sub-client [FFSearch_RBHost] with ID [33] for session ID [30] host [R2D2] user [Work] process ID [19284]
+[2026.07.28 16:18:13] [0000m.03s.202ms] [1] SC[30]: Registered sub-client [LocalSymbolsDataProvider] with ID [34] for session ID [30] host [R2D2] user [Work] process ID [19284]
+[2026.07.28 16:18:14] [0000m.03s.771ms] [1] SC[30]: Registered sub-client [FFSSelListener] with ID [35] for session ID [30] host [R2D2] user [Work] process ID [19284]
+[2026.07.28 16:18:14] [0000m.03s.773ms] [1] SC[30]: Registered sub-client [SAE] with ID [36] for session ID [30] host [R2D2] user [Work] process ID [19284]
+[2026.07.28 16:18:14] [0000m.03s.774ms] [1] SC[30]: Registered sub-client [CCZAddin] with ID [37] for session ID [30] host [R2D2] user [Work] process ID [19284]
+[2026.07.28 16:18:14] [0000m.03s.776ms] [1] SC[30]: Registered sub-client [DxThumbnails] with ID [38] for session ID [30] host [R2D2] user [Work] process ID [19284]
+[2026.07.28 16:18:14] [0000m.03s.777ms] [1] SC[30]: Registered sub-client [MyParts] with ID [39] for session ID [30] host [R2D2] user [Work] process ID [19284]
+[2026.07.28 16:18:14] [0000m.03s.786ms] [1] SC[30]: Registered sub-client [PinsList] with ID [40] for session ID [30] host [R2D2] user [Work] process ID [19284]
+[2026.07.28 16:18:14] [0000m.04s.530ms] [1] SC[30]: Registered sub-client [SupplyChainDataProviderInterface] with ID [41] for session ID [30] host [R2D2] user [Work] process ID [19284]
+[2026.07.28 16:18:14] [0000m.04s.530ms] [1] SC[30]: UnRegistered sub-client [SupplyChainDataProviderInterface] with ID [41] for session ID [30] host [R2D2] user [Work] process ID [19284]
+[2026.07.28 16:18:15] [0000m.05s.031ms] [1] SC[30]: Registered sub-client [SV] with ID [42] for session ID [30] host [R2D2] user [Work] process ID [19284]
+[2026.07.28 16:18:15] [0000m.05s.087ms] [1] SC[30]: Registered sub-client [toolboxes] with ID [43] for session ID [30] host [R2D2] user [Work] process ID [19284]
+[2026.07.28 16:18:15] [0000m.05s.137ms] [1] SC[30]: Registered sub-client [ObjectHolder_850932848] with ID [44] for session ID [30] host [R2D2] user [Work] process ID [19284]
+[2026.07.28 16:18:15] [0000m.05s.138ms] [1] SC[30]: Registered sub-client [BlockCacheDxD:737560720] with ID [45] for session ID [30] host [R2D2] user [Work] process ID [19284]
+[2026.07.28 16:18:15] [0000m.05s.140ms] [1] SC[30]: Registered sub-client [GlobalNetAliasUpdater_737419440] with ID [46] for session ID [30] host [R2D2] user [Work] process ID [19284]
+[2026.07.28 16:18:15] [0000m.05s.143ms] [1] SC[30]: Registered sub-client [IcdbNetProcessorSubClientDxD:739086864] with ID [47] for session ID [30] host [R2D2] user [Work] process ID [19284]
+[2026.07.28 16:18:40] [0000m.30s.002ms] [0] DFAMT: File server access time: 32 us
+[2026.07.28 16:19:03] [0000m.53s.255ms] [1] SC[30]: UnRegistered sub-client [DesignSearcher2] with ID [20] for session ID [30] host [R2D2] user [Work] process ID [19284]
+[2026.07.28 16:19:03] [0000m.53s.258ms] [1] SC[30]: UnRegistered sub-client [Navigator] with ID [30] for session ID [30] host [R2D2] user [Work] process ID [19284]
+[2026.07.28 16:19:03] [0000m.53s.258ms] [1] SC[30]: UnRegistered sub-client [OutputWindow] with ID [31] for session ID [30] host [R2D2] user [Work] process ID [19284]
+[2026.07.28 16:19:03] [0000m.53s.258ms] [1] SC[30]: UnRegistered sub-client [PlaceDevice] with ID [32] for session ID [30] host [R2D2] user [Work] process ID [19284]
+[2026.07.28 16:19:03] [0000m.53s.262ms] [1] SC[30]: UnRegistered sub-client [FFSSelListener] with ID [35] for session ID [30] host [R2D2] user [Work] process ID [19284]
+[2026.07.28 16:19:03] [0000m.53s.263ms] [1] SC[30]: UnRegistered sub-client [LocalSymbolsDataProvider] with ID [34] for session ID [30] host [R2D2] user [Work] process ID [19284]
+[2026.07.28 16:19:03] [0000m.53s.344ms] [1] SC[30]: UnRegistered sub-client [FFSearch_RBHost] with ID [33] for session ID [30] host [R2D2] user [Work] process ID [19284]
+[2026.07.28 16:19:03] [0000m.53s.345ms] [1] SC[30]: UnRegistered sub-client [SAE] with ID [36] for session ID [30] host [R2D2] user [Work] process ID [19284]
+[2026.07.28 16:19:03] [0000m.53s.345ms] [1] SC[30]: UnRegistered sub-client [CCZAddin] with ID [37] for session ID [30] host [R2D2] user [Work] process ID [19284]
+[2026.07.28 16:19:03] [0000m.53s.345ms] [1] SC[30]: UnRegistered sub-client [DxThumbnails] with ID [38] for session ID [30] host [R2D2] user [Work] process ID [19284]
+[2026.07.28 16:19:03] [0000m.53s.354ms] [1] SC[30]: UnRegistered sub-client [MyParts] with ID [39] for session ID [30] host [R2D2] user [Work] process ID [19284]
+[2026.07.28 16:19:03] [0000m.53s.354ms] [1] SC[30]: UnRegistered sub-client [PinsList] with ID [40] for session ID [30] host [R2D2] user [Work] process ID [19284]
+[2026.07.28 16:19:03] [0000m.53s.357ms] [1] SC[30]: UnRegistered sub-client [toolboxes] with ID [43] for session ID [30] host [R2D2] user [Work] process ID [19284]
+[2026.07.28 16:19:03] [0000m.53s.383ms] [1] SC[30]: UnRegistered sub-client [IBDInstanceDialog] with ID [22] for session ID [30] host [R2D2] user [Work] process ID [19284]
+[2026.07.28 16:19:03] [0000m.53s.383ms] [1] SC[30]: UnRegistered sub-client [HdlProject] with ID [21] for session ID [30] host [R2D2] user [Work] process ID [19284]
+[2026.07.28 16:19:03] [0000m.53s.383ms] [1] SC[30]: UnRegistered sub-client [SystemDesignDll] with ID [19] for session ID [30] host [R2D2] user [Work] process ID [19284]
+[2026.07.28 16:19:03] [0000m.53s.424ms] [1] SC[30]: UnRegistered sub-client [GlobalNetAliasUpdater_737419440] with ID [46] for session ID [30] host [R2D2] user [Work] process ID [19284]
+[2026.07.28 16:19:03] [0000m.53s.424ms] [1] SC[30]: UnRegistered sub-client [BlockCacheDxD:737560720] with ID [45] for session ID [30] host [R2D2] user [Work] process ID [19284]
+[2026.07.28 16:19:03] [0000m.53s.424ms] [1] SC[30]: UnRegistered sub-client [ObjectHolder_850932848] with ID [44] for session ID [30] host [R2D2] user [Work] process ID [19284]
+[2026.07.28 16:19:03] [0000m.53s.425ms] [1] SC[30]: UnRegistered sub-client [IcdbNetProcessorSubClientDxD:739086864] with ID [47] for session ID [30] host [R2D2] user [Work] process ID [19284]
+[2026.07.28 16:19:03] [0000m.53s.426ms] [1] SC[30]: UnRegistered sub-client [PartReplaceUtils] with ID [26] for session ID [30] host [R2D2] user [Work] process ID [19284]
+[2026.07.28 16:19:03] [0000m.53s.426ms] [1] SC[30]: UnRegistered sub-client [PartReplaceUtilsSelectionListener] with ID [27] for session ID [30] host [R2D2] user [Work] process ID [19284]
+[2026.07.28 16:19:04] [0000m.53s.931ms] [1] SC[30]: UnRegistered sub-client [ProjectIntegrationIcdbCacheDxD:657770720] with ID [23] for session ID [30] host [R2D2] user [Work] process ID [19284]
+[2026.07.28 16:19:04] [0000m.53s.933ms] [1] SC[30]: UnRegistered sub-client [Core::NetFlatData-9588] with ID [17] for session ID [30] host [R2D2] user [Work] process ID [19284]
+[2026.07.28 16:19:04] [0000m.53s.933ms] [1] SC[30]: UnRegistered sub-client [BlockCacheDxD:676599088] with ID [16] for session ID [30] host [R2D2] user [Work] process ID [19284]
+[2026.07.28 16:19:04] [0000m.53s.934ms] [1] SC[30]: UnRegistered sub-client [Core::DesignListener-676595888-4] with ID [15] for session ID [30] host [R2D2] user [Work] process ID [19284]
+[2026.07.28 16:19:04] [0000m.53s.934ms] [1] SC[30]: UnRegistered sub-client [SelectionHolder] with ID [4] for session ID [30] host [R2D2] user [Work] process ID [19284]
+[2026.07.28 16:19:04] [0000m.53s.934ms] [1] SC[30]: UnRegistered sub-client [SheetConnectorsCacheDxD:1785244690] with ID [24] for session ID [30] host [R2D2] user [Work] process ID [19284]
+[2026.07.28 16:19:04] [0000m.53s.934ms] [1] SC[30]: UnRegistered sub-client [NetsNamesCollectorDxD:1785244690] with ID [25] for session ID [30] host [R2D2] user [Work] process ID [19284]
+[2026.07.28 16:19:04] [0000m.53s.936ms] [1] SC[30]: UnRegistered sub-client [TransactionRollbackSubClient] with ID [2] for session ID [30] host [R2D2] user [Work] process ID [19284]
+[2026.07.28 16:19:04] [0000m.53s.937ms] [1] SC[30]: UnRegistered sub-client [DxD] with ID [1] for session ID [30] host [R2D2] user [Work] process ID [19284]
+[2026.07.28 16:19:04] [0000m.53s.954ms] [1] SC[30]: UnRegistered sub-client [xprob] with ID [28] for session ID [30] host [R2D2] user [Work] process ID [19284]
+[2026.07.28 16:19:04] [0000m.53s.955ms] [1] SC[30]: UnRegistered sub-client [SymbolEditor] with ID [3] for session ID [30] host [R2D2] user [Work] process ID [19284]
+[2026.07.28 16:19:21] [0001m.11s.437ms] [1] SC[30]: WARNING: Trying to get data for non existing sub-client [3]
+[2026.07.28 16:19:26] [0001m.15s.543ms] [1] SC[30]: UnRegistered sub-client [SV] with ID [42] for session ID [30] host [R2D2] user [Work] process ID [19284]
+[2026.07.28 16:19:26] [0001m.15s.570ms] [1] CMT: Removed client [30]
+[2026.07.28 16:19:26] [0001m.15s.570ms] [1] CMT: There are no clients left - waiting [1 seconds]
+[2026.07.28 16:19:26] [0001m.15s.696ms] [1] SDL: The last connected iCDB Server Monitor [1] is waiting for server close
+[2026.07.28 16:19:28] [0001m.17s.548ms] [0] CMT: Starting server auto-close
+[2026.07.28 16:19:28] [0001m.17s.643ms] [0] S: Closing server
+[2026.07.28 16:19:28] [0001m.17s.800ms] [0] iCDB Server PI: Closing plugins
+[2026.07.28 16:19:28] [0001m.17s.800ms] [0] iCDB Server PI: Plugins closed
+[2026.07.28 16:19:28] [0001m.17s.800ms] [0] iCDB Server PI: Unloading database
+[2026.07.28 16:19:28] [0001m.17s.800ms] [0] iCDB Server PI: Saving storage
+[2026.07.28 16:19:28] [0001m.17s.800ms] [0] iCDB Server PI: Closing database
+[2026.07.28 16:19:28] [0001m.17s.811ms] [1] iCDB Server PI: Stats: Database defragmentation: max[2] avg[1] holes[52%] data[57%]
+[2026.07.28 16:19:28] [0001m.17s.811ms] [1] iCDB Server PI: Stats: Database file size [103968 (101.5 kB)]
+[2026.07.28 16:19:28] [0001m.17s.812ms] [1] iCDB Server PI: WARNING: Database needs defragmentation!
+[2026.07.28 16:19:28] [0001m.17s.817ms] [0] iCDB Server PI: Database closed
+[2026.07.28 16:19:28] [0001m.17s.817ms] [0] iCDB Server PI: Defragmenting database
+[2026.07.28 16:19:28] [0001m.17s.817ms] [0] iCDB Server PI: Creating database [C:\Users\Work\Desktop\拎疣徉鳿闲闻室 了问 犹 倚瓮世 01.07.2015\了问 犹\SUM_TRONKA_MK_!\database] backup to file [C:\Users\Work\Desktop\拎疣徉鳿闲闻室 了问 犹 倚瓮世 01.07.2015\了问 犹\SUM_TRONKA_MK_!\database\cdbback\2026-07-28 16.19.28-27140-d.zip]
+[2026.07.28 16:19:28] [0001m.17s.842ms] [0] iCDB Server PI: Database backup: DONE
+[2026.07.28 16:19:28] [0001m.17s.850ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2026.07.28 16:19:28] [0001m.17s.850ms] [0] Database GUARD OK: [103968]
+[2026.07.28 16:19:28] [0001m.17s.850ms] [0] SingleFile: [35a3-8ff3-1f96-2262] SFI version check [1009] [1009]
+[2026.07.28 16:19:28] [0001m.17s.850ms] [0] SingleFile: [35a3-8ff3-1f96-2262] Database SFI header has been read in [362us]
+[2026.07.28 16:19:28] [0001m.17s.853ms] [1] iCDB Server PI: Stats: Database file sizes: before[103968 (101.5 kB)], after[66608 (65.0 kB)], gain[37360 (36.5 kB)]
+[2026.07.28 16:19:28] [0001m.17s.854ms] [0] Single file [C:\Users\Work\Desktop\拎疣徉鳿闲闻室 了问 犹 倚瓮世 01.07.2015\了问 犹\SUM_TRONKA_MK_!\database\icdb.dat] closed with size [66608 (65.0 kB)]
+[2026.07.28 16:19:28] [0001m.17s.859ms] [0] iCDB Server PI: Database defragmentation completed successfully
+[2026.07.28 16:19:28] [0001m.17s.859ms] [1] BackupTransaction: Removing database backup [C:\Users\Work\Desktop\拎疣徉鳿闲闻室 了问 犹 倚瓮世 01.07.2015\了问 犹\SUM_TRONKA_MK_!\database\cdbback\2026-07-28 16.19.28-27140-d.zip]
+[2026.07.28 16:19:28] [0001m.17s.859ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [10242] ticks
+[2026.07.28 16:19:28] [0001m.17s.859ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [1024] microseconds
+[2026.07.28 16:19:28] [0001m.17s.859ms] [1] iCDB Server PI: Stats: Total iCDB commands count: [25]
+[2026.07.28 16:19:28] [0001m.17s.859ms] [1] iCDB Server PI: Stats: Average iCDB speed:        [24409] commands per second
+[2026.07.28 16:19:28] [0001m.17s.859ms] [1] iCDB Server PI: Stats: Mem[13963264]
+[2026.07.28 16:19:28] [0001m.17s.859ms] [1] iCDB Server PI: Stats: MemPeak[30347264]
+[2026.07.28 16:19:28] [0001m.17s.926ms] [1] SD[1]: Removing the last connected iCDB Server Monitor [1]
+[2026.07.28 16:19:28] [0001m.18s.037ms] [0] MWT: Destroy the shutdown block reason.
+[2026.07.28 16:19:28] [0001m.18s.038ms] [0] MWT: STOP
+[2026.07.28 16:19:28] [0001m.18s.039ms] [0] S: STOP

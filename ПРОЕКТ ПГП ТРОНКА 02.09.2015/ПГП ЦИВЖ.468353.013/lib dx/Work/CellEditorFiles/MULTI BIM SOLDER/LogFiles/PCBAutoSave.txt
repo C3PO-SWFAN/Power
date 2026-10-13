@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                      05:50 PM Saturday, February 14, 2015
+Job Name: D:\lib dx\Work\CellEditorFiles\MULTI BIM SOLDER\FEMALE_4P_24S_4P_VERT.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                      06:39 PM Saturday, February 14, 2015
+Job Name: D:\lib dx\Work\CellEditorFiles\MULTI BIM SOLDER\FEMALE_4P_24S_4P_VERT.pcb
+

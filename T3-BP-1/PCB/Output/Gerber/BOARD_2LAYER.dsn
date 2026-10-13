@@ -1,0 +1,84 @@
+{Program	Expedition GerbTool(tm)
+	{Version	8.1.2 X1}
+	{Created	Thu Jan 01 19:12:07 2015}
+}
+{Environment
+	{ViewMetric	Yes}
+}
+{Layers
+	{Layer  1
+		{File		Silktop.gdo}
+		{LyrName	Silktop}
+		{Visibility	On}
+		{Type		Other}
+		{Ftype		Gerber}
+	}
+	{Layer  2
+		{File		Silkbottom.gdo}
+		{LyrName	Silkbottom}
+		{Visibility	Off}
+		{Type		Other}
+		{Ftype		Gerber}
+	}
+	{Layer  3
+		{File		Pastetop.gdo}
+		{LyrName	Pastetop}
+		{Visibility	Off}
+		{Type		Other}
+		{Ftype		Gerber}
+	}
+	{Layer  4
+		{File		Pastebottom.gdo}
+		{LyrName	Pastebottom}
+		{Visibility	Off}
+		{Type		Other}
+		{Ftype		Gerber}
+	}
+	{Layer  5
+		{File		Masktop .gdo}
+		{LyrName	Masktop }
+		{Visibility	Off}
+		{Type		Other}
+		{Ftype		Gerber}
+	}
+	{Layer  6
+		{File		Maskbottom .gdo}
+		{LyrName	Maskbottom }
+		{Visibility	Off}
+		{Type		Other}
+		{Ftype		Gerber}
+	}
+	{Layer  7
+		{File		Layer 2.gdo}
+		{LyrName	Layer 2}
+		{Visibility	Off}
+		{Type		Bottom}
+		{Ftype		Gerber}
+	}
+	{Layer  8
+		{File		Layer 1.gdo}
+		{LyrName	Layer 1}
+		{Visibility	Off}
+		{Type		Top}
+		{Ftype		Gerber}
+	}
+	{Layer  9
+		{File		Board Outline.gdo}
+		{LyrName	Board Outline}
+		{Visibility	Off}
+		{Type		Other}
+		{Ftype		Gerber}
+	}
+}
+{Format Gerber
+	{Dialect		RS274X}
+	{m.n			2.6}
+	{Mode			Absolute}
+	{ZeroSuppression	Leading}
+	{Terminator		0x2a, 0xd, 0xa}
+	{Metric			No}
+	{Modal			Yes}
+	{CharSet		ASCII}
+	{Arcs360		No}
+	{ArcsModal		Yes}
+}

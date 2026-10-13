@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                         11:11 AM Thursday, May 23, 2013
+           Job Name: D:\lib dx\Work\CellEditorFiles\EKRAN\2,5x1,7.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                         11:12 AM Thursday, May 23, 2013
+           Job Name: D:\lib dx\Work\CellEditorFiles\EKRAN\2,5x1,7.pcb
+

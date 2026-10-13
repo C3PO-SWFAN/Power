@@ -1,0 +1,189 @@
+
+                 Expedition PCB Design Data to PartsDatabase Log
+                 -----------------------------------------------
+
+                      05:28 PM Tuesday, September 17, 2013
+                                   Job Name: 
+
+Replacing 'D:\lib dx\Work\PartsDBLibs\data file.pdb'.
+
+Design Data PDB     : D:\TEXT AKU2 2013\бепеяемэ 2013\17.09.2013-17.00\ANT_PADS.hkp
+PDB                 : D:\lib dx\Work\PartsDBLibs\data file.pdb
+Central Library     : D:\lib dx\Work\data file.lmc
+Common Property File: D:\lib dx\Work\CentLib.prp
+
+Error: Bad constant value <PADSTACK_LIBRARY>
+   in keyword <.FILETYPE> at line # 1
+Error: Expected <1> arguments
+   in keyword <.FILETYPE> above line # 1
+Error: Unknown keyword <.SCHEMA_VERSION> at line # 3
+Error: Bad constant value <.PAD>
+   in keyword <.UNITS> at line # 9
+Error: Unexpected string <"Rectangle 0.6x1">
+   in keyword <.UNITS> at line # 9
+Error: Bad constant value <..RECTANGLE>
+   in keyword <.UNITS> at line # 10
+Error: Bad constant value <...WIDTH>
+   in keyword <.UNITS> at line # 11
+Error: Unexpected double <0.6>
+   n keyword <.UNITS> at line # 11
+Error: Bad constant value <...HEIGHT>
+   in keyword <.UNITS> at line # 12
+Error: Unexpected int <1>
+   in keyword <.UNITS> at line # 12
+Error: Bad constant value <..TIMESTAMP>
+   in keyword <.UNITS> at line # 13
+Error: Unexpected string <"2013/09/13@17:36:22">
+   in keyword <.UNITS> at line # 13
+Error: Bad constant value <..PAD_OPTIONS>
+   in keyword <.UNITS> at line # 14
+Error: Bad constant value <AUTO_GENERATED_NAME>
+   in keyword <.UNITS> at line # 14
+Error: Bad constant value <..OFFSET>
+   in keyword <.UNITS> at line # 15
+Error: Unexpected int <0>
+   in keyword <.UNITS> at line # 15
+Error: Unexpected int <0>
+   in keyword <.UNITS> at line # 15
+Error: Bad constant value <.PAD>
+   in keyword <.UNITS> at line # 17
+Error: Unexpected string <"Rectangle 0.45x0.76">
+   in keyword <.UNITS> at line # 17
+Error: Bad constant value <..RECTANGLE>
+   in keyword <.UNITS> at line # 18
+Error: Bad constant value <...WIDTH>
+   in keyword <.UNITS> at line # 19
+Error: Unexpected double <0.45>
+   n keyword <.UNITS> at line # 19
+Error: Bad constant value <...HEIGHT>
+   in keyword <.UNITS> at line # 20
+Error: Unexpected double <0.76>
+   n keyword <.UNITS> at line # 20
+Error: Bad constant value <..TIMESTAMP>
+   in keyword <.UNITS> at line # 21
+Error: Unexpected string <"2013/09/13@17:55:02">
+   in keyword <.UNITS> at line # 21
+Error: Bad constant value <..PAD_OPTIONS>
+   in keyword <.UNITS> at line # 22
+Error: Bad constant value <AUTO_GENERATED_NAME>
+   in keyword <.UNITS> at line # 22
+Error: Bad constant value <..OFFSET>
+   in keyword <.UNITS> at line # 23
+Error: Unexpected int <0>
+   in keyword <.UNITS> at line # 23
+Error: Unexpected int <0>
+   in keyword <.UNITS> at line # 23
+Error: Bad constant value <.PAD>
+   in keyword <.UNITS> at line # 25
+Error: Unexpected string <"Rectangle 2,4x2,4">
+   in keyword <.UNITS> at line # 25
+Error: Bad constant value <..RECTANGLE>
+   in keyword <.UNITS> at line # 26
+Error: Bad constant value <...WIDTH>
+   in keyword <.UNITS> at line # 27
+Error: Unexpected double <2.4>
+   n keyword <.UNITS> at line # 27
+Error: Bad constant value <...HEIGHT>
+   in keyword <.UNITS> at line # 28
+Error: Unexpected double <2.4>
+   n keyword <.UNITS> at line # 28
+Error: Bad constant value <..TIMESTAMP>
+   in keyword <.UNITS> at line # 29
+Error: Unexpected string <"2013/09/17@10:24:25">
+   in keyword <.UNITS> at line # 29
+Error: Bad constant value <..PAD_OPTIONS>
+   in keyword <.UNITS> at line # 30
+Error: Bad constant value <USER_GENERATED_NAME>
+   in keyword <.UNITS> at line # 30
+Error: Bad constant value <..OFFSET>
+   in keyword <.UNITS> at line # 31
+Error: Unexpected int <0>
+   in keyword <.UNITS> at line # 31
+Error: Unexpected int <0>
+   in keyword <.UNITS> at line # 31
+Error: Bad constant value <.PAD>
+   in keyword <.UNITS> at line # 33
+Error: Unexpected string <"Rectangle 2,6x2,6">
+   in keyword <.UNITS> at line # 33
+Error: Bad constant value <..RECTANGLE>
+   in keyword <.UNITS> at line # 34
+Error: Bad constant value <...WIDTH>
+   in keyword <.UNITS> at line # 35
+Error: Unexpected double <2.6>
+   n keyword <.UNITS> at line # 35
+Error: Bad constant value <...HEIGHT>
+   in keyword <.UNITS> at line # 36
+Error: Unexpected double <2.6>
+   n keyword <.UNITS> at line # 36
+Error: Bad constant value <..TIMESTAMP>
+   in keyword <.UNITS> at line # 37
+Error: Unexpected string <"2013/09/17@10:24:16">
+   in keyword <.UNITS> at line # 37
+Error: Bad constant value <..PAD_OPTIONS>
+   in keyword <.UNITS> at line # 38
+Error: Bad constant value <USER_GENERATED_NAME>
+   in keyword <.UNITS> at line # 38
+Error: Bad constant value <..OFFSET>
+   in keyword <.UNITS> at line # 39
+Error: Unexpected int <0>
+   in keyword <.UNITS> at line # 39
+Error: Unexpected int <0>
+   in keyword <.UNITS> at line # 39
+Error: Bad constant value <.PAD>
+   in keyword <.UNITS> at line # 41
+Error: Unexpected string <"Rectangle 5,2x2,4">
+   in keyword <.UNITS> at line # 41
+Error: Bad constant value <..RECTANGLE>
+   in keyword <.UNITS> at line # 42
+Error: Bad constant value <...WIDTH>
+   in keyword <.UNITS> at line # 43
+Error: Unexpected double <5.2>
+   n keyword <.UNITS> at line # 43
+Error: Bad constant value <...HEIGHT>
+   in keyword <.UNITS> at line # 44
+Error: Unexpected double <2.4>
+   n keyword <.UNITS> at line # 44
+Error: Bad constant value <..TIMESTAMP>
+   in keyword <.UNITS> at line # 45
+Error: Unexpected string <"2013/09/17@10:24:43">
+   in keyword <.UNITS> at line # 45
+Error: Bad constant value <..PAD_OPTIONS>
+   in keyword <.UNITS> at line # 46
+Error: Bad constant value <USER_GENERATED_NAME>
+   in keyword <.UNITS> at line # 46
+Error: Bad constant value <..OFFSET>
+   in keyword <.UNITS> at line # 47
+Error: Unexpected int <0>
+   in keyword <.UNITS> at line # 47
+Error: Unexpected int <0>
+   in keyword <.UNITS> at line # 47
+Error: Bad constant value <.PAD>
+   in keyword <.UNITS> at line # 49
+Error: Unexpected string <"Rectangle 5,5x2,6">
+   in keyword <.UNITS> at line # 49
+Error: Bad constant value <..RECTANGLE>
+   in keyword <.UNITS> at line # 50
+Error: Bad constant value <...WIDTH>
+   in keyword <.UNITS> at line # 51
+Error: Unexpected double <5.5>
+   n keyword <.UNITS> at line # 51
+Error: Bad constant value <...HEIGHT>
+   in keyword <.UNITS> at line # 52
+Error: Unexpected double <2.6>
+   n keyword <.UNITS> at line # 52
+Error: Bad constant value <..TIMESTAMP>
+   in keyword <.UNITS> at line # 53
+Error: Unexpected string <"2013/09/17@10:24:53">
+   in keyword <.UNITS> at line # 53
+Error: Bad constant value <..PAD_OPTIONS>
+   in keyword <.UNITS> at line # 54
+Error: Bad constant value <USER_GENERATED_NAME>
+   in keyword <.UNITS> at line # 54
+Error: Bad constant value <..OFFSET>
+   in keyword <.UNITS> at line # 55
+Error: Unexpected int <0>
+   in keyword <.UNITS> at line # 55
+Error: Unexpected int <0>
+   in keyword <.UNITS> at line # 55
+
+ERROR:  Design Data PDB filetype not found.

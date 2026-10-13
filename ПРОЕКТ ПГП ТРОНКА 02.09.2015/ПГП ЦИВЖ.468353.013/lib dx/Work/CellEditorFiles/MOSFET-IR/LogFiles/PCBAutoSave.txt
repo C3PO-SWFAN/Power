@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                       12:05 PM Monday, February 10, 2014
+        Job Name: D:\lib dx\Work\CellEditorFiles\MOSFET-IR\IRF6718L2.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                       12:06 PM Monday, February 10, 2014
+        Job Name: D:\lib dx\Work\CellEditorFiles\MOSFET-IR\IRF6718L2.pcb
+

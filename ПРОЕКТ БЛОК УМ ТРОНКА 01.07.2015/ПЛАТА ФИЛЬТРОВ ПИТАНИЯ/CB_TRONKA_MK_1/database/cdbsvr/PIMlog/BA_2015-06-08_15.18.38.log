@@ -1,0 +1,222 @@
+--------------------------------------------------------------------------------
+ Project integration - START (2015-06-08 15:18:38) 
+--------------------------------------------------------------------------------
+FE snapshot name: DxD
+BE snapshot name: Board1_layout_temp
+Top level block: (2-1-5)
+Parameters: BAConnectivity,BAConstraints,FEWin,
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+ Connection synchronization - START (2015-06-08 15:18:38) 
+--------------------------------------------------------------------------------
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIN-41612-48-V-POWER.1,(374-1-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,R-SXEM-1.1,(385-1-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,R-SXEM-1.1,(403-1-8)]
+	Property: Cell Name, Operation: Change
+[Skipped][Modification] - [BE->FE] [O: FlatComp,,(439-1-8)]
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIODE-SXEM-1.1,(471-1-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIODE-SXEM-1.1,(513-1-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,TEST-POINTS-4.1,(543-1-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,SVETODIODE_1A_2K.1,(553-1-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,7914G.1,(568-1-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,R-SXEM-1.1,(570-1-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,SVETODIODE_1A_2K.1,(580-1-8)]
+	Property: Cell Name, Operation: Change
+[Skipped][Modification] - [BE->FE] [O: FlatComp,,(631-1-8)]
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,MICRO_FIT_18.1,(762-1-8)]
+	Property: Cell Name, Operation: Change
+[Skipped][Modification] - [BE->FE] [O: FlatComp,,(781-1-8)]
+[Skipped][Modification] - [BE->FE] [O: FlatComp,,(439-2-8)]
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,R-SXEM-1.1,(537-2-8)]
+	Property: Cell Name, Operation: Change
+[Skipped][Modification] - [BE->FE] [O: FlatComp,,(631-2-8)]
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,R-SXEM-1.1,(670-2-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,MICRO_FIT_12.1,(762-2-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,M80-18.1,(781-2-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,R-SXEM-1.1,(403-3-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,C-SXEM-1.1,(427-3-8)]
+	Property: Cell Name, Operation: Change
+[Skipped][Modification] - [BE->FE] [O: FlatComp,,(439-3-8)]
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,R-SXEM-1.1,(537-3-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,PLS-2.1,(553-3-8)]
+	Property: Cell Name, Operation: Change
+[Skipped][Modification] - [BE->FE] [O: FlatComp,,(631-3-8)]
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,MICRO_FIT_6.1,(762-3-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,R-SXEM-1.1,(537-4-8)]
+	Property: Cell Name, Operation: Change
+[Skipped][Modification] - [BE->FE] [O: FlatComp,,(631-4-8)]
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,R-SXEM-1.1,(670-4-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,R-SXEM-1.1,(403-5-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,R-SXEM-1.1,(537-5-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,C-SXEM-1.1,(553-5-8)]
+	Property: Cell Name, Operation: Change
+[Skipped][Modification] - [BE->FE] [O: FlatComp,,(631-5-8)]
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,MICRO_FIT_8.1,(762-5-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,R-SXEM-1.1,(403-6-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,R-SXEM-1.1,(549-6-8)]
+	Property: Cell Name, Operation: Change
+[Skipped][Modification] - [BE->FE] [O: FlatComp,,(631-6-8)]
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,R-SXEM-1.1,(427-7-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,R-SXEM-1.1,(631-7-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,R-SXEM-1.1,(403-8-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,L-SXEM-K-1.1,(427-8-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,R-SXEM-1.1,(549-8-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,R-SXEM-1.1,(631-8-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,R-SXEM-1.1,(401-9-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,R-SXEM-1.1,(403-9-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,TEST-POINTS-4.1,(439-9-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,R-SXEM-1.1,(549-9-8)]
+	Property: Cell Name, Operation: Change
+[Skipped][Modification] - [BE->FE] [O: FlatComp,,(631-9-8)]
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,TEST-POINTS-4.1,(439-10-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,R-SXEM-1.1,(631-10-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,R-SXEM-1.1,(403-11-8)]
+	Property: Cell Name, Operation: Change
+[Skipped][Modification] - [BE->FE] [O: FlatComp,,(439-11-8)]
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,PLD-34.1,(465-11-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,R-SXEM-1.1,(631-11-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,R-SXEM-1.1,(403-12-8)]
+	Property: Cell Name, Operation: Change
+[Skipped][Modification] - [BE->FE] [O: FlatComp,,(439-12-8)]
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,R-SXEM-1.1,(465-12-8)]
+	Property: Cell Name, Operation: Change
+[Skipped][Modification] - [BE->FE] [O: FlatComp,,(631-12-8)]
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,R-SXEM-1.1,(427-13-8)]
+	Property: Cell Name, Operation: Change
+[Skipped][Modification] - [BE->FE] [O: FlatComp,,(439-13-8)]
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,R-SXEM-1.1,(465-13-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,SFR0905.1,(631-13-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,R-SXEM-1.1,(403-14-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,R-SXEM-1.1,(465-14-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,R-SXEM-1.1,(403-15-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,R-SXEM-1.1,(465-15-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,R-SXEM-1.1,(465-16-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,R-SXEM-1.1,(465-17-8)]
+	Property: Cell Name, Operation: Change
+[Skipped][Modification] - [BE->FE] [O: FlatComp,,(401-18-8)]
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,TEST-POINTS-4.1,(401-32-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,R-SXEM-1.1,(429-34-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,C-SXEM-1.1,(401-43-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,R-SXEM-1.1,(385-44-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,R-SXEM-1.1,(385-46-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,R-SXEM-1.1,(385-48-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,R-SXEM-1.1,(385-50-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,R-SXEM-1.1,(385-52-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,R-SXEM-1.1,(385-54-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,R-SXEM-1.1,(385-58-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,R-SXEM-1.1,(385-60-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,R-SXEM-1.1,(385-62-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,R-SXEM-1.1,(385-64-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,R-SXEM-1.1,(385-66-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,R-SXEM-1.1,(385-68-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,R-SXEM-1.1,(385-70-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,R-SXEM-1.1,(385-72-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,R-SXEM-1.1,(385-74-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,R-SXEM-1.1,(385-76-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,R-SXEM-1.1,(385-78-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,R-SXEM-1.1,(385-80-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,R-SXEM-1.1,(385-82-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,R-SXEM-1.1,(385-86-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,R-SXEM-1.1,(385-88-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,R-SXEM-1.1,(385-90-8)]
+	Property: Cell Name, Operation: Change
+--------------------------------------------------------------------------------
+ Connection synchronization - END (2015-06-08 15:18:38) 
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+ CES synchronization - START (2015-06-08 15:18:38) 
+--------------------------------------------------------------------------------
+[Ok][Modification] - [BE->FE] [P: CesDesign,CesDesign,(2-1-21)] [O: CesLayer,SIGNAL_1,(10-2-23)]
+[Ok][Modification] - [BE->FE] [P: CesDesign,CesDesign,(2-1-21)] [O: CesLayer,SIGNAL_2,(10-8-23)]
+
+--------------------------------------------------------------------------------
+ TOPOLOGY synchronization - START (2015-06-08 15:18:38) 
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+ TOPOLOGY synchronization - END (2015-06-08 15:18:38) 
+--------------------------------------------------------------------------------
+[Ok][Modification] - [BE->FE] [P: CesLayer,SIGNAL_1,(10-2-23)] [O: CesConstraint,LAYER_USAGE,(10-31-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayer,SIGNAL_2,(10-8-23)] [O: CesConstraint,LAYER_USAGE,(10-140-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,SIGNAL_1,(10-2-23)] [O: CesConstraint,PLANE_TYPE,(801-1-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,SIGNAL_1,(10-2-23)] [O: CesConstraint,PLANE_NETS,(801-2-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,SIGNAL_1,(10-2-23)] [O: CesConstraint,PNET_CLEARANCES,(801-3-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,SIGNAL_1,(10-2-23)] [O: CesConstraint,PNET_UBORDERS,(801-4-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,SIGNAL_2,(10-8-23)] [O: CesConstraint,PLANE_TYPE,(801-5-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,SIGNAL_2,(10-8-23)] [O: CesConstraint,PLANE_NETS,(801-6-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,SIGNAL_2,(10-8-23)] [O: CesConstraint,PNET_CLEARANCES,(801-7-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,SIGNAL_2,(10-8-23)] [O: CesConstraint,PNET_UBORDERS,(801-8-22)]
+--------------------------------------------------------------------------------
+ CES synchronization - END (2015-06-08 15:18:38) 
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+ VMVariant synchronization - START (2015-06-08 15:18:38) 
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+ VMVariant synchronization - END (2015-06-08 15:18:38) 
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+ Project integration - END (2015-06-08 15:18:38) 
+--------------------------------------------------------------------------------

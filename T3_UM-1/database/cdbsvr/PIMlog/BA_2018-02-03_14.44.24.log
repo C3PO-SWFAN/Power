@@ -1,0 +1,119 @@
+--------------------------------------------------------------------------------
+ Project integration - START (2018-02-03 14:44:24) 
+--------------------------------------------------------------------------------
+FE snapshot name: DxD
+BE snapshot name: Board1_layout_temp
+Top level block: (2-1-5)
+Parameters: BAConnectivity,BAConstraints,FEWin,
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+ Connection synchronization - START (2018-02-03 14:44:24) 
+--------------------------------------------------------------------------------
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,R-SXEM-1.1,(2-3-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,R-SXEM-1.1,(2-4-8)]
+	Property: Cell Name, Operation: Change
+--------------------------------------------------------------------------------
+ Connection synchronization - END (2018-02-03 14:44:24) 
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+ CES synchronization - START (2018-02-03 14:44:24) 
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+ TOPOLOGY synchronization - START (2018-02-03 14:44:24) 
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+ TOPOLOGY synchronization - END (2018-02-03 14:44:24) 
+--------------------------------------------------------------------------------
+[Ok][Modification] - [BE->FE] [P: CesLayer,SIGNAL_1,(12-2-23)] [O: CesConstraint,HEIGHT,(12-32-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayer,SIGNAL_1,(12-2-23)] [O: CesConstraint,BULK_RES,(12-33-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayer,SIGNAL_2,(12-4-23)] [O: CesConstraint,HEIGHT,(12-68-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayer,SIGNAL_2,(12-4-23)] [O: CesConstraint,BULK_RES,(12-69-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayer,SIGNAL_3,(12-6-23)] [O: CesConstraint,HEIGHT,(12-105-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayer,SIGNAL_3,(12-6-23)] [O: CesConstraint,BULK_RES,(12-106-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayer,SIGNAL_4,(12-8-23)] [O: CesConstraint,HEIGHT,(12-141-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayer,SIGNAL_4,(12-8-23)] [O: CesConstraint,BULK_RES,(12-142-22)]
+[Ok][Addition] - [BE->FE] [P: CesSchemeClearRule,(Default Rule),(2-1-41)] [O: CesConstraint,TRACE_TO_TRACE,(25-1-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayerClearRule,CesLayerClearRule,(12-1-42)] [O: CesConstraint,TRACE_TO_TRACE,(25-2-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayerClearRule,CesLayerClearRule,(12-3-42)] [O: CesConstraint,TRACE_TO_TRACE,(25-3-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayerClearRule,CesLayerClearRule,(12-5-42)] [O: CesConstraint,TRACE_TO_TRACE,(25-4-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayerClearRule,CesLayerClearRule,(12-7-42)] [O: CesConstraint,TRACE_TO_TRACE,(25-5-22)]
+[Ok][Addition] - [BE->FE] [P: CesSchemeClearRule,(Default Rule),(2-1-41)] [O: CesConstraint,TRACE_TO_PAD,(25-6-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayerClearRule,CesLayerClearRule,(12-1-42)] [O: CesConstraint,TRACE_TO_PAD,(25-7-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayerClearRule,CesLayerClearRule,(12-3-42)] [O: CesConstraint,TRACE_TO_PAD,(25-8-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayerClearRule,CesLayerClearRule,(12-5-42)] [O: CesConstraint,TRACE_TO_PAD,(25-9-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayerClearRule,CesLayerClearRule,(12-7-42)] [O: CesConstraint,TRACE_TO_PAD,(25-10-22)]
+[Ok][Addition] - [BE->FE] [P: CesSchemeClearRule,(Default Rule),(2-1-41)] [O: CesConstraint,TRACE_TO_VIA,(25-11-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayerClearRule,CesLayerClearRule,(12-1-42)] [O: CesConstraint,TRACE_TO_VIA,(25-12-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayerClearRule,CesLayerClearRule,(12-3-42)] [O: CesConstraint,TRACE_TO_VIA,(25-13-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayerClearRule,CesLayerClearRule,(12-5-42)] [O: CesConstraint,TRACE_TO_VIA,(25-14-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayerClearRule,CesLayerClearRule,(12-7-42)] [O: CesConstraint,TRACE_TO_VIA,(25-15-22)]
+[Ok][Addition] - [BE->FE] [P: CesSchemeClearRule,(Default Rule),(2-1-41)] [O: CesConstraint,TRACE_TO_PLANE,(25-16-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayerClearRule,CesLayerClearRule,(12-1-42)] [O: CesConstraint,TRACE_TO_PLANE,(25-17-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayerClearRule,CesLayerClearRule,(12-3-42)] [O: CesConstraint,TRACE_TO_PLANE,(25-18-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayerClearRule,CesLayerClearRule,(12-5-42)] [O: CesConstraint,TRACE_TO_PLANE,(25-19-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayerClearRule,CesLayerClearRule,(12-7-42)] [O: CesConstraint,TRACE_TO_PLANE,(25-20-22)]
+[Ok][Addition] - [BE->FE] [P: CesSchemeClearRule,(Default Rule),(2-1-41)] [O: CesConstraint,SMDPAD_TO_TRACE,(25-21-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayerClearRule,CesLayerClearRule,(12-1-42)] [O: CesConstraint,SMDPAD_TO_TRACE,(25-22-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayerClearRule,CesLayerClearRule,(12-3-42)] [O: CesConstraint,SMDPAD_TO_TRACE,(25-23-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayerClearRule,CesLayerClearRule,(12-5-42)] [O: CesConstraint,SMDPAD_TO_TRACE,(25-24-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayerClearRule,CesLayerClearRule,(12-7-42)] [O: CesConstraint,SMDPAD_TO_TRACE,(25-25-22)]
+[Ok][Addition] - [BE->FE] [P: CesSchemeClearRule,(Default Rule),(2-1-41)] [O: CesConstraint,PAD_TO_PAD,(25-26-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayerClearRule,CesLayerClearRule,(12-1-42)] [O: CesConstraint,PAD_TO_PAD,(25-27-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayerClearRule,CesLayerClearRule,(12-3-42)] [O: CesConstraint,PAD_TO_PAD,(25-28-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayerClearRule,CesLayerClearRule,(12-5-42)] [O: CesConstraint,PAD_TO_PAD,(25-29-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayerClearRule,CesLayerClearRule,(12-7-42)] [O: CesConstraint,PAD_TO_PAD,(25-30-22)]
+[Ok][Addition] - [BE->FE] [P: CesSchemeClearRule,(Default Rule),(2-1-41)] [O: CesConstraint,PAD_TO_VIA,(25-31-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayerClearRule,CesLayerClearRule,(12-1-42)] [O: CesConstraint,PAD_TO_VIA,(25-32-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayerClearRule,CesLayerClearRule,(12-3-42)] [O: CesConstraint,PAD_TO_VIA,(25-33-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayerClearRule,CesLayerClearRule,(12-5-42)] [O: CesConstraint,PAD_TO_VIA,(25-34-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayerClearRule,CesLayerClearRule,(12-7-42)] [O: CesConstraint,PAD_TO_VIA,(25-35-22)]
+[Ok][Addition] - [BE->FE] [P: CesSchemeClearRule,(Default Rule),(2-1-41)] [O: CesConstraint,PAD_TO_PLANE,(25-36-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayerClearRule,CesLayerClearRule,(12-1-42)] [O: CesConstraint,PAD_TO_PLANE,(25-37-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayerClearRule,CesLayerClearRule,(12-3-42)] [O: CesConstraint,PAD_TO_PLANE,(25-38-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayerClearRule,CesLayerClearRule,(12-5-42)] [O: CesConstraint,PAD_TO_PLANE,(25-39-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayerClearRule,CesLayerClearRule,(12-7-42)] [O: CesConstraint,PAD_TO_PLANE,(25-40-22)]
+[Ok][Addition] - [BE->FE] [P: CesSchemeClearRule,(Default Rule),(2-1-41)] [O: CesConstraint,VIA_TO_VIA,(25-41-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayerClearRule,CesLayerClearRule,(12-1-42)] [O: CesConstraint,VIA_TO_VIA,(25-42-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayerClearRule,CesLayerClearRule,(12-3-42)] [O: CesConstraint,VIA_TO_VIA,(25-43-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayerClearRule,CesLayerClearRule,(12-5-42)] [O: CesConstraint,VIA_TO_VIA,(25-44-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayerClearRule,CesLayerClearRule,(12-7-42)] [O: CesConstraint,VIA_TO_VIA,(25-45-22)]
+[Ok][Addition] - [BE->FE] [P: CesSchemeClearRule,(Default Rule),(2-1-41)] [O: CesConstraint,VIA_TO_PLANE,(25-46-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayerClearRule,CesLayerClearRule,(12-1-42)] [O: CesConstraint,VIA_TO_PLANE,(25-47-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayerClearRule,CesLayerClearRule,(12-3-42)] [O: CesConstraint,VIA_TO_PLANE,(25-48-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayerClearRule,CesLayerClearRule,(12-5-42)] [O: CesConstraint,VIA_TO_PLANE,(25-49-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayerClearRule,CesLayerClearRule,(12-7-42)] [O: CesConstraint,VIA_TO_PLANE,(25-50-22)]
+[Ok][Addition] - [BE->FE] [P: CesSchemeClearRule,(Default Rule),(2-1-41)] [O: CesConstraint,SMDPAD_TO_VIA,(25-51-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayerClearRule,CesLayerClearRule,(12-1-42)] [O: CesConstraint,SMDPAD_TO_VIA,(25-52-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayerClearRule,CesLayerClearRule,(12-3-42)] [O: CesConstraint,SMDPAD_TO_VIA,(25-53-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayerClearRule,CesLayerClearRule,(12-5-42)] [O: CesConstraint,SMDPAD_TO_VIA,(25-54-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayerClearRule,CesLayerClearRule,(12-7-42)] [O: CesConstraint,SMDPAD_TO_VIA,(25-55-22)]
+[Ok][Addition] - [BE->FE] [P: CesSchemeClearRule,(Default Rule),(2-1-41)] [O: CesConstraint,PLANE_TO_PLANE,(25-56-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayerClearRule,CesLayerClearRule,(12-1-42)] [O: CesConstraint,PLANE_TO_PLANE,(25-57-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayerClearRule,CesLayerClearRule,(12-3-42)] [O: CesConstraint,PLANE_TO_PLANE,(25-58-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayerClearRule,CesLayerClearRule,(12-5-42)] [O: CesConstraint,PLANE_TO_PLANE,(25-59-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayerClearRule,CesLayerClearRule,(12-7-42)] [O: CesConstraint,PLANE_TO_PLANE,(25-60-22)]
+[Ok][Addition] - [BE->FE] [P: CesSchemeNetClassRule,(Default),(2-1-38)] [O: CesConstraint,MIN_TRACE_WIDTH,(25-61-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayerRule,CesLayerRule,(12-1-40)] [O: CesConstraint,MIN_TRACE_WIDTH,(25-62-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayerRule,CesLayerRule,(12-3-40)] [O: CesConstraint,MIN_TRACE_WIDTH,(25-63-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayerRule,CesLayerRule,(12-5-40)] [O: CesConstraint,MIN_TRACE_WIDTH,(25-64-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayerRule,CesLayerRule,(12-7-40)] [O: CesConstraint,MIN_TRACE_WIDTH,(25-65-22)]
+[Ok][Addition] - [BE->FE] [P: CesSchemeNetClassRule,(Default),(2-1-38)] [O: CesConstraint,EXP_TRACE_WIDTH,(25-66-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayerRule,CesLayerRule,(12-1-40)] [O: CesConstraint,EXP_TRACE_WIDTH,(25-67-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayerRule,CesLayerRule,(12-3-40)] [O: CesConstraint,EXP_TRACE_WIDTH,(25-68-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayerRule,CesLayerRule,(12-5-40)] [O: CesConstraint,EXP_TRACE_WIDTH,(25-69-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayerRule,CesLayerRule,(12-7-40)] [O: CesConstraint,EXP_TRACE_WIDTH,(25-70-22)]
+[Skipped][Addition] - [BE->FE] [P: CesViaAssign,Through,(12-2-39)] [O: CesConstraint,NET_CLASS_VIA,(76-3-22)]
+--------------------------------------------------------------------------------
+ CES synchronization - END (2018-02-03 14:44:24) 
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+ VMVariant synchronization - START (2018-02-03 14:44:24) 
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+ VMVariant synchronization - END (2018-02-03 14:44:24) 
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+ Project integration - END (2018-02-03 14:44:24) 
+--------------------------------------------------------------------------------

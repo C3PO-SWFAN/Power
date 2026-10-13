@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                         04:26 PM Friday, June 14, 2013
+      Job Name: D:\lib dx\Work\CellEditorFiles\ATMEL\8MA2-UDFN-8-ATMEL.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                         04:30 PM Friday, June 14, 2013
+      Job Name: D:\lib dx\Work\CellEditorFiles\ATMEL\8MA2-UDFN-8-ATMEL.pcb
+
